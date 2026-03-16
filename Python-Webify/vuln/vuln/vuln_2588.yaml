@@ -1,0 +1,9 @@
+name: Team-oriented interactive framework
+payloads:
+- nosql-injection_payload_1_difference
+- nosql-injection_payload_2_eat
+- nosql-injection_payload_3_them
+- nosql-injection_payload_4_carry
+- nosql-injection_payload_5_play
+severity: medium
+type: nosql-injection

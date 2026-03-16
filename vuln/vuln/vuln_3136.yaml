@@ -1,0 +1,9 @@
+name: Profit-focused content-based methodology
+payloads:
+- xxe_payload_1_like
+- xxe_payload_2_which
+- xxe_payload_3_skin
+- xxe_payload_4_indicate
+- xxe_payload_5_rule
+severity: high
+type: xxe

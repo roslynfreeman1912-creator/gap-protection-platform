@@ -1,0 +1,9 @@
+name: Customer-focused national task-force
+payloads:
+- tabnabbing_payload_1_poor
+- tabnabbing_payload_2_opportunity
+- tabnabbing_payload_3_when
+- tabnabbing_payload_4_bit
+- tabnabbing_payload_5_measure
+severity: medium
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Expanded national circuit
+payloads:
+- crlf-injection_payload_1_need
+- crlf-injection_payload_2_again
+- crlf-injection_payload_3_run
+- crlf-injection_payload_4_box
+- crlf-injection_payload_5_picture
+severity: medium
+type: crlf-injection

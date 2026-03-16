@@ -1,0 +1,9 @@
+name: De-engineered client-server throughput
+payloads:
+- mime-sniffing_payload_1_plan
+- mime-sniffing_payload_2_she
+- mime-sniffing_payload_3_new
+- mime-sniffing_payload_4_time
+- mime-sniffing_payload_5_describe
+severity: medium
+type: mime-sniffing

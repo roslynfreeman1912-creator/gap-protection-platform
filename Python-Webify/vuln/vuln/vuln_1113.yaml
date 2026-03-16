@@ -1,0 +1,9 @@
+name: Switchable global knowledgebase
+payloads:
+- nosql-injection_payload_1_deal
+- nosql-injection_payload_2_guy
+- nosql-injection_payload_3_visit
+- nosql-injection_payload_4_simple
+- nosql-injection_payload_5_ground
+severity: low
+type: nosql-injection

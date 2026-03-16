@@ -1,0 +1,9 @@
+name: Diverse 4thgeneration moratorium
+payloads:
+- subdomain-takeover_payload_1_real
+- subdomain-takeover_payload_2_people
+- subdomain-takeover_payload_3_despite
+- subdomain-takeover_payload_4_deep
+- subdomain-takeover_payload_5_way
+severity: high
+type: subdomain-takeover

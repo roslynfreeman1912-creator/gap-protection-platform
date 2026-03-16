@@ -1,0 +1,9 @@
+name: Fundamental executive productivity
+payloads:
+- subdomain-takeover_payload_1_team
+- subdomain-takeover_payload_2_sport
+- subdomain-takeover_payload_3_politics
+- subdomain-takeover_payload_4_head
+- subdomain-takeover_payload_5_through
+severity: high
+type: subdomain-takeover

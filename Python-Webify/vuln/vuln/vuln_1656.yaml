@@ -1,0 +1,9 @@
+name: Customer-focused homogeneous application
+payloads:
+- csrf_payload_1_pattern
+- csrf_payload_2_eye
+- csrf_payload_3_film
+- csrf_payload_4_quickly
+- csrf_payload_5_perhaps
+severity: low
+type: csrf

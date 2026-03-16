@@ -1,0 +1,9 @@
+name: Assimilated system-worthy array
+payloads:
+- jsonp-injection_payload_1_peace
+- jsonp-injection_payload_2_attack
+- jsonp-injection_payload_3_person
+- jsonp-injection_payload_4_forward
+- jsonp-injection_payload_5_service
+severity: critical
+type: jsonp-injection

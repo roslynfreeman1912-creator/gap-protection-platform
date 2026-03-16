@@ -1,0 +1,9 @@
+name: Implemented intermediate secured line
+payloads:
+- jsonp-injection_payload_1_national
+- jsonp-injection_payload_2_recognize
+- jsonp-injection_payload_3_foreign
+- jsonp-injection_payload_4_actually
+- jsonp-injection_payload_5_religious
+severity: medium
+type: jsonp-injection

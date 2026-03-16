@@ -1,0 +1,9 @@
+name: User-centric global orchestration
+payloads:
+- tabnabbing_payload_1_change
+- tabnabbing_payload_2_investment
+- tabnabbing_payload_3_citizen
+- tabnabbing_payload_4_item
+- tabnabbing_payload_5_fire
+severity: critical
+type: tabnabbing

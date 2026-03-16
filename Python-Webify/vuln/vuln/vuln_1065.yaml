@@ -1,0 +1,9 @@
+name: Compatible eco-centric time-frame
+payloads:
+- jsonp-injection_payload_1_movement
+- jsonp-injection_payload_2_management
+- jsonp-injection_payload_3_do
+- jsonp-injection_payload_4_say
+- jsonp-injection_payload_5_commercial
+severity: critical
+type: jsonp-injection

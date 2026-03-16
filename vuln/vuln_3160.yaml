@@ -1,0 +1,9 @@
+name: Managed zero-defect hub
+payloads:
+- open-redirect_payload_1_international
+- open-redirect_payload_2_federal
+- open-redirect_payload_3_better
+- open-redirect_payload_4_good
+- open-redirect_payload_5_cut
+severity: low
+type: open-redirect

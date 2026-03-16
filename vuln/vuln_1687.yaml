@@ -1,0 +1,9 @@
+name: Mandatory high-level emulation
+payloads:
+- ldap-injection_payload_1_forget
+- ldap-injection_payload_2_television
+- ldap-injection_payload_3_seven
+- ldap-injection_payload_4_then
+- ldap-injection_payload_5_other
+severity: medium
+type: ldap-injection

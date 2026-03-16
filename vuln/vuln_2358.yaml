@@ -1,0 +1,9 @@
+name: Operative impactful monitoring
+payloads:
+- command-injection_payload_1_few
+- command-injection_payload_2_friend
+- command-injection_payload_3_deal
+- command-injection_payload_4_cut
+- command-injection_payload_5_establish
+severity: critical
+type: command-injection

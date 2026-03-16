@@ -1,0 +1,9 @@
+name: Fully-configurable optimizing attitude
+payloads:
+- clickjacking_payload_1_system
+- clickjacking_payload_2_Mrs
+- clickjacking_payload_3_join
+- clickjacking_payload_4_prevent
+- clickjacking_payload_5_over
+severity: critical
+type: clickjacking

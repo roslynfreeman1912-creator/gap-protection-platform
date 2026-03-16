@@ -1,0 +1,9 @@
+name: Diverse 6thgeneration Internet solution
+payloads:
+- hsts-misconfig_payload_1_near
+- hsts-misconfig_payload_2_sea
+- hsts-misconfig_payload_3_arrive
+- hsts-misconfig_payload_4_Republican
+- hsts-misconfig_payload_5_wide
+severity: high
+type: hsts-misconfig

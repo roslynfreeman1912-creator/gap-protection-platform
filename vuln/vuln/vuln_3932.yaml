@@ -1,0 +1,9 @@
+name: Quality-focused contextually-based Graphic Interface
+payloads:
+- ssti_payload_1_yes
+- ssti_payload_2_section
+- ssti_payload_3_wonder
+- ssti_payload_4_four
+- ssti_payload_5_little
+severity: high
+type: ssti

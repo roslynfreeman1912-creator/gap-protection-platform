@@ -1,0 +1,9 @@
+name: User-friendly neutral forecast
+payloads:
+- host-header-injection_payload_1_force
+- host-header-injection_payload_2_most
+- host-header-injection_payload_3_letter
+- host-header-injection_payload_4_feel
+- host-header-injection_payload_5_by
+severity: low
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Team-oriented explicit toolset
+payloads:
+- xxe_payload_1_practice
+- xxe_payload_2_similar
+- xxe_payload_3_light
+- xxe_payload_4_program
+- xxe_payload_5_with
+severity: medium
+type: xxe

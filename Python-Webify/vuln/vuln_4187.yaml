@@ -1,0 +1,9 @@
+name: Switchable clear-thinking architecture
+payloads:
+- ldap-injection_payload_1_quite
+- ldap-injection_payload_2_eat
+- ldap-injection_payload_3_wind
+- ldap-injection_payload_4_any
+- ldap-injection_payload_5_thing
+severity: critical
+type: ldap-injection

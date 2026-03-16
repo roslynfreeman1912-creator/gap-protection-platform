@@ -1,0 +1,9 @@
+name: Re-contextualized fresh-thinking concept
+payloads:
+- jsonp-injection_payload_1_son
+- jsonp-injection_payload_2_however
+- jsonp-injection_payload_3_party
+- jsonp-injection_payload_4_see
+- jsonp-injection_payload_5_language
+severity: medium
+type: jsonp-injection

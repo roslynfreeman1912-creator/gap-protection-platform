@@ -1,0 +1,9 @@
+name: Multi-channeled empowering emulation
+payloads:
+- path-traversal_payload_1_record
+- path-traversal_payload_2_will
+- path-traversal_payload_3_responsibility
+- path-traversal_payload_4_major
+- path-traversal_payload_5_suggest
+severity: high
+type: path-traversal

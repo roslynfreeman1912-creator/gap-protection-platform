@@ -1,0 +1,9 @@
+name: Polarized composite strategy
+payloads:
+- path-traversal_payload_1_military
+- path-traversal_payload_2_land
+- path-traversal_payload_3_nothing
+- path-traversal_payload_4_sound
+- path-traversal_payload_5_agency
+severity: critical
+type: path-traversal

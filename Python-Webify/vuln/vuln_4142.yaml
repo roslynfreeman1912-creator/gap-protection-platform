@@ -1,0 +1,9 @@
+name: Virtual foreground knowledgebase
+payloads:
+- host-header-injection_payload_1_walk
+- host-header-injection_payload_2_ahead
+- host-header-injection_payload_3_security
+- host-header-injection_payload_4_community
+- host-header-injection_payload_5_rather
+severity: critical
+type: host-header-injection

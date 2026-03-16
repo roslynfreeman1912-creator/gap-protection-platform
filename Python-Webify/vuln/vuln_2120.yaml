@@ -1,0 +1,9 @@
+name: Visionary non-volatile process improvement
+payloads:
+- file-upload_payload_1_hotel
+- file-upload_payload_2_project
+- file-upload_payload_3_plan
+- file-upload_payload_4_prove
+- file-upload_payload_5_carry
+severity: high
+type: file-upload

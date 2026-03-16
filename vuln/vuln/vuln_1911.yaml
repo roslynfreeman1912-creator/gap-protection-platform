@@ -1,0 +1,9 @@
+name: Synergized demand-driven firmware
+payloads:
+- xxe_payload_1_skill
+- xxe_payload_2_three
+- xxe_payload_3_beat
+- xxe_payload_4_spend
+- xxe_payload_5_religious
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Fully-configurable multi-tasking installation
+payloads:
+- javascript-injection_payload_1_career
+- javascript-injection_payload_2_when
+- javascript-injection_payload_3_home
+- javascript-injection_payload_4_look
+- javascript-injection_payload_5_war
+severity: high
+type: javascript-injection

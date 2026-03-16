@@ -1,0 +1,9 @@
+name: Multi-lateral web-enabled matrix
+payloads:
+- xss_payload_1_feeling
+- xss_payload_2_edge
+- xss_payload_3_leg
+- xss_payload_4_culture
+- xss_payload_5_mean
+severity: medium
+type: xss

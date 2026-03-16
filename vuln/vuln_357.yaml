@@ -1,0 +1,9 @@
+name: Grass-roots 3rdgeneration infrastructure
+payloads:
+- ssti_payload_1_more
+- ssti_payload_2_expect
+- ssti_payload_3_task
+- ssti_payload_4_certainly
+- ssti_payload_5_affect
+severity: critical
+type: ssti

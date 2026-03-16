@@ -1,0 +1,9 @@
+name: Synergized value-added projection
+payloads:
+- javascript-injection_payload_1_whole
+- javascript-injection_payload_2_traditional
+- javascript-injection_payload_3_discover
+- javascript-injection_payload_4_line
+- javascript-injection_payload_5_middle
+severity: low
+type: javascript-injection

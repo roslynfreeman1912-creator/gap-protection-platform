@@ -1,0 +1,9 @@
+name: Extended high-level array
+payloads:
+- lfi_payload_1_strategy
+- lfi_payload_2_usually
+- lfi_payload_3_sometimes
+- lfi_payload_4_his
+- lfi_payload_5_result
+severity: critical
+type: lfi

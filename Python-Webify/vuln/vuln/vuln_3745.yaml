@@ -1,0 +1,9 @@
+name: Configurable bottom-line productivity
+payloads:
+- file-upload_payload_1_campaign
+- file-upload_payload_2_accept
+- file-upload_payload_3_nor
+- file-upload_payload_4_bag
+- file-upload_payload_5_citizen
+severity: high
+type: file-upload

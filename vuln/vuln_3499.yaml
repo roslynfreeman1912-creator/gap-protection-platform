@@ -1,0 +1,9 @@
+name: Grass-roots dynamic analyzer
+payloads:
+- csp-bypass_payload_1_close
+- csp-bypass_payload_2_easy
+- csp-bypass_payload_3_thus
+- csp-bypass_payload_4_bad
+- csp-bypass_payload_5_student
+severity: medium
+type: csp-bypass

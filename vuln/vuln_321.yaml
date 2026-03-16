@@ -1,0 +1,9 @@
+name: Diverse actuating access
+payloads:
+- mime-sniffing_payload_1_win
+- mime-sniffing_payload_2_information
+- mime-sniffing_payload_3_job
+- mime-sniffing_payload_4_government
+- mime-sniffing_payload_5_whatever
+severity: high
+type: mime-sniffing

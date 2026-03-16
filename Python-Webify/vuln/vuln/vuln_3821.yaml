@@ -1,0 +1,9 @@
+name: Digitized stable knowledge user
+payloads:
+- mime-sniffing_payload_1_whether
+- mime-sniffing_payload_2_his
+- mime-sniffing_payload_3_tend
+- mime-sniffing_payload_4_throw
+- mime-sniffing_payload_5_receive
+severity: medium
+type: mime-sniffing

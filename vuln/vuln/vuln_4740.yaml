@@ -1,0 +1,9 @@
+name: Switchable interactive parallelism
+payloads:
+- jsonp-injection_payload_1_area
+- jsonp-injection_payload_2_drive
+- jsonp-injection_payload_3_air
+- jsonp-injection_payload_4_professor
+- jsonp-injection_payload_5_voice
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Enhanced needs-based database
+payloads:
+- path-traversal_payload_1_later
+- path-traversal_payload_2_another
+- path-traversal_payload_3_everybody
+- path-traversal_payload_4_audience
+- path-traversal_payload_5_wall
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Up-sized stable flexibility
+payloads:
+- host-header-injection_payload_1_add
+- host-header-injection_payload_2_why
+- host-header-injection_payload_3_peace
+- host-header-injection_payload_4_authority
+- host-header-injection_payload_5_record
+severity: critical
+type: host-header-injection

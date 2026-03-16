@@ -1,0 +1,9 @@
+name: Robust cohesive adapter
+payloads:
+- subdomain-takeover_payload_1_play
+- subdomain-takeover_payload_2_fine
+- subdomain-takeover_payload_3_population
+- subdomain-takeover_payload_4_big
+- subdomain-takeover_payload_5_ago
+severity: high
+type: subdomain-takeover

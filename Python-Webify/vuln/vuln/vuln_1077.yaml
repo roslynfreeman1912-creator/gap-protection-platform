@@ -1,0 +1,9 @@
+name: De-engineered local time-frame
+payloads:
+- xss_payload_1_but
+- xss_payload_2_toward
+- xss_payload_3_boy
+- xss_payload_4_positive
+- xss_payload_5_carry
+severity: critical
+type: xss

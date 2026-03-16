@@ -1,0 +1,9 @@
+name: Intuitive executive parallelism
+payloads:
+- subdomain-takeover_payload_1_family
+- subdomain-takeover_payload_2_win
+- subdomain-takeover_payload_3_culture
+- subdomain-takeover_payload_4_natural
+- subdomain-takeover_payload_5_southern
+severity: high
+type: subdomain-takeover

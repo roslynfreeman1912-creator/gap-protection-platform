@@ -1,0 +1,9 @@
+name: Business-focused multi-tasking methodology
+payloads:
+- subdomain-takeover_payload_1_crime
+- subdomain-takeover_payload_2_ahead
+- subdomain-takeover_payload_3_hit
+- subdomain-takeover_payload_4_alone
+- subdomain-takeover_payload_5_choose
+severity: high
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Organic even-keeled methodology
+payloads:
+- lfi_payload_1_food
+- lfi_payload_2_page
+- lfi_payload_3_kid
+- lfi_payload_4_bit
+- lfi_payload_5_more
+severity: low
+type: lfi

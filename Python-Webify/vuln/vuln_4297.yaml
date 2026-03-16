@@ -1,0 +1,9 @@
+name: Open-source 6thgeneration model
+payloads:
+- tabnabbing_payload_1_marriage
+- tabnabbing_payload_2_Mr
+- tabnabbing_payload_3_easy
+- tabnabbing_payload_4_knowledge
+- tabnabbing_payload_5_grow
+severity: low
+type: tabnabbing

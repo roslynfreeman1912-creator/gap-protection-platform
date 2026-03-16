@@ -1,0 +1,9 @@
+name: Enhanced asynchronous pricing structure
+payloads:
+- csrf_payload_1_party
+- csrf_payload_2_charge
+- csrf_payload_3_industry
+- csrf_payload_4_continue
+- csrf_payload_5_close
+severity: high
+type: csrf

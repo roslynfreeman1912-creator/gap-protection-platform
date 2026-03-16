@@ -1,0 +1,9 @@
+name: Secured static core
+payloads:
+- rfi_payload_1_court
+- rfi_payload_2_tell
+- rfi_payload_3_a
+- rfi_payload_4_product
+- rfi_payload_5_build
+severity: critical
+type: rfi

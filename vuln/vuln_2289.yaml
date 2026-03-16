@@ -1,0 +1,9 @@
+name: Grass-roots exuding conglomeration
+payloads:
+- clickjacking_payload_1_development
+- clickjacking_payload_2_together
+- clickjacking_payload_3_always
+- clickjacking_payload_4_various
+- clickjacking_payload_5_authority
+severity: high
+type: clickjacking

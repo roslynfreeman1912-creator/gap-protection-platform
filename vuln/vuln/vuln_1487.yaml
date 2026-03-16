@@ -1,0 +1,9 @@
+name: Inverse contextually-based flexibility
+payloads:
+- ldap-injection_payload_1_financial
+- ldap-injection_payload_2_official
+- ldap-injection_payload_3_history
+- ldap-injection_payload_4_where
+- ldap-injection_payload_5_along
+severity: critical
+type: ldap-injection

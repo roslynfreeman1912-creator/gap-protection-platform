@@ -1,0 +1,9 @@
+name: Grass-roots clear-thinking structure
+payloads:
+- path-traversal_payload_1_pattern
+- path-traversal_payload_2_base
+- path-traversal_payload_3_notice
+- path-traversal_payload_4_expert
+- path-traversal_payload_5_always
+severity: low
+type: path-traversal

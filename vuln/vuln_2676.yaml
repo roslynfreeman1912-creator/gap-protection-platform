@@ -1,0 +1,9 @@
+name: Reduced heuristic challenge
+payloads:
+- sql_payload_1_hundred
+- sql_payload_2_several
+- sql_payload_3_assume
+- sql_payload_4_training
+- sql_payload_5_total
+severity: critical
+type: sql

@@ -1,0 +1,9 @@
+name: Right-sized explicit time-frame
+payloads:
+- ssti_payload_1_I
+- ssti_payload_2_could
+- ssti_payload_3_alone
+- ssti_payload_4_deal
+- ssti_payload_5_production
+severity: low
+type: ssti

@@ -1,0 +1,9 @@
+name: Universal national migration
+payloads:
+- mime-sniffing_payload_1_inside
+- mime-sniffing_payload_2_east
+- mime-sniffing_payload_3_strong
+- mime-sniffing_payload_4_few
+- mime-sniffing_payload_5_along
+severity: low
+type: mime-sniffing

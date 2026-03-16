@@ -1,0 +1,9 @@
+name: Customizable interactive focus group
+payloads:
+- command-injection_payload_1_instead
+- command-injection_payload_2_rise
+- command-injection_payload_3_help
+- command-injection_payload_4_from
+- command-injection_payload_5_month
+severity: critical
+type: command-injection

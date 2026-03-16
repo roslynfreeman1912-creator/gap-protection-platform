@@ -1,0 +1,9 @@
+name: Innovative even-keeled approach
+payloads:
+- lfi_payload_1_some
+- lfi_payload_2_piece
+- lfi_payload_3_stay
+- lfi_payload_4_one
+- lfi_payload_5_especially
+severity: low
+type: lfi

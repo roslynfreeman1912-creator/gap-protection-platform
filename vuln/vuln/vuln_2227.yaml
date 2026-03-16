@@ -1,0 +1,9 @@
+name: Down-sized 6thgeneration monitoring
+payloads:
+- xss_payload_1_avoid
+- xss_payload_2_need
+- xss_payload_3_seat
+- xss_payload_4_by
+- xss_payload_5_strategy
+severity: critical
+type: xss

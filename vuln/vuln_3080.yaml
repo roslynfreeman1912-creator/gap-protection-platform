@@ -1,0 +1,9 @@
+name: Switchable disintermediate task-force
+payloads:
+- ssrf_payload_1_onto
+- ssrf_payload_2_mind
+- ssrf_payload_3_drop
+- ssrf_payload_4_oil
+- ssrf_payload_5_issue
+severity: medium
+type: ssrf

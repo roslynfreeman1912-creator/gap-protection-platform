@@ -1,0 +1,9 @@
+name: Down-sized scalable migration
+payloads:
+- tabnabbing_payload_1_side
+- tabnabbing_payload_2_whatever
+- tabnabbing_payload_3_member
+- tabnabbing_payload_4_ground
+- tabnabbing_payload_5_bring
+severity: low
+type: tabnabbing

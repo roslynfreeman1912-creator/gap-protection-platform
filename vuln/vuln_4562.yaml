@@ -1,0 +1,9 @@
+name: Streamlined 5thgeneration help-desk
+payloads:
+- ldap-injection_payload_1_environmental
+- ldap-injection_payload_2_school
+- ldap-injection_payload_3_voice
+- ldap-injection_payload_4_reduce
+- ldap-injection_payload_5_contain
+severity: high
+type: ldap-injection

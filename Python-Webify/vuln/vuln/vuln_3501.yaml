@@ -1,0 +1,9 @@
+name: Exclusive impactful standardization
+payloads:
+- sql_payload_1_bring
+- sql_payload_2_who
+- sql_payload_3_allow
+- sql_payload_4_why
+- sql_payload_5_cup
+severity: high
+type: sql

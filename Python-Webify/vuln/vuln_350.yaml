@@ -1,0 +1,9 @@
+name: User-centric intangible infrastructure
+payloads:
+- frame-injection_payload_1_north
+- frame-injection_payload_2_service
+- frame-injection_payload_3_finish
+- frame-injection_payload_4_often
+- frame-injection_payload_5_face
+severity: high
+type: frame-injection

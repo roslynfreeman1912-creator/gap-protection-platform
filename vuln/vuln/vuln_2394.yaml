@@ -1,0 +1,9 @@
+name: Visionary next generation success
+payloads:
+- javascript-injection_payload_1_myself
+- javascript-injection_payload_2_now
+- javascript-injection_payload_3_image
+- javascript-injection_payload_4_my
+- javascript-injection_payload_5_teacher
+severity: medium
+type: javascript-injection

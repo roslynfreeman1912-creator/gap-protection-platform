@@ -1,0 +1,9 @@
+name: Profit-focused exuding open system
+payloads:
+- frame-injection_payload_1_morning
+- frame-injection_payload_2_head
+- frame-injection_payload_3_sure
+- frame-injection_payload_4_rate
+- frame-injection_payload_5_event
+severity: low
+type: frame-injection

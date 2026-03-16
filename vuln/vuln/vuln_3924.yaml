@@ -1,0 +1,9 @@
+name: Function-based bifurcated access
+payloads:
+- csp-bypass_payload_1_our
+- csp-bypass_payload_2_eye
+- csp-bypass_payload_3_maybe
+- csp-bypass_payload_4_if
+- csp-bypass_payload_5_interview
+severity: critical
+type: csp-bypass

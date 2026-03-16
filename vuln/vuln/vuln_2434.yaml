@@ -1,0 +1,9 @@
+name: Decentralized system-worthy budgetary management
+payloads:
+- path-traversal_payload_1_power
+- path-traversal_payload_2_there
+- path-traversal_payload_3_safe
+- path-traversal_payload_4_source
+- path-traversal_payload_5_close
+severity: medium
+type: path-traversal

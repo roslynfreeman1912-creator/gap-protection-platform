@@ -1,0 +1,9 @@
+name: Fundamental coherent policy
+payloads:
+- ldap-injection_payload_1_floor
+- ldap-injection_payload_2_even
+- ldap-injection_payload_3_buy
+- ldap-injection_payload_4_not
+- ldap-injection_payload_5_east
+severity: medium
+type: ldap-injection

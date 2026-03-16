@@ -1,0 +1,9 @@
+name: Assimilated explicit focus group
+payloads:
+- mime-sniffing_payload_1_community
+- mime-sniffing_payload_2_middle
+- mime-sniffing_payload_3_certain
+- mime-sniffing_payload_4_impact
+- mime-sniffing_payload_5_use
+severity: low
+type: mime-sniffing

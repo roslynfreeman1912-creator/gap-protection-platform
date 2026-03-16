@@ -1,0 +1,9 @@
+name: Polarized even-keeled attitude
+payloads:
+- xxe_payload_1_television
+- xxe_payload_2_little
+- xxe_payload_3_which
+- xxe_payload_4_fight
+- xxe_payload_5_he
+severity: low
+type: xxe

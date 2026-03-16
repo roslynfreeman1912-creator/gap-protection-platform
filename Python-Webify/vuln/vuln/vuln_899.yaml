@@ -1,0 +1,9 @@
+name: Triple-buffered user-facing capability
+payloads:
+- csp-bypass_payload_1_this
+- csp-bypass_payload_2_hold
+- csp-bypass_payload_3_effect
+- csp-bypass_payload_4_sometimes
+- csp-bypass_payload_5_organization
+severity: low
+type: csp-bypass

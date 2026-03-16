@@ -1,0 +1,9 @@
+name: Polarized 4thgeneration encryption
+payloads:
+- hsts-misconfig_payload_1_government
+- hsts-misconfig_payload_2_wrong
+- hsts-misconfig_payload_3_economy
+- hsts-misconfig_payload_4_paper
+- hsts-misconfig_payload_5_president
+severity: medium
+type: hsts-misconfig

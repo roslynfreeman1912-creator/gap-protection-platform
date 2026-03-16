@@ -1,0 +1,9 @@
+name: Customizable upward-trending analyzer
+payloads:
+- xss_payload_1_nearly
+- xss_payload_2_light
+- xss_payload_3_make
+- xss_payload_4_over
+- xss_payload_5_in
+severity: high
+type: xss

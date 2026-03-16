@@ -1,0 +1,9 @@
+name: Multi-lateral mobile hierarchy
+payloads:
+- mime-sniffing_payload_1_magazine
+- mime-sniffing_payload_2_owner
+- mime-sniffing_payload_3_ground
+- mime-sniffing_payload_4_feeling
+- mime-sniffing_payload_5_move
+severity: high
+type: mime-sniffing

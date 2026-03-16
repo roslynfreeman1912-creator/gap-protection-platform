@@ -1,0 +1,9 @@
+name: Integrated holistic firmware
+payloads:
+- host-header-injection_payload_1_company
+- host-header-injection_payload_2_leave
+- host-header-injection_payload_3_expert
+- host-header-injection_payload_4_major
+- host-header-injection_payload_5_affect
+severity: low
+type: host-header-injection

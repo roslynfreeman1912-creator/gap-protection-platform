@@ -1,0 +1,9 @@
+name: Distributed actuating structure
+payloads:
+- nosql-injection_payload_1_them
+- nosql-injection_payload_2_radio
+- nosql-injection_payload_3_paper
+- nosql-injection_payload_4_anything
+- nosql-injection_payload_5_but
+severity: medium
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Optimized transitional data-warehouse
+payloads:
+- lfi_payload_1_free
+- lfi_payload_2_loss
+- lfi_payload_3_college
+- lfi_payload_4_mother
+- lfi_payload_5_successful
+severity: critical
+type: lfi

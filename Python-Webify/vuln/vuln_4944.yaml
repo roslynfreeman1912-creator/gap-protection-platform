@@ -1,0 +1,9 @@
+name: Grass-roots actuating installation
+payloads:
+- javascript-injection_payload_1_include
+- javascript-injection_payload_2_source
+- javascript-injection_payload_3_mission
+- javascript-injection_payload_4_evidence
+- javascript-injection_payload_5_American
+severity: low
+type: javascript-injection

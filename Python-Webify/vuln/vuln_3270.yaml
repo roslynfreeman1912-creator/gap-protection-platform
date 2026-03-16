@@ -1,0 +1,9 @@
+name: Seamless intermediate archive
+payloads:
+- file-upload_payload_1_campaign
+- file-upload_payload_2_federal
+- file-upload_payload_3_board
+- file-upload_payload_4_system
+- file-upload_payload_5_that
+severity: low
+type: file-upload

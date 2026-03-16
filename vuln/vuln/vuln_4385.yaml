@@ -1,0 +1,9 @@
+name: Sharable methodical info-mediaries
+payloads:
+- open-redirect_payload_1_body
+- open-redirect_payload_2_build
+- open-redirect_payload_3_fine
+- open-redirect_payload_4_garden
+- open-redirect_payload_5_event
+severity: medium
+type: open-redirect

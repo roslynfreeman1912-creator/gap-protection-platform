@@ -1,0 +1,9 @@
+name: Proactive clear-thinking application
+payloads:
+- rfi_payload_1_partner
+- rfi_payload_2_edge
+- rfi_payload_3_do
+- rfi_payload_4_sister
+- rfi_payload_5_whom
+severity: high
+type: rfi

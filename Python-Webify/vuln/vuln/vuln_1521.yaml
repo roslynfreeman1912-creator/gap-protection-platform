@@ -1,0 +1,9 @@
+name: Up-sized didactic projection
+payloads:
+- mime-sniffing_payload_1_collection
+- mime-sniffing_payload_2_response
+- mime-sniffing_payload_3_past
+- mime-sniffing_payload_4_candidate
+- mime-sniffing_payload_5_test
+severity: medium
+type: mime-sniffing

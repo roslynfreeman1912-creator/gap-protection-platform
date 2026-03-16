@@ -1,0 +1,9 @@
+name: Fundamental background firmware
+payloads:
+- path-traversal_payload_1_kitchen
+- path-traversal_payload_2_race
+- path-traversal_payload_3_pull
+- path-traversal_payload_4_many
+- path-traversal_payload_5_would
+severity: low
+type: path-traversal

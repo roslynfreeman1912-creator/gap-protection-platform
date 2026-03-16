@@ -1,0 +1,9 @@
+name: Focused scalable analyzer
+payloads:
+- tabnabbing_payload_1_step
+- tabnabbing_payload_2_hospital
+- tabnabbing_payload_3_politics
+- tabnabbing_payload_4_fire
+- tabnabbing_payload_5_up
+severity: critical
+type: tabnabbing

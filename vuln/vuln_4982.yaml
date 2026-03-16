@@ -1,0 +1,9 @@
+name: Reactive static implementation
+payloads:
+- ssti_payload_1_stock
+- ssti_payload_2_because
+- ssti_payload_3_future
+- ssti_payload_4_one
+- ssti_payload_5_set
+severity: medium
+type: ssti

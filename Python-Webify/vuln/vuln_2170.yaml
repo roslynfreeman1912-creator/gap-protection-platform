@@ -1,0 +1,9 @@
+name: Progressive foreground product
+payloads:
+- file-upload_payload_1_product
+- file-upload_payload_2_heavy
+- file-upload_payload_3_leave
+- file-upload_payload_4_world
+- file-upload_payload_5_type
+severity: high
+type: file-upload

@@ -1,0 +1,9 @@
+name: Automated scalable leverage
+payloads:
+- jsonp-injection_payload_1_account
+- jsonp-injection_payload_2_recently
+- jsonp-injection_payload_3_heart
+- jsonp-injection_payload_4_fine
+- jsonp-injection_payload_5_form
+severity: critical
+type: jsonp-injection

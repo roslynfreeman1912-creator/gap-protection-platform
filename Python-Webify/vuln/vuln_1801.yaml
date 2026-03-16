@@ -1,0 +1,9 @@
+name: Team-oriented encompassing implementation
+payloads:
+- sql_payload_1_blood
+- sql_payload_2_hour
+- sql_payload_3_method
+- sql_payload_4_five
+- sql_payload_5_parent
+severity: critical
+type: sql

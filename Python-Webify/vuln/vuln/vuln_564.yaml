@@ -1,0 +1,9 @@
+name: Assimilated intangible concept
+payloads:
+- clickjacking_payload_1_together
+- clickjacking_payload_2_effort
+- clickjacking_payload_3_point
+- clickjacking_payload_4_at
+- clickjacking_payload_5_tell
+severity: medium
+type: clickjacking

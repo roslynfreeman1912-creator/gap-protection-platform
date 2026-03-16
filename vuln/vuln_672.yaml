@@ -1,0 +1,9 @@
+name: Intuitive asynchronous adapter
+payloads:
+- tabnabbing_payload_1_social
+- tabnabbing_payload_2_wall
+- tabnabbing_payload_3_may
+- tabnabbing_payload_4_bag
+- tabnabbing_payload_5_what
+severity: critical
+type: tabnabbing

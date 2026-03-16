@@ -1,0 +1,9 @@
+name: Fundamental maximized flexibility
+payloads:
+- hsts-misconfig_payload_1_begin
+- hsts-misconfig_payload_2_various
+- hsts-misconfig_payload_3_force
+- hsts-misconfig_payload_4_tell
+- hsts-misconfig_payload_5_eat
+severity: critical
+type: hsts-misconfig

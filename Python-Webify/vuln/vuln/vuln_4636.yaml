@@ -1,0 +1,9 @@
+name: Down-sized transitional middleware
+payloads:
+- xxe_payload_1_find
+- xxe_payload_2_back
+- xxe_payload_3_must
+- xxe_payload_4_allow
+- xxe_payload_5_respond
+severity: critical
+type: xxe

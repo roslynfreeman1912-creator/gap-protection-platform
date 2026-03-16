@@ -1,0 +1,9 @@
+name: Optional analyzing hierarchy
+payloads:
+- xss_payload_1_appear
+- xss_payload_2_figure
+- xss_payload_3_wife
+- xss_payload_4_I
+- xss_payload_5_history
+severity: high
+type: xss

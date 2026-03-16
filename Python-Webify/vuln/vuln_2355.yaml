@@ -1,0 +1,9 @@
+name: Enterprise-wide heuristic hardware
+payloads:
+- ssrf_payload_1_scene
+- ssrf_payload_2_through
+- ssrf_payload_3_system
+- ssrf_payload_4_body
+- ssrf_payload_5_develop
+severity: medium
+type: ssrf

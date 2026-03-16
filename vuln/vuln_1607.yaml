@@ -1,0 +1,9 @@
+name: Persevering real-time migration
+payloads:
+- ssti_payload_1_design
+- ssti_payload_2_plant
+- ssti_payload_3_statement
+- ssti_payload_4_result
+- ssti_payload_5_music
+severity: low
+type: ssti

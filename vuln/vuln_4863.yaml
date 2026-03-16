@@ -1,0 +1,9 @@
+name: Focused even-keeled utilization
+payloads:
+- nosql-injection_payload_1_partner
+- nosql-injection_payload_2_east
+- nosql-injection_payload_3_reality
+- nosql-injection_payload_4_court
+- nosql-injection_payload_5_pay
+severity: high
+type: nosql-injection

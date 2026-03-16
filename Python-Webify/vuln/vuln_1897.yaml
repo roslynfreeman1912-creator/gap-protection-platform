@@ -1,0 +1,9 @@
+name: Multi-layered interactive implementation
+payloads:
+- tabnabbing_payload_1_ever
+- tabnabbing_payload_2_history
+- tabnabbing_payload_3_evidence
+- tabnabbing_payload_4_call
+- tabnabbing_payload_5_boy
+severity: medium
+type: tabnabbing

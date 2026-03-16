@@ -1,0 +1,9 @@
+name: Networked next generation complexity
+payloads:
+- subdomain-takeover_payload_1_picture
+- subdomain-takeover_payload_2_between
+- subdomain-takeover_payload_3_must
+- subdomain-takeover_payload_4_bar
+- subdomain-takeover_payload_5_evidence
+severity: critical
+type: subdomain-takeover

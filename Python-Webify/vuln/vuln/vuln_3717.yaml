@@ -1,0 +1,9 @@
+name: Secured scalable protocol
+payloads:
+- host-header-injection_payload_1_everybody
+- host-header-injection_payload_2_president
+- host-header-injection_payload_3_economic
+- host-header-injection_payload_4_member
+- host-header-injection_payload_5_until
+severity: low
+type: host-header-injection

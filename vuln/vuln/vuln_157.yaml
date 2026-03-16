@@ -1,0 +1,9 @@
+name: Synergistic disintermediate productivity
+payloads:
+- ssti_payload_1_spring
+- ssti_payload_2_single
+- ssti_payload_3_themselves
+- ssti_payload_4_expect
+- ssti_payload_5_anything
+severity: high
+type: ssti

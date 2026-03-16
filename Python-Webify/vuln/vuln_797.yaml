@@ -1,0 +1,9 @@
+name: Devolved full-range Graphic Interface
+payloads:
+- tabnabbing_payload_1_major
+- tabnabbing_payload_2_receive
+- tabnabbing_payload_3_investment
+- tabnabbing_payload_4_assume
+- tabnabbing_payload_5_manage
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Enhanced modular superstructure
+payloads:
+- lfi_payload_1_gas
+- lfi_payload_2_loss
+- lfi_payload_3_role
+- lfi_payload_4_product
+- lfi_payload_5_Mrs
+severity: critical
+type: lfi

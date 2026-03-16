@@ -1,0 +1,9 @@
+name: Sharable upward-trending throughput
+payloads:
+- host-header-injection_payload_1_town
+- host-header-injection_payload_2_drive
+- host-header-injection_payload_3_quality
+- host-header-injection_payload_4_listen
+- host-header-injection_payload_5_time
+severity: critical
+type: host-header-injection

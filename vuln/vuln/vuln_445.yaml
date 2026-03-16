@@ -1,0 +1,9 @@
+name: Realigned discrete ability
+payloads:
+- file-upload_payload_1_probably
+- file-upload_payload_2_score
+- file-upload_payload_3_require
+- file-upload_payload_4_husband
+- file-upload_payload_5_man
+severity: high
+type: file-upload

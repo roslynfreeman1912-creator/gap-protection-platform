@@ -1,0 +1,9 @@
+name: Exclusive 24hour groupware
+payloads:
+- tabnabbing_payload_1_off
+- tabnabbing_payload_2_outside
+- tabnabbing_payload_3_positive
+- tabnabbing_payload_4_game
+- tabnabbing_payload_5_including
+severity: medium
+type: tabnabbing

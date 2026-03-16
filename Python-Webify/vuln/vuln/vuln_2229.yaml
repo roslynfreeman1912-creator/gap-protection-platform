@@ -1,0 +1,9 @@
+name: Profit-focused client-driven extranet
+payloads:
+- rfi_payload_1_administration
+- rfi_payload_2_alone
+- rfi_payload_3_seek
+- rfi_payload_4_class
+- rfi_payload_5_head
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Quality-focused contextually-based groupware
+payloads:
+- sql_payload_1_floor
+- sql_payload_2_people
+- sql_payload_3_thing
+- sql_payload_4_black
+- sql_payload_5_they
+severity: critical
+type: sql

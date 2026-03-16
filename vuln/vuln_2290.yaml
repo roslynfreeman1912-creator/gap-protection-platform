@@ -1,0 +1,9 @@
+name: Horizontal 5thgeneration service-desk
+payloads:
+- jsonp-injection_payload_1_unit
+- jsonp-injection_payload_2_nice
+- jsonp-injection_payload_3_name
+- jsonp-injection_payload_4_remember
+- jsonp-injection_payload_5_care
+severity: low
+type: jsonp-injection

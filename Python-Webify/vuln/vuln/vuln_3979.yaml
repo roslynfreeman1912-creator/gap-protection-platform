@@ -1,0 +1,9 @@
+name: User-centric clear-thinking collaboration
+payloads:
+- rfi_payload_1_appear
+- rfi_payload_2_available
+- rfi_payload_3_million
+- rfi_payload_4_where
+- rfi_payload_5_among
+severity: critical
+type: rfi

@@ -1,0 +1,9 @@
+name: Enterprise-wide clear-thinking matrices
+payloads:
+- host-header-injection_payload_1_think
+- host-header-injection_payload_2_region
+- host-header-injection_payload_3_foreign
+- host-header-injection_payload_4_teach
+- host-header-injection_payload_5_until
+severity: medium
+type: host-header-injection

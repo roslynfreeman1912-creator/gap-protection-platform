@@ -1,0 +1,9 @@
+name: Public-key radical paradigm
+payloads:
+- subdomain-takeover_payload_1_audience
+- subdomain-takeover_payload_2_certainly
+- subdomain-takeover_payload_3_on
+- subdomain-takeover_payload_4_establish
+- subdomain-takeover_payload_5_newspaper
+severity: critical
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Re-engineered executive data-warehouse
+payloads:
+- lfi_payload_1_change
+- lfi_payload_2_my
+- lfi_payload_3_off
+- lfi_payload_4_risk
+- lfi_payload_5_media
+severity: high
+type: lfi

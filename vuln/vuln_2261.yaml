@@ -1,0 +1,9 @@
+name: Configurable secondary monitoring
+payloads:
+- xxe_payload_1_picture
+- xxe_payload_2_happen
+- xxe_payload_3_happen
+- xxe_payload_4_wind
+- xxe_payload_5_box
+severity: low
+type: xxe

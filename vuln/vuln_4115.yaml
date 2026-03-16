@@ -1,0 +1,9 @@
+name: Up-sized discrete open system
+payloads:
+- jsonp-injection_payload_1_why
+- jsonp-injection_payload_2_ball
+- jsonp-injection_payload_3_floor
+- jsonp-injection_payload_4_rest
+- jsonp-injection_payload_5_about
+severity: high
+type: jsonp-injection

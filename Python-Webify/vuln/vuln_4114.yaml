@@ -1,0 +1,9 @@
+name: Profit-focused full-range ability
+payloads:
+- clickjacking_payload_1_approach
+- clickjacking_payload_2_six
+- clickjacking_payload_3_affect
+- clickjacking_payload_4_significant
+- clickjacking_payload_5_its
+severity: medium
+type: clickjacking

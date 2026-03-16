@@ -1,0 +1,9 @@
+name: Re-contextualized bi-directional help-desk
+payloads:
+- csp-bypass_payload_1_drive
+- csp-bypass_payload_2_board
+- csp-bypass_payload_3_always
+- csp-bypass_payload_4_tend
+- csp-bypass_payload_5_close
+severity: low
+type: csp-bypass

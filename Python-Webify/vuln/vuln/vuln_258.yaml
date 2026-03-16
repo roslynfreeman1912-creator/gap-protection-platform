@@ -1,0 +1,9 @@
+name: Synergized 4thgeneration website
+payloads:
+- command-injection_payload_1_free
+- command-injection_payload_2_push
+- command-injection_payload_3_actually
+- command-injection_payload_4_might
+- command-injection_payload_5_yes
+severity: low
+type: command-injection

@@ -1,0 +1,9 @@
+name: Progressive full-range process improvement
+payloads:
+- lfi_payload_1_piece
+- lfi_payload_2_what
+- lfi_payload_3_church
+- lfi_payload_4_old
+- lfi_payload_5_opportunity
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Synergistic reciprocal circuit
+payloads:
+- ldap-injection_payload_1_either
+- ldap-injection_payload_2_base
+- ldap-injection_payload_3_control
+- ldap-injection_payload_4_finally
+- ldap-injection_payload_5_leg
+severity: low
+type: ldap-injection

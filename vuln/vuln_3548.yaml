@@ -1,0 +1,9 @@
+name: Cloned cohesive success
+payloads:
+- hsts-misconfig_payload_1_professional
+- hsts-misconfig_payload_2_parent
+- hsts-misconfig_payload_3_final
+- hsts-misconfig_payload_4_way
+- hsts-misconfig_payload_5_beautiful
+severity: medium
+type: hsts-misconfig

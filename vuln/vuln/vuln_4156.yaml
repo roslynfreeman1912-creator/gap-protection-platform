@@ -1,0 +1,9 @@
+name: Expanded intangible frame
+payloads:
+- csrf_payload_1_force
+- csrf_payload_2_smile
+- csrf_payload_3_company
+- csrf_payload_4_picture
+- csrf_payload_5_seem
+severity: medium
+type: csrf

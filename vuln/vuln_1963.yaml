@@ -1,0 +1,9 @@
+name: Inverse transitional Graphic Interface
+payloads:
+- nosql-injection_payload_1_police
+- nosql-injection_payload_2_admit
+- nosql-injection_payload_3_those
+- nosql-injection_payload_4_quickly
+- nosql-injection_payload_5_key
+severity: low
+type: nosql-injection

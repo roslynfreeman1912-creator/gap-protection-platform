@@ -1,0 +1,9 @@
+name: Self-enabling systematic methodology
+payloads:
+- frame-injection_payload_1_her
+- frame-injection_payload_2_around
+- frame-injection_payload_3_situation
+- frame-injection_payload_4_relate
+- frame-injection_payload_5_tend
+severity: critical
+type: frame-injection

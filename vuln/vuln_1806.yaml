@@ -1,0 +1,9 @@
+name: Vision-oriented fault-tolerant definition
+payloads:
+- csrf_payload_1_marriage
+- csrf_payload_2_visit
+- csrf_payload_3_seek
+- csrf_payload_4_enough
+- csrf_payload_5_nearly
+severity: high
+type: csrf

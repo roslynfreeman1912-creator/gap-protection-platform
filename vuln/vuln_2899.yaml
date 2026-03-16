@@ -1,0 +1,9 @@
+name: Triple-buffered stable definition
+payloads:
+- csp-bypass_payload_1_true
+- csp-bypass_payload_2_relate
+- csp-bypass_payload_3_official
+- csp-bypass_payload_4_oil
+- csp-bypass_payload_5_follow
+severity: medium
+type: csp-bypass

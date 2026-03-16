@@ -1,0 +1,9 @@
+name: Synergistic optimizing frame
+payloads:
+- file-upload_payload_1_international
+- file-upload_payload_2_course
+- file-upload_payload_3_someone
+- file-upload_payload_4_might
+- file-upload_payload_5_few
+severity: medium
+type: file-upload

@@ -1,0 +1,9 @@
+name: Open-source logistical protocol
+payloads:
+- tabnabbing_payload_1_identify
+- tabnabbing_payload_2_serious
+- tabnabbing_payload_3_training
+- tabnabbing_payload_4_song
+- tabnabbing_payload_5_suddenly
+severity: medium
+type: tabnabbing

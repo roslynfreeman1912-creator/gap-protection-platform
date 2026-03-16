@@ -1,0 +1,9 @@
+name: Reactive zero-defect product
+payloads:
+- host-header-injection_payload_1_several
+- host-header-injection_payload_2_while
+- host-header-injection_payload_3_available
+- host-header-injection_payload_4_teacher
+- host-header-injection_payload_5_see
+severity: medium
+type: host-header-injection

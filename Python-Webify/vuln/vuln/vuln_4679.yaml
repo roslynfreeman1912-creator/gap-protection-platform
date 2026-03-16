@@ -1,0 +1,9 @@
+name: Mandatory user-facing workforce
+payloads:
+- rfi_payload_1_nor
+- rfi_payload_2_career
+- rfi_payload_3_song
+- rfi_payload_4_specific
+- rfi_payload_5_play
+severity: high
+type: rfi

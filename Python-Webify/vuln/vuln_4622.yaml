@@ -1,0 +1,9 @@
+name: Realigned fault-tolerant initiative
+payloads:
+- tabnabbing_payload_1_approach
+- tabnabbing_payload_2_interest
+- tabnabbing_payload_3_respond
+- tabnabbing_payload_4_Congress
+- tabnabbing_payload_5_water
+severity: low
+type: tabnabbing

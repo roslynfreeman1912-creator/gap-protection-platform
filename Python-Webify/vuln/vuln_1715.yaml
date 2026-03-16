@@ -1,0 +1,9 @@
+name: Multi-channeled regional focus group
+payloads:
+- jsonp-injection_payload_1_whom
+- jsonp-injection_payload_2_some
+- jsonp-injection_payload_3_enjoy
+- jsonp-injection_payload_4_plant
+- jsonp-injection_payload_5_way
+severity: low
+type: jsonp-injection

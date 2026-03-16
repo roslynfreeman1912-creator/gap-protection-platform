@@ -1,0 +1,9 @@
+name: Open-architected local Local Area Network
+payloads:
+- xxe_payload_1_truth
+- xxe_payload_2_anything
+- xxe_payload_3_business
+- xxe_payload_4_including
+- xxe_payload_5_car
+severity: high
+type: xxe

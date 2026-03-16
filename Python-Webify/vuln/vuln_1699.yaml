@@ -1,0 +1,9 @@
+name: Enterprise-wide content-based parallelism
+payloads:
+- csp-bypass_payload_1_fear
+- csp-bypass_payload_2_mention
+- csp-bypass_payload_3_care
+- csp-bypass_payload_4_nor
+- csp-bypass_payload_5_home
+severity: high
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Robust attitude-oriented workforce
+payloads:
+- jsonp-injection_payload_1_station
+- jsonp-injection_payload_2_discuss
+- jsonp-injection_payload_3_Congress
+- jsonp-injection_payload_4_individual
+- jsonp-injection_payload_5_performance
+severity: low
+type: jsonp-injection

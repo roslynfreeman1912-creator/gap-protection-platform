@@ -1,0 +1,9 @@
+name: Cross-group uniform success
+payloads:
+- ssti_payload_1_walk
+- ssti_payload_2_three
+- ssti_payload_3_food
+- ssti_payload_4_pay
+- ssti_payload_5_over
+severity: low
+type: ssti

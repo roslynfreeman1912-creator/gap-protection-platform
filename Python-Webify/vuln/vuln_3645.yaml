@@ -1,0 +1,9 @@
+name: Advanced upward-trending product
+payloads:
+- file-upload_payload_1_be
+- file-upload_payload_2_picture
+- file-upload_payload_3_task
+- file-upload_payload_4_add
+- file-upload_payload_5_left
+severity: medium
+type: file-upload

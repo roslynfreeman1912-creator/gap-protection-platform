@@ -1,0 +1,9 @@
+name: Integrated holistic instruction set
+payloads:
+- frame-injection_payload_1_production
+- frame-injection_payload_2_care
+- frame-injection_payload_3_everyone
+- frame-injection_payload_4_reach
+- frame-injection_payload_5_design
+severity: critical
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Extended leadingedge capability
+payloads:
+- host-header-injection_payload_1_economy
+- host-header-injection_payload_2_subject
+- host-header-injection_payload_3_seem
+- host-header-injection_payload_4_guy
+- host-header-injection_payload_5_piece
+severity: high
+type: host-header-injection

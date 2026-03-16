@@ -1,0 +1,9 @@
+name: Secured multi-state open system
+payloads:
+- tabnabbing_payload_1_usually
+- tabnabbing_payload_2_same
+- tabnabbing_payload_3_six
+- tabnabbing_payload_4_special
+- tabnabbing_payload_5_center
+severity: high
+type: tabnabbing

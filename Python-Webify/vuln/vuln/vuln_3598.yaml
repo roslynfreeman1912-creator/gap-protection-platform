@@ -1,0 +1,9 @@
+name: Customizable attitude-oriented contingency
+payloads:
+- hsts-misconfig_payload_1_enough
+- hsts-misconfig_payload_2_light
+- hsts-misconfig_payload_3_matter
+- hsts-misconfig_payload_4_many
+- hsts-misconfig_payload_5_bag
+severity: medium
+type: hsts-misconfig

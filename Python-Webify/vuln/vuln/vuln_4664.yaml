@@ -1,0 +1,9 @@
+name: Advanced client-driven attitude
+payloads:
+- clickjacking_payload_1_boy
+- clickjacking_payload_2_forward
+- clickjacking_payload_3_bag
+- clickjacking_payload_4_actually
+- clickjacking_payload_5_box
+severity: critical
+type: clickjacking

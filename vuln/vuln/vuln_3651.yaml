@@ -1,0 +1,9 @@
+name: Down-sized responsive algorithm
+payloads:
+- sql_payload_1_debate
+- sql_payload_2_deal
+- sql_payload_3_theory
+- sql_payload_4_girl
+- sql_payload_5_consider
+severity: critical
+type: sql

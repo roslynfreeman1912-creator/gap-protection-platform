@@ -1,0 +1,9 @@
+name: Stand-alone bottom-line alliance
+payloads:
+- clickjacking_payload_1_late
+- clickjacking_payload_2_produce
+- clickjacking_payload_3_receive
+- clickjacking_payload_4_case
+- clickjacking_payload_5_natural
+severity: high
+type: clickjacking

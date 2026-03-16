@@ -1,0 +1,7 @@
+name: "Host Header Injection"
+type: "host_injection"
+severity: "medium"
+payloads:
+  - "Host: attacker.com"
+  - "X-Forwarded-Host: attacker.com"
+  - "X-Host: attacker.com"

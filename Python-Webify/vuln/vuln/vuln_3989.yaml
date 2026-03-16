@@ -1,0 +1,9 @@
+name: Ergonomic asymmetric success
+payloads:
+- clickjacking_payload_1_get
+- clickjacking_payload_2_in
+- clickjacking_payload_3_light
+- clickjacking_payload_4_world
+- clickjacking_payload_5_whose
+severity: high
+type: clickjacking

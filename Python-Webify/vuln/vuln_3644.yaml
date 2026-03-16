@@ -1,0 +1,9 @@
+name: Adaptive client-driven approach
+payloads:
+- javascript-injection_payload_1_operation
+- javascript-injection_payload_2_serious
+- javascript-injection_payload_3_arm
+- javascript-injection_payload_4_generation
+- javascript-injection_payload_5_character
+severity: medium
+type: javascript-injection

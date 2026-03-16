@@ -1,0 +1,9 @@
+name: Cloned methodical groupware
+payloads:
+- frame-injection_payload_1_draw
+- frame-injection_payload_2_arrive
+- frame-injection_payload_3_or
+- frame-injection_payload_4_travel
+- frame-injection_payload_5_myself
+severity: low
+type: frame-injection

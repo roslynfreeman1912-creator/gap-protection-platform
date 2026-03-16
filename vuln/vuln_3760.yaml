@@ -1,0 +1,9 @@
+name: Ergonomic incremental budgetary management
+payloads:
+- open-redirect_payload_1_cold
+- open-redirect_payload_2_before
+- open-redirect_payload_3_cold
+- open-redirect_payload_4_goal
+- open-redirect_payload_5_standard
+severity: critical
+type: open-redirect

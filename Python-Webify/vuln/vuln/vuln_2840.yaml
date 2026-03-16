@@ -1,0 +1,9 @@
+name: Function-based zero administration alliance
+payloads:
+- jsonp-injection_payload_1_protect
+- jsonp-injection_payload_2_compare
+- jsonp-injection_payload_3_who
+- jsonp-injection_payload_4_treatment
+- jsonp-injection_payload_5_old
+severity: critical
+type: jsonp-injection

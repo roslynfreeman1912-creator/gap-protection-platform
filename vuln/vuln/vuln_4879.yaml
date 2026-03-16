@@ -1,0 +1,9 @@
+name: Customizable next generation Local Area Network
+payloads:
+- rfi_payload_1_term
+- rfi_payload_2_ball
+- rfi_payload_3_believe
+- rfi_payload_4_around
+- rfi_payload_5_seem
+severity: critical
+type: rfi

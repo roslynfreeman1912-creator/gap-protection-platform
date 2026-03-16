@@ -1,0 +1,9 @@
+name: Profit-focused optimizing firmware
+payloads:
+- file-upload_payload_1_company
+- file-upload_payload_2_push
+- file-upload_payload_3_they
+- file-upload_payload_4_federal
+- file-upload_payload_5_choose
+severity: low
+type: file-upload

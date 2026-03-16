@@ -1,0 +1,9 @@
+name: Extended zero-defect emulation
+payloads:
+- hsts-misconfig_payload_1_statement
+- hsts-misconfig_payload_2_surface
+- hsts-misconfig_payload_3_physical
+- hsts-misconfig_payload_4_war
+- hsts-misconfig_payload_5_partner
+severity: medium
+type: hsts-misconfig

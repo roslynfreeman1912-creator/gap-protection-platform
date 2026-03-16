@@ -1,0 +1,9 @@
+name: Quality-focused explicit artificial intelligence
+payloads:
+- subdomain-takeover_payload_1_suggest
+- subdomain-takeover_payload_2_clearly
+- subdomain-takeover_payload_3_apply
+- subdomain-takeover_payload_4_anyone
+- subdomain-takeover_payload_5_industry
+severity: medium
+type: subdomain-takeover

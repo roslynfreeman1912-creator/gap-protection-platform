@@ -1,0 +1,9 @@
+name: Inverse optimal projection
+payloads:
+- sql_payload_1_student
+- sql_payload_2_risk
+- sql_payload_3_face
+- sql_payload_4_month
+- sql_payload_5_role
+severity: low
+type: sql

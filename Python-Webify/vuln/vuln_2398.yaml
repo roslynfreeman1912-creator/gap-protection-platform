@@ -1,0 +1,9 @@
+name: Optional global core
+payloads:
+- hsts-misconfig_payload_1_wish
+- hsts-misconfig_payload_2_field
+- hsts-misconfig_payload_3_agent
+- hsts-misconfig_payload_4_themselves
+- hsts-misconfig_payload_5_doctor
+severity: medium
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Fully-configurable fresh-thinking hub
+payloads:
+- subdomain-takeover_payload_1_field
+- subdomain-takeover_payload_2_through
+- subdomain-takeover_payload_3_cost
+- subdomain-takeover_payload_4_our
+- subdomain-takeover_payload_5_type
+severity: critical
+type: subdomain-takeover

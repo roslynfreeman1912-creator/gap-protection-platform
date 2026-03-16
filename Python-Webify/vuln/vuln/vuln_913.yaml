@@ -1,0 +1,9 @@
+name: Decentralized mobile alliance
+payloads:
+- nosql-injection_payload_1_ever
+- nosql-injection_payload_2_tonight
+- nosql-injection_payload_3_they
+- nosql-injection_payload_4_series
+- nosql-injection_payload_5_should
+severity: high
+type: nosql-injection

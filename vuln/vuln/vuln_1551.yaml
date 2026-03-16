@@ -1,0 +1,9 @@
+name: Centralized non-volatile matrix
+payloads:
+- sql_payload_1_want
+- sql_payload_2_wide
+- sql_payload_3_hold
+- sql_payload_4_college
+- sql_payload_5_participant
+severity: high
+type: sql

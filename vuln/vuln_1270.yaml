@@ -1,0 +1,9 @@
+name: Implemented non-volatile definition
+payloads:
+- file-upload_payload_1_concern
+- file-upload_payload_2_raise
+- file-upload_payload_3_involve
+- file-upload_payload_4_threat
+- file-upload_payload_5_budget
+severity: medium
+type: file-upload

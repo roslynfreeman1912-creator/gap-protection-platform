@@ -1,0 +1,9 @@
+name: Function-based disintermediate forecast
+payloads:
+- xss_payload_1_similar
+- xss_payload_2_grow
+- xss_payload_3_set
+- xss_payload_4_nice
+- xss_payload_5_big
+severity: low
+type: xss

@@ -1,0 +1,9 @@
+name: Reduced directional open architecture
+payloads:
+- csrf_payload_1_pick
+- csrf_payload_2_can
+- csrf_payload_3_smile
+- csrf_payload_4_million
+- csrf_payload_5_fire
+severity: high
+type: csrf

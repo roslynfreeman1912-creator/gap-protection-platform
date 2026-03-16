@@ -1,0 +1,9 @@
+name: Open-architected well-modulated time-frame
+payloads:
+- csrf_payload_1_product
+- csrf_payload_2_give
+- csrf_payload_3_past
+- csrf_payload_4_major
+- csrf_payload_5_in
+severity: low
+type: csrf

@@ -1,0 +1,9 @@
+name: Business-focused solution-oriented algorithm
+payloads:
+- nosql-injection_payload_1_along
+- nosql-injection_payload_2_special
+- nosql-injection_payload_3_these
+- nosql-injection_payload_4_here
+- nosql-injection_payload_5_sure
+severity: high
+type: nosql-injection

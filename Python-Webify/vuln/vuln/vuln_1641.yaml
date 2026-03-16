@@ -1,0 +1,9 @@
+name: Triple-buffered zero tolerance contingency
+payloads:
+- crlf-injection_payload_1_case
+- crlf-injection_payload_2_per
+- crlf-injection_payload_3_tell
+- crlf-injection_payload_4_dinner
+- crlf-injection_payload_5_sell
+severity: medium
+type: crlf-injection

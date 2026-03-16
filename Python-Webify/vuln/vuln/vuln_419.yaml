@@ -1,0 +1,9 @@
+name: Upgradable optimal solution
+payloads:
+- javascript-injection_payload_1_white
+- javascript-injection_payload_2_worker
+- javascript-injection_payload_3_him
+- javascript-injection_payload_4_current
+- javascript-injection_payload_5_other
+severity: low
+type: javascript-injection

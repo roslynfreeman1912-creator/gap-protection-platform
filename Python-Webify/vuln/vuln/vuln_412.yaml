@@ -1,0 +1,9 @@
+name: Re-contextualized didactic database
+payloads:
+- ldap-injection_payload_1_argue
+- ldap-injection_payload_2_point
+- ldap-injection_payload_3_fight
+- ldap-injection_payload_4_stand
+- ldap-injection_payload_5_use
+severity: critical
+type: ldap-injection

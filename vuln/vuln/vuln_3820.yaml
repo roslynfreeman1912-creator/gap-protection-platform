@@ -1,0 +1,9 @@
+name: Fundamental bandwidth-monitored moratorium
+payloads:
+- file-upload_payload_1_newspaper
+- file-upload_payload_2_how
+- file-upload_payload_3_let
+- file-upload_payload_4_actually
+- file-upload_payload_5_dog
+severity: low
+type: file-upload

@@ -1,0 +1,9 @@
+name: Optional disintermediate alliance
+payloads:
+- nosql-injection_payload_1_different
+- nosql-injection_payload_2_staff
+- nosql-injection_payload_3_age
+- nosql-injection_payload_4_various
+- nosql-injection_payload_5_local
+severity: high
+type: nosql-injection

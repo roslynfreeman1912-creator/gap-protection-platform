@@ -1,0 +1,9 @@
+name: Expanded user-facing synergy
+payloads:
+- sql_payload_1_property
+- sql_payload_2_natural
+- sql_payload_3_worker
+- sql_payload_4_health
+- sql_payload_5_star
+severity: medium
+type: sql

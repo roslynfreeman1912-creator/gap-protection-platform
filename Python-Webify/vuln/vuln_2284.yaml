@@ -1,0 +1,9 @@
+name: Configurable holistic throughput
+payloads:
+- path-traversal_payload_1_sing
+- path-traversal_payload_2_water
+- path-traversal_payload_3_remain
+- path-traversal_payload_4_specific
+- path-traversal_payload_5_them
+severity: critical
+type: path-traversal

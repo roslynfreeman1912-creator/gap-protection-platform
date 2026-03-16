@@ -1,0 +1,9 @@
+name: Versatile fault-tolerant concept
+payloads:
+- path-traversal_payload_1_bed
+- path-traversal_payload_2_let
+- path-traversal_payload_3_hard
+- path-traversal_payload_4_provide
+- path-traversal_payload_5_perhaps
+severity: medium
+type: path-traversal

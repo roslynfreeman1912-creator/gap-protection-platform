@@ -1,0 +1,9 @@
+name: Innovative multi-tasking encoding
+payloads:
+- open-redirect_payload_1_save
+- open-redirect_payload_2_standard
+- open-redirect_payload_3_crime
+- open-redirect_payload_4_window
+- open-redirect_payload_5_month
+severity: critical
+type: open-redirect

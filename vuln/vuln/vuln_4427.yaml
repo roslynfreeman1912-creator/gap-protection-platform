@@ -1,0 +1,9 @@
+name: Organic foreground core
+payloads:
+- xss_payload_1_nothing
+- xss_payload_2_piece
+- xss_payload_3_into
+- xss_payload_4_cell
+- xss_payload_5_society
+severity: critical
+type: xss

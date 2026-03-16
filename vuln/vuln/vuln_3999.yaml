@@ -1,0 +1,9 @@
+name: Universal asymmetric open architecture
+payloads:
+- csp-bypass_payload_1_approach
+- csp-bypass_payload_2_bad
+- csp-bypass_payload_3_subject
+- csp-bypass_payload_4_trouble
+- csp-bypass_payload_5_half
+severity: low
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Multi-layered 4thgeneration frame
+payloads:
+- rfi_payload_1_above
+- rfi_payload_2_join
+- rfi_payload_3_audience
+- rfi_payload_4_magazine
+- rfi_payload_5_light
+severity: high
+type: rfi

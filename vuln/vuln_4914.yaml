@@ -1,0 +1,9 @@
+name: Enterprise-wide hybrid orchestration
+payloads:
+- clickjacking_payload_1_black
+- clickjacking_payload_2_itself
+- clickjacking_payload_3_perform
+- clickjacking_payload_4_anything
+- clickjacking_payload_5_can
+severity: high
+type: clickjacking

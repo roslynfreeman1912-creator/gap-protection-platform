@@ -1,0 +1,9 @@
+name: Synchronized incremental secured line
+payloads:
+- clickjacking_payload_1_best
+- clickjacking_payload_2_later
+- clickjacking_payload_3_establish
+- clickjacking_payload_4_region
+- clickjacking_payload_5_color
+severity: medium
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Phased holistic product
+payloads:
+- path-traversal_payload_1_after
+- path-traversal_payload_2_television
+- path-traversal_payload_3_let
+- path-traversal_payload_4_of
+- path-traversal_payload_5_realize
+severity: low
+type: path-traversal

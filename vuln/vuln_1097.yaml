@@ -1,0 +1,9 @@
+name: Assimilated maximized installation
+payloads:
+- tabnabbing_payload_1_research
+- tabnabbing_payload_2_trial
+- tabnabbing_payload_3_company
+- tabnabbing_payload_4_easy
+- tabnabbing_payload_5_certain
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Integrated background task-force
+payloads:
+- path-traversal_payload_1_four
+- path-traversal_payload_2_phone
+- path-traversal_payload_3_water
+- path-traversal_payload_4_listen
+- path-traversal_payload_5_about
+severity: critical
+type: path-traversal

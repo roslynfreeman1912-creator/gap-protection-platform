@@ -1,0 +1,9 @@
+name: Multi-channeled reciprocal open architecture
+payloads:
+- csp-bypass_payload_1_beautiful
+- csp-bypass_payload_2_game
+- csp-bypass_payload_3_toward
+- csp-bypass_payload_4_away
+- csp-bypass_payload_5_per
+severity: medium
+type: csp-bypass

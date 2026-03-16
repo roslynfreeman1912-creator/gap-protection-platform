@@ -1,0 +1,9 @@
+name: Centralized executive paradigm
+payloads:
+- clickjacking_payload_1_car
+- clickjacking_payload_2_stuff
+- clickjacking_payload_3_important
+- clickjacking_payload_4_which
+- clickjacking_payload_5_media
+severity: critical
+type: clickjacking

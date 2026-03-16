@@ -1,0 +1,9 @@
+name: Fundamental scalable throughput
+payloads:
+- javascript-injection_payload_1_force
+- javascript-injection_payload_2_establish
+- javascript-injection_payload_3_end
+- javascript-injection_payload_4_upon
+- javascript-injection_payload_5_wide
+severity: low
+type: javascript-injection

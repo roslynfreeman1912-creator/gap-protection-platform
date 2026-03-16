@@ -1,0 +1,9 @@
+name: Sharable actuating policy
+payloads:
+- clickjacking_payload_1_smile
+- clickjacking_payload_2_law
+- clickjacking_payload_3_car
+- clickjacking_payload_4_look
+- clickjacking_payload_5_since
+severity: medium
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Multi-tiered bottom-line productivity
+payloads:
+- ldap-injection_payload_1_business
+- ldap-injection_payload_2_argue
+- ldap-injection_payload_3_seven
+- ldap-injection_payload_4_involve
+- ldap-injection_payload_5_interest
+severity: medium
+type: ldap-injection

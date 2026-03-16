@@ -1,0 +1,9 @@
+name: Inverse homogeneous functionalities
+payloads:
+- file-upload_payload_1_treat
+- file-upload_payload_2_politics
+- file-upload_payload_3_prevent
+- file-upload_payload_4_allow
+- file-upload_payload_5_inside
+severity: low
+type: file-upload

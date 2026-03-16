@@ -1,0 +1,9 @@
+name: Synchronized neutral groupware
+payloads:
+- javascript-injection_payload_1_chair
+- javascript-injection_payload_2_group
+- javascript-injection_payload_3_push
+- javascript-injection_payload_4_military
+- javascript-injection_payload_5_day
+severity: medium
+type: javascript-injection

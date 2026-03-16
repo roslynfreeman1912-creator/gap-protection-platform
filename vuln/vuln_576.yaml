@@ -1,0 +1,9 @@
+name: Fundamental context-sensitive support
+payloads:
+- sql_payload_1_open
+- sql_payload_2_fish
+- sql_payload_3_outside
+- sql_payload_4_nor
+- sql_payload_5_various
+severity: low
+type: sql

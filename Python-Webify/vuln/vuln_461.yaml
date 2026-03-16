@@ -1,0 +1,9 @@
+name: Fundamental exuding strategy
+payloads:
+- xxe_payload_1_impact
+- xxe_payload_2_why
+- xxe_payload_3_stay
+- xxe_payload_4_bring
+- xxe_payload_5_economy
+severity: medium
+type: xxe

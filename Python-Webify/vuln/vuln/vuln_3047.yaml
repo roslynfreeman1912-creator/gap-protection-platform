@@ -1,0 +1,9 @@
+name: Persevering local infrastructure
+payloads:
+- tabnabbing_payload_1_science
+- tabnabbing_payload_2_information
+- tabnabbing_payload_3_cell
+- tabnabbing_payload_4_person
+- tabnabbing_payload_5_nature
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Re-engineered bifurcated knowledgebase
+payloads:
+- ssti_payload_1_do
+- ssti_payload_2_better
+- ssti_payload_3_contain
+- ssti_payload_4_society
+- ssti_payload_5_discuss
+severity: low
+type: ssti

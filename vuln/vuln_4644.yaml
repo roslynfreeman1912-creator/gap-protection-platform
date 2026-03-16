@@ -1,0 +1,9 @@
+name: Operative 5thgeneration Internet solution
+payloads:
+- javascript-injection_payload_1_different
+- javascript-injection_payload_2_site
+- javascript-injection_payload_3_show
+- javascript-injection_payload_4_must
+- javascript-injection_payload_5_seven
+severity: high
+type: javascript-injection

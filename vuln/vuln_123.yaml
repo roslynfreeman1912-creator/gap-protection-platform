@@ -1,0 +1,9 @@
+name: Multi-tiered reciprocal adapter
+payloads:
+- hsts-misconfig_payload_1_player
+- hsts-misconfig_payload_2_question
+- hsts-misconfig_payload_3_old
+- hsts-misconfig_payload_4_vote
+- hsts-misconfig_payload_5_we
+severity: medium
+type: hsts-misconfig

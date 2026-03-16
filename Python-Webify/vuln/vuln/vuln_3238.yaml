@@ -1,0 +1,9 @@
+name: Customer-focused client-driven model
+payloads:
+- nosql-injection_payload_1_suddenly
+- nosql-injection_payload_2_who
+- nosql-injection_payload_3_ok
+- nosql-injection_payload_4_true
+- nosql-injection_payload_5_challenge
+severity: low
+type: nosql-injection

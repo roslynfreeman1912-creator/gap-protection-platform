@@ -1,0 +1,9 @@
+name: Integrated dynamic structure
+payloads:
+- nosql-injection_payload_1_media
+- nosql-injection_payload_2_help
+- nosql-injection_payload_3_cell
+- nosql-injection_payload_4_hard
+- nosql-injection_payload_5_simply
+severity: critical
+type: nosql-injection

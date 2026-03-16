@@ -1,0 +1,9 @@
+name: Triple-buffered homogeneous success
+payloads:
+- open-redirect_payload_1_authority
+- open-redirect_payload_2_tonight
+- open-redirect_payload_3_maybe
+- open-redirect_payload_4_instead
+- open-redirect_payload_5_believe
+severity: high
+type: open-redirect

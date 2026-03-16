@@ -1,0 +1,9 @@
+name: Operative regional protocol
+payloads:
+- path-traversal_payload_1_executive
+- path-traversal_payload_2_garden
+- path-traversal_payload_3_amount
+- path-traversal_payload_4_word
+- path-traversal_payload_5_surface
+severity: critical
+type: path-traversal

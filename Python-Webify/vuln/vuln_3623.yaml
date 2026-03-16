@@ -1,0 +1,9 @@
+name: Progressive directional framework
+payloads:
+- hsts-misconfig_payload_1_executive
+- hsts-misconfig_payload_2_attack
+- hsts-misconfig_payload_3_popular
+- hsts-misconfig_payload_4_yourself
+- hsts-misconfig_payload_5_father
+severity: low
+type: hsts-misconfig

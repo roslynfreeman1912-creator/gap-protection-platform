@@ -1,0 +1,9 @@
+name: Reverse-engineered static framework
+payloads:
+- ssrf_payload_1_position
+- ssrf_payload_2_away
+- ssrf_payload_3_family
+- ssrf_payload_4_yes
+- ssrf_payload_5_energy
+severity: medium
+type: ssrf

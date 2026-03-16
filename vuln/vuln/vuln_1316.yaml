@@ -1,0 +1,9 @@
+name: Right-sized mobile standardization
+payloads:
+- crlf-injection_payload_1_threat
+- crlf-injection_payload_2_truth
+- crlf-injection_payload_3_civil
+- crlf-injection_payload_4_population
+- crlf-injection_payload_5_good
+severity: critical
+type: crlf-injection

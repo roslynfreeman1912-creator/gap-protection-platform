@@ -1,0 +1,9 @@
+name: Secured needs-based capacity
+payloads:
+- rfi_payload_1_shoulder
+- rfi_payload_2_state
+- rfi_payload_3_suddenly
+- rfi_payload_4_together
+- rfi_payload_5_always
+severity: medium
+type: rfi

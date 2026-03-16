@@ -1,0 +1,9 @@
+name: Networked reciprocal help-desk
+payloads:
+- mime-sniffing_payload_1_policy
+- mime-sniffing_payload_2_program
+- mime-sniffing_payload_3_national
+- mime-sniffing_payload_4_yard
+- mime-sniffing_payload_5_black
+severity: medium
+type: mime-sniffing

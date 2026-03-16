@@ -1,0 +1,9 @@
+name: Realigned maximized challenge
+payloads:
+- mime-sniffing_payload_1_project
+- mime-sniffing_payload_2_arrive
+- mime-sniffing_payload_3_drop
+- mime-sniffing_payload_4_civil
+- mime-sniffing_payload_5_best
+severity: medium
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Monitored interactive array
+payloads:
+- sql_payload_1_including
+- sql_payload_2_themselves
+- sql_payload_3_throw
+- sql_payload_4_move
+- sql_payload_5_they
+severity: high
+type: sql

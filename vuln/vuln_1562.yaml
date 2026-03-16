@@ -1,0 +1,9 @@
+name: Diverse 5thgeneration orchestration
+payloads:
+- ldap-injection_payload_1_there
+- ldap-injection_payload_2_rate
+- ldap-injection_payload_3_perhaps
+- ldap-injection_payload_4_market
+- ldap-injection_payload_5_stay
+severity: medium
+type: ldap-injection

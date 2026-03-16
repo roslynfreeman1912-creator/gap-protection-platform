@@ -1,0 +1,9 @@
+name: Face-to-face radical functionalities
+payloads:
+- nosql-injection_payload_1_week
+- nosql-injection_payload_2_small
+- nosql-injection_payload_3_matter
+- nosql-injection_payload_4_special
+- nosql-injection_payload_5_small
+severity: high
+type: nosql-injection

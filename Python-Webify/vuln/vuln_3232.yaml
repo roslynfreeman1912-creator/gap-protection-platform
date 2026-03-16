@@ -1,0 +1,9 @@
+name: Extended coherent hub
+payloads:
+- ssti_payload_1_conference
+- ssti_payload_2_according
+- ssti_payload_3_debate
+- ssti_payload_4_success
+- ssti_payload_5_capital
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Profit-focused zero tolerance service-desk
+payloads:
+- sql_payload_1_there
+- sql_payload_2_movement
+- sql_payload_3_heavy
+- sql_payload_4_analysis
+- sql_payload_5_issue
+severity: high
+type: sql

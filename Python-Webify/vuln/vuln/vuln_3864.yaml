@@ -1,0 +1,9 @@
+name: Synergized next generation intranet
+payloads:
+- clickjacking_payload_1_debate
+- clickjacking_payload_2_attorney
+- clickjacking_payload_3_consumer
+- clickjacking_payload_4_may
+- clickjacking_payload_5_occur
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Quality-focused coherent adapter
+payloads:
+- file-upload_payload_1_worry
+- file-upload_payload_2_born
+- file-upload_payload_3_size
+- file-upload_payload_4_establish
+- file-upload_payload_5_war
+severity: medium
+type: file-upload

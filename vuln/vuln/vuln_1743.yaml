@@ -1,0 +1,9 @@
+name: Synchronized composite website
+payloads:
+- subdomain-takeover_payload_1_art
+- subdomain-takeover_payload_2_table
+- subdomain-takeover_payload_3_fear
+- subdomain-takeover_payload_4_almost
+- subdomain-takeover_payload_5_you
+severity: critical
+type: subdomain-takeover

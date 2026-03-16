@@ -1,0 +1,9 @@
+name: Intuitive directional implementation
+payloads:
+- open-redirect_payload_1_religious
+- open-redirect_payload_2_move
+- open-redirect_payload_3_he
+- open-redirect_payload_4_sometimes
+- open-redirect_payload_5_industry
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Expanded web-enabled intranet
+payloads:
+- xxe_payload_1_blue
+- xxe_payload_2_always
+- xxe_payload_3_feeling
+- xxe_payload_4_design
+- xxe_payload_5_by
+severity: low
+type: xxe

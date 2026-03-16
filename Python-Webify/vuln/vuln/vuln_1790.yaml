@@ -1,0 +1,9 @@
+name: Function-based next generation secured line
+payloads:
+- jsonp-injection_payload_1_enjoy
+- jsonp-injection_payload_2_participant
+- jsonp-injection_payload_3_western
+- jsonp-injection_payload_4_like
+- jsonp-injection_payload_5_get
+severity: medium
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Robust intangible throughput
+payloads:
+- file-upload_payload_1_people
+- file-upload_payload_2_today
+- file-upload_payload_3_model
+- file-upload_payload_4_yes
+- file-upload_payload_5_without
+severity: critical
+type: file-upload

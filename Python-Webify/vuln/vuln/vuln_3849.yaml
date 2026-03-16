@@ -1,0 +1,9 @@
+name: Secured tangible pricing structure
+payloads:
+- csp-bypass_payload_1_artist
+- csp-bypass_payload_2_guy
+- csp-bypass_payload_3_admit
+- csp-bypass_payload_4_apply
+- csp-bypass_payload_5_sister
+severity: medium
+type: csp-bypass

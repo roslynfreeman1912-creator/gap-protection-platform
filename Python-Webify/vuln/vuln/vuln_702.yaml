@@ -1,0 +1,9 @@
+name: Configurable coherent interface
+payloads:
+- xss_payload_1_later
+- xss_payload_2_Congress
+- xss_payload_3_hard
+- xss_payload_4_American
+- xss_payload_5_their
+severity: high
+type: xss

@@ -1,0 +1,9 @@
+name: Triple-buffered next generation methodology
+payloads:
+- clickjacking_payload_1_cover
+- clickjacking_payload_2_night
+- clickjacking_payload_3_pretty
+- clickjacking_payload_4_treatment
+- clickjacking_payload_5_everybody
+severity: critical
+type: clickjacking

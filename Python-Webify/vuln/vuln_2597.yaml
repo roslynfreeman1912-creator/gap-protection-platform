@@ -1,0 +1,9 @@
+name: Object-based grid-enabled system engine
+payloads:
+- tabnabbing_payload_1_base
+- tabnabbing_payload_2_friend
+- tabnabbing_payload_3_campaign
+- tabnabbing_payload_4_her
+- tabnabbing_payload_5_he
+severity: low
+type: tabnabbing

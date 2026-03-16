@@ -1,0 +1,9 @@
+name: Managed 5thgeneration leverage
+payloads:
+- host-header-injection_payload_1_light
+- host-header-injection_payload_2_evening
+- host-header-injection_payload_3_well
+- host-header-injection_payload_4_visit
+- host-header-injection_payload_5_avoid
+severity: medium
+type: host-header-injection

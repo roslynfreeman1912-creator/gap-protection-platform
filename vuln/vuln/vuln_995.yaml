@@ -1,0 +1,9 @@
+name: Focused 5thgeneration projection
+payloads:
+- file-upload_payload_1_performance
+- file-upload_payload_2_fact
+- file-upload_payload_3_marriage
+- file-upload_payload_4_walk
+- file-upload_payload_5_much
+severity: low
+type: file-upload

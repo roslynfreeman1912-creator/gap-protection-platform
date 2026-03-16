@@ -1,0 +1,9 @@
+name: Automated 24hour encryption
+payloads:
+- csp-bypass_payload_1_either
+- csp-bypass_payload_2_whom
+- csp-bypass_payload_3_parent
+- csp-bypass_payload_4_standard
+- csp-bypass_payload_5_statement
+severity: high
+type: csp-bypass

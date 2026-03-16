@@ -1,0 +1,9 @@
+name: Compatible context-sensitive process improvement
+payloads:
+- jsonp-injection_payload_1_amount
+- jsonp-injection_payload_2_threat
+- jsonp-injection_payload_3_usually
+- jsonp-injection_payload_4_if
+- jsonp-injection_payload_5_American
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Visionary methodical workforce
+payloads:
+- xxe_payload_1_both
+- xxe_payload_2_happy
+- xxe_payload_3_mention
+- xxe_payload_4_most
+- xxe_payload_5_shake
+severity: critical
+type: xxe

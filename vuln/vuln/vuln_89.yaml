@@ -1,0 +1,9 @@
+name: Distributed analyzing hub
+payloads:
+- clickjacking_payload_1_speak
+- clickjacking_payload_2_garden
+- clickjacking_payload_3_maintain
+- clickjacking_payload_4_game
+- clickjacking_payload_5_short
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Multi-layered optimal solution
+payloads:
+- hsts-misconfig_payload_1_long
+- hsts-misconfig_payload_2_worry
+- hsts-misconfig_payload_3_director
+- hsts-misconfig_payload_4_pay
+- hsts-misconfig_payload_5_bar
+severity: medium
+type: hsts-misconfig

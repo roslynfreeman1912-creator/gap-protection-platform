@@ -1,0 +1,9 @@
+name: Focused neutral attitude
+payloads:
+- xss_payload_1_develop
+- xss_payload_2_nice
+- xss_payload_3_area
+- xss_payload_4_decade
+- xss_payload_5_concern
+severity: high
+type: xss

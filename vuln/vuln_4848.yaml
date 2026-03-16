@@ -1,0 +1,9 @@
+name: Right-sized zero tolerance moderator
+payloads:
+- hsts-misconfig_payload_1_now
+- hsts-misconfig_payload_2_base
+- hsts-misconfig_payload_3_ask
+- hsts-misconfig_payload_4_doctor
+- hsts-misconfig_payload_5_rule
+severity: critical
+type: hsts-misconfig

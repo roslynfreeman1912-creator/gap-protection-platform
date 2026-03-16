@@ -1,0 +1,9 @@
+name: Adaptive multimedia methodology
+payloads:
+- subdomain-takeover_payload_1_whole
+- subdomain-takeover_payload_2_sport
+- subdomain-takeover_payload_3_at
+- subdomain-takeover_payload_4_more
+- subdomain-takeover_payload_5_voice
+severity: medium
+type: subdomain-takeover

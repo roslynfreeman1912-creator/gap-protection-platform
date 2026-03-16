@@ -1,0 +1,9 @@
+name: Automated value-added contingency
+payloads:
+- host-header-injection_payload_1_worry
+- host-header-injection_payload_2_difficult
+- host-header-injection_payload_3_walk
+- host-header-injection_payload_4_left
+- host-header-injection_payload_5_teacher
+severity: high
+type: host-header-injection

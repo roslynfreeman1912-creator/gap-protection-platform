@@ -1,0 +1,9 @@
+name: Managed demand-driven complexity
+payloads:
+- xxe_payload_1_to
+- xxe_payload_2_art
+- xxe_payload_3_themselves
+- xxe_payload_4_him
+- xxe_payload_5_size
+severity: high
+type: xxe

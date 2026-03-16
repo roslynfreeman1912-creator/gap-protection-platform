@@ -1,0 +1,9 @@
+name: Focused directional alliance
+payloads:
+- rfi_payload_1_focus
+- rfi_payload_2_create
+- rfi_payload_3_actually
+- rfi_payload_4_change
+- rfi_payload_5_growth
+severity: high
+type: rfi

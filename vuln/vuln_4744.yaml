@@ -1,0 +1,9 @@
+name: Implemented content-based customer loyalty
+payloads:
+- javascript-injection_payload_1_morning
+- javascript-injection_payload_2_box
+- javascript-injection_payload_3_into
+- javascript-injection_payload_4_thought
+- javascript-injection_payload_5_want
+severity: critical
+type: javascript-injection

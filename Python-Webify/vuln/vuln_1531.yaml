@@ -1,0 +1,9 @@
+name: Object-based 24hour installation
+payloads:
+- csrf_payload_1_small
+- csrf_payload_2_perform
+- csrf_payload_3_scene
+- csrf_payload_4_career
+- csrf_payload_5_figure
+severity: low
+type: csrf

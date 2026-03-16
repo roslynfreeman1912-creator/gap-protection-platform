@@ -1,0 +1,9 @@
+name: Multi-tiered motivating website
+payloads:
+- xss_payload_1_site
+- xss_payload_2_free
+- xss_payload_3_couple
+- xss_payload_4_oil
+- xss_payload_5_our
+severity: low
+type: xss

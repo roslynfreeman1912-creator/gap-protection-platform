@@ -1,0 +1,9 @@
+name: Quality-focused tangible moratorium
+payloads:
+- host-header-injection_payload_1_grow
+- host-header-injection_payload_2_keep
+- host-header-injection_payload_3_organization
+- host-header-injection_payload_4_beautiful
+- host-header-injection_payload_5_get
+severity: medium
+type: host-header-injection

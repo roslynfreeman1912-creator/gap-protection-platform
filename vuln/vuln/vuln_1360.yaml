@@ -1,0 +1,9 @@
+name: Quality-focused next generation analyzer
+payloads:
+- open-redirect_payload_1_meeting
+- open-redirect_payload_2_method
+- open-redirect_payload_3_magazine
+- open-redirect_payload_4_star
+- open-redirect_payload_5_civil
+severity: low
+type: open-redirect

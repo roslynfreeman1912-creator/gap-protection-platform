@@ -1,0 +1,9 @@
+name: Front-line fresh-thinking complexity
+payloads:
+- lfi_payload_1_then
+- lfi_payload_2_attorney
+- lfi_payload_3_challenge
+- lfi_payload_4_enough
+- lfi_payload_5_deal
+severity: critical
+type: lfi

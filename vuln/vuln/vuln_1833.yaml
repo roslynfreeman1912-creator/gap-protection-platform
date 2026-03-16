@@ -1,0 +1,9 @@
+name: Reverse-engineered real-time conglomeration
+payloads:
+- command-injection_payload_1_investment
+- command-injection_payload_2_into
+- command-injection_payload_3_crime
+- command-injection_payload_4_current
+- command-injection_payload_5_send
+severity: low
+type: command-injection

@@ -1,0 +1,9 @@
+name: Organic bifurcated intranet
+payloads:
+- ssrf_payload_1_write
+- ssrf_payload_2_size
+- ssrf_payload_3_though
+- ssrf_payload_4_speak
+- ssrf_payload_5_service
+severity: low
+type: ssrf

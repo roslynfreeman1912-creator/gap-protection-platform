@@ -1,0 +1,9 @@
+name: Reduced real-time flexibility
+payloads:
+- command-injection_payload_1_establish
+- command-injection_payload_2_whatever
+- command-injection_payload_3_across
+- command-injection_payload_4_order
+- command-injection_payload_5_woman
+severity: medium
+type: command-injection

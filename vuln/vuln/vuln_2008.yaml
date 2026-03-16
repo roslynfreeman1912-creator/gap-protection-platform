@@ -1,0 +1,9 @@
+name: Upgradable secondary approach
+payloads:
+- command-injection_payload_1_economic
+- command-injection_payload_2_pattern
+- command-injection_payload_3_economic
+- command-injection_payload_4_magazine
+- command-injection_payload_5_than
+severity: medium
+type: command-injection

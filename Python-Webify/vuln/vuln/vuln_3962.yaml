@@ -1,0 +1,9 @@
+name: Cloned asymmetric synergy
+payloads:
+- ldap-injection_payload_1_produce
+- ldap-injection_payload_2_full
+- ldap-injection_payload_3_popular
+- ldap-injection_payload_4_dark
+- ldap-injection_payload_5_what
+severity: medium
+type: ldap-injection

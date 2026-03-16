@@ -1,0 +1,9 @@
+name: Cloned disintermediate extranet
+payloads:
+- open-redirect_payload_1_four
+- open-redirect_payload_2_phone
+- open-redirect_payload_3_expert
+- open-redirect_payload_4_enough
+- open-redirect_payload_5_town
+severity: critical
+type: open-redirect

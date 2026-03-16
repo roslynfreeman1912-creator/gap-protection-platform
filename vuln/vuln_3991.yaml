@@ -1,0 +1,9 @@
+name: Operative high-level infrastructure
+payloads:
+- crlf-injection_payload_1_phone
+- crlf-injection_payload_2_woman
+- crlf-injection_payload_3_them
+- crlf-injection_payload_4_successful
+- crlf-injection_payload_5_run
+severity: medium
+type: crlf-injection

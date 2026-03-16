@@ -1,0 +1,9 @@
+name: Polarized fault-tolerant capability
+payloads:
+- nosql-injection_payload_1_player
+- nosql-injection_payload_2_significant
+- nosql-injection_payload_3_enjoy
+- nosql-injection_payload_4_report
+- nosql-injection_payload_5_able
+severity: critical
+type: nosql-injection

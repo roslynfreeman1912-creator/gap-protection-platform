@@ -1,0 +1,9 @@
+name: Persevering clear-thinking synergy
+payloads:
+- jsonp-injection_payload_1_concern
+- jsonp-injection_payload_2_pass
+- jsonp-injection_payload_3_human
+- jsonp-injection_payload_4_environment
+- jsonp-injection_payload_5_fact
+severity: medium
+type: jsonp-injection

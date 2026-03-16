@@ -1,0 +1,9 @@
+name: Total discrete contingency
+payloads:
+- host-header-injection_payload_1_show
+- host-header-injection_payload_2_walk
+- host-header-injection_payload_3_social
+- host-header-injection_payload_4_night
+- host-header-injection_payload_5_who
+severity: high
+type: host-header-injection

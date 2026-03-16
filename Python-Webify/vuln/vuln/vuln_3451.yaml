@@ -1,0 +1,9 @@
+name: Ergonomic 6thgeneration paradigm
+payloads:
+- sql_payload_1_drive
+- sql_payload_2_mother
+- sql_payload_3_family
+- sql_payload_4_option
+- sql_payload_5_simply
+severity: critical
+type: sql

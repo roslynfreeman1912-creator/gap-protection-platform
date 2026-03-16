@@ -1,0 +1,9 @@
+name: Switchable optimizing intranet
+payloads:
+- xxe_payload_1_particularly
+- xxe_payload_2_spring
+- xxe_payload_3_girl
+- xxe_payload_4_tax
+- xxe_payload_5_firm
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Right-sized holistic artificial intelligence
+payloads:
+- sql_payload_1_cultural
+- sql_payload_2_beat
+- sql_payload_3_thought
+- sql_payload_4_special
+- sql_payload_5_relate
+severity: low
+type: sql

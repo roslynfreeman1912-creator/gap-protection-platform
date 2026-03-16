@@ -1,0 +1,9 @@
+name: Secured client-server neural-net
+payloads:
+- crlf-injection_payload_1_police
+- crlf-injection_payload_2_opportunity
+- crlf-injection_payload_3_whose
+- crlf-injection_payload_4_price
+- crlf-injection_payload_5_cut
+severity: medium
+type: crlf-injection

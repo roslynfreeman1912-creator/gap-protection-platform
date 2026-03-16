@@ -1,0 +1,9 @@
+name: Re-engineered holistic Local Area Network
+payloads:
+- path-traversal_payload_1_only
+- path-traversal_payload_2_yard
+- path-traversal_payload_3_with
+- path-traversal_payload_4_senior
+- path-traversal_payload_5_month
+severity: low
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Extended composite encoding
+payloads:
+- ssti_payload_1_as
+- ssti_payload_2_poor
+- ssti_payload_3_huge
+- ssti_payload_4_son
+- ssti_payload_5_during
+severity: medium
+type: ssti

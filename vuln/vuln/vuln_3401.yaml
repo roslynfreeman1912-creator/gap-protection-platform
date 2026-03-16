@@ -1,0 +1,9 @@
+name: User-centric zero-defect implementation
+payloads:
+- sql_payload_1_activity
+- sql_payload_2_although
+- sql_payload_3_difference
+- sql_payload_4_identify
+- sql_payload_5_process
+severity: medium
+type: sql

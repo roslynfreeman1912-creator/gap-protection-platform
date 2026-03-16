@@ -1,0 +1,9 @@
+name: Synergistic dedicated solution
+payloads:
+- hsts-misconfig_payload_1_star
+- hsts-misconfig_payload_2_first
+- hsts-misconfig_payload_3_wait
+- hsts-misconfig_payload_4_form
+- hsts-misconfig_payload_5_low
+severity: medium
+type: hsts-misconfig

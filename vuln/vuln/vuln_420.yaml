@@ -1,0 +1,9 @@
+name: Customer-focused transitional hierarchy
+payloads:
+- file-upload_payload_1_most
+- file-upload_payload_2_current
+- file-upload_payload_3_rest
+- file-upload_payload_4_positive
+- file-upload_payload_5_part
+severity: medium
+type: file-upload

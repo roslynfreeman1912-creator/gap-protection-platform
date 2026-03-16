@@ -1,0 +1,9 @@
+name: Front-line asymmetric flexibility
+payloads:
+- csrf_payload_1_write
+- csrf_payload_2_eight
+- csrf_payload_3_move
+- csrf_payload_4_in
+- csrf_payload_5_place
+severity: medium
+type: csrf

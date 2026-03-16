@@ -1,0 +1,9 @@
+name: Reactive even-keeled extranet
+payloads:
+- sql_payload_1_wife
+- sql_payload_2_he
+- sql_payload_3_reach
+- sql_payload_4_know
+- sql_payload_5_recent
+severity: critical
+type: sql

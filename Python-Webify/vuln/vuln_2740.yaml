@@ -1,0 +1,9 @@
+name: Reactive real-time protocol
+payloads:
+- jsonp-injection_payload_1_area
+- jsonp-injection_payload_2_street
+- jsonp-injection_payload_3_tell
+- jsonp-injection_payload_4_letter
+- jsonp-injection_payload_5_Republican
+severity: medium
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Focused multimedia moderator
+payloads:
+- rfi_payload_1_building
+- rfi_payload_2_hold
+- rfi_payload_3_time
+- rfi_payload_4_mouth
+- rfi_payload_5_force
+severity: low
+type: rfi

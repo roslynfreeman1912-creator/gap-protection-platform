@@ -1,0 +1,9 @@
+name: Enhanced asymmetric workforce
+payloads:
+- rfi_payload_1_hour
+- rfi_payload_2_produce
+- rfi_payload_3_lead
+- rfi_payload_4_family
+- rfi_payload_5_according
+severity: low
+type: rfi

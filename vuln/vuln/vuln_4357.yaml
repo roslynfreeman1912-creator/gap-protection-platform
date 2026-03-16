@@ -1,0 +1,9 @@
+name: Streamlined coherent encryption
+payloads:
+- ssti_payload_1_thus
+- ssti_payload_2_sound
+- ssti_payload_3_general
+- ssti_payload_4_stuff
+- ssti_payload_5_charge
+severity: low
+type: ssti

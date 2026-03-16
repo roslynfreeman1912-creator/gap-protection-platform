@@ -1,0 +1,9 @@
+name: Seamless human-resource budgetary management
+payloads:
+- file-upload_payload_1_hope
+- file-upload_payload_2_responsibility
+- file-upload_payload_3_suffer
+- file-upload_payload_4_we
+- file-upload_payload_5_eat
+severity: critical
+type: file-upload

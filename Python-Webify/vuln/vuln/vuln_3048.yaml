@@ -1,0 +1,9 @@
+name: Assimilated systematic Graphical User Interface
+payloads:
+- hsts-misconfig_payload_1_type
+- hsts-misconfig_payload_2_include
+- hsts-misconfig_payload_3_hour
+- hsts-misconfig_payload_4_save
+- hsts-misconfig_payload_5_also
+severity: high
+type: hsts-misconfig

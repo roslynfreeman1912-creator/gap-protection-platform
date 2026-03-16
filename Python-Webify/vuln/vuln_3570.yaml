@@ -1,0 +1,9 @@
+name: Optional 24/7 ability
+payloads:
+- file-upload_payload_1_hotel
+- file-upload_payload_2_for
+- file-upload_payload_3_here
+- file-upload_payload_4_keep
+- file-upload_payload_5_follow
+severity: medium
+type: file-upload

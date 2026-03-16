@@ -1,0 +1,9 @@
+name: Synchronized radical Graphic Interface
+payloads:
+- tabnabbing_payload_1_statement
+- tabnabbing_payload_2_suggest
+- tabnabbing_payload_3_value
+- tabnabbing_payload_4_consumer
+- tabnabbing_payload_5_than
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Synergized clear-thinking customer loyalty
+payloads:
+- csp-bypass_payload_1_Mrs
+- csp-bypass_payload_2_good
+- csp-bypass_payload_3_behind
+- csp-bypass_payload_4_garden
+- csp-bypass_payload_5_radio
+severity: critical
+type: csp-bypass

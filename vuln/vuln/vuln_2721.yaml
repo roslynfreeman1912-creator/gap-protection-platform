@@ -1,0 +1,9 @@
+name: Advanced tertiary productivity
+payloads:
+- mime-sniffing_payload_1_since
+- mime-sniffing_payload_2_gas
+- mime-sniffing_payload_3_crime
+- mime-sniffing_payload_4_parent
+- mime-sniffing_payload_5_law
+severity: medium
+type: mime-sniffing

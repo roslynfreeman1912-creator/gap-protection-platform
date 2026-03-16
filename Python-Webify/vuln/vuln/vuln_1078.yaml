@@ -1,0 +1,9 @@
+name: Synchronized empowering synergy
+payloads:
+- lfi_payload_1_may
+- lfi_payload_2_upon
+- lfi_payload_3_authority
+- lfi_payload_4_religious
+- lfi_payload_5_necessary
+severity: medium
+type: lfi

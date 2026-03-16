@@ -1,0 +1,9 @@
+name: Profit-focused asynchronous service-desk
+payloads:
+- lfi_payload_1_month
+- lfi_payload_2_finish
+- lfi_payload_3_during
+- lfi_payload_4_pick
+- lfi_payload_5_chance
+severity: medium
+type: lfi

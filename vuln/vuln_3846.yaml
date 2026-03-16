@@ -1,0 +1,9 @@
+name: Stand-alone reciprocal strategy
+payloads:
+- mime-sniffing_payload_1_reality
+- mime-sniffing_payload_2_body
+- mime-sniffing_payload_3_measure
+- mime-sniffing_payload_4_American
+- mime-sniffing_payload_5_opportunity
+severity: low
+type: mime-sniffing

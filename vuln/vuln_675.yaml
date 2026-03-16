@@ -1,0 +1,9 @@
+name: Managed bifurcated productivity
+payloads:
+- frame-injection_payload_1_idea
+- frame-injection_payload_2_whether
+- frame-injection_payload_3_ago
+- frame-injection_payload_4_such
+- frame-injection_payload_5_magazine
+severity: critical
+type: frame-injection

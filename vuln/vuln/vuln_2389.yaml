@@ -1,0 +1,9 @@
+name: Profound contextually-based synergy
+payloads:
+- clickjacking_payload_1_produce
+- clickjacking_payload_2_future
+- clickjacking_payload_3_road
+- clickjacking_payload_4_pay
+- clickjacking_payload_5_hand
+severity: critical
+type: clickjacking

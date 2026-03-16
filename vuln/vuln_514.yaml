@@ -1,0 +1,9 @@
+name: Re-contextualized asynchronous Graphical User Interface
+payloads:
+- clickjacking_payload_1_majority
+- clickjacking_payload_2_body
+- clickjacking_payload_3_window
+- clickjacking_payload_4_type
+- clickjacking_payload_5_fall
+severity: medium
+type: clickjacking

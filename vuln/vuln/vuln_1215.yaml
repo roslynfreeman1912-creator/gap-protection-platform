@@ -1,0 +1,9 @@
+name: Cloned modular instruction set
+payloads:
+- jsonp-injection_payload_1_successful
+- jsonp-injection_payload_2_glass
+- jsonp-injection_payload_3_affect
+- jsonp-injection_payload_4_door
+- jsonp-injection_payload_5_that
+severity: medium
+type: jsonp-injection

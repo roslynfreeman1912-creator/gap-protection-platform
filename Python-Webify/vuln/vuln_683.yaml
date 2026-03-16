@@ -1,0 +1,9 @@
+name: Devolved executive neural-net
+payloads:
+- command-injection_payload_1_by
+- command-injection_payload_2_whose
+- command-injection_payload_3_accept
+- command-injection_payload_4_computer
+- command-injection_payload_5_condition
+severity: medium
+type: command-injection

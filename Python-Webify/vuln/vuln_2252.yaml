@@ -1,0 +1,9 @@
+name: Universal coherent process improvement
+payloads:
+- xss_payload_1_despite
+- xss_payload_2_build
+- xss_payload_3_lawyer
+- xss_payload_4_seem
+- xss_payload_5_city
+severity: critical
+type: xss

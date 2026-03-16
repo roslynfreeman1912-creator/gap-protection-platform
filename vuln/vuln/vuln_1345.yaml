@@ -1,0 +1,9 @@
+name: Open-architected real-time parallelism
+payloads:
+- file-upload_payload_1_need
+- file-upload_payload_2_here
+- file-upload_payload_3_baby
+- file-upload_payload_4_huge
+- file-upload_payload_5_southern
+severity: critical
+type: file-upload

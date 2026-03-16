@@ -1,0 +1,9 @@
+name: Diverse real-time firmware
+payloads:
+- lfi_payload_1_put
+- lfi_payload_2_training
+- lfi_payload_3_truth
+- lfi_payload_4_color
+- lfi_payload_5_travel
+severity: medium
+type: lfi

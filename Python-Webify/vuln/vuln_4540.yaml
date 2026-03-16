@@ -1,0 +1,9 @@
+name: Adaptive 4thgeneration focus group
+payloads:
+- jsonp-injection_payload_1_wide
+- jsonp-injection_payload_2_example
+- jsonp-injection_payload_3_cause
+- jsonp-injection_payload_4_party
+- jsonp-injection_payload_5_agree
+severity: critical
+type: jsonp-injection

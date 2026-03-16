@@ -1,0 +1,9 @@
+name: Configurable composite archive
+payloads:
+- hsts-misconfig_payload_1_you
+- hsts-misconfig_payload_2_wish
+- hsts-misconfig_payload_3_conference
+- hsts-misconfig_payload_4_exactly
+- hsts-misconfig_payload_5_drug
+severity: low
+type: hsts-misconfig

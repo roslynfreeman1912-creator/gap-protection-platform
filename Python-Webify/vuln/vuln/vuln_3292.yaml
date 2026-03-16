@@ -1,0 +1,9 @@
+name: Compatible stable parallelism
+payloads:
+- host-header-injection_payload_1_least
+- host-header-injection_payload_2_lawyer
+- host-header-injection_payload_3_western
+- host-header-injection_payload_4_staff
+- host-header-injection_payload_5_hospital
+severity: low
+type: host-header-injection

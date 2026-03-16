@@ -1,0 +1,9 @@
+name: Synergistic even-keeled solution
+payloads:
+- hsts-misconfig_payload_1_detail
+- hsts-misconfig_payload_2_especially
+- hsts-misconfig_payload_3_night
+- hsts-misconfig_payload_4_purpose
+- hsts-misconfig_payload_5_beyond
+severity: low
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Digitized 6thgeneration model
+payloads:
+- xxe_payload_1_anything
+- xxe_payload_2_color
+- xxe_payload_3_reach
+- xxe_payload_4_once
+- xxe_payload_5_exactly
+severity: medium
+type: xxe

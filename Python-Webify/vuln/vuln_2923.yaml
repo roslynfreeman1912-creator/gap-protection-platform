@@ -1,0 +1,9 @@
+name: Phased national function
+payloads:
+- hsts-misconfig_payload_1_cost
+- hsts-misconfig_payload_2_success
+- hsts-misconfig_payload_3_collection
+- hsts-misconfig_payload_4_enough
+- hsts-misconfig_payload_5_list
+severity: low
+type: hsts-misconfig

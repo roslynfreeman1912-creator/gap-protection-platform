@@ -1,0 +1,9 @@
+name: Distributed mobile budgetary management
+payloads:
+- frame-injection_payload_1_small
+- frame-injection_payload_2_resource
+- frame-injection_payload_3_out
+- frame-injection_payload_4_stock
+- frame-injection_payload_5_campaign
+severity: high
+type: frame-injection

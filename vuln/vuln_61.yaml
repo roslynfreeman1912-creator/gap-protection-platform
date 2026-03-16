@@ -1,0 +1,9 @@
+name: Distributed static Local Area Network
+payloads:
+- xxe_payload_1_doctor
+- xxe_payload_2_world
+- xxe_payload_3_husband
+- xxe_payload_4_age
+- xxe_payload_5_season
+severity: critical
+type: xxe

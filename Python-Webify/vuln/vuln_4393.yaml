@@ -1,0 +1,9 @@
+name: Self-enabling mission-critical analyzer
+payloads:
+- subdomain-takeover_payload_1_everything
+- subdomain-takeover_payload_2_me
+- subdomain-takeover_payload_3_clearly
+- subdomain-takeover_payload_4_worker
+- subdomain-takeover_payload_5_either
+severity: medium
+type: subdomain-takeover

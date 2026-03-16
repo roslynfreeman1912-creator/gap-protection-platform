@@ -1,0 +1,9 @@
+name: Inverse directional hardware
+payloads:
+- file-upload_payload_1_he
+- file-upload_payload_2_increase
+- file-upload_payload_3_five
+- file-upload_payload_4_appear
+- file-upload_payload_5_fly
+severity: medium
+type: file-upload

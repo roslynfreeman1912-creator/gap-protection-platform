@@ -1,0 +1,9 @@
+name: Configurable fresh-thinking pricing structure
+payloads:
+- csrf_payload_1_building
+- csrf_payload_2_director
+- csrf_payload_3_job
+- csrf_payload_4_talk
+- csrf_payload_5_to
+severity: critical
+type: csrf

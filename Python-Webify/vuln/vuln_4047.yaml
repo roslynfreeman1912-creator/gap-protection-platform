@@ -1,0 +1,9 @@
+name: Phased interactive middleware
+payloads:
+- tabnabbing_payload_1_Mrs
+- tabnabbing_payload_2_full
+- tabnabbing_payload_3_water
+- tabnabbing_payload_4_my
+- tabnabbing_payload_5_list
+severity: critical
+type: tabnabbing

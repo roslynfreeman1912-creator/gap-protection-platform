@@ -1,0 +1,9 @@
+name: Customizable multimedia task-force
+payloads:
+- hsts-misconfig_payload_1_sea
+- hsts-misconfig_payload_2_over
+- hsts-misconfig_payload_3_compare
+- hsts-misconfig_payload_4_yes
+- hsts-misconfig_payload_5_indeed
+severity: medium
+type: hsts-misconfig

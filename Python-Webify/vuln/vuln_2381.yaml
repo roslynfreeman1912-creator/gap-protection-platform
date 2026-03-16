@@ -1,0 +1,9 @@
+name: Triple-buffered contextually-based moderator
+payloads:
+- csrf_payload_1_nor
+- csrf_payload_2_today
+- csrf_payload_3_dinner
+- csrf_payload_4_let
+- csrf_payload_5_boy
+severity: high
+type: csrf

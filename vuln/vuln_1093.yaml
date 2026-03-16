@@ -1,0 +1,9 @@
+name: Managed optimizing utilization
+payloads:
+- subdomain-takeover_payload_1_college
+- subdomain-takeover_payload_2_the
+- subdomain-takeover_payload_3_radio
+- subdomain-takeover_payload_4_we
+- subdomain-takeover_payload_5_but
+severity: critical
+type: subdomain-takeover

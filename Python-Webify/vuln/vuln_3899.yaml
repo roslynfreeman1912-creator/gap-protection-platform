@@ -1,0 +1,9 @@
+name: Devolved zero-defect hierarchy
+payloads:
+- csp-bypass_payload_1_walk
+- csp-bypass_payload_2_early
+- csp-bypass_payload_3_scene
+- csp-bypass_payload_4_dark
+- csp-bypass_payload_5_grow
+severity: critical
+type: csp-bypass

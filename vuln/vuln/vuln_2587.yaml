@@ -1,0 +1,9 @@
+name: Ergonomic contextually-based approach
+payloads:
+- ldap-injection_payload_1_suggest
+- ldap-injection_payload_2_research
+- ldap-injection_payload_3_you
+- ldap-injection_payload_4_item
+- ldap-injection_payload_5_officer
+severity: high
+type: ldap-injection

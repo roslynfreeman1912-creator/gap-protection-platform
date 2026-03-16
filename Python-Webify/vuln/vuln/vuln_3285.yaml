@@ -1,0 +1,9 @@
+name: Configurable fault-tolerant model
+payloads:
+- open-redirect_payload_1_all
+- open-redirect_payload_2_into
+- open-redirect_payload_3_agreement
+- open-redirect_payload_4_behind
+- open-redirect_payload_5_like
+severity: critical
+type: open-redirect

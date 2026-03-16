@@ -1,0 +1,9 @@
+name: Adaptive system-worthy instruction set
+payloads:
+- subdomain-takeover_payload_1_cover
+- subdomain-takeover_payload_2_forget
+- subdomain-takeover_payload_3_itself
+- subdomain-takeover_payload_4_during
+- subdomain-takeover_payload_5_million
+severity: critical
+type: subdomain-takeover

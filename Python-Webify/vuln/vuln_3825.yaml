@@ -1,0 +1,9 @@
+name: Versatile multimedia success
+payloads:
+- frame-injection_payload_1_option
+- frame-injection_payload_2_produce
+- frame-injection_payload_3_machine
+- frame-injection_payload_4_knowledge
+- frame-injection_payload_5_once
+severity: critical
+type: frame-injection

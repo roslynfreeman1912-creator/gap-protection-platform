@@ -1,0 +1,9 @@
+name: Networked optimal superstructure
+payloads:
+- lfi_payload_1_article
+- lfi_payload_2_draw
+- lfi_payload_3_resource
+- lfi_payload_4_action
+- lfi_payload_5_role
+severity: high
+type: lfi

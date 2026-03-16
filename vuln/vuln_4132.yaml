@@ -1,0 +1,9 @@
+name: Right-sized heuristic alliance
+payloads:
+- ssti_payload_1_course
+- ssti_payload_2_available
+- ssti_payload_3_seek
+- ssti_payload_4_standard
+- ssti_payload_5_commercial
+severity: high
+type: ssti

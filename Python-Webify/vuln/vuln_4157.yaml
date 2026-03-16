@@ -1,0 +1,9 @@
+name: Team-oriented modular open system
+payloads:
+- ssti_payload_1_my
+- ssti_payload_2_investment
+- ssti_payload_3_different
+- ssti_payload_4_quite
+- ssti_payload_5_five
+severity: critical
+type: ssti

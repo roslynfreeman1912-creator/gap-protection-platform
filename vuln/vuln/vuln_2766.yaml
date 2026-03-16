@@ -1,0 +1,9 @@
+name: Fundamental stable framework
+payloads:
+- crlf-injection_payload_1_television
+- crlf-injection_payload_2_buy
+- crlf-injection_payload_3_car
+- crlf-injection_payload_4_continue
+- crlf-injection_payload_5_hope
+severity: low
+type: crlf-injection

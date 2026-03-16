@@ -1,0 +1,9 @@
+name: Automated 4thgeneration standardization
+payloads:
+- tabnabbing_payload_1_build
+- tabnabbing_payload_2_leader
+- tabnabbing_payload_3_reduce
+- tabnabbing_payload_4_sign
+- tabnabbing_payload_5_begin
+severity: medium
+type: tabnabbing

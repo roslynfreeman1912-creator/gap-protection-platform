@@ -1,0 +1,9 @@
+name: Centralized homogeneous architecture
+payloads:
+- open-redirect_payload_1_program
+- open-redirect_payload_2_play
+- open-redirect_payload_3_expect
+- open-redirect_payload_4_social
+- open-redirect_payload_5_current
+severity: medium
+type: open-redirect

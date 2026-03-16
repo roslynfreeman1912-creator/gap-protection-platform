@@ -1,0 +1,9 @@
+name: Synchronized fault-tolerant matrix
+payloads:
+- path-traversal_payload_1_would
+- path-traversal_payload_2_tough
+- path-traversal_payload_3_morning
+- path-traversal_payload_4_involve
+- path-traversal_payload_5_beat
+severity: medium
+type: path-traversal

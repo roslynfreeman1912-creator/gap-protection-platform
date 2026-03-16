@@ -1,0 +1,9 @@
+name: Expanded motivating pricing structure
+payloads:
+- command-injection_payload_1_instead
+- command-injection_payload_2_off
+- command-injection_payload_3_up
+- command-injection_payload_4_range
+- command-injection_payload_5_act
+severity: low
+type: command-injection

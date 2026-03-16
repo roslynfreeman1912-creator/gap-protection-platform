@@ -1,0 +1,9 @@
+name: Synchronized radical encoding
+payloads:
+- xxe_payload_1_value
+- xxe_payload_2_tonight
+- xxe_payload_3_to
+- xxe_payload_4_evening
+- xxe_payload_5_collection
+severity: critical
+type: xxe

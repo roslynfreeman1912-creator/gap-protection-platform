@@ -1,0 +1,9 @@
+name: Upgradable global attitude
+payloads:
+- lfi_payload_1_traditional
+- lfi_payload_2_interesting
+- lfi_payload_3_chair
+- lfi_payload_4_often
+- lfi_payload_5_source
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: Cross-platform value-added encryption
+payloads:
+- lfi_payload_1_president
+- lfi_payload_2_oil
+- lfi_payload_3_wife
+- lfi_payload_4_organization
+- lfi_payload_5_toward
+severity: low
+type: lfi

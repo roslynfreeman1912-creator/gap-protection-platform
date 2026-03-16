@@ -1,0 +1,9 @@
+name: Extended eco-centric secured line
+payloads:
+- rfi_payload_1_church
+- rfi_payload_2_evidence
+- rfi_payload_3_pay
+- rfi_payload_4_expert
+- rfi_payload_5_garden
+severity: critical
+type: rfi

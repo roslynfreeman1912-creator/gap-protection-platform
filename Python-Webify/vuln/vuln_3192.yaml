@@ -1,0 +1,9 @@
+name: Vision-oriented grid-enabled encryption
+payloads:
+- host-header-injection_payload_1_book
+- host-header-injection_payload_2_his
+- host-header-injection_payload_3_attack
+- host-header-injection_payload_4_everybody
+- host-header-injection_payload_5_society
+severity: high
+type: host-header-injection

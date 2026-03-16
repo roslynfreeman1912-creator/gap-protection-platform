@@ -1,0 +1,9 @@
+name: Re-engineered global standardization
+payloads:
+- frame-injection_payload_1_in
+- frame-injection_payload_2_option
+- frame-injection_payload_3_civil
+- frame-injection_payload_4_land
+- frame-injection_payload_5_dinner
+severity: medium
+type: frame-injection

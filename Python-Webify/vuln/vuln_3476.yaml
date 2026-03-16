@@ -1,0 +1,9 @@
+name: Re-engineered national synergy
+payloads:
+- sql_payload_1_arrive
+- sql_payload_2_dog
+- sql_payload_3_suddenly
+- sql_payload_4_always
+- sql_payload_5_put
+severity: high
+type: sql

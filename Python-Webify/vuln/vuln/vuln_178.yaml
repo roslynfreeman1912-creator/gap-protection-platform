@@ -1,0 +1,9 @@
+name: Multi-tiered needs-based throughput
+payloads:
+- lfi_payload_1_think
+- lfi_payload_2_building
+- lfi_payload_3_than
+- lfi_payload_4_million
+- lfi_payload_5_when
+severity: critical
+type: lfi

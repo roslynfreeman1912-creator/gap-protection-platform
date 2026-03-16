@@ -1,0 +1,9 @@
+name: Organized system-worthy parallelism
+payloads:
+- host-header-injection_payload_1_research
+- host-header-injection_payload_2_throw
+- host-header-injection_payload_3_her
+- host-header-injection_payload_4_rise
+- host-header-injection_payload_5_arrive
+severity: low
+type: host-header-injection

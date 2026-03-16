@@ -1,0 +1,9 @@
+name: Multi-channeled system-worthy flexibility
+payloads:
+- tabnabbing_payload_1_cold
+- tabnabbing_payload_2_ahead
+- tabnabbing_payload_3_find
+- tabnabbing_payload_4_sea
+- tabnabbing_payload_5_born
+severity: medium
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Reverse-engineered even-keeled functionalities
+payloads:
+- frame-injection_payload_1_pressure
+- frame-injection_payload_2_business
+- frame-injection_payload_3_wonder
+- frame-injection_payload_4_several
+- frame-injection_payload_5_nor
+severity: high
+type: frame-injection

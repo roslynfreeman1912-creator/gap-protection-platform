@@ -1,0 +1,9 @@
+name: Expanded analyzing secured line
+payloads:
+- xss_payload_1_name
+- xss_payload_2_suddenly
+- xss_payload_3_city
+- xss_payload_4_couple
+- xss_payload_5_design
+severity: high
+type: xss

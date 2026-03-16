@@ -1,0 +1,9 @@
+name: Implemented reciprocal strategy
+payloads:
+- host-header-injection_payload_1_window
+- host-header-injection_payload_2_difficult
+- host-header-injection_payload_3_design
+- host-header-injection_payload_4_understand
+- host-header-injection_payload_5_hundred
+severity: critical
+type: host-header-injection

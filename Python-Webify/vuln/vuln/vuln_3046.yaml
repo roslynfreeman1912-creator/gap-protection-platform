@@ -1,0 +1,9 @@
+name: Enterprise-wide intangible hub
+payloads:
+- mime-sniffing_payload_1_vote
+- mime-sniffing_payload_2_blood
+- mime-sniffing_payload_3_reduce
+- mime-sniffing_payload_4_too
+- mime-sniffing_payload_5_kid
+severity: critical
+type: mime-sniffing

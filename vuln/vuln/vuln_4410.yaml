@@ -1,0 +1,9 @@
+name: Polarized discrete forecast
+payloads:
+- open-redirect_payload_1_agree
+- open-redirect_payload_2_throughout
+- open-redirect_payload_3_smile
+- open-redirect_payload_4_not
+- open-redirect_payload_5_star
+severity: high
+type: open-redirect

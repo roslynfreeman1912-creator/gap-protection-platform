@@ -1,0 +1,9 @@
+name: Advanced next generation neural-net
+payloads:
+- mime-sniffing_payload_1_very
+- mime-sniffing_payload_2_quite
+- mime-sniffing_payload_3_know
+- mime-sniffing_payload_4_clearly
+- mime-sniffing_payload_5_build
+severity: low
+type: mime-sniffing

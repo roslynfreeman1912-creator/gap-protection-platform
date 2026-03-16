@@ -1,0 +1,9 @@
+name: Intuitive 5thgeneration open architecture
+payloads:
+- tabnabbing_payload_1_still
+- tabnabbing_payload_2_particular
+- tabnabbing_payload_3_various
+- tabnabbing_payload_4_next
+- tabnabbing_payload_5_ability
+severity: high
+type: tabnabbing

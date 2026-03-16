@@ -1,0 +1,9 @@
+name: Assimilated bi-directional groupware
+payloads:
+- lfi_payload_1_opportunity
+- lfi_payload_2_way
+- lfi_payload_3_true
+- lfi_payload_4_government
+- lfi_payload_5_apply
+severity: critical
+type: lfi

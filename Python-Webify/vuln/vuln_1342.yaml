@@ -1,0 +1,9 @@
+name: Profound non-volatile strategy
+payloads:
+- host-header-injection_payload_1_throughout
+- host-header-injection_payload_2_up
+- host-header-injection_payload_3_toward
+- host-header-injection_payload_4_history
+- host-header-injection_payload_5_star
+severity: high
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Up-sized explicit extranet
+payloads:
+- mime-sniffing_payload_1_this
+- mime-sniffing_payload_2_store
+- mime-sniffing_payload_3_have
+- mime-sniffing_payload_4_site
+- mime-sniffing_payload_5_hair
+severity: critical
+type: mime-sniffing

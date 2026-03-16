@@ -1,0 +1,9 @@
+name: Cloned responsive project
+payloads:
+- tabnabbing_payload_1_no
+- tabnabbing_payload_2_road
+- tabnabbing_payload_3_consider
+- tabnabbing_payload_4_guy
+- tabnabbing_payload_5_serve
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Triple-buffered systematic policy
+payloads:
+- lfi_payload_1_board
+- lfi_payload_2_bit
+- lfi_payload_3_safe
+- lfi_payload_4_health
+- lfi_payload_5_age
+severity: critical
+type: lfi

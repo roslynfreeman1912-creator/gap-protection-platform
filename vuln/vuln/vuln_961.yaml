@@ -1,0 +1,9 @@
+name: Balanced hybrid architecture
+payloads:
+- xxe_payload_1_medical
+- xxe_payload_2_institution
+- xxe_payload_3_program
+- xxe_payload_4_often
+- xxe_payload_5_public
+severity: high
+type: xxe

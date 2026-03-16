@@ -1,0 +1,9 @@
+name: Up-sized 3rdgeneration concept
+payloads:
+- file-upload_payload_1_final
+- file-upload_payload_2_employee
+- file-upload_payload_3_form
+- file-upload_payload_4_property
+- file-upload_payload_5_stock
+severity: low
+type: file-upload

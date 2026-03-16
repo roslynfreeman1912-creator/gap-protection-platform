@@ -1,0 +1,9 @@
+name: Profit-focused bandwidth-monitored initiative
+payloads:
+- nosql-injection_payload_1_station
+- nosql-injection_payload_2_reach
+- nosql-injection_payload_3_evening
+- nosql-injection_payload_4_theory
+- nosql-injection_payload_5_three
+severity: critical
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Persevering directional conglomeration
+payloads:
+- xss_payload_1_federal
+- xss_payload_2_responsibility
+- xss_payload_3_my
+- xss_payload_4_nothing
+- xss_payload_5_school
+severity: high
+type: xss

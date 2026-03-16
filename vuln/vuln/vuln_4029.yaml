@@ -1,0 +1,9 @@
+name: Managed scalable strategy
+payloads:
+- rfi_payload_1_program
+- rfi_payload_2_wide
+- rfi_payload_3_matter
+- rfi_payload_4_enough
+- rfi_payload_5_into
+severity: high
+type: rfi

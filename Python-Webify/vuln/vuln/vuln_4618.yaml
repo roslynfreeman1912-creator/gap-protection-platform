@@ -1,0 +1,9 @@
+name: Grass-roots local capability
+payloads:
+- subdomain-takeover_payload_1_seek
+- subdomain-takeover_payload_2_section
+- subdomain-takeover_payload_3_resource
+- subdomain-takeover_payload_4_democratic
+- subdomain-takeover_payload_5_office
+severity: high
+type: subdomain-takeover

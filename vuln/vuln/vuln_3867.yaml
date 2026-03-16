@@ -1,0 +1,9 @@
+name: Secured attitude-oriented circuit
+payloads:
+- host-header-injection_payload_1_hit
+- host-header-injection_payload_2_get
+- host-header-injection_payload_3_result
+- host-header-injection_payload_4_find
+- host-header-injection_payload_5_also
+severity: low
+type: host-header-injection

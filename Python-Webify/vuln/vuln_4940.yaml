@@ -1,0 +1,9 @@
+name: Switchable stable time-frame
+payloads:
+- jsonp-injection_payload_1_expect
+- jsonp-injection_payload_2_wide
+- jsonp-injection_payload_3_whom
+- jsonp-injection_payload_4_attorney
+- jsonp-injection_payload_5_live
+severity: medium
+type: jsonp-injection

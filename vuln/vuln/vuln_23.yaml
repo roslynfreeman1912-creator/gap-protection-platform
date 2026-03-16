@@ -1,0 +1,9 @@
+name: Implemented hybrid standardization
+payloads:
+- hsts-misconfig_payload_1_degree
+- hsts-misconfig_payload_2_our
+- hsts-misconfig_payload_3_ever
+- hsts-misconfig_payload_4_want
+- hsts-misconfig_payload_5_responsibility
+severity: critical
+type: hsts-misconfig

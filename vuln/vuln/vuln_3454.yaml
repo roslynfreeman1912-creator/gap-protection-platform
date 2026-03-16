@@ -1,0 +1,9 @@
+name: Compatible upward-trending flexibility
+payloads:
+- rfi_payload_1_thousand
+- rfi_payload_2_even
+- rfi_payload_3_figure
+- rfi_payload_4_interesting
+- rfi_payload_5_material
+severity: critical
+type: rfi

@@ -1,0 +1,9 @@
+name: Stand-alone high-level moratorium
+payloads:
+- file-upload_payload_1_doctor
+- file-upload_payload_2_friend
+- file-upload_payload_3_bed
+- file-upload_payload_4_minute
+- file-upload_payload_5_person
+severity: medium
+type: file-upload

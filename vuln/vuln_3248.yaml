@@ -1,0 +1,9 @@
+name: Horizontal dedicated open system
+payloads:
+- hsts-misconfig_payload_1_drug
+- hsts-misconfig_payload_2_friend
+- hsts-misconfig_payload_3_third
+- hsts-misconfig_payload_4_account
+- hsts-misconfig_payload_5_civil
+severity: medium
+type: hsts-misconfig

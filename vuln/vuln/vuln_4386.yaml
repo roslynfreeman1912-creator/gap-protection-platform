@@ -1,0 +1,9 @@
+name: Business-focused transitional conglomeration
+payloads:
+- xxe_payload_1_suffer
+- xxe_payload_2_approach
+- xxe_payload_3_window
+- xxe_payload_4_wide
+- xxe_payload_5_seat
+severity: low
+type: xxe

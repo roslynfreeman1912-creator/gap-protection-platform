@@ -1,0 +1,9 @@
+name: Decentralized dynamic database
+payloads:
+- ssrf_payload_1_among
+- ssrf_payload_2_prepare
+- ssrf_payload_3_store
+- ssrf_payload_4_perhaps
+- ssrf_payload_5_style
+severity: high
+type: ssrf

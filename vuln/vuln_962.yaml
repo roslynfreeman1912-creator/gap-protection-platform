@@ -1,0 +1,9 @@
+name: Team-oriented transitional focus group
+payloads:
+- ldap-injection_payload_1_require
+- ldap-injection_payload_2_general
+- ldap-injection_payload_3_yard
+- ldap-injection_payload_4_western
+- ldap-injection_payload_5_hour
+severity: low
+type: ldap-injection

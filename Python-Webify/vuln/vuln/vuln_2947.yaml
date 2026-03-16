@@ -1,0 +1,9 @@
+name: Monitored asynchronous time-frame
+payloads:
+- tabnabbing_payload_1_Congress
+- tabnabbing_payload_2_ten
+- tabnabbing_payload_3_generation
+- tabnabbing_payload_4_who
+- tabnabbing_payload_5_performance
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Function-based responsive initiative
+payloads:
+- rfi_payload_1_especially
+- rfi_payload_2_meet
+- rfi_payload_3_factor
+- rfi_payload_4_look
+- rfi_payload_5_great
+severity: medium
+type: rfi

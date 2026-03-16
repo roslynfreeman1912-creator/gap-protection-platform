@@ -1,0 +1,9 @@
+name: Robust directional ability
+payloads:
+- rfi_payload_1_indeed
+- rfi_payload_2_produce
+- rfi_payload_3_do
+- rfi_payload_4_similar
+- rfi_payload_5_citizen
+severity: medium
+type: rfi

@@ -1,0 +1,7 @@
+name: "HTTP Parameter Pollution"
+type: "hpp"
+severity: "medium"
+payloads:
+  - "param=value1&param=value2"
+  - "param[]=value1&param[]=value2"
+  - "param=value1%26param%3Dvalue2"

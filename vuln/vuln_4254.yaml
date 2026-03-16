@@ -1,0 +1,9 @@
+name: Triple-buffered dedicated complexity
+payloads:
+- rfi_payload_1_interest
+- rfi_payload_2_situation
+- rfi_payload_3_now
+- rfi_payload_4_body
+- rfi_payload_5_call
+severity: high
+type: rfi

@@ -1,0 +1,9 @@
+name: Open-source fresh-thinking archive
+payloads:
+- xxe_payload_1_kind
+- xxe_payload_2_always
+- xxe_payload_3_data
+- xxe_payload_4_image
+- xxe_payload_5_thousand
+severity: medium
+type: xxe

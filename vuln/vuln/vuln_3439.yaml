@@ -1,0 +1,9 @@
+name: Synergistic local focus group
+payloads:
+- clickjacking_payload_1_society
+- clickjacking_payload_2_forget
+- clickjacking_payload_3_animal
+- clickjacking_payload_4_carry
+- clickjacking_payload_5_mission
+severity: critical
+type: clickjacking

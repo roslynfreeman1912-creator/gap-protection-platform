@@ -1,0 +1,9 @@
+name: Sharable national function
+payloads:
+- frame-injection_payload_1_never
+- frame-injection_payload_2_record
+- frame-injection_payload_3_check
+- frame-injection_payload_4_school
+- frame-injection_payload_5_government
+severity: critical
+type: frame-injection

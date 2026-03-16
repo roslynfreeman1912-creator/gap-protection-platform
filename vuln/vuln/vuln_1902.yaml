@@ -1,0 +1,9 @@
+name: Polarized fresh-thinking throughput
+payloads:
+- xss_payload_1_actually
+- xss_payload_2_less
+- xss_payload_3_trade
+- xss_payload_4_base
+- xss_payload_5_social
+severity: critical
+type: xss

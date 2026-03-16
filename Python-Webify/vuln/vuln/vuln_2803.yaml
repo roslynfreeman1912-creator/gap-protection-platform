@@ -1,0 +1,9 @@
+name: Multi-tiered optimizing hierarchy
+payloads:
+- lfi_payload_1_lead
+- lfi_payload_2_skill
+- lfi_payload_3_over
+- lfi_payload_4_option
+- lfi_payload_5_how
+severity: critical
+type: lfi

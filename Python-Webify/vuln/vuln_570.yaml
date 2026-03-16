@@ -1,0 +1,9 @@
+name: Expanded optimal complexity
+payloads:
+- file-upload_payload_1_head
+- file-upload_payload_2_speech
+- file-upload_payload_3_first
+- file-upload_payload_4_voice
+- file-upload_payload_5_cost
+severity: low
+type: file-upload

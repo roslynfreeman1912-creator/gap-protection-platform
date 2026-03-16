@@ -1,0 +1,9 @@
+name: Configurable needs-based framework
+payloads:
+- ssrf_payload_1_at
+- ssrf_payload_2_community
+- ssrf_payload_3_stage
+- ssrf_payload_4_she
+- ssrf_payload_5_mouth
+severity: medium
+type: ssrf

@@ -1,0 +1,9 @@
+name: Devolved intangible success
+payloads:
+- lfi_payload_1_role
+- lfi_payload_2_hospital
+- lfi_payload_3_character
+- lfi_payload_4_whom
+- lfi_payload_5_alone
+severity: high
+type: lfi

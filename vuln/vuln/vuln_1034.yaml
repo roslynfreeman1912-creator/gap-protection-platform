@@ -1,0 +1,9 @@
+name: Seamless hybrid frame
+payloads:
+- path-traversal_payload_1_back
+- path-traversal_payload_2_part
+- path-traversal_payload_3_perhaps
+- path-traversal_payload_4_occur
+- path-traversal_payload_5_land
+severity: low
+type: path-traversal

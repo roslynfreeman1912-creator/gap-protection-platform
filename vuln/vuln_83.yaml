@@ -1,0 +1,9 @@
+name: Managed asynchronous moratorium
+payloads:
+- command-injection_payload_1_major
+- command-injection_payload_2_campaign
+- command-injection_payload_3_magazine
+- command-injection_payload_4_plant
+- command-injection_payload_5_forget
+severity: critical
+type: command-injection

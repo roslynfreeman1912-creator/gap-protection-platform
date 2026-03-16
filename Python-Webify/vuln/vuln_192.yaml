@@ -1,0 +1,9 @@
+name: Streamlined solution-oriented architecture
+payloads:
+- host-header-injection_payload_1_worry
+- host-header-injection_payload_2_explain
+- host-header-injection_payload_3_field
+- host-header-injection_payload_4_major
+- host-header-injection_payload_5_couple
+severity: critical
+type: host-header-injection

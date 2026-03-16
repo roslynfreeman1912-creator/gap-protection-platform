@@ -1,0 +1,9 @@
+name: Re-contextualized fault-tolerant portal
+payloads:
+- jsonp-injection_payload_1_beyond
+- jsonp-injection_payload_2_across
+- jsonp-injection_payload_3_writer
+- jsonp-injection_payload_4_research
+- jsonp-injection_payload_5_practice
+severity: critical
+type: jsonp-injection

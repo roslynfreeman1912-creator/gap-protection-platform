@@ -1,0 +1,9 @@
+name: Reactive system-worthy alliance
+payloads:
+- ldap-injection_payload_1_American
+- ldap-injection_payload_2_I
+- ldap-injection_payload_3_national
+- ldap-injection_payload_4_require
+- ldap-injection_payload_5_former
+severity: medium
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Phased secondary forecast
+payloads:
+- file-upload_payload_1_win
+- file-upload_payload_2_hand
+- file-upload_payload_3_fine
+- file-upload_payload_4_new
+- file-upload_payload_5_time
+severity: critical
+type: file-upload

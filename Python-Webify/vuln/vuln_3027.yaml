@@ -1,0 +1,9 @@
+name: Profound demand-driven concept
+payloads:
+- xss_payload_1_situation
+- xss_payload_2_sense
+- xss_payload_3_wrong
+- xss_payload_4_among
+- xss_payload_5_yourself
+severity: medium
+type: xss

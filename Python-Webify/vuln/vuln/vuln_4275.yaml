@@ -1,0 +1,9 @@
+name: Centralized bifurcated architecture
+payloads:
+- frame-injection_payload_1_could
+- frame-injection_payload_2_organization
+- frame-injection_payload_3_apply
+- frame-injection_payload_4_six
+- frame-injection_payload_5_fish
+severity: medium
+type: frame-injection

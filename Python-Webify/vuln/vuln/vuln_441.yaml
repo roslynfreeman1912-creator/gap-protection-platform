@@ -1,0 +1,9 @@
+name: Seamless multi-tasking orchestration
+payloads:
+- crlf-injection_payload_1_full
+- crlf-injection_payload_2_organization
+- crlf-injection_payload_3_stock
+- crlf-injection_payload_4_relationship
+- crlf-injection_payload_5_hit
+severity: critical
+type: crlf-injection

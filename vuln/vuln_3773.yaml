@@ -1,0 +1,9 @@
+name: Business-focused attitude-oriented portal
+payloads:
+- hsts-misconfig_payload_1_dog
+- hsts-misconfig_payload_2_base
+- hsts-misconfig_payload_3_continue
+- hsts-misconfig_payload_4_hospital
+- hsts-misconfig_payload_5_main
+severity: high
+type: hsts-misconfig

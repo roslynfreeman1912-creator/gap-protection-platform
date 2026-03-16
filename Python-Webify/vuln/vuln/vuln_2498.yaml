@@ -1,0 +1,9 @@
+name: Polarized encompassing database
+payloads:
+- hsts-misconfig_payload_1_rest
+- hsts-misconfig_payload_2_color
+- hsts-misconfig_payload_3_evidence
+- hsts-misconfig_payload_4_process
+- hsts-misconfig_payload_5_various
+severity: medium
+type: hsts-misconfig

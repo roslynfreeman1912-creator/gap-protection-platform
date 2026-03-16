@@ -1,0 +1,9 @@
+name: Devolved stable help-desk
+payloads:
+- ssrf_payload_1_media
+- ssrf_payload_2_against
+- ssrf_payload_3_rich
+- ssrf_payload_4_truth
+- ssrf_payload_5_base
+severity: high
+type: ssrf

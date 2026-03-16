@@ -1,0 +1,9 @@
+name: Down-sized explicit capability
+payloads:
+- clickjacking_payload_1_still
+- clickjacking_payload_2_school
+- clickjacking_payload_3_surface
+- clickjacking_payload_4_support
+- clickjacking_payload_5_pretty
+severity: high
+type: clickjacking

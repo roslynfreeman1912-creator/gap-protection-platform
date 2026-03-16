@@ -1,0 +1,9 @@
+name: Implemented well-modulated flexibility
+payloads:
+- mime-sniffing_payload_1_worker
+- mime-sniffing_payload_2_raise
+- mime-sniffing_payload_3_black
+- mime-sniffing_payload_4_radio
+- mime-sniffing_payload_5_likely
+severity: high
+type: mime-sniffing

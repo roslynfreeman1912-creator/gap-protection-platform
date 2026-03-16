@@ -1,0 +1,7 @@
+name: "Padding Oracle"
+type: "padding_oracle"
+severity: "high"
+payloads:
+  - "ciphertext=AAAAAAAAAAAAAAAAAAAAAA"
+  - "ciphertext=000000000000000000000000"
+  - "ciphertext=FFFFFFFFFFFFFFFFFFFFFFF"

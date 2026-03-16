@@ -1,0 +1,9 @@
+name: Secured 24/7 open system
+payloads:
+- jsonp-injection_payload_1_value
+- jsonp-injection_payload_2_here
+- jsonp-injection_payload_3_beyond
+- jsonp-injection_payload_4_development
+- jsonp-injection_payload_5_ball
+severity: critical
+type: jsonp-injection

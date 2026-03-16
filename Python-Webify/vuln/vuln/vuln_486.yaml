@@ -1,0 +1,9 @@
+name: Customizable 5thgeneration algorithm
+payloads:
+- xxe_payload_1_visit
+- xxe_payload_2_movie
+- xxe_payload_3_Congress
+- xxe_payload_4_control
+- xxe_payload_5_do
+severity: low
+type: xxe

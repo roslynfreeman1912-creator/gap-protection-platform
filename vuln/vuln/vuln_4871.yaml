@@ -1,0 +1,9 @@
+name: Inverse zero-defect intranet
+payloads:
+- mime-sniffing_payload_1_house
+- mime-sniffing_payload_2_act
+- mime-sniffing_payload_3_raise
+- mime-sniffing_payload_4_than
+- mime-sniffing_payload_5_task
+severity: critical
+type: mime-sniffing

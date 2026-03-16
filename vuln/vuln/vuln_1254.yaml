@@ -1,0 +1,9 @@
+name: Triple-buffered attitude-oriented model
+payloads:
+- rfi_payload_1_really
+- rfi_payload_2_be
+- rfi_payload_3_air
+- rfi_payload_4_break
+- rfi_payload_5_decision
+severity: high
+type: rfi

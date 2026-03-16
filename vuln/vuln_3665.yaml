@@ -1,0 +1,9 @@
+name: Multi-tiered disintermediate open system
+payloads:
+- jsonp-injection_payload_1_seat
+- jsonp-injection_payload_2_young
+- jsonp-injection_payload_3_authority
+- jsonp-injection_payload_4_candidate
+- jsonp-injection_payload_5_technology
+severity: medium
+type: jsonp-injection

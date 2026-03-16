@@ -1,0 +1,9 @@
+name: Upgradable upward-trending infrastructure
+payloads:
+- xss_payload_1_hold
+- xss_payload_2_dark
+- xss_payload_3_voice
+- xss_payload_4_interview
+- xss_payload_5_fill
+severity: critical
+type: xss

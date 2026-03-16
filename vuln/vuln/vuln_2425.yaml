@@ -1,0 +1,9 @@
+name: Ergonomic well-modulated matrices
+payloads:
+- frame-injection_payload_1_general
+- frame-injection_payload_2_establish
+- frame-injection_payload_3_remain
+- frame-injection_payload_4_woman
+- frame-injection_payload_5_describe
+severity: low
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Inverse interactive adapter
+payloads:
+- csrf_payload_1_continue
+- csrf_payload_2_before
+- csrf_payload_3_hand
+- csrf_payload_4_question
+- csrf_payload_5_reach
+severity: low
+type: csrf

@@ -1,0 +1,9 @@
+name: Profit-focused contextually-based matrices
+payloads:
+- xxe_payload_1_necessary
+- xxe_payload_2_ten
+- xxe_payload_3_growth
+- xxe_payload_4_sometimes
+- xxe_payload_5_civil
+severity: low
+type: xxe

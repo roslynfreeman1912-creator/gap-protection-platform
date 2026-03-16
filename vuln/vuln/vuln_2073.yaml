@@ -1,0 +1,9 @@
+name: Streamlined 24/7 adapter
+payloads:
+- hsts-misconfig_payload_1_why
+- hsts-misconfig_payload_2_risk
+- hsts-misconfig_payload_3_cost
+- hsts-misconfig_payload_4_civil
+- hsts-misconfig_payload_5_during
+severity: critical
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Automated hybrid customer loyalty
+payloads:
+- csrf_payload_1_eye
+- csrf_payload_2_threat
+- csrf_payload_3_risk
+- csrf_payload_4_meet
+- csrf_payload_5_coach
+severity: low
+type: csrf

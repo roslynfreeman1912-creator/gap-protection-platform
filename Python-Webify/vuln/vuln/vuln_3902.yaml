@@ -1,0 +1,9 @@
+name: Adaptive multi-state support
+payloads:
+- xss_payload_1_area
+- xss_payload_2_scientist
+- xss_payload_3_page
+- xss_payload_4_responsibility
+- xss_payload_5_house
+severity: critical
+type: xss

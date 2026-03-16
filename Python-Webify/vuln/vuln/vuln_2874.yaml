@@ -1,0 +1,9 @@
+name: Sharable optimizing installation
+payloads:
+- csp-bypass_payload_1_billion
+- csp-bypass_payload_2_far
+- csp-bypass_payload_3_soldier
+- csp-bypass_payload_4_section
+- csp-bypass_payload_5_modern
+severity: critical
+type: csp-bypass

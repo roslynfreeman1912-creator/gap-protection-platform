@@ -1,0 +1,9 @@
+name: Visionary scalable capability
+payloads:
+- hsts-misconfig_payload_1_open
+- hsts-misconfig_payload_2_she
+- hsts-misconfig_payload_3_responsibility
+- hsts-misconfig_payload_4_serve
+- hsts-misconfig_payload_5_major
+severity: low
+type: hsts-misconfig

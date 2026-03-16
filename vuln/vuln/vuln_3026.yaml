@@ -1,0 +1,9 @@
+name: Centralized executive moderator
+payloads:
+- sql_payload_1_action
+- sql_payload_2_large
+- sql_payload_3_when
+- sql_payload_4_model
+- sql_payload_5_defense
+severity: low
+type: sql

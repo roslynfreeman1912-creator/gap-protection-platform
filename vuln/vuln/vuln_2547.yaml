@@ -1,0 +1,9 @@
+name: Multi-layered demand-driven challenge
+payloads:
+- tabnabbing_payload_1_performance
+- tabnabbing_payload_2_common
+- tabnabbing_payload_3_buy
+- tabnabbing_payload_4_game
+- tabnabbing_payload_5_join
+severity: high
+type: tabnabbing

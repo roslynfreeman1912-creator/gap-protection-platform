@@ -1,0 +1,9 @@
+name: Virtual attitude-oriented interface
+payloads:
+- clickjacking_payload_1_total
+- clickjacking_payload_2_party
+- clickjacking_payload_3_seem
+- clickjacking_payload_4_section
+- clickjacking_payload_5_north
+severity: critical
+type: clickjacking

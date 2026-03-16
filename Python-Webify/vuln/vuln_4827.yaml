@@ -1,0 +1,9 @@
+name: Virtual stable secured line
+payloads:
+- xss_payload_1_or
+- xss_payload_2_expert
+- xss_payload_3_term
+- xss_payload_4_score
+- xss_payload_5_war
+severity: medium
+type: xss

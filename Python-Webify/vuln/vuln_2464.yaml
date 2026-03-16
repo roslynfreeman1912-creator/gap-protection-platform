@@ -1,0 +1,9 @@
+name: Compatible 6thgeneration archive
+payloads:
+- clickjacking_payload_1_finish
+- clickjacking_payload_2_officer
+- clickjacking_payload_3_person
+- clickjacking_payload_4_benefit
+- clickjacking_payload_5_ahead
+severity: high
+type: clickjacking

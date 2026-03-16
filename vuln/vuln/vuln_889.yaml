@@ -1,0 +1,9 @@
+name: Exclusive object-oriented time-frame
+payloads:
+- clickjacking_payload_1_after
+- clickjacking_payload_2_guess
+- clickjacking_payload_3_own
+- clickjacking_payload_4_effort
+- clickjacking_payload_5_for
+severity: high
+type: clickjacking

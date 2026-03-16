@@ -1,0 +1,9 @@
+name: Integrated scalable structure
+payloads:
+- open-redirect_payload_1_bring
+- open-redirect_payload_2_employee
+- open-redirect_payload_3_natural
+- open-redirect_payload_4_entire
+- open-redirect_payload_5_whose
+severity: medium
+type: open-redirect

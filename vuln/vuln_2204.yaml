@@ -1,0 +1,9 @@
+name: Multi-tiered 6thgeneration implementation
+payloads:
+- rfi_payload_1_economic
+- rfi_payload_2_movie
+- rfi_payload_3_north
+- rfi_payload_4_surface
+- rfi_payload_5_wall
+severity: low
+type: rfi

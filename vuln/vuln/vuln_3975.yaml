@@ -1,0 +1,9 @@
+name: Distributed actuating alliance
+payloads:
+- frame-injection_payload_1_hair
+- frame-injection_payload_2_yeah
+- frame-injection_payload_3_plan
+- frame-injection_payload_4_be
+- frame-injection_payload_5_type
+severity: critical
+type: frame-injection

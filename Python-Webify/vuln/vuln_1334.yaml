@@ -1,0 +1,9 @@
+name: Robust 5thgeneration architecture
+payloads:
+- path-traversal_payload_1_at
+- path-traversal_payload_2_local
+- path-traversal_payload_3_only
+- path-traversal_payload_4_professional
+- path-traversal_payload_5_shake
+severity: critical
+type: path-traversal

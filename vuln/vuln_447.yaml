@@ -1,0 +1,9 @@
+name: Managed transitional solution
+payloads:
+- tabnabbing_payload_1_star
+- tabnabbing_payload_2_even
+- tabnabbing_payload_3_degree
+- tabnabbing_payload_4_clear
+- tabnabbing_payload_5_after
+severity: critical
+type: tabnabbing

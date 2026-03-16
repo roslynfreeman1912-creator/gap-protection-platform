@@ -1,0 +1,9 @@
+name: Decentralized contextually-based array
+payloads:
+- sql_payload_1_administration
+- sql_payload_2_specific
+- sql_payload_3_foot
+- sql_payload_4_without
+- sql_payload_5_black
+severity: medium
+type: sql

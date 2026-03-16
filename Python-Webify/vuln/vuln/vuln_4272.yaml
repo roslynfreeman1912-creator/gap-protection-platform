@@ -1,0 +1,9 @@
+name: Synchronized secondary Graphical User Interface
+payloads:
+- tabnabbing_payload_1_particular
+- tabnabbing_payload_2_know
+- tabnabbing_payload_3_full
+- tabnabbing_payload_4_out
+- tabnabbing_payload_5_scene
+severity: medium
+type: tabnabbing

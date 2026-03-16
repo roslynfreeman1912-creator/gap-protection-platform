@@ -1,0 +1,9 @@
+name: Multi-lateral reciprocal groupware
+payloads:
+- crlf-injection_payload_1_reflect
+- crlf-injection_payload_2_particular
+- crlf-injection_payload_3_option
+- crlf-injection_payload_4_quickly
+- crlf-injection_payload_5_would
+severity: medium
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Streamlined multimedia conglomeration
+payloads:
+- nosql-injection_payload_1_know
+- nosql-injection_payload_2_skin
+- nosql-injection_payload_3_rest
+- nosql-injection_payload_4_us
+- nosql-injection_payload_5_full
+severity: medium
+type: nosql-injection

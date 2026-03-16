@@ -1,0 +1,9 @@
+name: Customer-focused object-oriented instruction set
+payloads:
+- sql_payload_1_house
+- sql_payload_2_show
+- sql_payload_3_condition
+- sql_payload_4_few
+- sql_payload_5_nor
+severity: medium
+type: sql

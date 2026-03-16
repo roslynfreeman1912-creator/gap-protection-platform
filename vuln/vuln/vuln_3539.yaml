@@ -1,0 +1,9 @@
+name: Cross-group web-enabled standardization
+payloads:
+- clickjacking_payload_1_high
+- clickjacking_payload_2_himself
+- clickjacking_payload_3_well
+- clickjacking_payload_4_letter
+- clickjacking_payload_5_fill
+severity: low
+type: clickjacking

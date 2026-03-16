@@ -1,0 +1,9 @@
+name: Cloned interactive service-desk
+payloads:
+- file-upload_payload_1_mention
+- file-upload_payload_2_front
+- file-upload_payload_3_place
+- file-upload_payload_4_property
+- file-upload_payload_5_door
+severity: low
+type: file-upload

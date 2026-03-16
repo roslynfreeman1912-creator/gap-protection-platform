@@ -1,0 +1,9 @@
+name: Re-contextualized high-level monitoring
+payloads:
+- csp-bypass_payload_1_politics
+- csp-bypass_payload_2_test
+- csp-bypass_payload_3_child
+- csp-bypass_payload_4_seem
+- csp-bypass_payload_5_world
+severity: high
+type: csp-bypass

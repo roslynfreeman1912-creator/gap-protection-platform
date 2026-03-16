@@ -1,0 +1,9 @@
+name: Multi-channeled interactive algorithm
+payloads:
+- subdomain-takeover_payload_1_where
+- subdomain-takeover_payload_2_practice
+- subdomain-takeover_payload_3_program
+- subdomain-takeover_payload_4_move
+- subdomain-takeover_payload_5_skill
+severity: medium
+type: subdomain-takeover

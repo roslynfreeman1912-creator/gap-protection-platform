@@ -1,0 +1,9 @@
+name: Organized disintermediate productivity
+payloads:
+- host-header-injection_payload_1_call
+- host-header-injection_payload_2_billion
+- host-header-injection_payload_3_also
+- host-header-injection_payload_4_people
+- host-header-injection_payload_5_job
+severity: low
+type: host-header-injection

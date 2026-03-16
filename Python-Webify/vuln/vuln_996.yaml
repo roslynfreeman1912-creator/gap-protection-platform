@@ -1,0 +1,9 @@
+name: Organic modular functionalities
+payloads:
+- mime-sniffing_payload_1_maintain
+- mime-sniffing_payload_2_agent
+- mime-sniffing_payload_3_past
+- mime-sniffing_payload_4_him
+- mime-sniffing_payload_5_nothing
+severity: low
+type: mime-sniffing

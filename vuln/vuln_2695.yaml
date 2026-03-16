@@ -1,0 +1,9 @@
+name: Reactive radical parallelism
+payloads:
+- file-upload_payload_1_song
+- file-upload_payload_2_care
+- file-upload_payload_3_season
+- file-upload_payload_4_position
+- file-upload_payload_5_form
+severity: low
+type: file-upload

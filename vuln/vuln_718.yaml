@@ -1,0 +1,9 @@
+name: Grass-roots motivating implementation
+payloads:
+- subdomain-takeover_payload_1_push
+- subdomain-takeover_payload_2_security
+- subdomain-takeover_payload_3_blue
+- subdomain-takeover_payload_4_quality
+- subdomain-takeover_payload_5_drop
+severity: low
+type: subdomain-takeover

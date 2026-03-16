@@ -1,0 +1,9 @@
+name: Advanced analyzing model
+payloads:
+- crlf-injection_payload_1_night
+- crlf-injection_payload_2_wife
+- crlf-injection_payload_3_base
+- crlf-injection_payload_4_when
+- crlf-injection_payload_5_compare
+severity: medium
+type: crlf-injection

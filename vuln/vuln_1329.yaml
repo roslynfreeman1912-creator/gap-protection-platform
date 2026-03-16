@@ -1,0 +1,9 @@
+name: Virtual empowering analyzer
+payloads:
+- rfi_payload_1_movie
+- rfi_payload_2_voice
+- rfi_payload_3_top
+- rfi_payload_4_home
+- rfi_payload_5_best
+severity: critical
+type: rfi

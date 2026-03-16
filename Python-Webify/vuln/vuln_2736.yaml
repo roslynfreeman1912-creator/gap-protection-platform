@@ -1,0 +1,9 @@
+name: Synergized real-time intranet
+payloads:
+- xxe_payload_1_service
+- xxe_payload_2_there
+- xxe_payload_3_property
+- xxe_payload_4_work
+- xxe_payload_5_all
+severity: low
+type: xxe

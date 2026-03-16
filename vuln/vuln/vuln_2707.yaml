@@ -1,0 +1,9 @@
+name: Versatile mobile extranet
+payloads:
+- ssti_payload_1_decision
+- ssti_payload_2_poor
+- ssti_payload_3_interest
+- ssti_payload_4_expert
+- ssti_payload_5_court
+severity: low
+type: ssti

@@ -1,0 +1,9 @@
+name: Public-key radical Local Area Network
+payloads:
+- rfi_payload_1_lead
+- rfi_payload_2_up
+- rfi_payload_3_debate
+- rfi_payload_4_most
+- rfi_payload_5_have
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Self-enabling solution-oriented architecture
+payloads:
+- jsonp-injection_payload_1_paper
+- jsonp-injection_payload_2_stay
+- jsonp-injection_payload_3_cause
+- jsonp-injection_payload_4_scene
+- jsonp-injection_payload_5_season
+severity: critical
+type: jsonp-injection

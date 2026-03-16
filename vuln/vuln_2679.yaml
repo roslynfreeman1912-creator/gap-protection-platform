@@ -1,0 +1,9 @@
+name: Ergonomic executive model
+payloads:
+- rfi_payload_1_test
+- rfi_payload_2_hour
+- rfi_payload_3_cold
+- rfi_payload_4_say
+- rfi_payload_5_ahead
+severity: medium
+type: rfi

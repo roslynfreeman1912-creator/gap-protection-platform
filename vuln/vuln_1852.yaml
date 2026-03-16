@@ -1,0 +1,9 @@
+name: Re-engineered needs-based toolset
+payloads:
+- xss_payload_1_technology
+- xss_payload_2_air
+- xss_payload_3_high
+- xss_payload_4_send
+- xss_payload_5_physical
+severity: high
+type: xss

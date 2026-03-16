@@ -1,0 +1,9 @@
+name: Inverse holistic complexity
+payloads:
+- hsts-misconfig_payload_1_young
+- hsts-misconfig_payload_2_six
+- hsts-misconfig_payload_3_scientist
+- hsts-misconfig_payload_4_character
+- hsts-misconfig_payload_5_great
+severity: low
+type: hsts-misconfig

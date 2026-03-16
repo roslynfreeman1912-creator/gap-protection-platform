@@ -1,0 +1,9 @@
+name: Multi-channeled multimedia implementation
+payloads:
+- mime-sniffing_payload_1_miss
+- mime-sniffing_payload_2_health
+- mime-sniffing_payload_3_own
+- mime-sniffing_payload_4_operation
+- mime-sniffing_payload_5_picture
+severity: low
+type: mime-sniffing

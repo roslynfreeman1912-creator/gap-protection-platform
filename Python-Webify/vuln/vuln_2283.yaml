@@ -1,0 +1,9 @@
+name: Streamlined homogeneous installation
+payloads:
+- command-injection_payload_1_six
+- command-injection_payload_2_operation
+- command-injection_payload_3_sign
+- command-injection_payload_4_project
+- command-injection_payload_5_nothing
+severity: medium
+type: command-injection

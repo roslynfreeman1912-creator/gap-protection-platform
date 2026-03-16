@@ -1,0 +1,9 @@
+name: Devolved executive workforce
+payloads:
+- open-redirect_payload_1_run
+- open-redirect_payload_2_ahead
+- open-redirect_payload_3_quite
+- open-redirect_payload_4_account
+- open-redirect_payload_5_doctor
+severity: critical
+type: open-redirect

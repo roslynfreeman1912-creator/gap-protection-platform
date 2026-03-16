@@ -1,0 +1,9 @@
+name: Multi-channeled high-level budgetary management
+payloads:
+- csp-bypass_payload_1_people
+- csp-bypass_payload_2_expect
+- csp-bypass_payload_3_happen
+- csp-bypass_payload_4_detail
+- csp-bypass_payload_5_education
+severity: high
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Business-focused holistic solution
+payloads:
+- hsts-misconfig_payload_1_do
+- hsts-misconfig_payload_2_same
+- hsts-misconfig_payload_3_they
+- hsts-misconfig_payload_4_series
+- hsts-misconfig_payload_5_effort
+severity: high
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Adaptive asynchronous website
+payloads:
+- open-redirect_payload_1_where
+- open-redirect_payload_2_could
+- open-redirect_payload_3_will
+- open-redirect_payload_4_rich
+- open-redirect_payload_5_detail
+severity: medium
+type: open-redirect

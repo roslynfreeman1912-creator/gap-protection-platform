@@ -1,0 +1,9 @@
+name: Triple-buffered mission-critical framework
+payloads:
+- open-redirect_payload_1_institution
+- open-redirect_payload_2_stuff
+- open-redirect_payload_3_lot
+- open-redirect_payload_4_job
+- open-redirect_payload_5_need
+severity: low
+type: open-redirect

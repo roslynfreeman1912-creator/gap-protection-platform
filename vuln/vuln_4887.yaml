@@ -1,0 +1,9 @@
+name: Streamlined explicit focus group
+payloads:
+- ldap-injection_payload_1_fast
+- ldap-injection_payload_2_production
+- ldap-injection_payload_3_loss
+- ldap-injection_payload_4_ready
+- ldap-injection_payload_5_share
+severity: low
+type: ldap-injection

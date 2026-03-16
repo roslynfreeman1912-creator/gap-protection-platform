@@ -1,0 +1,9 @@
+name: Reduced next generation definition
+payloads:
+- jsonp-injection_payload_1_itself
+- jsonp-injection_payload_2_organization
+- jsonp-injection_payload_3_discussion
+- jsonp-injection_payload_4_same
+- jsonp-injection_payload_5_common
+severity: medium
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Integrated zero tolerance solution
+payloads:
+- lfi_payload_1_off
+- lfi_payload_2_common
+- lfi_payload_3_technology
+- lfi_payload_4_plan
+- lfi_payload_5_explain
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Open-architected demand-driven productivity
+payloads:
+- ssrf_payload_1_authority
+- ssrf_payload_2_never
+- ssrf_payload_3_each
+- ssrf_payload_4_effect
+- ssrf_payload_5_study
+severity: low
+type: ssrf

@@ -1,0 +1,9 @@
+name: Face-to-face content-based methodology
+payloads:
+- path-traversal_payload_1_speak
+- path-traversal_payload_2_subject
+- path-traversal_payload_3_beyond
+- path-traversal_payload_4_television
+- path-traversal_payload_5_customer
+severity: critical
+type: path-traversal

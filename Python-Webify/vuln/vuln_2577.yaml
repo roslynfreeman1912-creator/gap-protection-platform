@@ -1,0 +1,9 @@
+name: Adaptive cohesive algorithm
+payloads:
+- xss_payload_1_despite
+- xss_payload_2_affect
+- xss_payload_3_attack
+- xss_payload_4_show
+- xss_payload_5_gun
+severity: critical
+type: xss

@@ -1,0 +1,9 @@
+name: Managed value-added strategy
+payloads:
+- host-header-injection_payload_1_property
+- host-header-injection_payload_2_thing
+- host-header-injection_payload_3_cell
+- host-header-injection_payload_4_claim
+- host-header-injection_payload_5_send
+severity: high
+type: host-header-injection

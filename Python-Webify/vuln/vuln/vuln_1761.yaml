@@ -1,0 +1,9 @@
+name: Optimized hybrid extranet
+payloads:
+- xxe_payload_1_money
+- xxe_payload_2_white
+- xxe_payload_3_television
+- xxe_payload_4_pressure
+- xxe_payload_5_road
+severity: low
+type: xxe

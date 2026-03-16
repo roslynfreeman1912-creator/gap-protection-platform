@@ -1,0 +1,9 @@
+name: Distributed 24/7 protocol
+payloads:
+- javascript-injection_payload_1_fall
+- javascript-injection_payload_2_people
+- javascript-injection_payload_3_church
+- javascript-injection_payload_4_tell
+- javascript-injection_payload_5_college
+severity: critical
+type: javascript-injection

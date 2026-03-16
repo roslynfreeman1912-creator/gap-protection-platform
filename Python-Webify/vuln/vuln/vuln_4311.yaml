@@ -1,0 +1,9 @@
+name: Managed interactive hierarchy
+payloads:
+- xxe_payload_1_response
+- xxe_payload_2_artist
+- xxe_payload_3_international
+- xxe_payload_4_material
+- xxe_payload_5_yet
+severity: high
+type: xxe

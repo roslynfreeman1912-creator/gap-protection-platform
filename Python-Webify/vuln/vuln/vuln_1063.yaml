@@ -1,0 +1,9 @@
+name: Extended empowering challenge
+payloads:
+- nosql-injection_payload_1_alone
+- nosql-injection_payload_2_film
+- nosql-injection_payload_3_office
+- nosql-injection_payload_4_require
+- nosql-injection_payload_5_individual
+severity: low
+type: nosql-injection

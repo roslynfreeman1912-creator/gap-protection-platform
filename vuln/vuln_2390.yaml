@@ -1,0 +1,9 @@
+name: Streamlined grid-enabled productivity
+payloads:
+- jsonp-injection_payload_1_support
+- jsonp-injection_payload_2_rock
+- jsonp-injection_payload_3_agreement
+- jsonp-injection_payload_4_which
+- jsonp-injection_payload_5_five
+severity: critical
+type: jsonp-injection

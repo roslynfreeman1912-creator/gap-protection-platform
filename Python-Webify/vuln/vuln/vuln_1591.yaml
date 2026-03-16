@@ -1,0 +1,9 @@
+name: Fully-configurable fault-tolerant parallelism
+payloads:
+- crlf-injection_payload_1_civil
+- crlf-injection_payload_2_others
+- crlf-injection_payload_3_each
+- crlf-injection_payload_4_might
+- crlf-injection_payload_5_no
+severity: medium
+type: crlf-injection

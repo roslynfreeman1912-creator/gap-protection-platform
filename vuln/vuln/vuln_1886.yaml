@@ -1,0 +1,9 @@
+name: Profound methodical support
+payloads:
+- xxe_payload_1_change
+- xxe_payload_2_education
+- xxe_payload_3_including
+- xxe_payload_4_range
+- xxe_payload_5_right
+severity: low
+type: xxe

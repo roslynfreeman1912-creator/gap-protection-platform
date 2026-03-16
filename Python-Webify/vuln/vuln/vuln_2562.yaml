@@ -1,0 +1,9 @@
+name: Ergonomic grid-enabled moratorium
+payloads:
+- ldap-injection_payload_1_side
+- ldap-injection_payload_2_charge
+- ldap-injection_payload_3_late
+- ldap-injection_payload_4_my
+- ldap-injection_payload_5_whether
+severity: high
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Face-to-face web-enabled focus group
+payloads:
+- lfi_payload_1_line
+- lfi_payload_2_especially
+- lfi_payload_3_visit
+- lfi_payload_4_employee
+- lfi_payload_5_article
+severity: critical
+type: lfi

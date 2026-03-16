@@ -1,0 +1,9 @@
+name: Reverse-engineered multi-tasking infrastructure
+payloads:
+- clickjacking_payload_1_structure
+- clickjacking_payload_2_especially
+- clickjacking_payload_3_research
+- clickjacking_payload_4_positive
+- clickjacking_payload_5_kitchen
+severity: high
+type: clickjacking

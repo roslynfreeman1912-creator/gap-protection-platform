@@ -1,0 +1,9 @@
+name: Re-contextualized intermediate support
+payloads:
+- nosql-injection_payload_1_food
+- nosql-injection_payload_2_reason
+- nosql-injection_payload_3_here
+- nosql-injection_payload_4_blood
+- nosql-injection_payload_5_month
+severity: medium
+type: nosql-injection

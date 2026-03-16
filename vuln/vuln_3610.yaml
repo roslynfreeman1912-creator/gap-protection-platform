@@ -1,0 +1,9 @@
+name: Multi-channeled 3rdgeneration matrix
+payloads:
+- open-redirect_payload_1_language
+- open-redirect_payload_2_course
+- open-redirect_payload_3_watch
+- open-redirect_payload_4_remember
+- open-redirect_payload_5_soon
+severity: low
+type: open-redirect

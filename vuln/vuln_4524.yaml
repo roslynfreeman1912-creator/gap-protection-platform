@@ -1,0 +1,9 @@
+name: Focused 5thgeneration benchmark
+payloads:
+- csp-bypass_payload_1_begin
+- csp-bypass_payload_2_toward
+- csp-bypass_payload_3_company
+- csp-bypass_payload_4_over
+- csp-bypass_payload_5_early
+severity: medium
+type: csp-bypass

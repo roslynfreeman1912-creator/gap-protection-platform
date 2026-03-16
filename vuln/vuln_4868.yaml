@@ -1,0 +1,9 @@
+name: Open-source modular moderator
+payloads:
+- subdomain-takeover_payload_1_sport
+- subdomain-takeover_payload_2_hit
+- subdomain-takeover_payload_3_however
+- subdomain-takeover_payload_4_age
+- subdomain-takeover_payload_5_small
+severity: medium
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Configurable optimizing analyzer
+payloads:
+- sql_payload_1_record
+- sql_payload_2_of
+- sql_payload_3_board
+- sql_payload_4_last
+- sql_payload_5_near
+severity: medium
+type: sql

@@ -1,0 +1,9 @@
+name: Programmable next generation matrix
+payloads:
+- subdomain-takeover_payload_1_term
+- subdomain-takeover_payload_2_anything
+- subdomain-takeover_payload_3_dinner
+- subdomain-takeover_payload_4_fire
+- subdomain-takeover_payload_5_window
+severity: critical
+type: subdomain-takeover

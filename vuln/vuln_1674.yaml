@@ -1,0 +1,9 @@
+name: Cross-platform responsive attitude
+payloads:
+- csp-bypass_payload_1_make
+- csp-bypass_payload_2_together
+- csp-bypass_payload_3_conference
+- csp-bypass_payload_4_song
+- csp-bypass_payload_5_sing
+severity: low
+type: csp-bypass

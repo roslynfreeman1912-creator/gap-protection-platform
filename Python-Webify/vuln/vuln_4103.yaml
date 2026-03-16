@@ -1,0 +1,9 @@
+name: Profit-focused upward-trending installation
+payloads:
+- lfi_payload_1_season
+- lfi_payload_2_result
+- lfi_payload_3_Congress
+- lfi_payload_4_with
+- lfi_payload_5_health
+severity: critical
+type: lfi

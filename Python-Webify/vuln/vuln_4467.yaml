@@ -1,0 +1,9 @@
+name: Organized 6thgeneration success
+payloads:
+- host-header-injection_payload_1_speech
+- host-header-injection_payload_2_skin
+- host-header-injection_payload_3_eye
+- host-header-injection_payload_4_executive
+- host-header-injection_payload_5_million
+severity: high
+type: host-header-injection

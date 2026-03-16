@@ -1,0 +1,9 @@
+name: Front-line web-enabled contingency
+payloads:
+- nosql-injection_payload_1_past
+- nosql-injection_payload_2_lose
+- nosql-injection_payload_3_relationship
+- nosql-injection_payload_4_simply
+- nosql-injection_payload_5_world
+severity: medium
+type: nosql-injection

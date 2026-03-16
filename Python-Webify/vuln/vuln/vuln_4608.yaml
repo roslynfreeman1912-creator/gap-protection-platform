@@ -1,0 +1,9 @@
+name: Reactive fault-tolerant monitoring
+payloads:
+- command-injection_payload_1_art
+- command-injection_payload_2_treat
+- command-injection_payload_3_seven
+- command-injection_payload_4_everybody
+- command-injection_payload_5_south
+severity: medium
+type: command-injection

@@ -1,0 +1,9 @@
+name: Monitored multi-state portal
+payloads:
+- tabnabbing_payload_1_seek
+- tabnabbing_payload_2_see
+- tabnabbing_payload_3_single
+- tabnabbing_payload_4_sure
+- tabnabbing_payload_5_mind
+severity: high
+type: tabnabbing

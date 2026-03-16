@@ -1,0 +1,9 @@
+name: Cloned content-based data-warehouse
+payloads:
+- xss_payload_1_attorney
+- xss_payload_2_almost
+- xss_payload_3_just
+- xss_payload_4_join
+- xss_payload_5_use
+severity: low
+type: xss

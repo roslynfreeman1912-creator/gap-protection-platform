@@ -1,0 +1,9 @@
+name: Pre-emptive 6thgeneration hierarchy
+payloads:
+- nosql-injection_payload_1_also
+- nosql-injection_payload_2_notice
+- nosql-injection_payload_3_agent
+- nosql-injection_payload_4_kind
+- nosql-injection_payload_5_support
+severity: low
+type: nosql-injection

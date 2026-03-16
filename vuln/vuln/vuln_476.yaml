@@ -1,0 +1,9 @@
+name: Devolved asynchronous framework
+payloads:
+- sql_payload_1_feeling
+- sql_payload_2_growth
+- sql_payload_3_feeling
+- sql_payload_4_newspaper
+- sql_payload_5_can
+severity: medium
+type: sql

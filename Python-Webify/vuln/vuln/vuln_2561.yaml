@@ -1,0 +1,9 @@
+name: Operative next generation task-force
+payloads:
+- xxe_payload_1_effect
+- xxe_payload_2_film
+- xxe_payload_3_mean
+- xxe_payload_4_floor
+- xxe_payload_5_blood
+severity: critical
+type: xxe

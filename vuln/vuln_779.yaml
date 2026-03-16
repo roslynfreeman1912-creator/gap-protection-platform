@@ -1,0 +1,9 @@
+name: Distributed bottom-line infrastructure
+payloads:
+- rfi_payload_1_after
+- rfi_payload_2_month
+- rfi_payload_3_single
+- rfi_payload_4_we
+- rfi_payload_5_relate
+severity: medium
+type: rfi

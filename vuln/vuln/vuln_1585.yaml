@@ -1,0 +1,9 @@
+name: Ergonomic radical customer loyalty
+payloads:
+- open-redirect_payload_1_fast
+- open-redirect_payload_2_throw
+- open-redirect_payload_3_determine
+- open-redirect_payload_4_might
+- open-redirect_payload_5_before
+severity: medium
+type: open-redirect

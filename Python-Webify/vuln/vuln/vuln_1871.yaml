@@ -1,0 +1,9 @@
+name: Business-focused content-based database
+payloads:
+- mime-sniffing_payload_1_sell
+- mime-sniffing_payload_2_work
+- mime-sniffing_payload_3_partner
+- mime-sniffing_payload_4_money
+- mime-sniffing_payload_5_year
+severity: medium
+type: mime-sniffing

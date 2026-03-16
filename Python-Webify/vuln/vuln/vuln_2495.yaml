@@ -1,0 +1,9 @@
+name: Down-sized content-based workforce
+payloads:
+- file-upload_payload_1_support
+- file-upload_payload_2_once
+- file-upload_payload_3_question
+- file-upload_payload_4_however
+- file-upload_payload_5_other
+severity: medium
+type: file-upload

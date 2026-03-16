@@ -1,0 +1,9 @@
+name: Enhanced 4thgeneration open system
+payloads:
+- mime-sniffing_payload_1_bar
+- mime-sniffing_payload_2_sometimes
+- mime-sniffing_payload_3_consumer
+- mime-sniffing_payload_4_remain
+- mime-sniffing_payload_5_cultural
+severity: low
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Pre-emptive object-oriented functionalities
+payloads:
+- xxe_payload_1_today
+- xxe_payload_2_blue
+- xxe_payload_3_Democrat
+- xxe_payload_4_feel
+- xxe_payload_5_Mrs
+severity: low
+type: xxe

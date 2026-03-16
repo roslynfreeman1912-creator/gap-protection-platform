@@ -1,0 +1,9 @@
+name: Integrated logistical Graphical User Interface
+payloads:
+- mime-sniffing_payload_1_company
+- mime-sniffing_payload_2_American
+- mime-sniffing_payload_3_size
+- mime-sniffing_payload_4_group
+- mime-sniffing_payload_5_decide
+severity: critical
+type: mime-sniffing

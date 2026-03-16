@@ -1,0 +1,9 @@
+name: Up-sized discrete matrices
+payloads:
+- nosql-injection_payload_1_marriage
+- nosql-injection_payload_2_difficult
+- nosql-injection_payload_3_baby
+- nosql-injection_payload_4_involve
+- nosql-injection_payload_5_certain
+severity: critical
+type: nosql-injection

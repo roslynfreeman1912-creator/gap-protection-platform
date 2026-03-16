@@ -1,0 +1,9 @@
+name: Multi-layered reciprocal analyzer
+payloads:
+- sql_payload_1_southern
+- sql_payload_2_situation
+- sql_payload_3_left
+- sql_payload_4_test
+- sql_payload_5_simple
+severity: low
+type: sql

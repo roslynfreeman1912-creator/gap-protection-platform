@@ -1,0 +1,9 @@
+name: Cross-group explicit encryption
+payloads:
+- jsonp-injection_payload_1_may
+- jsonp-injection_payload_2_charge
+- jsonp-injection_payload_3_generation
+- jsonp-injection_payload_4_anyone
+- jsonp-injection_payload_5_dark
+severity: medium
+type: jsonp-injection

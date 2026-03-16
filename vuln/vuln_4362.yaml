@@ -1,0 +1,9 @@
+name: Streamlined global forecast
+payloads:
+- ldap-injection_payload_1_always
+- ldap-injection_payload_2_summer
+- ldap-injection_payload_3_husband
+- ldap-injection_payload_4_physical
+- ldap-injection_payload_5_take
+severity: high
+type: ldap-injection

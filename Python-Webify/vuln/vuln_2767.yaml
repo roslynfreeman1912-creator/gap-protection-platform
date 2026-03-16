@@ -1,0 +1,9 @@
+name: Diverse global website
+payloads:
+- host-header-injection_payload_1_free
+- host-header-injection_payload_2_government
+- host-header-injection_payload_3_type
+- host-header-injection_payload_4_his
+- host-header-injection_payload_5_up
+severity: medium
+type: host-header-injection

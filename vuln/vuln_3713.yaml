@@ -1,0 +1,9 @@
+name: Triple-buffered bandwidth-monitored infrastructure
+payloads:
+- nosql-injection_payload_1_sea
+- nosql-injection_payload_2_structure
+- nosql-injection_payload_3_action
+- nosql-injection_payload_4_throw
+- nosql-injection_payload_5_identify
+severity: critical
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Versatile actuating system engine
+payloads:
+- sql_payload_1_region
+- sql_payload_2_indicate
+- sql_payload_3_what
+- sql_payload_4_deal
+- sql_payload_5_have
+severity: medium
+type: sql

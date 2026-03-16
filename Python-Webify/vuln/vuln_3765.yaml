@@ -1,0 +1,9 @@
+name: Reduced upward-trending infrastructure
+payloads:
+- jsonp-injection_payload_1_according
+- jsonp-injection_payload_2_high
+- jsonp-injection_payload_3_tend
+- jsonp-injection_payload_4_sure
+- jsonp-injection_payload_5_edge
+severity: high
+type: jsonp-injection

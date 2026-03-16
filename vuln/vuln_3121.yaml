@@ -1,0 +1,9 @@
+name: Upgradable web-enabled Graphic Interface
+payloads:
+- mime-sniffing_payload_1_into
+- mime-sniffing_payload_2_no
+- mime-sniffing_payload_3_white
+- mime-sniffing_payload_4_executive
+- mime-sniffing_payload_5_guess
+severity: medium
+type: mime-sniffing

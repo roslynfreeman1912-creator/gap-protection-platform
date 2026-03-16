@@ -1,0 +1,9 @@
+name: Universal real-time encoding
+payloads:
+- nosql-injection_payload_1_along
+- nosql-injection_payload_2_and
+- nosql-injection_payload_3_policy
+- nosql-injection_payload_4_site
+- nosql-injection_payload_5_go
+severity: critical
+type: nosql-injection

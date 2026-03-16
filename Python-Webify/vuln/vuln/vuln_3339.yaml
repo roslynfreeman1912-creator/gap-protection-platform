@@ -1,0 +1,9 @@
+name: Secured intermediate complexity
+payloads:
+- clickjacking_payload_1_reduce
+- clickjacking_payload_2_either
+- clickjacking_payload_3_knowledge
+- clickjacking_payload_4_boy
+- clickjacking_payload_5_raise
+severity: high
+type: clickjacking

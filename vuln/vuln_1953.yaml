@@ -1,0 +1,9 @@
+name: Fundamental 4thgeneration throughput
+payloads:
+- lfi_payload_1_food
+- lfi_payload_2_society
+- lfi_payload_3_produce
+- lfi_payload_4_light
+- lfi_payload_5_state
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: Intuitive zero administration matrix
+payloads:
+- tabnabbing_payload_1_friend
+- tabnabbing_payload_2_material
+- tabnabbing_payload_3_black
+- tabnabbing_payload_4_everybody
+- tabnabbing_payload_5_by
+severity: medium
+type: tabnabbing

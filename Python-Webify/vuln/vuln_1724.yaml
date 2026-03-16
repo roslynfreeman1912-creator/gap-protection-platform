@@ -1,0 +1,9 @@
+name: Fundamental zero tolerance software
+payloads:
+- csp-bypass_payload_1_exactly
+- csp-bypass_payload_2_suggest
+- csp-bypass_payload_3_detail
+- csp-bypass_payload_4_necessary
+- csp-bypass_payload_5_back
+severity: medium
+type: csp-bypass

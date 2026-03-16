@@ -1,0 +1,9 @@
+name: Synergized object-oriented pricing structure
+payloads:
+- host-header-injection_payload_1_travel
+- host-header-injection_payload_2_born
+- host-header-injection_payload_3_college
+- host-header-injection_payload_4_instead
+- host-header-injection_payload_5_indicate
+severity: critical
+type: host-header-injection

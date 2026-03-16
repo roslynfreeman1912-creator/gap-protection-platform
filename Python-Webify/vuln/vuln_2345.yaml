@@ -1,0 +1,9 @@
+name: Down-sized encompassing throughput
+payloads:
+- file-upload_payload_1_official
+- file-upload_payload_2_central
+- file-upload_payload_3_agree
+- file-upload_payload_4_there
+- file-upload_payload_5_nothing
+severity: medium
+type: file-upload

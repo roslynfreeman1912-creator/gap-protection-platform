@@ -1,0 +1,9 @@
+name: Devolved global architecture
+payloads:
+- lfi_payload_1_note
+- lfi_payload_2_catch
+- lfi_payload_3_child
+- lfi_payload_4_reason
+- lfi_payload_5_international
+severity: low
+type: lfi

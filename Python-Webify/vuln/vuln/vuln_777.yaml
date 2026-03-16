@@ -1,0 +1,9 @@
+name: Robust national moderator
+payloads:
+- xss_payload_1_table
+- xss_payload_2_do
+- xss_payload_3_song
+- xss_payload_4_performance
+- xss_payload_5_within
+severity: medium
+type: xss

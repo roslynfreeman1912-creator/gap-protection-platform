@@ -1,0 +1,9 @@
+name: Reduced multi-tasking architecture
+payloads:
+- xxe_payload_1_billion
+- xxe_payload_2_story
+- xxe_payload_3_miss
+- xxe_payload_4_against
+- xxe_payload_5_doctor
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Organic actuating structure
+payloads:
+- host-header-injection_payload_1_outside
+- host-header-injection_payload_2_these
+- host-header-injection_payload_3_as
+- host-header-injection_payload_4_run
+- host-header-injection_payload_5_most
+severity: medium
+type: host-header-injection

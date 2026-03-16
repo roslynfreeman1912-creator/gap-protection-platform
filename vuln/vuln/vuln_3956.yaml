@@ -1,0 +1,9 @@
+name: Secured solution-oriented capacity
+payloads:
+- csrf_payload_1_west
+- csrf_payload_2_instead
+- csrf_payload_3_indicate
+- csrf_payload_4_history
+- csrf_payload_5_outside
+severity: high
+type: csrf

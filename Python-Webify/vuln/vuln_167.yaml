@@ -1,0 +1,9 @@
+name: Exclusive client-server projection
+payloads:
+- host-header-injection_payload_1_need
+- host-header-injection_payload_2_music
+- host-header-injection_payload_3_stay
+- host-header-injection_payload_4_officer
+- host-header-injection_payload_5_each
+severity: low
+type: host-header-injection

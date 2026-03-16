@@ -1,0 +1,9 @@
+name: Open-source multi-state data-warehouse
+payloads:
+- path-traversal_payload_1_traditional
+- path-traversal_payload_2_assume
+- path-traversal_payload_3_media
+- path-traversal_payload_4_campaign
+- path-traversal_payload_5_month
+severity: low
+type: path-traversal

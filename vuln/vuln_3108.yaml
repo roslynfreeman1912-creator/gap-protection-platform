@@ -1,0 +1,9 @@
+name: Fully-configurable leadingedge solution
+payloads:
+- command-injection_payload_1_eat
+- command-injection_payload_2_Mrs
+- command-injection_payload_3_material
+- command-injection_payload_4_ten
+- command-injection_payload_5_step
+severity: medium
+type: command-injection

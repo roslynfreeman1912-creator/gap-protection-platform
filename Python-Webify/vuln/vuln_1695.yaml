@@ -1,0 +1,9 @@
+name: Grass-roots mobile task-force
+payloads:
+- file-upload_payload_1_reason
+- file-upload_payload_2_shake
+- file-upload_payload_3_old
+- file-upload_payload_4_know
+- file-upload_payload_5_election
+severity: high
+type: file-upload

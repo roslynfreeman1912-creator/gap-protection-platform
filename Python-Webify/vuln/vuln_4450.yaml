@@ -1,0 +1,9 @@
+name: Enterprise-wide executive knowledgebase
+payloads:
+- frame-injection_payload_1_upon
+- frame-injection_payload_2_think
+- frame-injection_payload_3_professor
+- frame-injection_payload_4_staff
+- frame-injection_payload_5_according
+severity: low
+type: frame-injection

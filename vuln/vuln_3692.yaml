@@ -1,0 +1,9 @@
+name: Diverse context-sensitive forecast
+payloads:
+- host-header-injection_payload_1_home
+- host-header-injection_payload_2_cup
+- host-header-injection_payload_3_father
+- host-header-injection_payload_4_fast
+- host-header-injection_payload_5_recognize
+severity: low
+type: host-header-injection

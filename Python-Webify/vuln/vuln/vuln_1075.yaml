@@ -1,0 +1,9 @@
+name: Multi-tiered national installation
+payloads:
+- frame-injection_payload_1_central
+- frame-injection_payload_2_window
+- frame-injection_payload_3_relationship
+- frame-injection_payload_4_city
+- frame-injection_payload_5_voice
+severity: medium
+type: frame-injection

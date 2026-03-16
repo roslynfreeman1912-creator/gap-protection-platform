@@ -1,0 +1,9 @@
+name: Distributed transitional secured line
+payloads:
+- csp-bypass_payload_1_civil
+- csp-bypass_payload_2_natural
+- csp-bypass_payload_3_strategy
+- csp-bypass_payload_4_theory
+- csp-bypass_payload_5_course
+severity: critical
+type: csp-bypass

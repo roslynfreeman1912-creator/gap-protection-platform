@@ -1,0 +1,9 @@
+name: Total incremental groupware
+payloads:
+- clickjacking_payload_1_price
+- clickjacking_payload_2_city
+- clickjacking_payload_3_minute
+- clickjacking_payload_4_public
+- clickjacking_payload_5_walk
+severity: high
+type: clickjacking

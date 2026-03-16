@@ -1,0 +1,9 @@
+name: Compatible bandwidth-monitored access
+payloads:
+- hsts-misconfig_payload_1_unit
+- hsts-misconfig_payload_2_draw
+- hsts-misconfig_payload_3_become
+- hsts-misconfig_payload_4_resource
+- hsts-misconfig_payload_5_five
+severity: critical
+type: hsts-misconfig

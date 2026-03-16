@@ -1,0 +1,9 @@
+name: Adaptive executive ability
+payloads:
+- mime-sniffing_payload_1_member
+- mime-sniffing_payload_2_safe
+- mime-sniffing_payload_3_high
+- mime-sniffing_payload_4_establish
+- mime-sniffing_payload_5_modern
+severity: critical
+type: mime-sniffing

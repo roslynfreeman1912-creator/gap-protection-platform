@@ -1,0 +1,9 @@
+name: Versatile 6thgeneration instruction set
+payloads:
+- ssrf_payload_1_off
+- ssrf_payload_2_stuff
+- ssrf_payload_3_usually
+- ssrf_payload_4_city
+- ssrf_payload_5_team
+severity: low
+type: ssrf

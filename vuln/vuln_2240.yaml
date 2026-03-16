@@ -1,0 +1,9 @@
+name: Diverse heuristic toolset
+payloads:
+- jsonp-injection_payload_1_walk
+- jsonp-injection_payload_2_everybody
+- jsonp-injection_payload_3_true
+- jsonp-injection_payload_4_real
+- jsonp-injection_payload_5_heart
+severity: medium
+type: jsonp-injection

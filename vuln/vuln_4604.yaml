@@ -1,0 +1,9 @@
+name: User-friendly reciprocal structure
+payloads:
+- rfi_payload_1_other
+- rfi_payload_2_win
+- rfi_payload_3_man
+- rfi_payload_4_matter
+- rfi_payload_5_ability
+severity: high
+type: rfi

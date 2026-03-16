@@ -1,0 +1,9 @@
+name: Synergized coherent solution
+payloads:
+- xss_payload_1_soldier
+- xss_payload_2_he
+- xss_payload_3_plan
+- xss_payload_4_interview
+- xss_payload_5_sit
+severity: high
+type: xss

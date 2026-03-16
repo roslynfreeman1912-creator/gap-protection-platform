@@ -1,0 +1,9 @@
+name: Multi-tiered client-driven portal
+payloads:
+- host-header-injection_payload_1_school
+- host-header-injection_payload_2_hot
+- host-header-injection_payload_3_type
+- host-header-injection_payload_4_also
+- host-header-injection_payload_5_catch
+severity: high
+type: host-header-injection

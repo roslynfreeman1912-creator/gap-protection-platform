@@ -1,0 +1,9 @@
+name: Innovative explicit model
+payloads:
+- lfi_payload_1_plan
+- lfi_payload_2_allow
+- lfi_payload_3_million
+- lfi_payload_4_policy
+- lfi_payload_5_hard
+severity: low
+type: lfi

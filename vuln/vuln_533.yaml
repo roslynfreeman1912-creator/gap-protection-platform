@@ -1,0 +1,9 @@
+name: Cross-platform client-server matrices
+payloads:
+- command-injection_payload_1_majority
+- command-injection_payload_2_machine
+- command-injection_payload_3_over
+- command-injection_payload_4_behind
+- command-injection_payload_5_this
+severity: low
+type: command-injection

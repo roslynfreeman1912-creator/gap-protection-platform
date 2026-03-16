@@ -1,0 +1,9 @@
+name: Pre-emptive bandwidth-monitored initiative
+payloads:
+- path-traversal_payload_1_rich
+- path-traversal_payload_2_safe
+- path-traversal_payload_3_enter
+- path-traversal_payload_4_military
+- path-traversal_payload_5_soon
+severity: medium
+type: path-traversal

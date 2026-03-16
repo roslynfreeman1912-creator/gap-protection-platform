@@ -1,0 +1,9 @@
+name: Multi-lateral full-range database
+payloads:
+- csp-bypass_payload_1_goal
+- csp-bypass_payload_2_mention
+- csp-bypass_payload_3_lot
+- csp-bypass_payload_4_different
+- csp-bypass_payload_5_church
+severity: high
+type: csp-bypass

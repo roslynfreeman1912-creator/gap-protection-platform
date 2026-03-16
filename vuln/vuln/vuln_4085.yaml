@@ -1,0 +1,9 @@
+name: Automated eco-centric flexibility
+payloads:
+- open-redirect_payload_1_sit
+- open-redirect_payload_2_measure
+- open-redirect_payload_3_cup
+- open-redirect_payload_4_case
+- open-redirect_payload_5_dog
+severity: critical
+type: open-redirect

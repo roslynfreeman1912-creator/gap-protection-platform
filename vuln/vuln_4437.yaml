@@ -1,0 +1,9 @@
+name: Public-key mobile frame
+payloads:
+- ldap-injection_payload_1_international
+- ldap-injection_payload_2_business
+- ldap-injection_payload_3_film
+- ldap-injection_payload_4_there
+- ldap-injection_payload_5_those
+severity: high
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Cross-group static database
+payloads:
+- file-upload_payload_1_top
+- file-upload_payload_2_arrive
+- file-upload_payload_3_a
+- file-upload_payload_4_sense
+- file-upload_payload_5_modern
+severity: high
+type: file-upload

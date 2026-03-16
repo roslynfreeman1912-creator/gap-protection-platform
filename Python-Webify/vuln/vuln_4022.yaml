@@ -1,0 +1,9 @@
+name: Total explicit moderator
+payloads:
+- tabnabbing_payload_1_design
+- tabnabbing_payload_2_culture
+- tabnabbing_payload_3_camera
+- tabnabbing_payload_4_process
+- tabnabbing_payload_5_truth
+severity: medium
+type: tabnabbing

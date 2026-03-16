@@ -1,0 +1,9 @@
+name: Digitized impactful paradigm
+payloads:
+- clickjacking_payload_1_direction
+- clickjacking_payload_2_ask
+- clickjacking_payload_3_wind
+- clickjacking_payload_4_tree
+- clickjacking_payload_5_minute
+severity: low
+type: clickjacking

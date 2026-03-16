@@ -1,0 +1,9 @@
+name: Ergonomic even-keeled archive
+payloads:
+- ldap-injection_payload_1_but
+- ldap-injection_payload_2_help
+- ldap-injection_payload_3_drug
+- ldap-injection_payload_4_although
+- ldap-injection_payload_5_turn
+severity: critical
+type: ldap-injection

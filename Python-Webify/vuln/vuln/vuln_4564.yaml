@@ -1,0 +1,9 @@
+name: Business-focused didactic workforce
+payloads:
+- clickjacking_payload_1_class
+- clickjacking_payload_2_wife
+- clickjacking_payload_3_sell
+- clickjacking_payload_4_type
+- clickjacking_payload_5_who
+severity: low
+type: clickjacking

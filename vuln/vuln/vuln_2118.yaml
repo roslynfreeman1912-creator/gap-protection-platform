@@ -1,0 +1,9 @@
+name: Cross-platform even-keeled time-frame
+payloads:
+- subdomain-takeover_payload_1_education
+- subdomain-takeover_payload_2_buy
+- subdomain-takeover_payload_3_focus
+- subdomain-takeover_payload_4_off
+- subdomain-takeover_payload_5_our
+severity: high
+type: subdomain-takeover

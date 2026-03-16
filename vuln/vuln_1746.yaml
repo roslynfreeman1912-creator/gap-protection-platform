@@ -1,0 +1,9 @@
+name: Cross-group asynchronous parallelism
+payloads:
+- mime-sniffing_payload_1_cultural
+- mime-sniffing_payload_2_tonight
+- mime-sniffing_payload_3_focus
+- mime-sniffing_payload_4_much
+- mime-sniffing_payload_5_dark
+severity: critical
+type: mime-sniffing

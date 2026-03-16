@@ -1,0 +1,9 @@
+name: Networked full-range core
+payloads:
+- crlf-injection_payload_1_career
+- crlf-injection_payload_2_street
+- crlf-injection_payload_3_local
+- crlf-injection_payload_4_involve
+- crlf-injection_payload_5_realize
+severity: low
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Enterprise-wide encompassing focus group
+payloads:
+- subdomain-takeover_payload_1_relate
+- subdomain-takeover_payload_2_property
+- subdomain-takeover_payload_3_way
+- subdomain-takeover_payload_4_anyone
+- subdomain-takeover_payload_5_dark
+severity: medium
+type: subdomain-takeover

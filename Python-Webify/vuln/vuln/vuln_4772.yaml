@@ -1,0 +1,9 @@
+name: Vision-oriented intangible analyzer
+payloads:
+- tabnabbing_payload_1_ability
+- tabnabbing_payload_2_smile
+- tabnabbing_payload_3_simply
+- tabnabbing_payload_4_race
+- tabnabbing_payload_5_they
+severity: low
+type: tabnabbing

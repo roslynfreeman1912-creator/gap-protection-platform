@@ -1,0 +1,9 @@
+name: Reverse-engineered 24/7 concept
+payloads:
+- crlf-injection_payload_1_recently
+- crlf-injection_payload_2_ever
+- crlf-injection_payload_3_human
+- crlf-injection_payload_4_about
+- crlf-injection_payload_5_I
+severity: medium
+type: crlf-injection

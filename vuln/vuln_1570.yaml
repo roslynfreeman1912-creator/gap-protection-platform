@@ -1,0 +1,9 @@
+name: Visionary transitional budgetary management
+payloads:
+- file-upload_payload_1_trade
+- file-upload_payload_2_arrive
+- file-upload_payload_3_maybe
+- file-upload_payload_4_food
+- file-upload_payload_5_yet
+severity: low
+type: file-upload

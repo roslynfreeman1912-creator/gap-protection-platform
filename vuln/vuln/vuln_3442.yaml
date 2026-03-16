@@ -1,0 +1,9 @@
+name: Synergized transitional benchmark
+payloads:
+- host-header-injection_payload_1_stage
+- host-header-injection_payload_2_ball
+- host-header-injection_payload_3_political
+- host-header-injection_payload_4_you
+- host-header-injection_payload_5_bill
+severity: critical
+type: host-header-injection

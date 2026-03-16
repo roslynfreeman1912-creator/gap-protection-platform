@@ -1,0 +1,9 @@
+name: Versatile incremental flexibility
+payloads:
+- path-traversal_payload_1_mother
+- path-traversal_payload_2_participant
+- path-traversal_payload_3_think
+- path-traversal_payload_4_like
+- path-traversal_payload_5_case
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Future-proofed asynchronous intranet
+payloads:
+- host-header-injection_payload_1_carry
+- host-header-injection_payload_2_adult
+- host-header-injection_payload_3_these
+- host-header-injection_payload_4_cover
+- host-header-injection_payload_5_result
+severity: critical
+type: host-header-injection

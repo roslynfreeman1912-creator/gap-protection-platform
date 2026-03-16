@@ -1,0 +1,9 @@
+name: Multi-layered logistical help-desk
+payloads:
+- clickjacking_payload_1_act
+- clickjacking_payload_2_guess
+- clickjacking_payload_3_official
+- clickjacking_payload_4_blue
+- clickjacking_payload_5_rock
+severity: high
+type: clickjacking

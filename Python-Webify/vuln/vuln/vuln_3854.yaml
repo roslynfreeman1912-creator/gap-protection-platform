@@ -1,0 +1,9 @@
+name: Business-focused 4thgeneration orchestration
+payloads:
+- rfi_payload_1_who
+- rfi_payload_2_environment
+- rfi_payload_3_event
+- rfi_payload_4_coach
+- rfi_payload_5_fall
+severity: low
+type: rfi

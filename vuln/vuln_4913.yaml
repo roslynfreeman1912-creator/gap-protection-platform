@@ -1,0 +1,9 @@
+name: Grass-roots eco-centric migration
+payloads:
+- nosql-injection_payload_1_entire
+- nosql-injection_payload_2_your
+- nosql-injection_payload_3_floor
+- nosql-injection_payload_4_decide
+- nosql-injection_payload_5_two
+severity: critical
+type: nosql-injection

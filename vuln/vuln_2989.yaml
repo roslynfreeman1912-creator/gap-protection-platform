@@ -1,0 +1,9 @@
+name: Focused cohesive solution
+payloads:
+- clickjacking_payload_1_nothing
+- clickjacking_payload_2_ask
+- clickjacking_payload_3_difficult
+- clickjacking_payload_4_science
+- clickjacking_payload_5_inside
+severity: medium
+type: clickjacking

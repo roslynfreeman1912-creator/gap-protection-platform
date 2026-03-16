@@ -1,0 +1,9 @@
+name: Diverse intermediate orchestration
+payloads:
+- hsts-misconfig_payload_1_card
+- hsts-misconfig_payload_2_those
+- hsts-misconfig_payload_3_high
+- hsts-misconfig_payload_4_oil
+- hsts-misconfig_payload_5_perform
+severity: critical
+type: hsts-misconfig

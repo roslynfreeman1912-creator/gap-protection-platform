@@ -1,0 +1,9 @@
+name: Profound zero administration installation
+payloads:
+- clickjacking_payload_1_I
+- clickjacking_payload_2_could
+- clickjacking_payload_3_serve
+- clickjacking_payload_4_score
+- clickjacking_payload_5_improve
+severity: critical
+type: clickjacking

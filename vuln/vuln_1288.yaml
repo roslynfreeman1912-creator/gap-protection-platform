@@ -1,0 +1,9 @@
+name: Integrated mission-critical forecast
+payloads:
+- nosql-injection_payload_1_executive
+- nosql-injection_payload_2_down
+- nosql-injection_payload_3_support
+- nosql-injection_payload_4_expect
+- nosql-injection_payload_5_finally
+severity: high
+type: nosql-injection

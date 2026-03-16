@@ -1,0 +1,9 @@
+name: Switchable value-added workforce
+payloads:
+- clickjacking_payload_1_ball
+- clickjacking_payload_2_stay
+- clickjacking_payload_3_others
+- clickjacking_payload_4_company
+- clickjacking_payload_5_mind
+severity: critical
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Assimilated exuding functionalities
+payloads:
+- file-upload_payload_1_explain
+- file-upload_payload_2_explain
+- file-upload_payload_3_relate
+- file-upload_payload_4_prepare
+- file-upload_payload_5_national
+severity: high
+type: file-upload

@@ -1,0 +1,9 @@
+name: Implemented asymmetric complexity
+payloads:
+- tabnabbing_payload_1_light
+- tabnabbing_payload_2_eat
+- tabnabbing_payload_3_window
+- tabnabbing_payload_4_relate
+- tabnabbing_payload_5_program
+severity: medium
+type: tabnabbing

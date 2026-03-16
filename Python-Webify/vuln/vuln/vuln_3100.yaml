@@ -1,0 +1,9 @@
+name: Stand-alone clear-thinking application
+payloads:
+- frame-injection_payload_1_relationship
+- frame-injection_payload_2_available
+- frame-injection_payload_3_view
+- frame-injection_payload_4_second
+- frame-injection_payload_5_body
+severity: critical
+type: frame-injection

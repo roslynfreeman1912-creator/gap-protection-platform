@@ -1,0 +1,9 @@
+name: Organized multimedia structure
+payloads:
+- mime-sniffing_payload_1_blood
+- mime-sniffing_payload_2_after
+- mime-sniffing_payload_3_man
+- mime-sniffing_payload_4_sport
+- mime-sniffing_payload_5_edge
+severity: medium
+type: mime-sniffing

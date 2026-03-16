@@ -1,0 +1,9 @@
+name: Universal bi-directional knowledge user
+payloads:
+- subdomain-takeover_payload_1_ability
+- subdomain-takeover_payload_2_left
+- subdomain-takeover_payload_3_surface
+- subdomain-takeover_payload_4_here
+- subdomain-takeover_payload_5_always
+severity: high
+type: subdomain-takeover

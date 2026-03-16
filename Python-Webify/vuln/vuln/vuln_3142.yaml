@@ -1,0 +1,9 @@
+name: Secured asynchronous installation
+payloads:
+- host-header-injection_payload_1_position
+- host-header-injection_payload_2_gun
+- host-header-injection_payload_3_war
+- host-header-injection_payload_4_under
+- host-header-injection_payload_5_particularly
+severity: medium
+type: host-header-injection

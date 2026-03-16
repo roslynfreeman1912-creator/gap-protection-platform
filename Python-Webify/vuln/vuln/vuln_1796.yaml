@@ -1,0 +1,9 @@
+name: Enterprise-wide next generation neural-net
+payloads:
+- mime-sniffing_payload_1_alone
+- mime-sniffing_payload_2_financial
+- mime-sniffing_payload_3_particular
+- mime-sniffing_payload_4_some
+- mime-sniffing_payload_5_occur
+severity: critical
+type: mime-sniffing

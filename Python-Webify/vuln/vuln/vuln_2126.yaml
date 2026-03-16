@@ -1,0 +1,9 @@
+name: Expanded 24/7 info-mediaries
+payloads:
+- sql_payload_1_onto
+- sql_payload_2_usually
+- sql_payload_3_agreement
+- sql_payload_4_use
+- sql_payload_5_too
+severity: high
+type: sql

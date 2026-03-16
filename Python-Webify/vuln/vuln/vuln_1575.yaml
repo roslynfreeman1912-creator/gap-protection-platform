@@ -1,0 +1,9 @@
+name: Intuitive 24hour concept
+payloads:
+- frame-injection_payload_1_any
+- frame-injection_payload_2_moment
+- frame-injection_payload_3_amount
+- frame-injection_payload_4_process
+- frame-injection_payload_5_store
+severity: high
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Sharable secondary frame
+payloads:
+- command-injection_payload_1_sometimes
+- command-injection_payload_2_beyond
+- command-injection_payload_3_smile
+- command-injection_payload_4_mention
+- command-injection_payload_5_benefit
+severity: critical
+type: command-injection

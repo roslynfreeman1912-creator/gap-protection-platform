@@ -1,0 +1,9 @@
+name: Extended 24hour structure
+payloads:
+- tabnabbing_payload_1_off
+- tabnabbing_payload_2_organization
+- tabnabbing_payload_3_home
+- tabnabbing_payload_4_often
+- tabnabbing_payload_5_our
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Integrated global system engine
+payloads:
+- crlf-injection_payload_1_conference
+- crlf-injection_payload_2_they
+- crlf-injection_payload_3_so
+- crlf-injection_payload_4_successful
+- crlf-injection_payload_5_value
+severity: high
+type: crlf-injection

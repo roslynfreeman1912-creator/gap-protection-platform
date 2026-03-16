@@ -1,0 +1,9 @@
+name: Streamlined composite attitude
+payloads:
+- csrf_payload_1_produce
+- csrf_payload_2_stuff
+- csrf_payload_3_fear
+- csrf_payload_4_forget
+- csrf_payload_5_room
+severity: low
+type: csrf

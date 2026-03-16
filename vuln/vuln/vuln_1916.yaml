@@ -1,0 +1,9 @@
+name: Down-sized actuating middleware
+payloads:
+- crlf-injection_payload_1_admit
+- crlf-injection_payload_2_high
+- crlf-injection_payload_3_animal
+- crlf-injection_payload_4_them
+- crlf-injection_payload_5_city
+severity: high
+type: crlf-injection

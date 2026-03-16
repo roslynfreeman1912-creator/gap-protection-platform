@@ -1,0 +1,9 @@
+name: Proactive grid-enabled open architecture
+payloads:
+- mime-sniffing_payload_1_rock
+- mime-sniffing_payload_2_particular
+- mime-sniffing_payload_3_result
+- mime-sniffing_payload_4_short
+- mime-sniffing_payload_5_specific
+severity: critical
+type: mime-sniffing

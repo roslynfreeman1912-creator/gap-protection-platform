@@ -1,0 +1,9 @@
+name: User-centric coherent policy
+payloads:
+- ldap-injection_payload_1_many
+- ldap-injection_payload_2_live
+- ldap-injection_payload_3_campaign
+- ldap-injection_payload_4_business
+- ldap-injection_payload_5_quickly
+severity: medium
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Future-proofed bifurcated workforce
+payloads:
+- subdomain-takeover_payload_1_plan
+- subdomain-takeover_payload_2_father
+- subdomain-takeover_payload_3_wish
+- subdomain-takeover_payload_4_south
+- subdomain-takeover_payload_5_service
+severity: critical
+type: subdomain-takeover

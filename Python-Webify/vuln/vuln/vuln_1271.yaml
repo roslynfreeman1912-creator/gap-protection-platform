@@ -1,0 +1,9 @@
+name: Re-contextualized holistic software
+payloads:
+- mime-sniffing_payload_1_difficult
+- mime-sniffing_payload_2_too
+- mime-sniffing_payload_3_hot
+- mime-sniffing_payload_4_also
+- mime-sniffing_payload_5_member
+severity: low
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Operative national success
+payloads:
+- frame-injection_payload_1_discussion
+- frame-injection_payload_2_game
+- frame-injection_payload_3_soon
+- frame-injection_payload_4_poor
+- frame-injection_payload_5_despite
+severity: medium
+type: frame-injection

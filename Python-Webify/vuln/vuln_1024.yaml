@@ -1,0 +1,9 @@
+name: Team-oriented solution-oriented Graphic Interface
+payloads:
+- csp-bypass_payload_1_budget
+- csp-bypass_payload_2_office
+- csp-bypass_payload_3_less
+- csp-bypass_payload_4_hot
+- csp-bypass_payload_5_movement
+severity: medium
+type: csp-bypass

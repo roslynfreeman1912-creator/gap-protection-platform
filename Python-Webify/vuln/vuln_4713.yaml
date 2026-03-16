@@ -1,0 +1,9 @@
+name: Operative maximized circuit
+payloads:
+- nosql-injection_payload_1_successful
+- nosql-injection_payload_2_play
+- nosql-injection_payload_3_manage
+- nosql-injection_payload_4_poor
+- nosql-injection_payload_5_hard
+severity: critical
+type: nosql-injection

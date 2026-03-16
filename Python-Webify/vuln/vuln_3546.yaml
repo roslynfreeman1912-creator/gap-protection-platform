@@ -1,0 +1,9 @@
+name: Devolved national budgetary management
+payloads:
+- mime-sniffing_payload_1_same
+- mime-sniffing_payload_2_protect
+- mime-sniffing_payload_3_share
+- mime-sniffing_payload_4_contain
+- mime-sniffing_payload_5_push
+severity: critical
+type: mime-sniffing

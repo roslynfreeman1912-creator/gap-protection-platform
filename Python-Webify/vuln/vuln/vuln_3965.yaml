@@ -1,0 +1,9 @@
+name: Balanced national model
+payloads:
+- jsonp-injection_payload_1_class
+- jsonp-injection_payload_2_themselves
+- jsonp-injection_payload_3_sense
+- jsonp-injection_payload_4_involve
+- jsonp-injection_payload_5_treatment
+severity: critical
+type: jsonp-injection

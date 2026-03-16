@@ -1,0 +1,9 @@
+name: Switchable asynchronous support
+payloads:
+- crlf-injection_payload_1_morning
+- crlf-injection_payload_2_quickly
+- crlf-injection_payload_3_method
+- crlf-injection_payload_4_animal
+- crlf-injection_payload_5_so
+severity: critical
+type: crlf-injection

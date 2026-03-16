@@ -1,0 +1,9 @@
+name: Operative bandwidth-monitored application
+payloads:
+- host-header-injection_payload_1_surface
+- host-header-injection_payload_2_spring
+- host-header-injection_payload_3_control
+- host-header-injection_payload_4_professor
+- host-header-injection_payload_5_try
+severity: medium
+type: host-header-injection

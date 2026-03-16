@@ -1,0 +1,9 @@
+name: Realigned exuding Graphic Interface
+payloads:
+- file-upload_payload_1_despite
+- file-upload_payload_2_enough
+- file-upload_payload_3_network
+- file-upload_payload_4_loss
+- file-upload_payload_5_blue
+severity: critical
+type: file-upload

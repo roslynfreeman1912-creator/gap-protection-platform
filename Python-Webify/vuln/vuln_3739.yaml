@@ -1,0 +1,9 @@
+name: Adaptive value-added Internet solution
+payloads:
+- clickjacking_payload_1_south
+- clickjacking_payload_2_network
+- clickjacking_payload_3_card
+- clickjacking_payload_4_throw
+- clickjacking_payload_5_look
+severity: medium
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Visionary impactful customer loyalty
+payloads:
+- xxe_payload_1_resource
+- xxe_payload_2_simply
+- xxe_payload_3_training
+- xxe_payload_4_American
+- xxe_payload_5_affect
+severity: critical
+type: xxe

@@ -1,0 +1,9 @@
+name: Optional mobile hardware
+payloads:
+- nosql-injection_payload_1_drive
+- nosql-injection_payload_2_leg
+- nosql-injection_payload_3_defense
+- nosql-injection_payload_4_up
+- nosql-injection_payload_5_fly
+severity: medium
+type: nosql-injection

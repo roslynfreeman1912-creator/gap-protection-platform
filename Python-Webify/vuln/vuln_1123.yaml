@@ -1,0 +1,9 @@
+name: Intuitive fresh-thinking standardization
+payloads:
+- hsts-misconfig_payload_1_stage
+- hsts-misconfig_payload_2_form
+- hsts-misconfig_payload_3_again
+- hsts-misconfig_payload_4_law
+- hsts-misconfig_payload_5_can
+severity: critical
+type: hsts-misconfig

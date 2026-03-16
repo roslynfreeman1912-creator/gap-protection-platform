@@ -1,0 +1,9 @@
+name: Reverse-engineered logistical instruction set
+payloads:
+- subdomain-takeover_payload_1_need
+- subdomain-takeover_payload_2_nation
+- subdomain-takeover_payload_3_little
+- subdomain-takeover_payload_4_analysis
+- subdomain-takeover_payload_5_surface
+severity: high
+type: subdomain-takeover

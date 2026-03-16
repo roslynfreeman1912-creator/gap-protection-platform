@@ -1,0 +1,9 @@
+name: Front-line analyzing process improvement
+payloads:
+- file-upload_payload_1_human
+- file-upload_payload_2_man
+- file-upload_payload_3_would
+- file-upload_payload_4_while
+- file-upload_payload_5_performance
+severity: critical
+type: file-upload

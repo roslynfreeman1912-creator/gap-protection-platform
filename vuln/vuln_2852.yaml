@@ -1,0 +1,9 @@
+name: Focused exuding encryption
+payloads:
+- xss_payload_1_card
+- xss_payload_2_be
+- xss_payload_3_produce
+- xss_payload_4_drive
+- xss_payload_5_include
+severity: medium
+type: xss

@@ -1,0 +1,9 @@
+name: Upgradable mobile matrix
+payloads:
+- lfi_payload_1_nearly
+- lfi_payload_2_enough
+- lfi_payload_3_music
+- lfi_payload_4_as
+- lfi_payload_5_I
+severity: critical
+type: lfi

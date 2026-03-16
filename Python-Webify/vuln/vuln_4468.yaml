@@ -1,0 +1,9 @@
+name: Ergonomic solution-oriented migration
+payloads:
+- subdomain-takeover_payload_1_piece
+- subdomain-takeover_payload_2_first
+- subdomain-takeover_payload_3_move
+- subdomain-takeover_payload_4_hope
+- subdomain-takeover_payload_5_lawyer
+severity: medium
+type: subdomain-takeover

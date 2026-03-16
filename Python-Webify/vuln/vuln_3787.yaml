@@ -1,0 +1,9 @@
+name: Face-to-face multimedia process improvement
+payloads:
+- ldap-injection_payload_1_even
+- ldap-injection_payload_2_when
+- ldap-injection_payload_3_minute
+- ldap-injection_payload_4_medical
+- ldap-injection_payload_5_city
+severity: critical
+type: ldap-injection

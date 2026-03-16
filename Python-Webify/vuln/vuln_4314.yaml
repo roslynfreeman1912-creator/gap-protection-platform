@@ -1,0 +1,9 @@
+name: Cloned human-resource solution
+payloads:
+- clickjacking_payload_1_old
+- clickjacking_payload_2_plan
+- clickjacking_payload_3_hit
+- clickjacking_payload_4_former
+- clickjacking_payload_5_range
+severity: medium
+type: clickjacking

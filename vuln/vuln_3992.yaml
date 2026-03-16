@@ -1,0 +1,9 @@
+name: Total even-keeled emulation
+payloads:
+- host-header-injection_payload_1_dark
+- host-header-injection_payload_2_great
+- host-header-injection_payload_3_cut
+- host-header-injection_payload_4_official
+- host-header-injection_payload_5_respond
+severity: critical
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Secured discrete groupware
+payloads:
+- mime-sniffing_payload_1_behavior
+- mime-sniffing_payload_2_bag
+- mime-sniffing_payload_3_herself
+- mime-sniffing_payload_4_add
+- mime-sniffing_payload_5_season
+severity: medium
+type: mime-sniffing

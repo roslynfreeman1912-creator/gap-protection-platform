@@ -1,0 +1,9 @@
+name: Inverse systemic task-force
+payloads:
+- jsonp-injection_payload_1_attorney
+- jsonp-injection_payload_2_trip
+- jsonp-injection_payload_3_operation
+- jsonp-injection_payload_4_lose
+- jsonp-injection_payload_5_who
+severity: medium
+type: jsonp-injection

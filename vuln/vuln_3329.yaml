@@ -1,0 +1,9 @@
+name: Function-based impactful task-force
+payloads:
+- rfi_payload_1_full
+- rfi_payload_2_lead
+- rfi_payload_3_doctor
+- rfi_payload_4_air
+- rfi_payload_5_almost
+severity: high
+type: rfi

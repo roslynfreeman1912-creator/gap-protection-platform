@@ -1,0 +1,9 @@
+name: Profound tangible firmware
+payloads:
+- xss_payload_1_generation
+- xss_payload_2_difficult
+- xss_payload_3_purpose
+- xss_payload_4_claim
+- xss_payload_5_traditional
+severity: high
+type: xss

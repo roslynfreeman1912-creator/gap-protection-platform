@@ -1,0 +1,9 @@
+name: Persistent dedicated open architecture
+payloads:
+- javascript-injection_payload_1_use
+- javascript-injection_payload_2_large
+- javascript-injection_payload_3_meeting
+- javascript-injection_payload_4_area
+- javascript-injection_payload_5_turn
+severity: critical
+type: javascript-injection

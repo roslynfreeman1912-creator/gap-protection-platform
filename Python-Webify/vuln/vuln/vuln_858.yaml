@@ -1,0 +1,9 @@
+name: Adaptive national hierarchy
+payloads:
+- command-injection_payload_1_nor
+- command-injection_payload_2_suffer
+- command-injection_payload_3_policy
+- command-injection_payload_4_probably
+- command-injection_payload_5_partner
+severity: low
+type: command-injection

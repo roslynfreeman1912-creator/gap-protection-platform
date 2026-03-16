@@ -1,0 +1,9 @@
+name: Polarized impactful process improvement
+payloads:
+- ssrf_payload_1_view
+- ssrf_payload_2_set
+- ssrf_payload_3_home
+- ssrf_payload_4_better
+- ssrf_payload_5_trip
+severity: critical
+type: ssrf

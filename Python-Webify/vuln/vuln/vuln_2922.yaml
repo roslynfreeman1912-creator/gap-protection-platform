@@ -1,0 +1,9 @@
+name: Right-sized directional flexibility
+payloads:
+- tabnabbing_payload_1_end
+- tabnabbing_payload_2_wall
+- tabnabbing_payload_3_program
+- tabnabbing_payload_4_could
+- tabnabbing_payload_5_protect
+severity: medium
+type: tabnabbing

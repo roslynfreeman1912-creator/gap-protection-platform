@@ -1,0 +1,9 @@
+name: Function-based 3rdgeneration open architecture
+payloads:
+- path-traversal_payload_1_continue
+- path-traversal_payload_2_bank
+- path-traversal_payload_3_nature
+- path-traversal_payload_4_of
+- path-traversal_payload_5_she
+severity: critical
+type: path-traversal

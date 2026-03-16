@@ -1,0 +1,9 @@
+name: Extended intangible database
+payloads:
+- ldap-injection_payload_1_everyone
+- ldap-injection_payload_2_least
+- ldap-injection_payload_3_budget
+- ldap-injection_payload_4_hard
+- ldap-injection_payload_5_production
+severity: low
+type: ldap-injection

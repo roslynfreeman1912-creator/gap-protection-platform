@@ -1,0 +1,9 @@
+name: User-friendly fault-tolerant structure
+payloads:
+- nosql-injection_payload_1_claim
+- nosql-injection_payload_2_finish
+- nosql-injection_payload_3_successful
+- nosql-injection_payload_4_sea
+- nosql-injection_payload_5_suggest
+severity: low
+type: nosql-injection

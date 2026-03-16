@@ -1,0 +1,9 @@
+name: Self-enabling object-oriented process improvement
+payloads:
+- nosql-injection_payload_1_response
+- nosql-injection_payload_2_language
+- nosql-injection_payload_3_themselves
+- nosql-injection_payload_4_experience
+- nosql-injection_payload_5_wear
+severity: critical
+type: nosql-injection

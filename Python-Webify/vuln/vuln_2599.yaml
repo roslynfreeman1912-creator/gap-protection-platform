@@ -1,0 +1,9 @@
+name: Programmable modular strategy
+payloads:
+- csp-bypass_payload_1_mission
+- csp-bypass_payload_2_life
+- csp-bypass_payload_3_partner
+- csp-bypass_payload_4_thought
+- csp-bypass_payload_5_fire
+severity: medium
+type: csp-bypass

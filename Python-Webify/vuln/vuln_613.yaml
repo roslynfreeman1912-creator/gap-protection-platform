@@ -1,0 +1,9 @@
+name: Networked impactful definition
+payloads:
+- nosql-injection_payload_1_miss
+- nosql-injection_payload_2_work
+- nosql-injection_payload_3_good
+- nosql-injection_payload_4_than
+- nosql-injection_payload_5_law
+severity: high
+type: nosql-injection

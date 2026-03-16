@@ -1,0 +1,9 @@
+name: Organized 24/7 access
+payloads:
+- xxe_payload_1_entire
+- xxe_payload_2_raise
+- xxe_payload_3_subject
+- xxe_payload_4_action
+- xxe_payload_5_reduce
+severity: medium
+type: xxe

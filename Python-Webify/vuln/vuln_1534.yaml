@@ -1,0 +1,9 @@
+name: Organized encompassing challenge
+payloads:
+- path-traversal_payload_1_court
+- path-traversal_payload_2_create
+- path-traversal_payload_3_poor
+- path-traversal_payload_4_for
+- path-traversal_payload_5_miss
+severity: low
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Digitized systemic success
+payloads:
+- lfi_payload_1_itself
+- lfi_payload_2_call
+- lfi_payload_3_gas
+- lfi_payload_4_three
+- lfi_payload_5_her
+severity: medium
+type: lfi

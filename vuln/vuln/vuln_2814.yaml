@@ -1,0 +1,9 @@
+name: Multi-channeled secondary standardization
+payloads:
+- clickjacking_payload_1_issue
+- clickjacking_payload_2_candidate
+- clickjacking_payload_3_knowledge
+- clickjacking_payload_4_above
+- clickjacking_payload_5_message
+severity: high
+type: clickjacking

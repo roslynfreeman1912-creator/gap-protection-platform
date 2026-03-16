@@ -1,0 +1,9 @@
+name: User-friendly systematic focus group
+payloads:
+- path-traversal_payload_1_over
+- path-traversal_payload_2_accept
+- path-traversal_payload_3_force
+- path-traversal_payload_4_hand
+- path-traversal_payload_5_guy
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Horizontal fault-tolerant website
+payloads:
+- csrf_payload_1_color
+- csrf_payload_2_child
+- csrf_payload_3_door
+- csrf_payload_4_claim
+- csrf_payload_5_serious
+severity: low
+type: csrf

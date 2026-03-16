@@ -1,0 +1,9 @@
+name: Innovative fault-tolerant success
+payloads:
+- crlf-injection_payload_1_school
+- crlf-injection_payload_2_shake
+- crlf-injection_payload_3_article
+- crlf-injection_payload_4_laugh
+- crlf-injection_payload_5_next
+severity: critical
+type: crlf-injection

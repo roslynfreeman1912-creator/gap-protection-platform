@@ -1,0 +1,9 @@
+name: Configurable regional encoding
+payloads:
+- sql_payload_1_team
+- sql_payload_2_anything
+- sql_payload_3_out
+- sql_payload_4_finally
+- sql_payload_5_civil
+severity: critical
+type: sql

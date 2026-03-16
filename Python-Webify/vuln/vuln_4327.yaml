@@ -1,0 +1,9 @@
+name: Synchronized coherent analyzer
+payloads:
+- xss_payload_1_concern
+- xss_payload_2_us
+- xss_payload_3_amount
+- xss_payload_4_money
+- xss_payload_5_piece
+severity: low
+type: xss

@@ -1,0 +1,9 @@
+name: Devolved analyzing project
+payloads:
+- tabnabbing_payload_1_expert
+- tabnabbing_payload_2_doctor
+- tabnabbing_payload_3_senior
+- tabnabbing_payload_4_detail
+- tabnabbing_payload_5_nation
+severity: critical
+type: tabnabbing

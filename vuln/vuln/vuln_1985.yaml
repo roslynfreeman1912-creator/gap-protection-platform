@@ -1,0 +1,9 @@
+name: Polarized tangible process improvement
+payloads:
+- open-redirect_payload_1_center
+- open-redirect_payload_2_final
+- open-redirect_payload_3_simple
+- open-redirect_payload_4_explain
+- open-redirect_payload_5_necessary
+severity: critical
+type: open-redirect

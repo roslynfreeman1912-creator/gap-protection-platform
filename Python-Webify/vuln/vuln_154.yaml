@@ -1,0 +1,9 @@
+name: User-friendly 24hour customer loyalty
+payloads:
+- rfi_payload_1_network
+- rfi_payload_2_culture
+- rfi_payload_3_left
+- rfi_payload_4_hot
+- rfi_payload_5_environmental
+severity: low
+type: rfi

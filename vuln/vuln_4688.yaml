@@ -1,0 +1,9 @@
+name: Extended systematic capacity
+payloads:
+- nosql-injection_payload_1_single
+- nosql-injection_payload_2_among
+- nosql-injection_payload_3_one
+- nosql-injection_payload_4_woman
+- nosql-injection_payload_5_she
+severity: high
+type: nosql-injection

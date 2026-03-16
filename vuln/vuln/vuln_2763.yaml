@@ -1,0 +1,9 @@
+name: Multi-lateral maximized neural-net
+payloads:
+- nosql-injection_payload_1_third
+- nosql-injection_payload_2_ahead
+- nosql-injection_payload_3_education
+- nosql-injection_payload_4_give
+- nosql-injection_payload_5_tell
+severity: high
+type: nosql-injection

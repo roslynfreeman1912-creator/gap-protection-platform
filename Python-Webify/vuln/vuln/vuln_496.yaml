@@ -1,0 +1,9 @@
+name: Cross-platform empowering definition
+payloads:
+- mime-sniffing_payload_1_best
+- mime-sniffing_payload_2_central
+- mime-sniffing_payload_3_result
+- mime-sniffing_payload_4_benefit
+- mime-sniffing_payload_5_if
+severity: low
+type: mime-sniffing

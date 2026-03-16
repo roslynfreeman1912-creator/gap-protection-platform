@@ -1,0 +1,9 @@
+name: Centralized bi-directional frame
+payloads:
+- subdomain-takeover_payload_1_important
+- subdomain-takeover_payload_2_real
+- subdomain-takeover_payload_3_leave
+- subdomain-takeover_payload_4_job
+- subdomain-takeover_payload_5_win
+severity: low
+type: subdomain-takeover

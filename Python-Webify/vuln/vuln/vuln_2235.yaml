@@ -1,0 +1,9 @@
+name: Future-proofed regional artificial intelligence
+payloads:
+- open-redirect_payload_1_much
+- open-redirect_payload_2_film
+- open-redirect_payload_3_beat
+- open-redirect_payload_4_risk
+- open-redirect_payload_5_answer
+severity: high
+type: open-redirect

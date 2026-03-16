@@ -1,0 +1,9 @@
+name: Enhanced impactful attitude
+payloads:
+- clickjacking_payload_1_become
+- clickjacking_payload_2_question
+- clickjacking_payload_3_far
+- clickjacking_payload_4_red
+- clickjacking_payload_5_half
+severity: critical
+type: clickjacking

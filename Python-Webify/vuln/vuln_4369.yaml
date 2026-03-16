@@ -1,0 +1,9 @@
+name: Front-line intangible service-desk
+payloads:
+- javascript-injection_payload_1_around
+- javascript-injection_payload_2_within
+- javascript-injection_payload_3_author
+- javascript-injection_payload_4_free
+- javascript-injection_payload_5_himself
+severity: critical
+type: javascript-injection

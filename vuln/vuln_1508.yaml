@@ -1,0 +1,9 @@
+name: Mandatory asymmetric task-force
+payloads:
+- command-injection_payload_1_participant
+- command-injection_payload_2_market
+- command-injection_payload_3_control
+- command-injection_payload_4_another
+- command-injection_payload_5_prepare
+severity: low
+type: command-injection

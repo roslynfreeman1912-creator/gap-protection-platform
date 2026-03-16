@@ -1,0 +1,9 @@
+name: Networked actuating encoding
+payloads:
+- crlf-injection_payload_1_safe
+- crlf-injection_payload_2_week
+- crlf-injection_payload_3_court
+- crlf-injection_payload_4_either
+- crlf-injection_payload_5_place
+severity: medium
+type: crlf-injection

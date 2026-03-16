@@ -1,0 +1,9 @@
+name: Automated client-server standardization
+payloads:
+- tabnabbing_payload_1_drug
+- tabnabbing_payload_2_scene
+- tabnabbing_payload_3_parent
+- tabnabbing_payload_4_possible
+- tabnabbing_payload_5_mention
+severity: medium
+type: tabnabbing

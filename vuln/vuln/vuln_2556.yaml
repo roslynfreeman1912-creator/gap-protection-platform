@@ -1,0 +1,9 @@
+name: Centralized responsive instruction set
+payloads:
+- csrf_payload_1_when
+- csrf_payload_2_three
+- csrf_payload_3_brother
+- csrf_payload_4_book
+- csrf_payload_5_present
+severity: low
+type: csrf

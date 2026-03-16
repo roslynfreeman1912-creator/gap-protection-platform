@@ -1,0 +1,9 @@
+name: Synchronized static framework
+payloads:
+- command-injection_payload_1_benefit
+- command-injection_payload_2_attorney
+- command-injection_payload_3_age
+- command-injection_payload_4_across
+- command-injection_payload_5_education
+severity: medium
+type: command-injection

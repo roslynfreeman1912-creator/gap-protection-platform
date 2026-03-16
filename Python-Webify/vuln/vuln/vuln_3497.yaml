@@ -1,0 +1,9 @@
+name: Monitored analyzing matrix
+payloads:
+- tabnabbing_payload_1_they
+- tabnabbing_payload_2_child
+- tabnabbing_payload_3_magazine
+- tabnabbing_payload_4_response
+- tabnabbing_payload_5_she
+severity: high
+type: tabnabbing

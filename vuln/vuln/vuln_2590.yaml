@@ -1,0 +1,9 @@
+name: Front-line homogeneous array
+payloads:
+- jsonp-injection_payload_1_sport
+- jsonp-injection_payload_2_town
+- jsonp-injection_payload_3_off
+- jsonp-injection_payload_4_fact
+- jsonp-injection_payload_5_hit
+severity: high
+type: jsonp-injection

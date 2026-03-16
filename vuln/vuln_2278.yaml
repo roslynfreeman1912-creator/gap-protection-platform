@@ -1,0 +1,9 @@
+name: Expanded global strategy
+payloads:
+- lfi_payload_1_coach
+- lfi_payload_2_win
+- lfi_payload_3_yard
+- lfi_payload_4_common
+- lfi_payload_5_might
+severity: low
+type: lfi

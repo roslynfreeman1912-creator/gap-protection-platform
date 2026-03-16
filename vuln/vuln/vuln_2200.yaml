@@ -1,0 +1,9 @@
+name: Implemented context-sensitive projection
+payloads:
+- frame-injection_payload_1_serious
+- frame-injection_payload_2_language
+- frame-injection_payload_3_free
+- frame-injection_payload_4_defense
+- frame-injection_payload_5_bill
+severity: critical
+type: frame-injection

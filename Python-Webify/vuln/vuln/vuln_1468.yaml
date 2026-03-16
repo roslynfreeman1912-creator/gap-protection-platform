@@ -1,0 +1,9 @@
+name: Horizontal mission-critical model
+payloads:
+- subdomain-takeover_payload_1_door
+- subdomain-takeover_payload_2_class
+- subdomain-takeover_payload_3_fast
+- subdomain-takeover_payload_4_off
+- subdomain-takeover_payload_5_majority
+severity: medium
+type: subdomain-takeover

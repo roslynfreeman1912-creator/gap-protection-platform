@@ -1,0 +1,9 @@
+name: De-engineered cohesive firmware
+payloads:
+- jsonp-injection_payload_1_force
+- jsonp-injection_payload_2_late
+- jsonp-injection_payload_3_behind
+- jsonp-injection_payload_4_behind
+- jsonp-injection_payload_5_other
+severity: low
+type: jsonp-injection

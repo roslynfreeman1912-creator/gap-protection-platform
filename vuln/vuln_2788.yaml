@@ -1,0 +1,9 @@
+name: Vision-oriented mission-critical data-warehouse
+payloads:
+- nosql-injection_payload_1_once
+- nosql-injection_payload_2_it
+- nosql-injection_payload_3_small
+- nosql-injection_payload_4_defense
+- nosql-injection_payload_5_son
+severity: medium
+type: nosql-injection

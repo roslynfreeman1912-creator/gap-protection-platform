@@ -1,0 +1,9 @@
+name: Multi-tiered multimedia service-desk
+payloads:
+- crlf-injection_payload_1_never
+- crlf-injection_payload_2_wide
+- crlf-injection_payload_3_together
+- crlf-injection_payload_4_director
+- crlf-injection_payload_5_not
+severity: critical
+type: crlf-injection

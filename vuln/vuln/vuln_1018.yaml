@@ -1,0 +1,9 @@
+name: Self-enabling analyzing hub
+payloads:
+- subdomain-takeover_payload_1_policy
+- subdomain-takeover_payload_2_head
+- subdomain-takeover_payload_3_still
+- subdomain-takeover_payload_4_green
+- subdomain-takeover_payload_5_language
+severity: critical
+type: subdomain-takeover

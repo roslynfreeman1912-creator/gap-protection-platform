@@ -1,0 +1,9 @@
+name: Vision-oriented non-volatile alliance
+payloads:
+- path-traversal_payload_1_education
+- path-traversal_payload_2_improve
+- path-traversal_payload_3_coach
+- path-traversal_payload_4_bill
+- path-traversal_payload_5_call
+severity: medium
+type: path-traversal

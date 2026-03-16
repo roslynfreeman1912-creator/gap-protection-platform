@@ -1,0 +1,9 @@
+name: Triple-buffered disintermediate approach
+payloads:
+- csrf_payload_1_account
+- csrf_payload_2_well
+- csrf_payload_3_small
+- csrf_payload_4_think
+- csrf_payload_5_kitchen
+severity: medium
+type: csrf

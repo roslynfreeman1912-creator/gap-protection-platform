@@ -1,0 +1,9 @@
+name: Optional directional emulation
+payloads:
+- path-traversal_payload_1_evidence
+- path-traversal_payload_2_democratic
+- path-traversal_payload_3_discuss
+- path-traversal_payload_4_car
+- path-traversal_payload_5_pretty
+severity: medium
+type: path-traversal

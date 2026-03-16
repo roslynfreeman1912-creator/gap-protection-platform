@@ -1,0 +1,9 @@
+name: Adaptive composite orchestration
+payloads:
+- command-injection_payload_1_young
+- command-injection_payload_2_second
+- command-injection_payload_3_number
+- command-injection_payload_4_improve
+- command-injection_payload_5_TV
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Robust disintermediate Graphical User Interface
+payloads:
+- javascript-injection_payload_1_story
+- javascript-injection_payload_2_medical
+- javascript-injection_payload_3_job
+- javascript-injection_payload_4_early
+- javascript-injection_payload_5_three
+severity: low
+type: javascript-injection

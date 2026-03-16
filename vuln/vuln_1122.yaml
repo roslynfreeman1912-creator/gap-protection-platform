@@ -1,0 +1,9 @@
+name: Innovative systematic moratorium
+payloads:
+- tabnabbing_payload_1_prove
+- tabnabbing_payload_2_another
+- tabnabbing_payload_3_seven
+- tabnabbing_payload_4_enter
+- tabnabbing_payload_5_live
+severity: high
+type: tabnabbing

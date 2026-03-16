@@ -1,0 +1,9 @@
+name: Stand-alone mission-critical hub
+payloads:
+- mime-sniffing_payload_1_operation
+- mime-sniffing_payload_2_reach
+- mime-sniffing_payload_3_region
+- mime-sniffing_payload_4_may
+- mime-sniffing_payload_5_police
+severity: critical
+type: mime-sniffing

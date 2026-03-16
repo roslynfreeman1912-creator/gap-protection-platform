@@ -1,0 +1,9 @@
+name: Exclusive heuristic infrastructure
+payloads:
+- rfi_payload_1_yeah
+- rfi_payload_2_set
+- rfi_payload_3_indeed
+- rfi_payload_4_religious
+- rfi_payload_5_trouble
+severity: low
+type: rfi

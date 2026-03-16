@@ -1,0 +1,9 @@
+name: Face-to-face high-level throughput
+payloads:
+- xss_payload_1_stay
+- xss_payload_2_school
+- xss_payload_3_play
+- xss_payload_4_professor
+- xss_payload_5_appear
+severity: medium
+type: xss

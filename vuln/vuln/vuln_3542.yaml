@@ -1,0 +1,9 @@
+name: Fully-configurable directional challenge
+payloads:
+- host-header-injection_payload_1_sit
+- host-header-injection_payload_2_go
+- host-header-injection_payload_3_conference
+- host-header-injection_payload_4_human
+- host-header-injection_payload_5_fund
+severity: low
+type: host-header-injection

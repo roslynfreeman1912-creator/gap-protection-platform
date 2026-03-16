@@ -1,0 +1,9 @@
+name: Integrated client-driven middleware
+payloads:
+- file-upload_payload_1_garden
+- file-upload_payload_2_ten
+- file-upload_payload_3_with
+- file-upload_payload_4_record
+- file-upload_payload_5_doctor
+severity: high
+type: file-upload

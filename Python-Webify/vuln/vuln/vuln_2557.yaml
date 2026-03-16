@@ -1,0 +1,9 @@
+name: Robust directional throughput
+payloads:
+- ssti_payload_1_budget
+- ssti_payload_2_share
+- ssti_payload_3_kid
+- ssti_payload_4_traditional
+- ssti_payload_5_war
+severity: medium
+type: ssti

@@ -1,0 +1,9 @@
+name: Extended 4thgeneration database
+payloads:
+- command-injection_payload_1_street
+- command-injection_payload_2_television
+- command-injection_payload_3_senior
+- command-injection_payload_4_business
+- command-injection_payload_5_civil
+severity: critical
+type: command-injection

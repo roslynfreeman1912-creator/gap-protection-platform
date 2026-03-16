@@ -1,0 +1,9 @@
+name: Devolved clear-thinking open architecture
+payloads:
+- frame-injection_payload_1_police
+- frame-injection_payload_2_before
+- frame-injection_payload_3_thought
+- frame-injection_payload_4_lawyer
+- frame-injection_payload_5_less
+severity: low
+type: frame-injection

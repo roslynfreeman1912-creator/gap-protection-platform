@@ -1,0 +1,9 @@
+name: Face-to-face human-resource encryption
+payloads:
+- jsonp-injection_payload_1_worry
+- jsonp-injection_payload_2_consider
+- jsonp-injection_payload_3_determine
+- jsonp-injection_payload_4_thought
+- jsonp-injection_payload_5_information
+severity: low
+type: jsonp-injection

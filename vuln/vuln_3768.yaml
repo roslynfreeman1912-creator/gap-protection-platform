@@ -1,0 +1,9 @@
+name: Team-oriented neutral concept
+payloads:
+- subdomain-takeover_payload_1_red
+- subdomain-takeover_payload_2_method
+- subdomain-takeover_payload_3_food
+- subdomain-takeover_payload_4_arrive
+- subdomain-takeover_payload_5_old
+severity: high
+type: subdomain-takeover

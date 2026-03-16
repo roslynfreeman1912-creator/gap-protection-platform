@@ -1,0 +1,9 @@
+name: User-centric motivating solution
+payloads:
+- nosql-injection_payload_1_anything
+- nosql-injection_payload_2_loss
+- nosql-injection_payload_3_fall
+- nosql-injection_payload_4_black
+- nosql-injection_payload_5_wish
+severity: high
+type: nosql-injection

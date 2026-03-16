@@ -1,0 +1,9 @@
+name: Adaptive asynchronous artificial intelligence
+payloads:
+- clickjacking_payload_1_vote
+- clickjacking_payload_2_image
+- clickjacking_payload_3_accept
+- clickjacking_payload_4_out
+- clickjacking_payload_5_shake
+severity: high
+type: clickjacking

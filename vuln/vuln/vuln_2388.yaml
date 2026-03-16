@@ -1,0 +1,9 @@
+name: Digitized bi-directional framework
+payloads:
+- nosql-injection_payload_1_development
+- nosql-injection_payload_2_institution
+- nosql-injection_payload_3_truth
+- nosql-injection_payload_4_resource
+- nosql-injection_payload_5_career
+severity: medium
+type: nosql-injection

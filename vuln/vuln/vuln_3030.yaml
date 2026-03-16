@@ -1,0 +1,9 @@
+name: Front-line 4thgeneration database
+payloads:
+- ssrf_payload_1_ever
+- ssrf_payload_2_trade
+- ssrf_payload_3_company
+- ssrf_payload_4_pick
+- ssrf_payload_5_Mrs
+severity: critical
+type: ssrf

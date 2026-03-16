@@ -1,0 +1,9 @@
+name: Ameliorated coherent migration
+payloads:
+- ssti_payload_1_responsibility
+- ssti_payload_2_benefit
+- ssti_payload_3_short
+- ssti_payload_4_center
+- ssti_payload_5_season
+severity: medium
+type: ssti

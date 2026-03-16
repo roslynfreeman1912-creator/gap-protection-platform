@@ -1,0 +1,9 @@
+name: Balanced system-worthy open architecture
+payloads:
+- open-redirect_payload_1_whom
+- open-redirect_payload_2_able
+- open-redirect_payload_3_can
+- open-redirect_payload_4_similar
+- open-redirect_payload_5_lay
+severity: high
+type: open-redirect

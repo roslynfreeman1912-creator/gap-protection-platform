@@ -1,0 +1,9 @@
+name: Front-line secondary instruction set
+payloads:
+- nosql-injection_payload_1_movie
+- nosql-injection_payload_2_those
+- nosql-injection_payload_3_career
+- nosql-injection_payload_4_marriage
+- nosql-injection_payload_5_music
+severity: medium
+type: nosql-injection

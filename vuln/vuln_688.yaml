@@ -1,0 +1,9 @@
+name: Compatible real-time matrix
+payloads:
+- nosql-injection_payload_1_open
+- nosql-injection_payload_2_have
+- nosql-injection_payload_3_company
+- nosql-injection_payload_4_hot
+- nosql-injection_payload_5_traditional
+severity: critical
+type: nosql-injection

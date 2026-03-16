@@ -1,0 +1,9 @@
+name: Multi-lateral zero-defect budgetary management
+payloads:
+- xss_payload_1_less
+- xss_payload_2_network
+- xss_payload_3_expect
+- xss_payload_4_rate
+- xss_payload_5_can
+severity: medium
+type: xss

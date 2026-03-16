@@ -1,0 +1,9 @@
+name: Down-sized interactive knowledge user
+payloads:
+- xss_payload_1_religious
+- xss_payload_2_read
+- xss_payload_3_event
+- xss_payload_4_feeling
+- xss_payload_5_science
+severity: high
+type: xss

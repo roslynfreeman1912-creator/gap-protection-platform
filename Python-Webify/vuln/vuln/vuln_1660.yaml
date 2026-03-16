@@ -1,0 +1,9 @@
+name: Multi-tiered contextually-based moratorium
+payloads:
+- open-redirect_payload_1_case
+- open-redirect_payload_2_center
+- open-redirect_payload_3_model
+- open-redirect_payload_4_long
+- open-redirect_payload_5_section
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Self-enabling tertiary concept
+payloads:
+- frame-injection_payload_1_enough
+- frame-injection_payload_2_top
+- frame-injection_payload_3_strategy
+- frame-injection_payload_4_difficult
+- frame-injection_payload_5_instead
+severity: high
+type: frame-injection

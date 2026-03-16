@@ -1,0 +1,9 @@
+name: Reduced composite infrastructure
+payloads:
+- file-upload_payload_1_put
+- file-upload_payload_2_figure
+- file-upload_payload_3_they
+- file-upload_payload_4_student
+- file-upload_payload_5_century
+severity: low
+type: file-upload

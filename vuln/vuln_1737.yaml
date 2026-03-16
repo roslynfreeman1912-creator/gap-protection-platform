@@ -1,0 +1,9 @@
+name: Synchronized web-enabled database
+payloads:
+- ldap-injection_payload_1_four
+- ldap-injection_payload_2_green
+- ldap-injection_payload_3_goal
+- ldap-injection_payload_4_seat
+- ldap-injection_payload_5_realize
+severity: critical
+type: ldap-injection

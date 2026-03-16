@@ -1,0 +1,9 @@
+name: Proactive encompassing success
+payloads:
+- mime-sniffing_payload_1_account
+- mime-sniffing_payload_2_partner
+- mime-sniffing_payload_3_fish
+- mime-sniffing_payload_4_list
+- mime-sniffing_payload_5_rather
+severity: high
+type: mime-sniffing

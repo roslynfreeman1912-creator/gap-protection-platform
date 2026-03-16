@@ -1,0 +1,9 @@
+name: Operative full-range matrices
+payloads:
+- open-redirect_payload_1_sing
+- open-redirect_payload_2_as
+- open-redirect_payload_3_decide
+- open-redirect_payload_4_practice
+- open-redirect_payload_5_better
+severity: high
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Synergistic optimal website
+payloads:
+- frame-injection_payload_1_anything
+- frame-injection_payload_2_seem
+- frame-injection_payload_3_civil
+- frame-injection_payload_4_on
+- frame-injection_payload_5_leg
+severity: critical
+type: frame-injection

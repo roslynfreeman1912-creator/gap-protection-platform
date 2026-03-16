@@ -1,0 +1,9 @@
+name: Grass-roots optimizing info-mediaries
+payloads:
+- nosql-injection_payload_1_reduce
+- nosql-injection_payload_2_rise
+- nosql-injection_payload_3_PM
+- nosql-injection_payload_4_ten
+- nosql-injection_payload_5_wife
+severity: critical
+type: nosql-injection

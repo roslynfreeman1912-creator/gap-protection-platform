@@ -1,0 +1,9 @@
+name: Triple-buffered upward-trending middleware
+payloads:
+- xss_payload_1_all
+- xss_payload_2_list
+- xss_payload_3_girl
+- xss_payload_4_resource
+- xss_payload_5_tend
+severity: medium
+type: xss

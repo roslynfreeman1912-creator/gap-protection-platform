@@ -1,0 +1,9 @@
+name: Synergized directional synergy
+payloads:
+- rfi_payload_1_realize
+- rfi_payload_2_suffer
+- rfi_payload_3_decide
+- rfi_payload_4_example
+- rfi_payload_5_above
+severity: low
+type: rfi

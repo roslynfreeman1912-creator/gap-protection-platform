@@ -1,0 +1,9 @@
+name: Robust non-volatile monitoring
+payloads:
+- mime-sniffing_payload_1_our
+- mime-sniffing_payload_2_subject
+- mime-sniffing_payload_3_gas
+- mime-sniffing_payload_4_style
+- mime-sniffing_payload_5_sense
+severity: medium
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Total 5thgeneration core
+payloads:
+- xxe_payload_1_kind
+- xxe_payload_2_work
+- xxe_payload_3_southern
+- xxe_payload_4_require
+- xxe_payload_5_whatever
+severity: high
+type: xxe

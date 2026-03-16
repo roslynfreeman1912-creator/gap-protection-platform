@@ -1,0 +1,9 @@
+name: Seamless human-resource info-mediaries
+payloads:
+- tabnabbing_payload_1_institution
+- tabnabbing_payload_2_security
+- tabnabbing_payload_3_such
+- tabnabbing_payload_4_government
+- tabnabbing_payload_5_green
+severity: critical
+type: tabnabbing

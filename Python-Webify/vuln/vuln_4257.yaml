@@ -1,0 +1,9 @@
+name: Realigned responsive service-desk
+payloads:
+- ssti_payload_1_box
+- ssti_payload_2_defense
+- ssti_payload_3_Democrat
+- ssti_payload_4_seat
+- ssti_payload_5_main
+severity: critical
+type: ssti

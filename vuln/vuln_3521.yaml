@@ -1,0 +1,9 @@
+name: Streamlined encompassing policy
+payloads:
+- mime-sniffing_payload_1_hold
+- mime-sniffing_payload_2_western
+- mime-sniffing_payload_3_level
+- mime-sniffing_payload_4_part
+- mime-sniffing_payload_5_too
+severity: high
+type: mime-sniffing

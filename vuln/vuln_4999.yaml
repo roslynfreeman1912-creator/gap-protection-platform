@@ -1,0 +1,9 @@
+name: Optional mission-critical customer loyalty
+payloads:
+- csp-bypass_payload_1_expert
+- csp-bypass_payload_2_authority
+- csp-bypass_payload_3_enjoy
+- csp-bypass_payload_4_bed
+- csp-bypass_payload_5_goal
+severity: high
+type: csp-bypass

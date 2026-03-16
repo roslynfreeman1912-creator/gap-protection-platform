@@ -1,0 +1,9 @@
+name: Quality-focused modular alliance
+payloads:
+- xxe_payload_1_side
+- xxe_payload_2_memory
+- xxe_payload_3_environment
+- xxe_payload_4_education
+- xxe_payload_5_either
+severity: low
+type: xxe

@@ -1,0 +1,9 @@
+name: Versatile incremental success
+payloads:
+- hsts-misconfig_payload_1_animal
+- hsts-misconfig_payload_2_I
+- hsts-misconfig_payload_3_however
+- hsts-misconfig_payload_4_by
+- hsts-misconfig_payload_5_language
+severity: medium
+type: hsts-misconfig

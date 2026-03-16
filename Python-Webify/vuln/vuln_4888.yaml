@@ -1,0 +1,9 @@
+name: Enterprise-wide heuristic access
+payloads:
+- nosql-injection_payload_1_upon
+- nosql-injection_payload_2_support
+- nosql-injection_payload_3_record
+- nosql-injection_payload_4_force
+- nosql-injection_payload_5_product
+severity: medium
+type: nosql-injection

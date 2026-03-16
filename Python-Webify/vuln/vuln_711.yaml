@@ -1,0 +1,9 @@
+name: Grass-roots client-driven analyzer
+payloads:
+- xxe_payload_1_blood
+- xxe_payload_2_notice
+- xxe_payload_3_sometimes
+- xxe_payload_4_fight
+- xxe_payload_5_real
+severity: medium
+type: xxe

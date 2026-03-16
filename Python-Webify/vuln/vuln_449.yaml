@@ -1,0 +1,9 @@
+name: Right-sized tangible software
+payloads:
+- csp-bypass_payload_1_character
+- csp-bypass_payload_2_onto
+- csp-bypass_payload_3_society
+- csp-bypass_payload_4_quality
+- csp-bypass_payload_5_myself
+severity: high
+type: csp-bypass

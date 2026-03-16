@@ -1,0 +1,9 @@
+name: Decentralized exuding hierarchy
+payloads:
+- lfi_payload_1_entire
+- lfi_payload_2_director
+- lfi_payload_3_under
+- lfi_payload_4_animal
+- lfi_payload_5_safe
+severity: critical
+type: lfi

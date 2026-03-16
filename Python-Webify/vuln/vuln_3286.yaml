@@ -1,0 +1,9 @@
+name: Networked bifurcated forecast
+payloads:
+- xxe_payload_1_address
+- xxe_payload_2_summer
+- xxe_payload_3_now
+- xxe_payload_4_opportunity
+- xxe_payload_5_force
+severity: medium
+type: xxe

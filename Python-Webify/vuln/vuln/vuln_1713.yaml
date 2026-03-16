@@ -1,0 +1,9 @@
+name: Progressive demand-driven hardware
+payloads:
+- nosql-injection_payload_1_recently
+- nosql-injection_payload_2_through
+- nosql-injection_payload_3_reality
+- nosql-injection_payload_4_might
+- nosql-injection_payload_5_approach
+severity: low
+type: nosql-injection

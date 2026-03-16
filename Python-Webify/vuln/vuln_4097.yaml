@@ -1,0 +1,9 @@
+name: Switchable real-time approach
+payloads:
+- tabnabbing_payload_1_produce
+- tabnabbing_payload_2_without
+- tabnabbing_payload_3_describe
+- tabnabbing_payload_4_long
+- tabnabbing_payload_5_cold
+severity: critical
+type: tabnabbing

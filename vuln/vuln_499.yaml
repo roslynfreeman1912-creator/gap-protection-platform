@@ -1,0 +1,9 @@
+name: Horizontal 24/7 algorithm
+payloads:
+- csp-bypass_payload_1_billion
+- csp-bypass_payload_2_politics
+- csp-bypass_payload_3_according
+- csp-bypass_payload_4_environment
+- csp-bypass_payload_5_yes
+severity: critical
+type: csp-bypass

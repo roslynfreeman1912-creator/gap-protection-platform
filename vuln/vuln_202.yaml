@@ -1,0 +1,9 @@
+name: Seamless responsive utilization
+payloads:
+- xss_payload_1_interview
+- xss_payload_2_record
+- xss_payload_3_bit
+- xss_payload_4_poor
+- xss_payload_5_far
+severity: high
+type: xss

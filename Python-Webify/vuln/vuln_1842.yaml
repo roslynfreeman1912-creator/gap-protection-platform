@@ -1,0 +1,9 @@
+name: Re-engineered transitional ability
+payloads:
+- host-header-injection_payload_1_north
+- host-header-injection_payload_2_foot
+- host-header-injection_payload_3_protect
+- host-header-injection_payload_4_form
+- host-header-injection_payload_5_chair
+severity: high
+type: host-header-injection

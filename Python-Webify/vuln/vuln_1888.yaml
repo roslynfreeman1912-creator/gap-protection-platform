@@ -1,0 +1,9 @@
+name: Re-contextualized 24/7 approach
+payloads:
+- nosql-injection_payload_1_able
+- nosql-injection_payload_2_law
+- nosql-injection_payload_3_thus
+- nosql-injection_payload_4_training
+- nosql-injection_payload_5_option
+severity: low
+type: nosql-injection

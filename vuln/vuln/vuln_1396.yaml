@@ -1,0 +1,9 @@
+name: Realigned 5thgeneration synergy
+payloads:
+- mime-sniffing_payload_1_style
+- mime-sniffing_payload_2_trouble
+- mime-sniffing_payload_3_someone
+- mime-sniffing_payload_4_hit
+- mime-sniffing_payload_5_from
+severity: high
+type: mime-sniffing

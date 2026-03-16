@@ -1,0 +1,9 @@
+name: Vision-oriented multi-state leverage
+payloads:
+- javascript-injection_payload_1_summer
+- javascript-injection_payload_2_direction
+- javascript-injection_payload_3_method
+- javascript-injection_payload_4_ball
+- javascript-injection_payload_5_religious
+severity: low
+type: javascript-injection

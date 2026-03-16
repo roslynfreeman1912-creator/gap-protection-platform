@@ -1,0 +1,9 @@
+name: Sharable national secured line
+payloads:
+- xss_payload_1_action
+- xss_payload_2_economy
+- xss_payload_3_product
+- xss_payload_4_where
+- xss_payload_5_skill
+severity: critical
+type: xss

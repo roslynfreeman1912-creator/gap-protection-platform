@@ -1,0 +1,9 @@
+name: Robust background knowledgebase
+payloads:
+- csp-bypass_payload_1_life
+- csp-bypass_payload_2_field
+- csp-bypass_payload_3_son
+- csp-bypass_payload_4_man
+- csp-bypass_payload_5_fall
+severity: critical
+type: csp-bypass

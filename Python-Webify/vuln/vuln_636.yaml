@@ -1,0 +1,9 @@
+name: Balanced explicit benchmark
+payloads:
+- xxe_payload_1_practice
+- xxe_payload_2_million
+- xxe_payload_3_control
+- xxe_payload_4_near
+- xxe_payload_5_article
+severity: critical
+type: xxe

@@ -1,0 +1,9 @@
+name: Customizable intangible service-desk
+payloads:
+- frame-injection_payload_1_off
+- frame-injection_payload_2_me
+- frame-injection_payload_3_candidate
+- frame-injection_payload_4_though
+- frame-injection_payload_5_her
+severity: medium
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Digitized mission-critical methodology
+payloads:
+- host-header-injection_payload_1_author
+- host-header-injection_payload_2_follow
+- host-header-injection_payload_3_president
+- host-header-injection_payload_4_because
+- host-header-injection_payload_5_choose
+severity: critical
+type: host-header-injection

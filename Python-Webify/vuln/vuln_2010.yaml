@@ -1,0 +1,9 @@
+name: Switchable discrete encoding
+payloads:
+- open-redirect_payload_1_interesting
+- open-redirect_payload_2_theory
+- open-redirect_payload_3_would
+- open-redirect_payload_4_help
+- open-redirect_payload_5_cost
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Progressive content-based circuit
+payloads:
+- rfi_payload_1_until
+- rfi_payload_2_test
+- rfi_payload_3_its
+- rfi_payload_4_use
+- rfi_payload_5_huge
+severity: critical
+type: rfi

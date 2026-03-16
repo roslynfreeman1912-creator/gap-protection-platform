@@ -1,0 +1,9 @@
+name: Multi-channeled bandwidth-monitored strategy
+payloads:
+- open-redirect_payload_1_still
+- open-redirect_payload_2_law
+- open-redirect_payload_3_within
+- open-redirect_payload_4_course
+- open-redirect_payload_5_institution
+severity: low
+type: open-redirect

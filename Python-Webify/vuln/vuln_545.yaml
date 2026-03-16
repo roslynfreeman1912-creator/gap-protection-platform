@@ -1,0 +1,9 @@
+name: Extended modular superstructure
+payloads:
+- file-upload_payload_1_five
+- file-upload_payload_2_under
+- file-upload_payload_3_realize
+- file-upload_payload_4_card
+- file-upload_payload_5_few
+severity: high
+type: file-upload

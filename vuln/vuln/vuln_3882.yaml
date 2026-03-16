@@ -1,0 +1,9 @@
+name: Cloned non-volatile policy
+payloads:
+- ssti_payload_1_PM
+- ssti_payload_2_between
+- ssti_payload_3_stuff
+- ssti_payload_4_material
+- ssti_payload_5_south
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Seamless client-driven project
+payloads:
+- open-redirect_payload_1_century
+- open-redirect_payload_2_decide
+- open-redirect_payload_3_there
+- open-redirect_payload_4_answer
+- open-redirect_payload_5_water
+severity: medium
+type: open-redirect

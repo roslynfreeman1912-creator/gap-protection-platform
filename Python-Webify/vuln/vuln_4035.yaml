@@ -1,0 +1,9 @@
+name: Advanced hybrid hardware
+payloads:
+- open-redirect_payload_1_fast
+- open-redirect_payload_2_whom
+- open-redirect_payload_3_present
+- open-redirect_payload_4_throughout
+- open-redirect_payload_5_security
+severity: critical
+type: open-redirect

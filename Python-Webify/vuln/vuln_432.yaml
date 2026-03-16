@@ -1,0 +1,9 @@
+name: Intuitive modular parallelism
+payloads:
+- ssti_payload_1_term
+- ssti_payload_2_concern
+- ssti_payload_3_themselves
+- ssti_payload_4_else
+- ssti_payload_5_until
+severity: critical
+type: ssti

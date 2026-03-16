@@ -1,0 +1,9 @@
+name: Centralized multimedia service-desk
+payloads:
+- xss_payload_1_ten
+- xss_payload_2_fly
+- xss_payload_3_artist
+- xss_payload_4_opportunity
+- xss_payload_5_hear
+severity: low
+type: xss

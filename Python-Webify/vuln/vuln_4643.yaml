@@ -1,0 +1,9 @@
+name: Re-engineered tangible open system
+payloads:
+- subdomain-takeover_payload_1_mean
+- subdomain-takeover_payload_2_investment
+- subdomain-takeover_payload_3_professor
+- subdomain-takeover_payload_4_suggest
+- subdomain-takeover_payload_5_four
+severity: medium
+type: subdomain-takeover

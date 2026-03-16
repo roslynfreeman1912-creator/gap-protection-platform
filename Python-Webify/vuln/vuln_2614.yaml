@@ -1,0 +1,9 @@
+name: Fundamental foreground ability
+payloads:
+- clickjacking_payload_1_drug
+- clickjacking_payload_2_leg
+- clickjacking_payload_3_future
+- clickjacking_payload_4_site
+- clickjacking_payload_5_large
+severity: critical
+type: clickjacking

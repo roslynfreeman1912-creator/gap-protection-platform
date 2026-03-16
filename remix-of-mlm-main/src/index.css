@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* GAP Protection Design System - Enterprise Cybersecurity Theme */
+
+@layer base {
+  :root {
+    /* Core brand colors - Navy Blue theme */
+    --background: 220 30% 98%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    /* Primary: Deep Navy Blue - GAP Protection brand */
+    --primary: 222 60% 18%;
+    --primary-foreground: 210 40% 98%;
+
+    /* Secondary: Cool Gray */
+    --secondary: 214 20% 95%;
+    --secondary-foreground: 222 47% 11%;
+
+    /* Muted */
+    --muted: 214 20% 96%;
+    --muted-foreground: 215 16% 47%;
+
+    /* Accent: Cyan/Teal for cyber highlights */
+    --accent: 186 80% 42%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84% 60%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214 32% 91%;
+    --input: 214 32% 91%;
+    --ring: 186 80% 42%;
+
+    --radius: 0.75rem;
+
+    /* Sidebar - Dark theme */
+    --sidebar-background: 222 47% 11%;
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 186 80% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 222 40% 18%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 222 40% 18%;
+    --sidebar-ring: 186 80% 50%;
+
+    /* Custom properties for cyber theme */
+    --cyber-glow: 186 100% 50%;
+    --cyber-dark: 222 47% 8%;
+    --cyber-grid: 186 50% 30%;
+    --gradient-cyber: linear-gradient(135deg, hsl(222 47% 8%) 0%, hsl(222 60% 18%) 50%, hsl(186 80% 25%) 100%);
+  }
+
+  .dark {
+    --background: 222 47% 6%;
+    --foreground: 210 40% 98%;
+
+    --card: 222 47% 8%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222 47% 8%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 186 80% 50%;
+    --primary-foreground: 222 47% 8%;
+
+    --secondary: 222 40% 14%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 222 40% 14%;
+    --muted-foreground: 215 20% 65%;
+
+    --accent: 186 80% 42%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 63% 31%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 222 40% 16%;
+    --input: 222 40% 16%;
+    --ring: 186 80% 50%;
+
+    --sidebar-background: 222 47% 5%;
+    --sidebar-foreground: 210 40% 96%;
+    --sidebar-primary: 186 80% 50%;
+    --sidebar-primary-foreground: 222 47% 8%;
+    --sidebar-accent: 222 40% 10%;
+    --sidebar-accent-foreground: 210 40% 96%;
+    --sidebar-border: 222 40% 12%;
+    --sidebar-ring: 186 80% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+    box-sizing: border-box;
+  }
+
+  html {
+    -webkit-text-size-adjust: 100%;
+    -moz-text-size-adjust: 100%;
+    text-size-adjust: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans antialiased;
+    font-family: 'Inter', system-ui, sans-serif;
+    overflow-x: hidden;
+    min-height: 100vh;
+    min-height: 100dvh;
+  }
+
+  code, pre {
+    font-family: 'JetBrains Mono', monospace;
+  }
+
+  img, video {
+    max-width: 100%;
+    height: auto;
+  }
+}
+
+/* Cyber glow effects */
+@layer utilities {
+  .cyber-glow {
+    box-shadow: 0 0 20px hsl(var(--cyber-glow) / 0.3),
+                0 0 40px hsl(var(--cyber-glow) / 0.1);
+  }
+
+  .cyber-border {
+    border: 1px solid hsl(var(--cyber-glow) / 0.3);
+  }
+
+  .text-gradient-cyber {
+    background: linear-gradient(135deg, hsl(186 80% 50%) 0%, hsl(210 100% 60%) 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .bg-grid-pattern {
+    background-image: 
+      linear-gradient(hsl(var(--cyber-grid) / 0.1) 1px, transparent 1px),
+      linear-gradient(90deg, hsl(var(--cyber-grid) / 0.1) 1px, transparent 1px);
+    background-size: 40px 40px;
+  }
+
+  /* MLM Dashboard gradients */
+  .bg-mlm-login {
+    background: linear-gradient(135deg, hsl(222 47% 8%), hsl(222 47% 14%), hsl(185 60% 12%));
+  }
+
+  .bg-mlm-loading {
+    background: linear-gradient(135deg, hsl(222 47% 8%), hsl(222 47% 14%));
+  }
+
+  .bg-mlm-logo-gradient {
+    background: linear-gradient(135deg, hsl(185 80% 50%), hsl(185 80% 35%));
+  }
+}

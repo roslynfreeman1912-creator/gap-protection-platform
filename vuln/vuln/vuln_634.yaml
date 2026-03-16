@@ -1,0 +1,9 @@
+name: Object-based motivating model
+payloads:
+- path-traversal_payload_1_staff
+- path-traversal_payload_2_baby
+- path-traversal_payload_3_single
+- path-traversal_payload_4_heart
+- path-traversal_payload_5_agreement
+severity: low
+type: path-traversal

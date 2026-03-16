@@ -1,0 +1,9 @@
+name: Business-focused intermediate model
+payloads:
+- file-upload_payload_1_top
+- file-upload_payload_2_imagine
+- file-upload_payload_3_manager
+- file-upload_payload_4_price
+- file-upload_payload_5_nothing
+severity: critical
+type: file-upload

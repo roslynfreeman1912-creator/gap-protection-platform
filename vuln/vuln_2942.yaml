@@ -1,0 +1,9 @@
+name: Programmable well-modulated instruction set
+payloads:
+- host-header-injection_payload_1_list
+- host-header-injection_payload_2_control
+- host-header-injection_payload_3_maybe
+- host-header-injection_payload_4_exactly
+- host-header-injection_payload_5_management
+severity: low
+type: host-header-injection

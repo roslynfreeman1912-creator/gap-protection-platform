@@ -1,0 +1,9 @@
+name: Networked grid-enabled productivity
+payloads:
+- javascript-injection_payload_1_support
+- javascript-injection_payload_2_still
+- javascript-injection_payload_3_finally
+- javascript-injection_payload_4_never
+- javascript-injection_payload_5_dinner
+severity: high
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Centralized value-added Local Area Network
+payloads:
+- host-header-injection_payload_1_art
+- host-header-injection_payload_2_young
+- host-header-injection_payload_3_form
+- host-header-injection_payload_4_laugh
+- host-header-injection_payload_5_let
+severity: medium
+type: host-header-injection

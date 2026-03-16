@@ -1,0 +1,9 @@
+name: Open-source global forecast
+payloads:
+- host-header-injection_payload_1_treatment
+- host-header-injection_payload_2_training
+- host-header-injection_payload_3_structure
+- host-header-injection_payload_4_make
+- host-header-injection_payload_5_though
+severity: low
+type: host-header-injection

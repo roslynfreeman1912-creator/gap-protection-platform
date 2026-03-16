@@ -1,0 +1,9 @@
+name: Multi-layered fault-tolerant hub
+payloads:
+- ldap-injection_payload_1_service
+- ldap-injection_payload_2_together
+- ldap-injection_payload_3_paper
+- ldap-injection_payload_4_sport
+- ldap-injection_payload_5_region
+severity: medium
+type: ldap-injection

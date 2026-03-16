@@ -1,0 +1,9 @@
+name: Cross-group 4thgeneration support
+payloads:
+- jsonp-injection_payload_1_dream
+- jsonp-injection_payload_2_no
+- jsonp-injection_payload_3_culture
+- jsonp-injection_payload_4_something
+- jsonp-injection_payload_5_director
+severity: critical
+type: jsonp-injection

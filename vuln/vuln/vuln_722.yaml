@@ -1,0 +1,9 @@
+name: Focused context-sensitive open system
+payloads:
+- tabnabbing_payload_1_plant
+- tabnabbing_payload_2_entire
+- tabnabbing_payload_3_tell
+- tabnabbing_payload_4_its
+- tabnabbing_payload_5_despite
+severity: low
+type: tabnabbing

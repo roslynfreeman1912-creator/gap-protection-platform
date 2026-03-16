@@ -1,0 +1,9 @@
+name: Virtual neutral application
+payloads:
+- sql_payload_1_yes
+- sql_payload_2_provide
+- sql_payload_3_onto
+- sql_payload_4_near
+- sql_payload_5_security
+severity: medium
+type: sql

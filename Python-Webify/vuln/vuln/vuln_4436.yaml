@@ -1,0 +1,9 @@
+name: Future-proofed zero tolerance challenge
+payloads:
+- xxe_payload_1_those
+- xxe_payload_2_role
+- xxe_payload_3_remember
+- xxe_payload_4_officer
+- xxe_payload_5_sure
+severity: low
+type: xxe

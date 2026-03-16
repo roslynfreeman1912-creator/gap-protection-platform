@@ -1,0 +1,9 @@
+name: Focused system-worthy hub
+payloads:
+- nosql-injection_payload_1_effort
+- nosql-injection_payload_2_guy
+- nosql-injection_payload_3_which
+- nosql-injection_payload_4_hotel
+- nosql-injection_payload_5_seat
+severity: medium
+type: nosql-injection

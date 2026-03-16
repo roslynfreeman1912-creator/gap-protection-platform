@@ -1,0 +1,9 @@
+name: Expanded interactive service-desk
+payloads:
+- hsts-misconfig_payload_1_along
+- hsts-misconfig_payload_2_while
+- hsts-misconfig_payload_3_rate
+- hsts-misconfig_payload_4_natural
+- hsts-misconfig_payload_5_evidence
+severity: medium
+type: hsts-misconfig

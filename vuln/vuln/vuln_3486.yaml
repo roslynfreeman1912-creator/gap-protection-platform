@@ -1,0 +1,9 @@
+name: Adaptive logistical workforce
+payloads:
+- xxe_payload_1_mission
+- xxe_payload_2_play
+- xxe_payload_3_radio
+- xxe_payload_4_black
+- xxe_payload_5_stay
+severity: critical
+type: xxe

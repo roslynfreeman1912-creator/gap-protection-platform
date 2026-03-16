@@ -1,0 +1,9 @@
+name: Managed systemic utilization
+payloads:
+- nosql-injection_payload_1_represent
+- nosql-injection_payload_2_compare
+- nosql-injection_payload_3_matter
+- nosql-injection_payload_4_a
+- nosql-injection_payload_5_maintain
+severity: critical
+type: nosql-injection

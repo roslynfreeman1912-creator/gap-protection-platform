@@ -1,0 +1,9 @@
+name: Managed executive moderator
+payloads:
+- rfi_payload_1_condition
+- rfi_payload_2_investment
+- rfi_payload_3_me
+- rfi_payload_4_enjoy
+- rfi_payload_5_try
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Organized mobile product
+payloads:
+- xxe_payload_1_quite
+- xxe_payload_2_simple
+- xxe_payload_3_day
+- xxe_payload_4_office
+- xxe_payload_5_security
+severity: high
+type: xxe

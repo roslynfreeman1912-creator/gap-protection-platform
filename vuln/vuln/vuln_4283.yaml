@@ -1,0 +1,9 @@
+name: Cloned global strategy
+payloads:
+- command-injection_payload_1_speech
+- command-injection_payload_2_purpose
+- command-injection_payload_3_campaign
+- command-injection_payload_4_high
+- command-injection_payload_5_door
+severity: low
+type: command-injection

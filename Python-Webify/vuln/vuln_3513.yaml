@@ -1,0 +1,9 @@
+name: Synergistic explicit website
+payloads:
+- nosql-injection_payload_1_air
+- nosql-injection_payload_2_sport
+- nosql-injection_payload_3_exist
+- nosql-injection_payload_4_town
+- nosql-injection_payload_5_let
+severity: critical
+type: nosql-injection

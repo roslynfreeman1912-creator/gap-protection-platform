@@ -1,0 +1,9 @@
+name: Synergistic context-sensitive superstructure
+payloads:
+- ssti_payload_1_long
+- ssti_payload_2_letter
+- ssti_payload_3_discussion
+- ssti_payload_4_kind
+- ssti_payload_5_just
+severity: critical
+type: ssti

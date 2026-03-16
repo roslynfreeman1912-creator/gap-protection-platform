@@ -1,0 +1,9 @@
+name: Down-sized human-resource analyzer
+payloads:
+- lfi_payload_1_sister
+- lfi_payload_2_eye
+- lfi_payload_3_serve
+- lfi_payload_4_sound
+- lfi_payload_5_sure
+severity: high
+type: lfi

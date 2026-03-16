@@ -1,0 +1,9 @@
+name: Function-based 5thgeneration extranet
+payloads:
+- nosql-injection_payload_1_former
+- nosql-injection_payload_2_talk
+- nosql-injection_payload_3_occur
+- nosql-injection_payload_4_be
+- nosql-injection_payload_5_charge
+severity: critical
+type: nosql-injection

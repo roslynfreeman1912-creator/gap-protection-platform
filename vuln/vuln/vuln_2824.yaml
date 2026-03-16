@@ -1,0 +1,9 @@
+name: Fully-configurable radical monitoring
+payloads:
+- csp-bypass_payload_1_student
+- csp-bypass_payload_2_international
+- csp-bypass_payload_3_member
+- csp-bypass_payload_4_meet
+- csp-bypass_payload_5_occur
+severity: high
+type: csp-bypass

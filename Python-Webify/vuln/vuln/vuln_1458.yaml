@@ -1,0 +1,9 @@
+name: Implemented uniform challenge
+payloads:
+- command-injection_payload_1_let
+- command-injection_payload_2_eight
+- command-injection_payload_3_surface
+- command-injection_payload_4_eat
+- command-injection_payload_5_our
+severity: medium
+type: command-injection

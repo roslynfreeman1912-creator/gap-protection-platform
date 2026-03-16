@@ -1,0 +1,9 @@
+name: Organic fresh-thinking policy
+payloads:
+- lfi_payload_1_social
+- lfi_payload_2_although
+- lfi_payload_3_indeed
+- lfi_payload_4_identify
+- lfi_payload_5_adult
+severity: medium
+type: lfi

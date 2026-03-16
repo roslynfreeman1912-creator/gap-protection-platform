@@ -1,0 +1,9 @@
+name: Robust empowering algorithm
+payloads:
+- ldap-injection_payload_1_throughout
+- ldap-injection_payload_2_tell
+- ldap-injection_payload_3_else
+- ldap-injection_payload_4_watch
+- ldap-injection_payload_5_question
+severity: medium
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Focused content-based standardization
+payloads:
+- subdomain-takeover_payload_1_scientist
+- subdomain-takeover_payload_2_skill
+- subdomain-takeover_payload_3_prove
+- subdomain-takeover_payload_4_identify
+- subdomain-takeover_payload_5_two
+severity: low
+type: subdomain-takeover

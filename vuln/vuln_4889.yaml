@@ -1,0 +1,9 @@
+name: Proactive leadingedge infrastructure
+payloads:
+- clickjacking_payload_1_low
+- clickjacking_payload_2_recently
+- clickjacking_payload_3_morning
+- clickjacking_payload_4_sport
+- clickjacking_payload_5_audience
+severity: medium
+type: clickjacking

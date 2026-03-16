@@ -1,0 +1,9 @@
+name: Customer-focused optimizing interface
+payloads:
+- rfi_payload_1_follow
+- rfi_payload_2_short
+- rfi_payload_3_goal
+- rfi_payload_4_eat
+- rfi_payload_5_voice
+severity: high
+type: rfi

@@ -1,0 +1,9 @@
+name: Focused analyzing portal
+payloads:
+- nosql-injection_payload_1_cultural
+- nosql-injection_payload_2_reflect
+- nosql-injection_payload_3_center
+- nosql-injection_payload_4_ago
+- nosql-injection_payload_5_real
+severity: high
+type: nosql-injection

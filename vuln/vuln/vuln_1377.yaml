@@ -1,0 +1,9 @@
+name: Monitored next generation toolset
+payloads:
+- xss_payload_1_news
+- xss_payload_2_break
+- xss_payload_3_break
+- xss_payload_4_speak
+- xss_payload_5_where
+severity: critical
+type: xss

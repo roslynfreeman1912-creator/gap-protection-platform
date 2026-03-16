@@ -1,0 +1,9 @@
+name: Team-oriented secondary artificial intelligence
+payloads:
+- xxe_payload_1_else
+- xxe_payload_2_able
+- xxe_payload_3_environment
+- xxe_payload_4_brother
+- xxe_payload_5_return
+severity: high
+type: xxe

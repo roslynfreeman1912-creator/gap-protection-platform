@@ -1,0 +1,9 @@
+name: Networked optimal challenge
+payloads:
+- sql_payload_1_assume
+- sql_payload_2_let
+- sql_payload_3_oil
+- sql_payload_4_skin
+- sql_payload_5_write
+severity: medium
+type: sql

@@ -1,0 +1,9 @@
+name: Expanded web-enabled protocol
+payloads:
+- lfi_payload_1_food
+- lfi_payload_2_including
+- lfi_payload_3_rest
+- lfi_payload_4_Mr
+- lfi_payload_5_ok
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Profound tangible middleware
+payloads:
+- subdomain-takeover_payload_1_design
+- subdomain-takeover_payload_2_turn
+- subdomain-takeover_payload_3_evening
+- subdomain-takeover_payload_4_wife
+- subdomain-takeover_payload_5_suddenly
+severity: high
+type: subdomain-takeover

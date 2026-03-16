@@ -1,0 +1,9 @@
+name: Open-source asynchronous Internet solution
+payloads:
+- command-injection_payload_1_grow
+- command-injection_payload_2_race
+- command-injection_payload_3_trade
+- command-injection_payload_4_able
+- command-injection_payload_5_political
+severity: medium
+type: command-injection

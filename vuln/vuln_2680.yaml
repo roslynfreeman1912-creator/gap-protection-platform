@@ -1,0 +1,9 @@
+name: Virtual grid-enabled attitude
+payloads:
+- ssrf_payload_1_decade
+- ssrf_payload_2_ground
+- ssrf_payload_3_give
+- ssrf_payload_4_interesting
+- ssrf_payload_5_town
+severity: medium
+type: ssrf

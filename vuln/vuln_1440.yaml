@@ -1,0 +1,9 @@
+name: Quality-focused exuding focus group
+payloads:
+- jsonp-injection_payload_1_debate
+- jsonp-injection_payload_2_recent
+- jsonp-injection_payload_3_point
+- jsonp-injection_payload_4_notice
+- jsonp-injection_payload_5_never
+severity: critical
+type: jsonp-injection

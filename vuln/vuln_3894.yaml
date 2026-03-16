@@ -1,0 +1,9 @@
+name: Focused client-driven time-frame
+payloads:
+- javascript-injection_payload_1_dinner
+- javascript-injection_payload_2_up
+- javascript-injection_payload_3_debate
+- javascript-injection_payload_4_eight
+- javascript-injection_payload_5_board
+severity: medium
+type: javascript-injection

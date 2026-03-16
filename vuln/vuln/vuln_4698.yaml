@@ -1,0 +1,9 @@
+name: Operative dedicated process improvement
+payloads:
+- hsts-misconfig_payload_1_usually
+- hsts-misconfig_payload_2_all
+- hsts-misconfig_payload_3_charge
+- hsts-misconfig_payload_4_although
+- hsts-misconfig_payload_5_hard
+severity: medium
+type: hsts-misconfig

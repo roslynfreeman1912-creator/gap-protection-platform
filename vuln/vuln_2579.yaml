@@ -1,0 +1,9 @@
+name: Function-based responsive open architecture
+payloads:
+- rfi_payload_1_agreement
+- rfi_payload_2_between
+- rfi_payload_3_themselves
+- rfi_payload_4_six
+- rfi_payload_5_become
+severity: critical
+type: rfi

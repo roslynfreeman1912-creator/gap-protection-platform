@@ -1,0 +1,9 @@
+name: Polarized non-volatile encryption
+payloads:
+- host-header-injection_payload_1_democratic
+- host-header-injection_payload_2_play
+- host-header-injection_payload_3_none
+- host-header-injection_payload_4_her
+- host-header-injection_payload_5_daughter
+severity: medium
+type: host-header-injection

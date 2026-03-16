@@ -1,0 +1,9 @@
+name: Right-sized demand-driven Graphic Interface
+payloads:
+- hsts-misconfig_payload_1_service
+- hsts-misconfig_payload_2_expect
+- hsts-misconfig_payload_3_save
+- hsts-misconfig_payload_4_indicate
+- hsts-misconfig_payload_5_accept
+severity: high
+type: hsts-misconfig

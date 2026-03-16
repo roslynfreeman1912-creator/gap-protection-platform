@@ -1,0 +1,9 @@
+name: Streamlined tangible open system
+payloads:
+- frame-injection_payload_1_peace
+- frame-injection_payload_2_exist
+- frame-injection_payload_3_light
+- frame-injection_payload_4_season
+- frame-injection_payload_5_head
+severity: low
+type: frame-injection

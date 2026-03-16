@@ -1,0 +1,9 @@
+name: Enhanced full-range synergy
+payloads:
+- xss_payload_1_lead
+- xss_payload_2_walk
+- xss_payload_3_top
+- xss_payload_4_media
+- xss_payload_5_difficult
+severity: critical
+type: xss

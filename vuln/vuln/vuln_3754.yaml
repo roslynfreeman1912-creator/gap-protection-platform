@@ -1,0 +1,9 @@
+name: User-friendly eco-centric time-frame
+payloads:
+- rfi_payload_1_state
+- rfi_payload_2_learn
+- rfi_payload_3_may
+- rfi_payload_4_hit
+- rfi_payload_5_heavy
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Open-architected upward-trending process improvement
+payloads:
+- frame-injection_payload_1_change
+- frame-injection_payload_2_as
+- frame-injection_payload_3_push
+- frame-injection_payload_4_college
+- frame-injection_payload_5_hair
+severity: low
+type: frame-injection

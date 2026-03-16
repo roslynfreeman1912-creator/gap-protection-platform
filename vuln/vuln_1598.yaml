@@ -1,0 +1,9 @@
+name: Enterprise-wide homogeneous algorithm
+payloads:
+- hsts-misconfig_payload_1_protect
+- hsts-misconfig_payload_2_say
+- hsts-misconfig_payload_3_time
+- hsts-misconfig_payload_4_mouth
+- hsts-misconfig_payload_5_break
+severity: high
+type: hsts-misconfig

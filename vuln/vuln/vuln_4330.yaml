@@ -1,0 +1,9 @@
+name: Virtual transitional interface
+payloads:
+- ssrf_payload_1_point
+- ssrf_payload_2_always
+- ssrf_payload_3_rest
+- ssrf_payload_4_agent
+- ssrf_payload_5_structure
+severity: medium
+type: ssrf

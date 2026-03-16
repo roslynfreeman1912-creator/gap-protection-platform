@@ -1,0 +1,9 @@
+name: Monitored stable conglomeration
+payloads:
+- xxe_payload_1_line
+- xxe_payload_2_edge
+- xxe_payload_3_short
+- xxe_payload_4_strategy
+- xxe_payload_5_mission
+severity: medium
+type: xxe

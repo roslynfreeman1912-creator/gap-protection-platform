@@ -1,0 +1,9 @@
+name: Distributed neutral groupware
+payloads:
+- file-upload_payload_1_arm
+- file-upload_payload_2_hand
+- file-upload_payload_3_type
+- file-upload_payload_4_turn
+- file-upload_payload_5_sort
+severity: critical
+type: file-upload

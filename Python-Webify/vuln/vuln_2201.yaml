@@ -1,0 +1,9 @@
+name: Synchronized bi-directional focus group
+payloads:
+- sql_payload_1_five
+- sql_payload_2_media
+- sql_payload_3_question
+- sql_payload_4_kind
+- sql_payload_5_fish
+severity: medium
+type: sql

@@ -1,0 +1,9 @@
+name: Multi-tiered bifurcated analyzer
+payloads:
+- tabnabbing_payload_1_others
+- tabnabbing_payload_2_true
+- tabnabbing_payload_3_service
+- tabnabbing_payload_4_stock
+- tabnabbing_payload_5_against
+severity: low
+type: tabnabbing

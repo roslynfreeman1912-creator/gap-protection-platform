@@ -1,0 +1,9 @@
+name: Secured responsive analyzer
+payloads:
+- frame-injection_payload_1_ten
+- frame-injection_payload_2_keep
+- frame-injection_payload_3_clear
+- frame-injection_payload_4_include
+- frame-injection_payload_5_responsibility
+severity: medium
+type: frame-injection

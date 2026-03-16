@@ -1,0 +1,9 @@
+name: User-friendly tangible forecast
+payloads:
+- ssti_payload_1_hundred
+- ssti_payload_2_who
+- ssti_payload_3_quickly
+- ssti_payload_4_culture
+- ssti_payload_5_forget
+severity: low
+type: ssti

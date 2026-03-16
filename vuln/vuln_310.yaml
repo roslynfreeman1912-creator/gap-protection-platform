@@ -1,0 +1,9 @@
+name: Multi-channeled client-server frame
+payloads:
+- open-redirect_payload_1_language
+- open-redirect_payload_2_study
+- open-redirect_payload_3_rest
+- open-redirect_payload_4_buy
+- open-redirect_payload_5_effect
+severity: medium
+type: open-redirect

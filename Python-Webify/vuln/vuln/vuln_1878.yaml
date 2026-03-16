@@ -1,0 +1,9 @@
+name: Total human-resource array
+payloads:
+- lfi_payload_1_able
+- lfi_payload_2_arrive
+- lfi_payload_3_tell
+- lfi_payload_4_consumer
+- lfi_payload_5_total
+severity: critical
+type: lfi

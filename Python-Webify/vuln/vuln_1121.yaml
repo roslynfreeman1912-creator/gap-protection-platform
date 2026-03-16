@@ -1,0 +1,9 @@
+name: Open-architected interactive archive
+payloads:
+- mime-sniffing_payload_1_help
+- mime-sniffing_payload_2_room
+- mime-sniffing_payload_3_expert
+- mime-sniffing_payload_4_citizen
+- mime-sniffing_payload_5_authority
+severity: low
+type: mime-sniffing

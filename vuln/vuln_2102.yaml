@@ -1,0 +1,9 @@
+name: Re-contextualized content-based website
+payloads:
+- xss_payload_1_seven
+- xss_payload_2_discover
+- xss_payload_3_perform
+- xss_payload_4_enter
+- xss_payload_5_officer
+severity: low
+type: xss

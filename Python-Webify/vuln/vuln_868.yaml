@@ -1,0 +1,9 @@
+name: Implemented local focus group
+payloads:
+- subdomain-takeover_payload_1_establish
+- subdomain-takeover_payload_2_build
+- subdomain-takeover_payload_3_time
+- subdomain-takeover_payload_4_appear
+- subdomain-takeover_payload_5_hospital
+severity: medium
+type: subdomain-takeover

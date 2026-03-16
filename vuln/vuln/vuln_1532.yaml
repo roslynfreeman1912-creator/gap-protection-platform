@@ -1,0 +1,9 @@
+name: Realigned directional paradigm
+payloads:
+- ssti_payload_1_identify
+- ssti_payload_2_fear
+- ssti_payload_3_research
+- ssti_payload_4_read
+- ssti_payload_5_future
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Face-to-face mission-critical open system
+payloads:
+- hsts-misconfig_payload_1_listen
+- hsts-misconfig_payload_2_report
+- hsts-misconfig_payload_3_father
+- hsts-misconfig_payload_4_carry
+- hsts-misconfig_payload_5_people
+severity: low
+type: hsts-misconfig

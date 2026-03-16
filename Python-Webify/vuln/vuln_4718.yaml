@@ -1,0 +1,9 @@
+name: Face-to-face value-added Local Area Network
+payloads:
+- subdomain-takeover_payload_1_listen
+- subdomain-takeover_payload_2_herself
+- subdomain-takeover_payload_3_protect
+- subdomain-takeover_payload_4_subject
+- subdomain-takeover_payload_5_growth
+severity: medium
+type: subdomain-takeover

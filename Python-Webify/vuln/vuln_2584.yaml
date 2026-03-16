@@ -1,0 +1,9 @@
+name: Distributed scalable implementation
+payloads:
+- path-traversal_payload_1_town
+- path-traversal_payload_2_production
+- path-traversal_payload_3_suddenly
+- path-traversal_payload_4_line
+- path-traversal_payload_5_their
+severity: low
+type: path-traversal

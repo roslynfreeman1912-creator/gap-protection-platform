@@ -1,0 +1,9 @@
+name: Cloned non-volatile array
+payloads:
+- command-injection_payload_1_us
+- command-injection_payload_2_him
+- command-injection_payload_3_difference
+- command-injection_payload_4_consumer
+- command-injection_payload_5_rise
+severity: critical
+type: command-injection

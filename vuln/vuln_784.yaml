@@ -1,0 +1,9 @@
+name: Visionary bifurcated alliance
+payloads:
+- path-traversal_payload_1_world
+- path-traversal_payload_2_field
+- path-traversal_payload_3_exist
+- path-traversal_payload_4_so
+- path-traversal_payload_5_doctor
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Advanced 24hour access
+payloads:
+- hsts-misconfig_payload_1_box
+- hsts-misconfig_payload_2_affect
+- hsts-misconfig_payload_3_very
+- hsts-misconfig_payload_4_and
+- hsts-misconfig_payload_5_game
+severity: medium
+type: hsts-misconfig

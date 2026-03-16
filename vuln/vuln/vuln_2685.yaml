@@ -1,0 +1,9 @@
+name: Progressive zero-defect process improvement
+payloads:
+- open-redirect_payload_1_her
+- open-redirect_payload_2_quite
+- open-redirect_payload_3_value
+- open-redirect_payload_4_media
+- open-redirect_payload_5_near
+severity: medium
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Reverse-engineered incremental website
+payloads:
+- jsonp-injection_payload_1_these
+- jsonp-injection_payload_2_book
+- jsonp-injection_payload_3_central
+- jsonp-injection_payload_4_light
+- jsonp-injection_payload_5_outside
+severity: critical
+type: jsonp-injection

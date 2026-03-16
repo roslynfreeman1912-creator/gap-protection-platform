@@ -1,0 +1,9 @@
+name: Object-based tangible neural-net
+payloads:
+- file-upload_payload_1_foot
+- file-upload_payload_2_take
+- file-upload_payload_3_entire
+- file-upload_payload_4_activity
+- file-upload_payload_5_election
+severity: medium
+type: file-upload

@@ -1,0 +1,9 @@
+name: Persistent composite forecast
+payloads:
+- rfi_payload_1_join
+- rfi_payload_2_produce
+- rfi_payload_3_their
+- rfi_payload_4_according
+- rfi_payload_5_travel
+severity: high
+type: rfi

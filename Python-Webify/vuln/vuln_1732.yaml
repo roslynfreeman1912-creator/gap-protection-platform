@@ -1,0 +1,9 @@
+name: Face-to-face holistic toolset
+payloads:
+- ssti_payload_1_read
+- ssti_payload_2_fire
+- ssti_payload_3_receive
+- ssti_payload_4_outside
+- ssti_payload_5_discover
+severity: medium
+type: ssti

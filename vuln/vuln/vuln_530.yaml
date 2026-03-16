@@ -1,0 +1,9 @@
+name: Persevering holistic moderator
+payloads:
+- ssrf_payload_1_production
+- ssrf_payload_2_own
+- ssrf_payload_3_success
+- ssrf_payload_4_imagine
+- ssrf_payload_5_themselves
+severity: high
+type: ssrf

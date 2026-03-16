@@ -1,0 +1,9 @@
+name: Virtual well-modulated monitoring
+payloads:
+- nosql-injection_payload_1_reach
+- nosql-injection_payload_2_magazine
+- nosql-injection_payload_3_daughter
+- nosql-injection_payload_4_history
+- nosql-injection_payload_5_play
+severity: medium
+type: nosql-injection

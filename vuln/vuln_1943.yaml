@@ -1,0 +1,9 @@
+name: Inverse bottom-line website
+payloads:
+- subdomain-takeover_payload_1_partner
+- subdomain-takeover_payload_2_condition
+- subdomain-takeover_payload_3_beat
+- subdomain-takeover_payload_4_fall
+- subdomain-takeover_payload_5_he
+severity: medium
+type: subdomain-takeover

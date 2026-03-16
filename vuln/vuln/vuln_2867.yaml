@@ -1,0 +1,9 @@
+name: Synergistic regional function
+payloads:
+- host-header-injection_payload_1_process
+- host-header-injection_payload_2_thought
+- host-header-injection_payload_3_wind
+- host-header-injection_payload_4_avoid
+- host-header-injection_payload_5_social
+severity: low
+type: host-header-injection

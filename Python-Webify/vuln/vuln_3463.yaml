@@ -1,0 +1,9 @@
+name: Monitored optimizing ability
+payloads:
+- nosql-injection_payload_1_good
+- nosql-injection_payload_2_say
+- nosql-injection_payload_3_drop
+- nosql-injection_payload_4_another
+- nosql-injection_payload_5_usually
+severity: high
+type: nosql-injection

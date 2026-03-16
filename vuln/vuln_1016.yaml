@@ -1,0 +1,9 @@
+name: Grass-roots homogeneous secured line
+payloads:
+- crlf-injection_payload_1_school
+- crlf-injection_payload_2_her
+- crlf-injection_payload_3_law
+- crlf-injection_payload_4_man
+- crlf-injection_payload_5_middle
+severity: low
+type: crlf-injection

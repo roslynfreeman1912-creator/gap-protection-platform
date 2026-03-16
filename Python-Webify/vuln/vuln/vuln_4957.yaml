@@ -1,0 +1,9 @@
+name: Universal needs-based open architecture
+payloads:
+- ssti_payload_1_agent
+- ssti_payload_2_huge
+- ssti_payload_3_decision
+- ssti_payload_4_color
+- ssti_payload_5_it
+severity: low
+type: ssti

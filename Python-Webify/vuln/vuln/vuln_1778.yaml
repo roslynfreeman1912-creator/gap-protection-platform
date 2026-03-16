@@ -1,0 +1,9 @@
+name: Synergistic zero tolerance array
+payloads:
+- lfi_payload_1_thousand
+- lfi_payload_2_hit
+- lfi_payload_3_mention
+- lfi_payload_4_evidence
+- lfi_payload_5_budget
+severity: low
+type: lfi

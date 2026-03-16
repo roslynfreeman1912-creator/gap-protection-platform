@@ -1,0 +1,9 @@
+name: Mandatory discrete knowledgebase
+payloads:
+- file-upload_payload_1_contain
+- file-upload_payload_2_cost
+- file-upload_payload_3_bag
+- file-upload_payload_4_either
+- file-upload_payload_5_always
+severity: high
+type: file-upload

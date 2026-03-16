@@ -1,0 +1,9 @@
+name: User-centric holistic website
+payloads:
+- ldap-injection_payload_1_spring
+- ldap-injection_payload_2_ahead
+- ldap-injection_payload_3_simply
+- ldap-injection_payload_4_capital
+- ldap-injection_payload_5_rich
+severity: critical
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Integrated high-level encryption
+payloads:
+- tabnabbing_payload_1_about
+- tabnabbing_payload_2_heart
+- tabnabbing_payload_3_its
+- tabnabbing_payload_4_college
+- tabnabbing_payload_5_when
+severity: critical
+type: tabnabbing

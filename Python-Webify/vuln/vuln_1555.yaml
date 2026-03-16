@@ -1,0 +1,9 @@
+name: Seamless demand-driven archive
+payloads:
+- ssrf_payload_1_organization
+- ssrf_payload_2_range
+- ssrf_payload_3_reduce
+- ssrf_payload_4_beautiful
+- ssrf_payload_5_one
+severity: medium
+type: ssrf

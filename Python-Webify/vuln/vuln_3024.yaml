@@ -1,0 +1,9 @@
+name: Expanded static toolset
+payloads:
+- csp-bypass_payload_1_fast
+- csp-bypass_payload_2_instead
+- csp-bypass_payload_3_clearly
+- csp-bypass_payload_4_likely
+- csp-bypass_payload_5_wind
+severity: low
+type: csp-bypass

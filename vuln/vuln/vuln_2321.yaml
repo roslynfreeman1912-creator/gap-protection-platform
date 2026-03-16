@@ -1,0 +1,9 @@
+name: Polarized multimedia task-force
+payloads:
+- mime-sniffing_payload_1_ability
+- mime-sniffing_payload_2_church
+- mime-sniffing_payload_3_walk
+- mime-sniffing_payload_4_fact
+- mime-sniffing_payload_5_shake
+severity: low
+type: mime-sniffing

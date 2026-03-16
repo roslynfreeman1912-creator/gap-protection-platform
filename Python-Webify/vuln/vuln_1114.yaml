@@ -1,0 +1,9 @@
+name: Robust contextually-based website
+payloads:
+- clickjacking_payload_1_reflect
+- clickjacking_payload_2_news
+- clickjacking_payload_3_blue
+- clickjacking_payload_4_education
+- clickjacking_payload_5_age
+severity: high
+type: clickjacking

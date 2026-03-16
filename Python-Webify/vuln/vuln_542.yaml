@@ -1,0 +1,9 @@
+name: Cross-platform next generation secured line
+payloads:
+- host-header-injection_payload_1_at
+- host-header-injection_payload_2_unit
+- host-header-injection_payload_3_focus
+- host-header-injection_payload_4_environment
+- host-header-injection_payload_5_since
+severity: high
+type: host-header-injection

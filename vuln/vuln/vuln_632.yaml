@@ -1,0 +1,9 @@
+name: Enhanced next generation Internet solution
+payloads:
+- ssti_payload_1_matter
+- ssti_payload_2_same
+- ssti_payload_3_claim
+- ssti_payload_4_build
+- ssti_payload_5_hit
+severity: low
+type: ssti

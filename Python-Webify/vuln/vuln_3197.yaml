@@ -1,0 +1,9 @@
+name: Team-oriented radical contingency
+payloads:
+- tabnabbing_payload_1_protect
+- tabnabbing_payload_2_price
+- tabnabbing_payload_3_clear
+- tabnabbing_payload_4_door
+- tabnabbing_payload_5_our
+severity: critical
+type: tabnabbing

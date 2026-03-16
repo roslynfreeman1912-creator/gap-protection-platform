@@ -1,0 +1,9 @@
+name: Self-enabling impactful challenge
+payloads:
+- clickjacking_payload_1_south
+- clickjacking_payload_2_student
+- clickjacking_payload_3_south
+- clickjacking_payload_4_land
+- clickjacking_payload_5_both
+severity: medium
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Ergonomic neutral portal
+payloads:
+- subdomain-takeover_payload_1_near
+- subdomain-takeover_payload_2_side
+- subdomain-takeover_payload_3_whole
+- subdomain-takeover_payload_4_establish
+- subdomain-takeover_payload_5_reason
+severity: high
+type: subdomain-takeover

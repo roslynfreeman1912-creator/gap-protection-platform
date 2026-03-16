@@ -1,0 +1,9 @@
+name: Balanced 24hour orchestration
+payloads:
+- frame-injection_payload_1_phone
+- frame-injection_payload_2_hospital
+- frame-injection_payload_3_attack
+- frame-injection_payload_4_however
+- frame-injection_payload_5_general
+severity: low
+type: frame-injection

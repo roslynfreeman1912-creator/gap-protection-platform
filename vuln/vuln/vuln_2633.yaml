@@ -1,0 +1,9 @@
+name: Re-engineered client-server knowledge user
+payloads:
+- command-injection_payload_1_state
+- command-injection_payload_2_get
+- command-injection_payload_3_state
+- command-injection_payload_4_challenge
+- command-injection_payload_5_you
+severity: low
+type: command-injection

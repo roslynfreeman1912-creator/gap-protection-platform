@@ -1,0 +1,9 @@
+name: Cross-group upward-trending implementation
+payloads:
+- mime-sniffing_payload_1_political
+- mime-sniffing_payload_2_whom
+- mime-sniffing_payload_3_important
+- mime-sniffing_payload_4_father
+- mime-sniffing_payload_5_house
+severity: medium
+type: mime-sniffing

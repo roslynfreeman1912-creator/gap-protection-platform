@@ -1,0 +1,9 @@
+name: Front-line tangible strategy
+payloads:
+- csp-bypass_payload_1_structure
+- csp-bypass_payload_2_certain
+- csp-bypass_payload_3_world
+- csp-bypass_payload_4_top
+- csp-bypass_payload_5_foreign
+severity: high
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Re-engineered executive encoding
+payloads:
+- command-injection_payload_1_peace
+- command-injection_payload_2_response
+- command-injection_payload_3_debate
+- command-injection_payload_4_responsibility
+- command-injection_payload_5_without
+severity: low
+type: command-injection

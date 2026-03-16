@@ -1,0 +1,9 @@
+name: Proactive interactive application
+payloads:
+- nosql-injection_payload_1_so
+- nosql-injection_payload_2_fear
+- nosql-injection_payload_3_safe
+- nosql-injection_payload_4_necessary
+- nosql-injection_payload_5_type
+severity: high
+type: nosql-injection

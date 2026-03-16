@@ -1,0 +1,9 @@
+name: Compatible empowering contingency
+payloads:
+- frame-injection_payload_1_sit
+- frame-injection_payload_2_pattern
+- frame-injection_payload_3_question
+- frame-injection_payload_4_administration
+- frame-injection_payload_5_nearly
+severity: critical
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Advanced human-resource benchmark
+payloads:
+- sql_payload_1_information
+- sql_payload_2_draw
+- sql_payload_3_film
+- sql_payload_4_individual
+- sql_payload_5_weight
+severity: high
+type: sql

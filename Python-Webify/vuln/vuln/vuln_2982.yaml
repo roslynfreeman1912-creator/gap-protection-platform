@@ -1,0 +1,9 @@
+name: Re-contextualized contextually-based projection
+payloads:
+- ssti_payload_1_yet
+- ssti_payload_2_analysis
+- ssti_payload_3_save
+- ssti_payload_4_along
+- ssti_payload_5_democratic
+severity: critical
+type: ssti

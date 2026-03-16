@@ -1,0 +1,9 @@
+name: Enterprise-wide client-driven workforce
+payloads:
+- csp-bypass_payload_1_music
+- csp-bypass_payload_2_thus
+- csp-bypass_payload_3_break
+- csp-bypass_payload_4_never
+- csp-bypass_payload_5_baby
+severity: medium
+type: csp-bypass

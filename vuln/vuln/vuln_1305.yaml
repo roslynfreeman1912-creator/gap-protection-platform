@@ -1,0 +1,9 @@
+name: Versatile content-based open architecture
+payloads:
+- ssrf_payload_1_pressure
+- ssrf_payload_2_bag
+- ssrf_payload_3_note
+- ssrf_payload_4_capital
+- ssrf_payload_5_institution
+severity: medium
+type: ssrf

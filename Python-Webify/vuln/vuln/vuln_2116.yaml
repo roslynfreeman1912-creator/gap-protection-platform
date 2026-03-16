@@ -1,0 +1,9 @@
+name: Total solution-oriented frame
+payloads:
+- crlf-injection_payload_1_person
+- crlf-injection_payload_2_risk
+- crlf-injection_payload_3_so
+- crlf-injection_payload_4_interesting
+- crlf-injection_payload_5_art
+severity: high
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Reverse-engineered non-volatile focus group
+payloads:
+- open-redirect_payload_1_base
+- open-redirect_payload_2_short
+- open-redirect_payload_3_while
+- open-redirect_payload_4_whom
+- open-redirect_payload_5_music
+severity: critical
+type: open-redirect

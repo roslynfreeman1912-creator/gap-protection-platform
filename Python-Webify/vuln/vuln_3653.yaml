@@ -1,0 +1,9 @@
+name: Customer-focused uniform portal
+payloads:
+- lfi_payload_1_man
+- lfi_payload_2_allow
+- lfi_payload_3_relate
+- lfi_payload_4_offer
+- lfi_payload_5_top
+severity: critical
+type: lfi

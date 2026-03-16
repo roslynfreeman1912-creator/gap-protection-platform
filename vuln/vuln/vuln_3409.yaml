@@ -1,0 +1,9 @@
+name: Reactive multi-tasking complexity
+payloads:
+- path-traversal_payload_1_save
+- path-traversal_payload_2_newspaper
+- path-traversal_payload_3_write
+- path-traversal_payload_4_direction
+- path-traversal_payload_5_your
+severity: critical
+type: path-traversal

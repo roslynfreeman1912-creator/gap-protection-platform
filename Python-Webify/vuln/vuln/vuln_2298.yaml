@@ -1,0 +1,9 @@
+name: Sharable content-based portal
+payloads:
+- hsts-misconfig_payload_1_opportunity
+- hsts-misconfig_payload_2_simply
+- hsts-misconfig_payload_3_page
+- hsts-misconfig_payload_4_pretty
+- hsts-misconfig_payload_5_process
+severity: critical
+type: hsts-misconfig

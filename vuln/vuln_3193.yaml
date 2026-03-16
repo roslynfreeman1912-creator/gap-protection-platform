@@ -1,0 +1,9 @@
+name: Customer-focused incremental Internet solution
+payloads:
+- subdomain-takeover_payload_1_toward
+- subdomain-takeover_payload_2_item
+- subdomain-takeover_payload_3_traditional
+- subdomain-takeover_payload_4_ball
+- subdomain-takeover_payload_5_deal
+severity: medium
+type: subdomain-takeover

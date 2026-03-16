@@ -1,0 +1,9 @@
+name: Triple-buffered cohesive definition
+payloads:
+- open-redirect_payload_1_he
+- open-redirect_payload_2_hear
+- open-redirect_payload_3_any
+- open-redirect_payload_4_bring
+- open-redirect_payload_5_account
+severity: high
+type: open-redirect

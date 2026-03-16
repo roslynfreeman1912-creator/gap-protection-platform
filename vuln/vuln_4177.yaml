@@ -1,0 +1,9 @@
+name: Exclusive full-range moderator
+payloads:
+- xss_payload_1_once
+- xss_payload_2_early
+- xss_payload_3_art
+- xss_payload_4_event
+- xss_payload_5_believe
+severity: low
+type: xss

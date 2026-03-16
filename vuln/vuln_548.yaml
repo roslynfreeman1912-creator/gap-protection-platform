@@ -1,0 +1,9 @@
+name: Multi-layered human-resource structure
+payloads:
+- hsts-misconfig_payload_1_college
+- hsts-misconfig_payload_2_although
+- hsts-misconfig_payload_3_city
+- hsts-misconfig_payload_4_these
+- hsts-misconfig_payload_5_hot
+severity: medium
+type: hsts-misconfig

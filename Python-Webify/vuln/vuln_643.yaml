@@ -1,0 +1,9 @@
+name: Focused user-facing functionalities
+payloads:
+- subdomain-takeover_payload_1_into
+- subdomain-takeover_payload_2_maybe
+- subdomain-takeover_payload_3_my
+- subdomain-takeover_payload_4_agent
+- subdomain-takeover_payload_5_national
+severity: high
+type: subdomain-takeover

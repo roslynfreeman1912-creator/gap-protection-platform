@@ -1,0 +1,9 @@
+name: Implemented methodical workforce
+payloads:
+- jsonp-injection_payload_1_matter
+- jsonp-injection_payload_2_suffer
+- jsonp-injection_payload_3_range
+- jsonp-injection_payload_4_result
+- jsonp-injection_payload_5_magazine
+severity: critical
+type: jsonp-injection

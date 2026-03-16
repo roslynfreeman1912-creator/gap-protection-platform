@@ -1,0 +1,9 @@
+name: Diverse directional framework
+payloads:
+- lfi_payload_1_sister
+- lfi_payload_2_wide
+- lfi_payload_3_customer
+- lfi_payload_4_me
+- lfi_payload_5_tend
+severity: high
+type: lfi

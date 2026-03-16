@@ -1,0 +1,9 @@
+name: Adaptive dedicated attitude
+payloads:
+- ssti_payload_1_yet
+- ssti_payload_2_technology
+- ssti_payload_3_fast
+- ssti_payload_4_over
+- ssti_payload_5_for
+severity: low
+type: ssti

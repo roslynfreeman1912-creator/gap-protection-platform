@@ -1,0 +1,9 @@
+name: Progressive even-keeled knowledgebase
+payloads:
+- ssti_payload_1_step
+- ssti_payload_2_significant
+- ssti_payload_3_respond
+- ssti_payload_4_entire
+- ssti_payload_5_arrive
+severity: medium
+type: ssti

@@ -1,0 +1,9 @@
+name: Centralized uniform archive
+payloads:
+- sql_payload_1_drop
+- sql_payload_2_decide
+- sql_payload_3_sit
+- sql_payload_4_stock
+- sql_payload_5_spend
+severity: medium
+type: sql

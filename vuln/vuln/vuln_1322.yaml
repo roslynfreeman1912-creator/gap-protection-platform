@@ -1,0 +1,9 @@
+name: Profit-focused asynchronous methodology
+payloads:
+- tabnabbing_payload_1_significant
+- tabnabbing_payload_2_vote
+- tabnabbing_payload_3_find
+- tabnabbing_payload_4_feel
+- tabnabbing_payload_5_fund
+severity: medium
+type: tabnabbing

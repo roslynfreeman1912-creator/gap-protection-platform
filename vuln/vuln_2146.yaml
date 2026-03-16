@@ -1,0 +1,9 @@
+name: Networked neutral open architecture
+payloads:
+- mime-sniffing_payload_1_site
+- mime-sniffing_payload_2_notice
+- mime-sniffing_payload_3_business
+- mime-sniffing_payload_4_certain
+- mime-sniffing_payload_5_south
+severity: critical
+type: mime-sniffing

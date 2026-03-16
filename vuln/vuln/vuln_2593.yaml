@@ -1,0 +1,9 @@
+name: Function-based leadingedge core
+payloads:
+- subdomain-takeover_payload_1_trial
+- subdomain-takeover_payload_2_responsibility
+- subdomain-takeover_payload_3_spend
+- subdomain-takeover_payload_4_effort
+- subdomain-takeover_payload_5_this
+severity: critical
+type: subdomain-takeover

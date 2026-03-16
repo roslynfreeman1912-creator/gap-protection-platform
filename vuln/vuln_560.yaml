@@ -1,0 +1,9 @@
+name: Right-sized 4thgeneration collaboration
+payloads:
+- open-redirect_payload_1_series
+- open-redirect_payload_2_science
+- open-redirect_payload_3_drug
+- open-redirect_payload_4_property
+- open-redirect_payload_5_imagine
+severity: medium
+type: open-redirect

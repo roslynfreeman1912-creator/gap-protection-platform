@@ -1,0 +1,9 @@
+name: Multi-tiered global array
+payloads:
+- lfi_payload_1_production
+- lfi_payload_2_whether
+- lfi_payload_3_development
+- lfi_payload_4_interview
+- lfi_payload_5_education
+severity: low
+type: lfi

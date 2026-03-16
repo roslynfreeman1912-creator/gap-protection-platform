@@ -1,0 +1,9 @@
+name: Synergistic bi-directional info-mediaries
+payloads:
+- lfi_payload_1_note
+- lfi_payload_2_party
+- lfi_payload_3_summer
+- lfi_payload_4_also
+- lfi_payload_5_choice
+severity: low
+type: lfi

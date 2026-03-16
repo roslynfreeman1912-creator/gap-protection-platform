@@ -1,0 +1,7 @@
+name: "Web Cache Poisoning"
+type: "cache_poisoning"
+severity: "high"
+payloads:
+  - "X-Forwarded-Host: attacker.com"
+  - "Host: attacker.com"
+  - "X-Original-URL: /malicious"

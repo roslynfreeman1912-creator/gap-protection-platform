@@ -1,0 +1,9 @@
+name: Focused disintermediate hub
+payloads:
+- path-traversal_payload_1_by
+- path-traversal_payload_2_air
+- path-traversal_payload_3_inside
+- path-traversal_payload_4_have
+- path-traversal_payload_5_lose
+severity: critical
+type: path-traversal

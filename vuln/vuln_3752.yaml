@@ -1,0 +1,9 @@
+name: Face-to-face zero tolerance attitude
+payloads:
+- xss_payload_1_get
+- xss_payload_2_trial
+- xss_payload_3_oil
+- xss_payload_4_mother
+- xss_payload_5_concern
+severity: critical
+type: xss

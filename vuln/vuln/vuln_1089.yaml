@@ -1,0 +1,9 @@
+name: Managed cohesive knowledgebase
+payloads:
+- clickjacking_payload_1_should
+- clickjacking_payload_2_couple
+- clickjacking_payload_3_administration
+- clickjacking_payload_4_last
+- clickjacking_payload_5_per
+severity: low
+type: clickjacking

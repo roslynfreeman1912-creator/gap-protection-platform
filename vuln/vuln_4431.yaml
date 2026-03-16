@@ -1,0 +1,9 @@
+name: Phased static neural-net
+payloads:
+- csrf_payload_1_remain
+- csrf_payload_2_season
+- csrf_payload_3_either
+- csrf_payload_4_film
+- csrf_payload_5_kid
+severity: low
+type: csrf

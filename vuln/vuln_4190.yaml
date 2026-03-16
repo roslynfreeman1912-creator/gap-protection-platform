@@ -1,0 +1,9 @@
+name: Organic reciprocal Internet solution
+payloads:
+- jsonp-injection_payload_1_performance
+- jsonp-injection_payload_2_our
+- jsonp-injection_payload_3_interesting
+- jsonp-injection_payload_4_structure
+- jsonp-injection_payload_5_husband
+severity: high
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Mandatory asynchronous complexity
+payloads:
+- jsonp-injection_payload_1_draw
+- jsonp-injection_payload_2_plan
+- jsonp-injection_payload_3_physical
+- jsonp-injection_payload_4_team
+- jsonp-injection_payload_5_they
+severity: critical
+type: jsonp-injection

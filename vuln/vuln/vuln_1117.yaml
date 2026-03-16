@@ -1,0 +1,9 @@
+name: Customer-focused motivating parallelism
+payloads:
+- host-header-injection_payload_1_building
+- host-header-injection_payload_2_with
+- host-header-injection_payload_3_respond
+- host-header-injection_payload_4_stock
+- host-header-injection_payload_5_open
+severity: medium
+type: host-header-injection

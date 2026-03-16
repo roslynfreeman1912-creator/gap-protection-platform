@@ -1,0 +1,9 @@
+name: Down-sized zero-defect paradigm
+payloads:
+- sql_payload_1_seat
+- sql_payload_2_right
+- sql_payload_3_interesting
+- sql_payload_4_mother
+- sql_payload_5_among
+severity: high
+type: sql

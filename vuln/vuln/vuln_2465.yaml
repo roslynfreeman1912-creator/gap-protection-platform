@@ -1,0 +1,9 @@
+name: Inverse didactic artificial intelligence
+payloads:
+- jsonp-injection_payload_1_firm
+- jsonp-injection_payload_2_operation
+- jsonp-injection_payload_3_toward
+- jsonp-injection_payload_4_reach
+- jsonp-injection_payload_5_hope
+severity: medium
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Seamless client-server capacity
+payloads:
+- mime-sniffing_payload_1_per
+- mime-sniffing_payload_2_positive
+- mime-sniffing_payload_3_bag
+- mime-sniffing_payload_4_day
+- mime-sniffing_payload_5_available
+severity: critical
+type: mime-sniffing

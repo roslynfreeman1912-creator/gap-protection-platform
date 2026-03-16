@@ -1,0 +1,9 @@
+name: Self-enabling full-range focus group
+payloads:
+- clickjacking_payload_1_know
+- clickjacking_payload_2_eight
+- clickjacking_payload_3_high
+- clickjacking_payload_4_can
+- clickjacking_payload_5_turn
+severity: medium
+type: clickjacking

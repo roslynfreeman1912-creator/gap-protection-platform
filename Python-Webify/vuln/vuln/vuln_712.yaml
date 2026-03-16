@@ -1,0 +1,9 @@
+name: Optional leadingedge parallelism
+payloads:
+- ldap-injection_payload_1_show
+- ldap-injection_payload_2_simply
+- ldap-injection_payload_3_single
+- ldap-injection_payload_4_say
+- ldap-injection_payload_5_prepare
+severity: low
+type: ldap-injection

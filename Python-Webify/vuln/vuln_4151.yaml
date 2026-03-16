@@ -1,0 +1,9 @@
+name: Robust modular flexibility
+payloads:
+- sql_payload_1_building
+- sql_payload_2_room
+- sql_payload_3_certain
+- sql_payload_4_quickly
+- sql_payload_5_but
+severity: low
+type: sql

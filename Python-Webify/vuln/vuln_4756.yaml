@@ -1,0 +1,9 @@
+name: Managed maximized product
+payloads:
+- csrf_payload_1_time
+- csrf_payload_2_ask
+- csrf_payload_3_media
+- csrf_payload_4_model
+- csrf_payload_5_key
+severity: medium
+type: csrf

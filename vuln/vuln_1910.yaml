@@ -1,0 +1,9 @@
+name: Advanced well-modulated knowledge user
+payloads:
+- open-redirect_payload_1_military
+- open-redirect_payload_2_should
+- open-redirect_payload_3_difficult
+- open-redirect_payload_4_happen
+- open-redirect_payload_5_could
+severity: medium
+type: open-redirect

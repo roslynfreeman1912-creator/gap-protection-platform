@@ -1,0 +1,9 @@
+name: Advanced tangible paradigm
+payloads:
+- xxe_payload_1_me
+- xxe_payload_2_culture
+- xxe_payload_3_without
+- xxe_payload_4_science
+- xxe_payload_5_shake
+severity: high
+type: xxe

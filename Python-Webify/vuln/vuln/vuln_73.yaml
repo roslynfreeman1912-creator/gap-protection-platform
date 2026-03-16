@@ -1,0 +1,9 @@
+name: De-engineered client-driven secured line
+payloads:
+- hsts-misconfig_payload_1_medical
+- hsts-misconfig_payload_2_mean
+- hsts-misconfig_payload_3_drop
+- hsts-misconfig_payload_4_admit
+- hsts-misconfig_payload_5_suddenly
+severity: critical
+type: hsts-misconfig

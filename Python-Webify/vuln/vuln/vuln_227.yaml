@@ -1,0 +1,9 @@
+name: Profound zero tolerance model
+payloads:
+- xss_payload_1_different
+- xss_payload_2_set
+- xss_payload_3_tell
+- xss_payload_4_skin
+- xss_payload_5_continue
+severity: low
+type: xss

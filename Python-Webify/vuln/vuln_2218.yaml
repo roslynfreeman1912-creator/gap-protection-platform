@@ -1,0 +1,9 @@
+name: Cloned executive task-force
+payloads:
+- subdomain-takeover_payload_1_floor
+- subdomain-takeover_payload_2_ground
+- subdomain-takeover_payload_3_act
+- subdomain-takeover_payload_4_mission
+- subdomain-takeover_payload_5_smile
+severity: high
+type: subdomain-takeover

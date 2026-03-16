@@ -1,0 +1,9 @@
+name: Open-source optimal database
+payloads:
+- ssti_payload_1_short
+- ssti_payload_2_weight
+- ssti_payload_3_author
+- ssti_payload_4_season
+- ssti_payload_5_kitchen
+severity: medium
+type: ssti

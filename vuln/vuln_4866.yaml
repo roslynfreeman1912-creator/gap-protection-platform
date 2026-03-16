@@ -1,0 +1,9 @@
+name: Cloned zero-defect intranet
+payloads:
+- crlf-injection_payload_1_discuss
+- crlf-injection_payload_2_sport
+- crlf-injection_payload_3_business
+- crlf-injection_payload_4_thank
+- crlf-injection_payload_5_enough
+severity: high
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Optional radical methodology
+payloads:
+- frame-injection_payload_1_trial
+- frame-injection_payload_2_these
+- frame-injection_payload_3_human
+- frame-injection_payload_4_clearly
+- frame-injection_payload_5_continue
+severity: high
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Horizontal motivating data-warehouse
+payloads:
+- subdomain-takeover_payload_1_model
+- subdomain-takeover_payload_2_he
+- subdomain-takeover_payload_3_well
+- subdomain-takeover_payload_4_box
+- subdomain-takeover_payload_5_scene
+severity: low
+type: subdomain-takeover

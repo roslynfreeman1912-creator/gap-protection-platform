@@ -1,0 +1,9 @@
+name: Digitized web-enabled product
+payloads:
+- hsts-misconfig_payload_1_thousand
+- hsts-misconfig_payload_2_technology
+- hsts-misconfig_payload_3_power
+- hsts-misconfig_payload_4_necessary
+- hsts-misconfig_payload_5_boy
+severity: low
+type: hsts-misconfig

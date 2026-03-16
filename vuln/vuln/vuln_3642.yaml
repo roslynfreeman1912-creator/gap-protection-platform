@@ -1,0 +1,9 @@
+name: Multi-layered didactic approach
+payloads:
+- host-header-injection_payload_1_local
+- host-header-injection_payload_2_student
+- host-header-injection_payload_3_may
+- host-header-injection_payload_4_save
+- host-header-injection_payload_5_knowledge
+severity: high
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Switchable fault-tolerant interface
+payloads:
+- javascript-injection_payload_1_condition
+- javascript-injection_payload_2_south
+- javascript-injection_payload_3_provide
+- javascript-injection_payload_4_practice
+- javascript-injection_payload_5_several
+severity: high
+type: javascript-injection

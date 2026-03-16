@@ -1,0 +1,9 @@
+name: Up-sized radical leverage
+payloads:
+- clickjacking_payload_1_left
+- clickjacking_payload_2_over
+- clickjacking_payload_3_political
+- clickjacking_payload_4_them
+- clickjacking_payload_5_agency
+severity: critical
+type: clickjacking

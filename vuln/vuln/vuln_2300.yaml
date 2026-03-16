@@ -1,0 +1,9 @@
+name: Multi-channeled responsive moratorium
+payloads:
+- frame-injection_payload_1_outside
+- frame-injection_payload_2_pretty
+- frame-injection_payload_3_worker
+- frame-injection_payload_4_institution
+- frame-injection_payload_5_role
+severity: low
+type: frame-injection

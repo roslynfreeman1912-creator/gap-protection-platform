@@ -1,0 +1,9 @@
+name: Synchronized executive collaboration
+payloads:
+- ldap-injection_payload_1_ask
+- ldap-injection_payload_2_attack
+- ldap-injection_payload_3_part
+- ldap-injection_payload_4_pay
+- ldap-injection_payload_5_should
+severity: high
+type: ldap-injection

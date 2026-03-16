@@ -1,0 +1,9 @@
+name: Implemented bifurcated middleware
+payloads:
+- command-injection_payload_1_practice
+- command-injection_payload_2_pretty
+- command-injection_payload_3_follow
+- command-injection_payload_4_similar
+- command-injection_payload_5_fly
+severity: medium
+type: command-injection

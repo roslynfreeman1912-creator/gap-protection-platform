@@ -1,0 +1,9 @@
+name: Configurable foreground portal
+payloads:
+- javascript-injection_payload_1_free
+- javascript-injection_payload_2_another
+- javascript-injection_payload_3_relationship
+- javascript-injection_payload_4_happen
+- javascript-injection_payload_5_fill
+severity: low
+type: javascript-injection

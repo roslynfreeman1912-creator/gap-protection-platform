@@ -1,0 +1,9 @@
+name: Universal incremental artificial intelligence
+payloads:
+- jsonp-injection_payload_1_field
+- jsonp-injection_payload_2_place
+- jsonp-injection_payload_3_management
+- jsonp-injection_payload_4_your
+- jsonp-injection_payload_5_up
+severity: low
+type: jsonp-injection

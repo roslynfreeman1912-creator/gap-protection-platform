@@ -1,0 +1,9 @@
+name: Integrated 24/7 model
+payloads:
+- open-redirect_payload_1_he
+- open-redirect_payload_2_born
+- open-redirect_payload_3_wall
+- open-redirect_payload_4_seven
+- open-redirect_payload_5_character
+severity: medium
+type: open-redirect

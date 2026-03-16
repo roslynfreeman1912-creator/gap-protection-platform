@@ -1,0 +1,9 @@
+name: Operative even-keeled ability
+payloads:
+- mime-sniffing_payload_1_message
+- mime-sniffing_payload_2_create
+- mime-sniffing_payload_3_behind
+- mime-sniffing_payload_4_same
+- mime-sniffing_payload_5_third
+severity: low
+type: mime-sniffing

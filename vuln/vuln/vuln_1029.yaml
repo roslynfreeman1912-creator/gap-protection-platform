@@ -1,0 +1,9 @@
+name: Face-to-face background contingency
+payloads:
+- rfi_payload_1_garden
+- rfi_payload_2_their
+- rfi_payload_3_upon
+- rfi_payload_4_herself
+- rfi_payload_5_fight
+severity: medium
+type: rfi

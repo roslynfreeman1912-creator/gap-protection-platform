@@ -1,0 +1,9 @@
+name: Multi-tiered fault-tolerant focus group
+payloads:
+- nosql-injection_payload_1_its
+- nosql-injection_payload_2_speech
+- nosql-injection_payload_3_what
+- nosql-injection_payload_4_marriage
+- nosql-injection_payload_5_own
+severity: low
+type: nosql-injection

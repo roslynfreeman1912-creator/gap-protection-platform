@@ -1,0 +1,9 @@
+name: Enterprise-wide user-facing application
+payloads:
+- clickjacking_payload_1_provide
+- clickjacking_payload_2_late
+- clickjacking_payload_3_early
+- clickjacking_payload_4_test
+- clickjacking_payload_5_or
+severity: critical
+type: clickjacking

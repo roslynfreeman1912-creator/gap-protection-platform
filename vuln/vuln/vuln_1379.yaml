@@ -1,0 +1,9 @@
+name: Virtual transitional architecture
+payloads:
+- rfi_payload_1_information
+- rfi_payload_2_magazine
+- rfi_payload_3_how
+- rfi_payload_4_moment
+- rfi_payload_5_model
+severity: low
+type: rfi

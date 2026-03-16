@@ -1,0 +1,9 @@
+name: Optimized fault-tolerant secured line
+payloads:
+- csrf_payload_1_require
+- csrf_payload_2_mouth
+- csrf_payload_3_treat
+- csrf_payload_4_task
+- csrf_payload_5_Mrs
+severity: medium
+type: csrf

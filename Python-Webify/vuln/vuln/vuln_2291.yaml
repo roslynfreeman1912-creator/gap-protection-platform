@@ -1,0 +1,9 @@
+name: Down-sized holistic time-frame
+payloads:
+- crlf-injection_payload_1_hand
+- crlf-injection_payload_2_week
+- crlf-injection_payload_3_pay
+- crlf-injection_payload_4_know
+- crlf-injection_payload_5_long
+severity: medium
+type: crlf-injection

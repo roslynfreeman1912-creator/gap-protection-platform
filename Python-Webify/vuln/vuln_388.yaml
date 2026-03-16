@@ -1,0 +1,9 @@
+name: Business-focused even-keeled knowledgebase
+payloads:
+- nosql-injection_payload_1_around
+- nosql-injection_payload_2_wait
+- nosql-injection_payload_3_difference
+- nosql-injection_payload_4_hair
+- nosql-injection_payload_5_traditional
+severity: high
+type: nosql-injection

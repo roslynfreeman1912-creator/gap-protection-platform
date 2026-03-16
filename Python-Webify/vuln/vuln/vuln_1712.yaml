@@ -1,0 +1,9 @@
+name: Intuitive fault-tolerant knowledge user
+payloads:
+- ldap-injection_payload_1_fall
+- ldap-injection_payload_2_chance
+- ldap-injection_payload_3_wall
+- ldap-injection_payload_4_size
+- ldap-injection_payload_5_his
+severity: low
+type: ldap-injection

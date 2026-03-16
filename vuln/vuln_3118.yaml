@@ -1,0 +1,9 @@
+name: Upgradable client-driven monitoring
+payloads:
+- subdomain-takeover_payload_1_left
+- subdomain-takeover_payload_2_all
+- subdomain-takeover_payload_3_so
+- subdomain-takeover_payload_4_culture
+- subdomain-takeover_payload_5_bag
+severity: low
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Switchable grid-enabled attitude
+payloads:
+- host-header-injection_payload_1_product
+- host-header-injection_payload_2_six
+- host-header-injection_payload_3_west
+- host-header-injection_payload_4_ask
+- host-header-injection_payload_5_fly
+severity: low
+type: host-header-injection

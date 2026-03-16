@@ -1,0 +1,9 @@
+name: "Insecure Direct Object Reference"
+type: "idor2"
+severity: "high"
+payloads:
+  - "user_id=12345"
+  - "file=../../etc/passwd"
+  - "account=admin"
+  - "document_id=99999"
+  - "invoice=1001"

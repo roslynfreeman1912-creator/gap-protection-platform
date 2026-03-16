@@ -1,0 +1,9 @@
+name: Visionary high-level policy
+payloads:
+- path-traversal_payload_1_stuff
+- path-traversal_payload_2_sister
+- path-traversal_payload_3_clearly
+- path-traversal_payload_4_ago
+- path-traversal_payload_5_area
+severity: critical
+type: path-traversal

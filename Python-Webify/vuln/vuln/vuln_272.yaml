@@ -1,0 +1,9 @@
+name: Ameliorated analyzing policy
+payloads:
+- tabnabbing_payload_1_open
+- tabnabbing_payload_2_past
+- tabnabbing_payload_3_single
+- tabnabbing_payload_4_get
+- tabnabbing_payload_5_star
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Pre-emptive interactive software
+payloads:
+- crlf-injection_payload_1_president
+- crlf-injection_payload_2_sell
+- crlf-injection_payload_3_break
+- crlf-injection_payload_4_whom
+- crlf-injection_payload_5_grow
+severity: medium
+type: crlf-injection

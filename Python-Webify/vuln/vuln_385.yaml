@@ -1,0 +1,9 @@
+name: Compatible intermediate structure
+payloads:
+- open-redirect_payload_1_letter
+- open-redirect_payload_2_measure
+- open-redirect_payload_3_me
+- open-redirect_payload_4_do
+- open-redirect_payload_5_guy
+severity: low
+type: open-redirect

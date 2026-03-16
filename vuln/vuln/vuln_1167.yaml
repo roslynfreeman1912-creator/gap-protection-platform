@@ -1,0 +1,9 @@
+name: Cross-platform local extranet
+payloads:
+- host-header-injection_payload_1_piece
+- host-header-injection_payload_2_partner
+- host-header-injection_payload_3_nature
+- host-header-injection_payload_4_our
+- host-header-injection_payload_5_do
+severity: low
+type: host-header-injection

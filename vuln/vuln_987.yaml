@@ -1,0 +1,9 @@
+name: Customizable analyzing capacity
+payloads:
+- ldap-injection_payload_1_than
+- ldap-injection_payload_2_policy
+- ldap-injection_payload_3_into
+- ldap-injection_payload_4_others
+- ldap-injection_payload_5_outside
+severity: high
+type: ldap-injection

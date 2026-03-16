@@ -1,0 +1,9 @@
+name: Quality-focused directional projection
+payloads:
+- ldap-injection_payload_1_face
+- ldap-injection_payload_2_staff
+- ldap-injection_payload_3_great
+- ldap-injection_payload_4_national
+- ldap-injection_payload_5_upon
+severity: high
+type: ldap-injection

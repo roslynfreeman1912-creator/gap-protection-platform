@@ -1,0 +1,9 @@
+name: Fully-configurable bandwidth-monitored artificial intelligence
+payloads:
+- host-header-injection_payload_1_popular
+- host-header-injection_payload_2_how
+- host-header-injection_payload_3_hot
+- host-header-injection_payload_4_policy
+- host-header-injection_payload_5_idea
+severity: critical
+type: host-header-injection

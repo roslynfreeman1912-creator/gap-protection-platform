@@ -1,0 +1,9 @@
+name: Extended fresh-thinking conglomeration
+payloads:
+- lfi_payload_1_side
+- lfi_payload_2_maybe
+- lfi_payload_3_end
+- lfi_payload_4_recently
+- lfi_payload_5_bring
+severity: critical
+type: lfi

@@ -1,0 +1,9 @@
+name: De-engineered didactic methodology
+payloads:
+- hsts-misconfig_payload_1_sometimes
+- hsts-misconfig_payload_2_win
+- hsts-misconfig_payload_3_loss
+- hsts-misconfig_payload_4_set
+- hsts-misconfig_payload_5_help
+severity: low
+type: hsts-misconfig

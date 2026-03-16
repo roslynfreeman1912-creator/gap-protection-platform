@@ -1,0 +1,9 @@
+name: Ameliorated discrete encryption
+payloads:
+- nosql-injection_payload_1_simply
+- nosql-injection_payload_2_cell
+- nosql-injection_payload_3_name
+- nosql-injection_payload_4_agreement
+- nosql-injection_payload_5_analysis
+severity: medium
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Realigned interactive system engine
+payloads:
+- path-traversal_payload_1_certain
+- path-traversal_payload_2_moment
+- path-traversal_payload_3_beyond
+- path-traversal_payload_4_relate
+- path-traversal_payload_5_mother
+severity: medium
+type: path-traversal

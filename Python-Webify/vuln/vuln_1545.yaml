@@ -1,0 +1,9 @@
+name: Digitized incremental knowledge user
+payloads:
+- file-upload_payload_1_mother
+- file-upload_payload_2_like
+- file-upload_payload_3_challenge
+- file-upload_payload_4_account
+- file-upload_payload_5_listen
+severity: low
+type: file-upload

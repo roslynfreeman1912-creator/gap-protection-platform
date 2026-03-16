@@ -1,0 +1,9 @@
+name: Up-sized multi-state encryption
+payloads:
+- command-injection_payload_1_that
+- command-injection_payload_2_purpose
+- command-injection_payload_3_sit
+- command-injection_payload_4_save
+- command-injection_payload_5_level
+severity: critical
+type: command-injection

@@ -1,0 +1,9 @@
+name: Quality-focused analyzing data-warehouse
+payloads:
+- host-header-injection_payload_1_here
+- host-header-injection_payload_2_wind
+- host-header-injection_payload_3_still
+- host-header-injection_payload_4_yet
+- host-header-injection_payload_5_whose
+severity: critical
+type: host-header-injection

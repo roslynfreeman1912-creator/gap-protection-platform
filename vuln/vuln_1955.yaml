@@ -1,0 +1,9 @@
+name: Proactive exuding hardware
+payloads:
+- ssrf_payload_1_like
+- ssrf_payload_2_when
+- ssrf_payload_3_eye
+- ssrf_payload_4_alone
+- ssrf_payload_5_personal
+severity: medium
+type: ssrf

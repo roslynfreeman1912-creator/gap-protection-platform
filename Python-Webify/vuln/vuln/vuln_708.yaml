@@ -1,0 +1,9 @@
+name: De-engineered bottom-line matrix
+payloads:
+- command-injection_payload_1_table
+- command-injection_payload_2_sport
+- command-injection_payload_3_send
+- command-injection_payload_4_different
+- command-injection_payload_5_this
+severity: critical
+type: command-injection

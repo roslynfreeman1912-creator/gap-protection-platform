@@ -1,0 +1,9 @@
+name: Grass-roots responsive benchmark
+payloads:
+- sql_payload_1_relationship
+- sql_payload_2_detail
+- sql_payload_3_point
+- sql_payload_4_sit
+- sql_payload_5_question
+severity: critical
+type: sql

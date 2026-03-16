@@ -1,0 +1,9 @@
+name: Grass-roots value-added budgetary management
+payloads:
+- clickjacking_payload_1_their
+- clickjacking_payload_2_bank
+- clickjacking_payload_3_risk
+- clickjacking_payload_4_history
+- clickjacking_payload_5_exist
+severity: medium
+type: clickjacking

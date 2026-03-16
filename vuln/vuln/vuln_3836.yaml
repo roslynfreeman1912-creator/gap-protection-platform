@@ -1,0 +1,9 @@
+name: Synergized full-range alliance
+payloads:
+- xxe_payload_1_western
+- xxe_payload_2_size
+- xxe_payload_3_politics
+- xxe_payload_4_summer
+- xxe_payload_5_including
+severity: low
+type: xxe

@@ -1,0 +1,9 @@
+name: Multi-channeled contextually-based portal
+payloads:
+- ssrf_payload_1_leave
+- ssrf_payload_2_pass
+- ssrf_payload_3_both
+- ssrf_payload_4_thus
+- ssrf_payload_5_treatment
+severity: medium
+type: ssrf

@@ -1,0 +1,9 @@
+name: Multi-channeled content-based functionalities
+payloads:
+- mime-sniffing_payload_1_if
+- mime-sniffing_payload_2_later
+- mime-sniffing_payload_3_best
+- mime-sniffing_payload_4_next
+- mime-sniffing_payload_5_market
+severity: low
+type: mime-sniffing

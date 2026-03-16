@@ -1,0 +1,9 @@
+name: Exclusive discrete function
+payloads:
+- path-traversal_payload_1_tree
+- path-traversal_payload_2_energy
+- path-traversal_payload_3_during
+- path-traversal_payload_4_nice
+- path-traversal_payload_5_her
+severity: low
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Multi-lateral user-facing frame
+payloads:
+- lfi_payload_1_clear
+- lfi_payload_2_people
+- lfi_payload_3_artist
+- lfi_payload_4_debate
+- lfi_payload_5_form
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: Managed content-based artificial intelligence
+payloads:
+- xxe_payload_1_boy
+- xxe_payload_2_lay
+- xxe_payload_3_leg
+- xxe_payload_4_rock
+- xxe_payload_5_fly
+severity: high
+type: xxe

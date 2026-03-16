@@ -1,0 +1,9 @@
+name: Vision-oriented upward-trending concept
+payloads:
+- hsts-misconfig_payload_1_way
+- hsts-misconfig_payload_2_perhaps
+- hsts-misconfig_payload_3_foot
+- hsts-misconfig_payload_4_minute
+- hsts-misconfig_payload_5_movement
+severity: critical
+type: hsts-misconfig

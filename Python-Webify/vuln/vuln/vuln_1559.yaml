@@ -1,0 +1,9 @@
+name: Progressive upward-trending installation
+payloads:
+- path-traversal_payload_1_picture
+- path-traversal_payload_2_indeed
+- path-traversal_payload_3_go
+- path-traversal_payload_4_provide
+- path-traversal_payload_5_within
+severity: medium
+type: path-traversal

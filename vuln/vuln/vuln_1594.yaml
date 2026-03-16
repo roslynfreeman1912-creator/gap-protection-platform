@@ -1,0 +1,9 @@
+name: Phased 5thgeneration toolset
+payloads:
+- javascript-injection_payload_1_already
+- javascript-injection_payload_2_movement
+- javascript-injection_payload_3_upon
+- javascript-injection_payload_4_join
+- javascript-injection_payload_5_economy
+severity: low
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Implemented zero-defect standardization
+payloads:
+- javascript-injection_payload_1_whole
+- javascript-injection_payload_2_wide
+- javascript-injection_payload_3_power
+- javascript-injection_payload_4_recognize
+- javascript-injection_payload_5_issue
+severity: low
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Decentralized 5thgeneration standardization
+payloads:
+- frame-injection_payload_1_heavy
+- frame-injection_payload_2_blue
+- frame-injection_payload_3_beat
+- frame-injection_payload_4_sea
+- frame-injection_payload_5_skill
+severity: low
+type: frame-injection

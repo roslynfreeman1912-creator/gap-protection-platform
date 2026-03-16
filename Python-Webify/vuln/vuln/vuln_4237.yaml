@@ -1,0 +1,9 @@
+name: Object-based contextually-based infrastructure
+payloads:
+- ldap-injection_payload_1_become
+- ldap-injection_payload_2_they
+- ldap-injection_payload_3_however
+- ldap-injection_payload_4_the
+- ldap-injection_payload_5_single
+severity: high
+type: ldap-injection

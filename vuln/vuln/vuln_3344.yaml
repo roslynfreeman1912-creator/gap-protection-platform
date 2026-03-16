@@ -1,0 +1,9 @@
+name: Open-source intermediate array
+payloads:
+- javascript-injection_payload_1_firm
+- javascript-injection_payload_2_fear
+- javascript-injection_payload_3_analysis
+- javascript-injection_payload_4_represent
+- javascript-injection_payload_5_trip
+severity: low
+type: javascript-injection

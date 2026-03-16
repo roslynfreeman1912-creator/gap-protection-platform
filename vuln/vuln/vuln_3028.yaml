@@ -1,0 +1,9 @@
+name: Synchronized content-based emulation
+payloads:
+- lfi_payload_1_team
+- lfi_payload_2_avoid
+- lfi_payload_3_point
+- lfi_payload_4_prepare
+- lfi_payload_5_morning
+severity: high
+type: lfi

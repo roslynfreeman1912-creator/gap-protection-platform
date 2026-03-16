@@ -1,0 +1,9 @@
+name: Business-focused disintermediate superstructure
+payloads:
+- rfi_payload_1_picture
+- rfi_payload_2_material
+- rfi_payload_3_view
+- rfi_payload_4_himself
+- rfi_payload_5_service
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Total demand-driven Graphical User Interface
+payloads:
+- jsonp-injection_payload_1_since
+- jsonp-injection_payload_2_long
+- jsonp-injection_payload_3_push
+- jsonp-injection_payload_4_light
+- jsonp-injection_payload_5_television
+severity: medium
+type: jsonp-injection

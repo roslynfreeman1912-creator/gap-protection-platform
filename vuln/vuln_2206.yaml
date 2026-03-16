@@ -1,0 +1,9 @@
+name: User-centric discrete array
+payloads:
+- csrf_payload_1_behavior
+- csrf_payload_2_present
+- csrf_payload_3_pass
+- csrf_payload_4_fly
+- csrf_payload_5_likely
+severity: medium
+type: csrf

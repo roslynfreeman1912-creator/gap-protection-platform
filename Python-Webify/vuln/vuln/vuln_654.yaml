@@ -1,0 +1,9 @@
+name: Implemented asynchronous service-desk
+payloads:
+- rfi_payload_1_leader
+- rfi_payload_2_executive
+- rfi_payload_3_level
+- rfi_payload_4_child
+- rfi_payload_5_one
+severity: low
+type: rfi

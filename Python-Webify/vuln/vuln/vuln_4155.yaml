@@ -1,0 +1,9 @@
+name: Assimilated transitional project
+payloads:
+- ssrf_payload_1_word
+- ssrf_payload_2_many
+- ssrf_payload_3_fund
+- ssrf_payload_4_budget
+- ssrf_payload_5_purpose
+severity: high
+type: ssrf

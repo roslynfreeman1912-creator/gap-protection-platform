@@ -1,0 +1,9 @@
+name: Persevering value-added attitude
+payloads:
+- ldap-injection_payload_1_provide
+- ldap-injection_payload_2_parent
+- ldap-injection_payload_3_chair
+- ldap-injection_payload_4_grow
+- ldap-injection_payload_5_entire
+severity: critical
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Up-sized zero administration toolset
+payloads:
+- csrf_payload_1_small
+- csrf_payload_2_media
+- csrf_payload_3_final
+- csrf_payload_4_although
+- csrf_payload_5_response
+severity: high
+type: csrf

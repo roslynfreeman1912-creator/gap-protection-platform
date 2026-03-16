@@ -1,0 +1,9 @@
+name: Organized interactive instruction set
+payloads:
+- mime-sniffing_payload_1_if
+- mime-sniffing_payload_2_describe
+- mime-sniffing_payload_3_offer
+- mime-sniffing_payload_4_until
+- mime-sniffing_payload_5_close
+severity: critical
+type: mime-sniffing

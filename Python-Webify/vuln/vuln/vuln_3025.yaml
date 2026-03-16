@@ -1,0 +1,9 @@
+name: Self-enabling intangible definition
+payloads:
+- frame-injection_payload_1_money
+- frame-injection_payload_2_note
+- frame-injection_payload_3_cost
+- frame-injection_payload_4_level
+- frame-injection_payload_5_develop
+severity: high
+type: frame-injection

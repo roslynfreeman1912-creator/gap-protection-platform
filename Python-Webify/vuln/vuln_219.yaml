@@ -1,0 +1,9 @@
+name: Operative optimizing protocol
+payloads:
+- javascript-injection_payload_1_so
+- javascript-injection_payload_2_good
+- javascript-injection_payload_3_send
+- javascript-injection_payload_4_black
+- javascript-injection_payload_5_direction
+severity: high
+type: javascript-injection

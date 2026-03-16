@@ -1,0 +1,9 @@
+name: Configurable neutral secured line
+payloads:
+- clickjacking_payload_1_wind
+- clickjacking_payload_2_film
+- clickjacking_payload_3_rock
+- clickjacking_payload_4_up
+- clickjacking_payload_5_everything
+severity: critical
+type: clickjacking

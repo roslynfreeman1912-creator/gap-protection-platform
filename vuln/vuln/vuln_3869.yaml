@@ -1,0 +1,9 @@
+name: Front-line systemic process improvement
+payloads:
+- javascript-injection_payload_1_station
+- javascript-injection_payload_2_decision
+- javascript-injection_payload_3_measure
+- javascript-injection_payload_4_kid
+- javascript-injection_payload_5_between
+severity: high
+type: javascript-injection

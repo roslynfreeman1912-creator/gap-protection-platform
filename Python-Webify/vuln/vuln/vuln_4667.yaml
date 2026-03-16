@@ -1,0 +1,9 @@
+name: Switchable didactic service-desk
+payloads:
+- host-header-injection_payload_1_skin
+- host-header-injection_payload_2_audience
+- host-header-injection_payload_3_white
+- host-header-injection_payload_4_alone
+- host-header-injection_payload_5_walk
+severity: high
+type: host-header-injection

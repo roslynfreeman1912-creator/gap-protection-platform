@@ -1,0 +1,9 @@
+name: Synchronized solution-oriented implementation
+payloads:
+- hsts-misconfig_payload_1_say
+- hsts-misconfig_payload_2_chance
+- hsts-misconfig_payload_3_tax
+- hsts-misconfig_payload_4_hospital
+- hsts-misconfig_payload_5_never
+severity: low
+type: hsts-misconfig

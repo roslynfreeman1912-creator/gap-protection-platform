@@ -1,0 +1,9 @@
+name: Integrated bottom-line intranet
+payloads:
+- jsonp-injection_payload_1_similar
+- jsonp-injection_payload_2_base
+- jsonp-injection_payload_3_half
+- jsonp-injection_payload_4_south
+- jsonp-injection_payload_5_until
+severity: low
+type: jsonp-injection

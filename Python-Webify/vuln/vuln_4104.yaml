@@ -1,0 +1,9 @@
+name: Automated mobile flexibility
+payloads:
+- rfi_payload_1_myself
+- rfi_payload_2_meet
+- rfi_payload_3_treatment
+- rfi_payload_4_little
+- rfi_payload_5_put
+severity: medium
+type: rfi

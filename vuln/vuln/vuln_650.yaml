@@ -1,0 +1,9 @@
+name: Customizable upward-trending capacity
+payloads:
+- frame-injection_payload_1_event
+- frame-injection_payload_2_do
+- frame-injection_payload_3_media
+- frame-injection_payload_4_short
+- frame-injection_payload_5_education
+severity: medium
+type: frame-injection

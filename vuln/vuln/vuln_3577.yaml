@@ -1,0 +1,9 @@
+name: Inverse context-sensitive neural-net
+payloads:
+- xss_payload_1_cost
+- xss_payload_2_author
+- xss_payload_3_minute
+- xss_payload_4_seven
+- xss_payload_5_serious
+severity: low
+type: xss

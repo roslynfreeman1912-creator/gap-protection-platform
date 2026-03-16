@@ -1,0 +1,9 @@
+name: Automated transitional challenge
+payloads:
+- jsonp-injection_payload_1_model
+- jsonp-injection_payload_2_help
+- jsonp-injection_payload_3_draw
+- jsonp-injection_payload_4_word
+- jsonp-injection_payload_5_third
+severity: medium
+type: jsonp-injection

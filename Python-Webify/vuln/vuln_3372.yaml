@@ -1,0 +1,9 @@
+name: Versatile 5thgeneration data-warehouse
+payloads:
+- tabnabbing_payload_1_Republican
+- tabnabbing_payload_2_allow
+- tabnabbing_payload_3_enter
+- tabnabbing_payload_4_purpose
+- tabnabbing_payload_5_among
+severity: medium
+type: tabnabbing

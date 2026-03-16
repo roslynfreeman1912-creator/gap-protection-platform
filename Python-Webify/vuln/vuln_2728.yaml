@@ -1,0 +1,9 @@
+name: Seamless homogeneous productivity
+payloads:
+- lfi_payload_1_understand
+- lfi_payload_2_even
+- lfi_payload_3_yourself
+- lfi_payload_4_provide
+- lfi_payload_5_order
+severity: medium
+type: lfi

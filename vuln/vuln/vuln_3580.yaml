@@ -1,0 +1,9 @@
+name: Polarized client-server Local Area Network
+payloads:
+- ssrf_payload_1_line
+- ssrf_payload_2_amount
+- ssrf_payload_3_probably
+- ssrf_payload_4_tell
+- ssrf_payload_5_bill
+severity: low
+type: ssrf

@@ -1,0 +1,9 @@
+name: Ergonomic national functionalities
+payloads:
+- rfi_payload_1_conference
+- rfi_payload_2_open
+- rfi_payload_3_write
+- rfi_payload_4_find
+- rfi_payload_5_around
+severity: medium
+type: rfi

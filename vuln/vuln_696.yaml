@@ -1,0 +1,9 @@
+name: Versatile system-worthy middleware
+payloads:
+- mime-sniffing_payload_1_easy
+- mime-sniffing_payload_2_let
+- mime-sniffing_payload_3_phone
+- mime-sniffing_payload_4_board
+- mime-sniffing_payload_5_whose
+severity: high
+type: mime-sniffing

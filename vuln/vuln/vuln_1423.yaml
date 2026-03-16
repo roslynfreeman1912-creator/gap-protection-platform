@@ -1,0 +1,9 @@
+name: Visionary mobile functionalities
+payloads:
+- hsts-misconfig_payload_1_consumer
+- hsts-misconfig_payload_2_same
+- hsts-misconfig_payload_3_remain
+- hsts-misconfig_payload_4_measure
+- hsts-misconfig_payload_5_edge
+severity: medium
+type: hsts-misconfig

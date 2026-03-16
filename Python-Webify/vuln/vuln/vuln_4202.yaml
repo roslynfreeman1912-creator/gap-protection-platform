@@ -1,0 +1,9 @@
+name: User-friendly asynchronous hub
+payloads:
+- xss_payload_1_recently
+- xss_payload_2_sing
+- xss_payload_3_despite
+- xss_payload_4_us
+- xss_payload_5_able
+severity: low
+type: xss

@@ -1,0 +1,9 @@
+name: Reactive bi-directional definition
+payloads:
+- host-header-injection_payload_1_total
+- host-header-injection_payload_2_western
+- host-header-injection_payload_3_worker
+- host-header-injection_payload_4_various
+- host-header-injection_payload_5_animal
+severity: high
+type: host-header-injection

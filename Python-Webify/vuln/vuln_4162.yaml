@@ -1,0 +1,9 @@
+name: Extended holistic budgetary management
+payloads:
+- ldap-injection_payload_1_community
+- ldap-injection_payload_2_fact
+- ldap-injection_payload_3_power
+- ldap-injection_payload_4_bank
+- ldap-injection_payload_5_instead
+severity: high
+type: ldap-injection

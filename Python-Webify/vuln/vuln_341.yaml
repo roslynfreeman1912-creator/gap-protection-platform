@@ -1,0 +1,9 @@
+name: Sharable background circuit
+payloads:
+- crlf-injection_payload_1_service
+- crlf-injection_payload_2_western
+- crlf-injection_payload_3_government
+- crlf-injection_payload_4_realize
+- crlf-injection_payload_5_early
+severity: medium
+type: crlf-injection

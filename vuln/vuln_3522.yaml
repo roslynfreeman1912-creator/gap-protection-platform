@@ -1,0 +1,9 @@
+name: Multi-layered 3rdgeneration architecture
+payloads:
+- tabnabbing_payload_1_lot
+- tabnabbing_payload_2_impact
+- tabnabbing_payload_3_daughter
+- tabnabbing_payload_4_most
+- tabnabbing_payload_5_relate
+severity: critical
+type: tabnabbing

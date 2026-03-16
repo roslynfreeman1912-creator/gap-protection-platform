@@ -1,0 +1,9 @@
+name: Organized impactful capacity
+payloads:
+- csp-bypass_payload_1_data
+- csp-bypass_payload_2_suddenly
+- csp-bypass_payload_3_food
+- csp-bypass_payload_4_style
+- csp-bypass_payload_5_minute
+severity: critical
+type: csp-bypass

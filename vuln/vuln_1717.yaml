@@ -1,0 +1,9 @@
+name: Centralized encompassing capability
+payloads:
+- host-header-injection_payload_1_hard
+- host-header-injection_payload_2_drug
+- host-header-injection_payload_3_write
+- host-header-injection_payload_4_research
+- host-header-injection_payload_5_must
+severity: medium
+type: host-header-injection

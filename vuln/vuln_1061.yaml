@@ -1,0 +1,9 @@
+name: Multi-channeled 3rdgeneration secured line
+payloads:
+- xxe_payload_1_by
+- xxe_payload_2_state
+- xxe_payload_3_movement
+- xxe_payload_4_cover
+- xxe_payload_5_night
+severity: high
+type: xxe

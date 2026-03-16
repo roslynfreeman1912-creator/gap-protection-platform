@@ -1,0 +1,9 @@
+name: Self-enabling actuating portal
+payloads:
+- ssti_payload_1_throw
+- ssti_payload_2_far
+- ssti_payload_3_quite
+- ssti_payload_4_growth
+- ssti_payload_5_according
+severity: high
+type: ssti

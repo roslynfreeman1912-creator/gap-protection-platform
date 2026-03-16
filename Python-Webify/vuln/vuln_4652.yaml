@@ -1,0 +1,9 @@
+name: Managed well-modulated workforce
+payloads:
+- xss_payload_1_decision
+- xss_payload_2_agreement
+- xss_payload_3_book
+- xss_payload_4_born
+- xss_payload_5_western
+severity: high
+type: xss

@@ -1,0 +1,9 @@
+name: Inverse reciprocal utilization
+payloads:
+- host-header-injection_payload_1_manage
+- host-header-injection_payload_2_provide
+- host-header-injection_payload_3_understand
+- host-header-injection_payload_4_seven
+- host-header-injection_payload_5_since
+severity: low
+type: host-header-injection

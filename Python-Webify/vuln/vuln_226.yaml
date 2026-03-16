@@ -1,0 +1,9 @@
+name: Automated fault-tolerant standardization
+payloads:
+- sql_payload_1_so
+- sql_payload_2_candidate
+- sql_payload_3_system
+- sql_payload_4_cultural
+- sql_payload_5_interesting
+severity: high
+type: sql

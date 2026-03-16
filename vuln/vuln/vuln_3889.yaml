@@ -1,0 +1,9 @@
+name: Front-line radical conglomeration
+payloads:
+- clickjacking_payload_1_onto
+- clickjacking_payload_2_near
+- clickjacking_payload_3_into
+- clickjacking_payload_4_deal
+- clickjacking_payload_5_practice
+severity: critical
+type: clickjacking

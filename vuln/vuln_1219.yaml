@@ -1,0 +1,9 @@
+name: Diverse regional structure
+payloads:
+- javascript-injection_payload_1_project
+- javascript-injection_payload_2_bed
+- javascript-injection_payload_3_agreement
+- javascript-injection_payload_4_true
+- javascript-injection_payload_5_community
+severity: low
+type: javascript-injection

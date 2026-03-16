@@ -1,0 +1,9 @@
+name: Synchronized responsive database
+payloads:
+- csp-bypass_payload_1_both
+- csp-bypass_payload_2_start
+- csp-bypass_payload_3_crime
+- csp-bypass_payload_4_somebody
+- csp-bypass_payload_5_remember
+severity: high
+type: csp-bypass

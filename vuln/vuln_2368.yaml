@@ -1,0 +1,9 @@
+name: Distributed systematic groupware
+payloads:
+- subdomain-takeover_payload_1_law
+- subdomain-takeover_payload_2_trial
+- subdomain-takeover_payload_3_brother
+- subdomain-takeover_payload_4_course
+- subdomain-takeover_payload_5_nor
+severity: high
+type: subdomain-takeover

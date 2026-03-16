@@ -1,0 +1,9 @@
+name: Profound grid-enabled structure
+payloads:
+- frame-injection_payload_1_beyond
+- frame-injection_payload_2_language
+- frame-injection_payload_3_benefit
+- frame-injection_payload_4_hold
+- frame-injection_payload_5_want
+severity: medium
+type: frame-injection

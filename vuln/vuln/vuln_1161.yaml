@@ -1,0 +1,9 @@
+name: Universal bi-directional strategy
+payloads:
+- xxe_payload_1_east
+- xxe_payload_2_course
+- xxe_payload_3_head
+- xxe_payload_4_hard
+- xxe_payload_5_lawyer
+severity: critical
+type: xxe

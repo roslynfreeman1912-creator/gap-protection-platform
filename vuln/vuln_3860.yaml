@@ -1,0 +1,9 @@
+name: Multi-tiered interactive portal
+payloads:
+- open-redirect_payload_1_whole
+- open-redirect_payload_2_property
+- open-redirect_payload_3_than
+- open-redirect_payload_4_personal
+- open-redirect_payload_5_cold
+severity: high
+type: open-redirect

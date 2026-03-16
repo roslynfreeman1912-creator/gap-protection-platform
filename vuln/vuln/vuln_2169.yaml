@@ -1,0 +1,9 @@
+name: Operative fresh-thinking methodology
+payloads:
+- javascript-injection_payload_1_yeah
+- javascript-injection_payload_2_participant
+- javascript-injection_payload_3_field
+- javascript-injection_payload_4_reflect
+- javascript-injection_payload_5_fish
+severity: medium
+type: javascript-injection

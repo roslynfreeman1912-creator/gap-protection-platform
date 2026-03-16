@@ -1,0 +1,9 @@
+name: Reverse-engineered mission-critical parallelism
+payloads:
+- ssti_payload_1_such
+- ssti_payload_2_have
+- ssti_payload_3_go
+- ssti_payload_4_ever
+- ssti_payload_5_room
+severity: low
+type: ssti

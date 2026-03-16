@@ -1,0 +1,9 @@
+name: Innovative homogeneous flexibility
+payloads:
+- ssti_payload_1_quality
+- ssti_payload_2_table
+- ssti_payload_3_ahead
+- ssti_payload_4_history
+- ssti_payload_5_you
+severity: high
+type: ssti

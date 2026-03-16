@@ -1,0 +1,9 @@
+name: Implemented client-driven migration
+payloads:
+- path-traversal_payload_1_far
+- path-traversal_payload_2_affect
+- path-traversal_payload_3_product
+- path-traversal_payload_4_huge
+- path-traversal_payload_5_Congress
+severity: low
+type: path-traversal

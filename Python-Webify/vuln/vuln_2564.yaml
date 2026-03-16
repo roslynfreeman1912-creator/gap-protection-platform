@@ -1,0 +1,9 @@
+name: Organized maximized circuit
+payloads:
+- clickjacking_payload_1_heart
+- clickjacking_payload_2_themselves
+- clickjacking_payload_3_central
+- clickjacking_payload_4_beat
+- clickjacking_payload_5_stand
+severity: critical
+type: clickjacking

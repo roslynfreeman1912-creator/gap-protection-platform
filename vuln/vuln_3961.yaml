@@ -1,0 +1,9 @@
+name: Customizable next generation challenge
+payloads:
+- xxe_payload_1_perhaps
+- xxe_payload_2_run
+- xxe_payload_3_group
+- xxe_payload_4_forget
+- xxe_payload_5_laugh
+severity: high
+type: xxe

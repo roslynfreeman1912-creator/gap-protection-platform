@@ -1,0 +1,9 @@
+name: Multi-layered human-resource architecture
+payloads:
+- csp-bypass_payload_1_much
+- csp-bypass_payload_2_perform
+- csp-bypass_payload_3_draw
+- csp-bypass_payload_4_military
+- csp-bypass_payload_5_start
+severity: critical
+type: csp-bypass

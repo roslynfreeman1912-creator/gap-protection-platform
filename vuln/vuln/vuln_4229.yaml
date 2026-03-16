@@ -1,0 +1,9 @@
+name: Automated multimedia paradigm
+payloads:
+- rfi_payload_1_value
+- rfi_payload_2_much
+- rfi_payload_3_within
+- rfi_payload_4_eye
+- rfi_payload_5_rather
+severity: critical
+type: rfi

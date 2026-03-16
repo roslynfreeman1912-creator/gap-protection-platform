@@ -1,0 +1,9 @@
+name: Triple-buffered uniform workforce
+payloads:
+- clickjacking_payload_1_expert
+- clickjacking_payload_2_budget
+- clickjacking_payload_3_such
+- clickjacking_payload_4_camera
+- clickjacking_payload_5_left
+severity: medium
+type: clickjacking

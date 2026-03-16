@@ -1,0 +1,9 @@
+name: Balanced transitional ability
+payloads:
+- clickjacking_payload_1_section
+- clickjacking_payload_2_book
+- clickjacking_payload_3_point
+- clickjacking_payload_4_life
+- clickjacking_payload_5_reach
+severity: critical
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Compatible transitional encoding
+payloads:
+- crlf-injection_payload_1_while
+- crlf-injection_payload_2_bag
+- crlf-injection_payload_3_feel
+- crlf-injection_payload_4_meeting
+- crlf-injection_payload_5_she
+severity: high
+type: crlf-injection

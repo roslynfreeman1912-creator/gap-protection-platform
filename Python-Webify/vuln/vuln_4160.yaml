@@ -1,0 +1,9 @@
+name: Face-to-face empowering matrix
+payloads:
+- open-redirect_payload_1_he
+- open-redirect_payload_2_prepare
+- open-redirect_payload_3_government
+- open-redirect_payload_4_people
+- open-redirect_payload_5_some
+severity: medium
+type: open-redirect

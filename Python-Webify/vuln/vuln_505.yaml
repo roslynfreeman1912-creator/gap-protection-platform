@@ -1,0 +1,9 @@
+name: Horizontal secondary definition
+payloads:
+- ssrf_payload_1_cover
+- ssrf_payload_2_watch
+- ssrf_payload_3_peace
+- ssrf_payload_4_prove
+- ssrf_payload_5_hit
+severity: critical
+type: ssrf

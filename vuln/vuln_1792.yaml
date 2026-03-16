@@ -1,0 +1,9 @@
+name: De-engineered composite database
+payloads:
+- host-header-injection_payload_1_chair
+- host-header-injection_payload_2_right
+- host-header-injection_payload_3_increase
+- host-header-injection_payload_4_society
+- host-header-injection_payload_5_future
+severity: low
+type: host-header-injection

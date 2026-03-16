@@ -1,0 +1,9 @@
+name: Progressive attitude-oriented migration
+payloads:
+- mime-sniffing_payload_1_PM
+- mime-sniffing_payload_2_for
+- mime-sniffing_payload_3_some
+- mime-sniffing_payload_4_want
+- mime-sniffing_payload_5_control
+severity: high
+type: mime-sniffing

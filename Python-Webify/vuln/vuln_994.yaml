@@ -1,0 +1,9 @@
+name: Decentralized global conglomeration
+payloads:
+- javascript-injection_payload_1_movement
+- javascript-injection_payload_2_now
+- javascript-injection_payload_3_radio
+- javascript-injection_payload_4_throughout
+- javascript-injection_payload_5_personal
+severity: critical
+type: javascript-injection

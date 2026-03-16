@@ -1,0 +1,9 @@
+name: Inverse non-volatile hub
+payloads:
+- crlf-injection_payload_1_turn
+- crlf-injection_payload_2_full
+- crlf-injection_payload_3_another
+- crlf-injection_payload_4_boy
+- crlf-injection_payload_5_current
+severity: high
+type: crlf-injection

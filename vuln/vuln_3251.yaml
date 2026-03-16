@@ -1,0 +1,9 @@
+name: Inverse 24/7 parallelism
+payloads:
+- sql_payload_1_lot
+- sql_payload_2_choose
+- sql_payload_3_deal
+- sql_payload_4_feel
+- sql_payload_5_camera
+severity: medium
+type: sql

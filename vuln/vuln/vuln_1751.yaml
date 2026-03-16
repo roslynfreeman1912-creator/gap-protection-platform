@@ -1,0 +1,9 @@
+name: Ergonomic explicit projection
+payloads:
+- sql_payload_1_my
+- sql_payload_2_degree
+- sql_payload_3_keep
+- sql_payload_4_raise
+- sql_payload_5_serve
+severity: medium
+type: sql

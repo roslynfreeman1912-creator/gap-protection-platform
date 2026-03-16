@@ -1,0 +1,9 @@
+name: Versatile directional encoding
+payloads:
+- mime-sniffing_payload_1_third
+- mime-sniffing_payload_2_something
+- mime-sniffing_payload_3_may
+- mime-sniffing_payload_4_machine
+- mime-sniffing_payload_5_piece
+severity: high
+type: mime-sniffing

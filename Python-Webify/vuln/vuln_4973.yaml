@@ -1,0 +1,9 @@
+name: Profit-focused systemic installation
+payloads:
+- hsts-misconfig_payload_1_quite
+- hsts-misconfig_payload_2_change
+- hsts-misconfig_payload_3_son
+- hsts-misconfig_payload_4_tax
+- hsts-misconfig_payload_5_investment
+severity: low
+type: hsts-misconfig

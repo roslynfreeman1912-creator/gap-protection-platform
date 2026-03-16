@@ -1,0 +1,9 @@
+name: Programmable homogeneous middleware
+payloads:
+- file-upload_payload_1_seek
+- file-upload_payload_2_charge
+- file-upload_payload_3_though
+- file-upload_payload_4_order
+- file-upload_payload_5_see
+severity: medium
+type: file-upload

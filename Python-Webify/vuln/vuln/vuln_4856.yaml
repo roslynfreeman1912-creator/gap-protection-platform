@@ -1,0 +1,9 @@
+name: Upgradable optimal ability
+payloads:
+- csrf_payload_1_together
+- csrf_payload_2_positive
+- csrf_payload_3_last
+- csrf_payload_4_money
+- csrf_payload_5_ten
+severity: medium
+type: csrf

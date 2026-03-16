@@ -1,0 +1,9 @@
+name: Ameliorated context-sensitive orchestration
+payloads:
+- hsts-misconfig_payload_1_happen
+- hsts-misconfig_payload_2_more
+- hsts-misconfig_payload_3_tend
+- hsts-misconfig_payload_4_bill
+- hsts-misconfig_payload_5_usually
+severity: critical
+type: hsts-misconfig

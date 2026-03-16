@@ -1,0 +1,9 @@
+name: Proactive local knowledgebase
+payloads:
+- xxe_payload_1_drive
+- xxe_payload_2_again
+- xxe_payload_3_wide
+- xxe_payload_4_evidence
+- xxe_payload_5_anyone
+severity: critical
+type: xxe

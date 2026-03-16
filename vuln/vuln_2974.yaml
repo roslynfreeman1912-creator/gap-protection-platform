@@ -1,0 +1,9 @@
+name: Pre-emptive client-driven frame
+payloads:
+- csp-bypass_payload_1_movement
+- csp-bypass_payload_2_act
+- csp-bypass_payload_3_first
+- csp-bypass_payload_4_talk
+- csp-bypass_payload_5_hair
+severity: medium
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Enhanced 24/7 functionalities
+payloads:
+- lfi_payload_1_foreign
+- lfi_payload_2_less
+- lfi_payload_3_bank
+- lfi_payload_4_commercial
+- lfi_payload_5_thought
+severity: medium
+type: lfi

@@ -1,0 +1,9 @@
+name: Persevering global projection
+payloads:
+- nosql-injection_payload_1_possible
+- nosql-injection_payload_2_unit
+- nosql-injection_payload_3_try
+- nosql-injection_payload_4_share
+- nosql-injection_payload_5_might
+severity: medium
+type: nosql-injection

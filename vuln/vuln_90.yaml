@@ -1,0 +1,9 @@
+name: Universal user-facing framework
+payloads:
+- jsonp-injection_payload_1_various
+- jsonp-injection_payload_2_often
+- jsonp-injection_payload_3_term
+- jsonp-injection_payload_4_onto
+- jsonp-injection_payload_5_theory
+severity: critical
+type: jsonp-injection

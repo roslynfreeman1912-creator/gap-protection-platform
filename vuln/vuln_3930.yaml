@@ -1,0 +1,9 @@
+name: Seamless actuating alliance
+payloads:
+- ssrf_payload_1_attack
+- ssrf_payload_2_she
+- ssrf_payload_3_direction
+- ssrf_payload_4_administration
+- ssrf_payload_5_child
+severity: high
+type: ssrf

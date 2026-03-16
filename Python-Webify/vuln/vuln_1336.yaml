@@ -1,0 +1,9 @@
+name: Proactive content-based orchestration
+payloads:
+- xxe_payload_1_development
+- xxe_payload_2_none
+- xxe_payload_3_new
+- xxe_payload_4_western
+- xxe_payload_5_but
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Robust maximized orchestration
+payloads:
+- open-redirect_payload_1_between
+- open-redirect_payload_2_simply
+- open-redirect_payload_3_involve
+- open-redirect_payload_4_avoid
+- open-redirect_payload_5_majority
+severity: high
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Persistent executive firmware
+payloads:
+- nosql-injection_payload_1_thought
+- nosql-injection_payload_2_interview
+- nosql-injection_payload_3_ability
+- nosql-injection_payload_4_person
+- nosql-injection_payload_5_me
+severity: low
+type: nosql-injection

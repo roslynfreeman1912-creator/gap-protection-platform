@@ -1,0 +1,9 @@
+name: Intuitive motivating support
+payloads:
+- lfi_payload_1_improve
+- lfi_payload_2_form
+- lfi_payload_3_nation
+- lfi_payload_4_long
+- lfi_payload_5_kind
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: Distributed user-facing productivity
+payloads:
+- file-upload_payload_1_happy
+- file-upload_payload_2_teach
+- file-upload_payload_3_college
+- file-upload_payload_4_Democrat
+- file-upload_payload_5_visit
+severity: medium
+type: file-upload

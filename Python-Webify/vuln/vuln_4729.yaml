@@ -1,0 +1,9 @@
+name: Operative actuating workforce
+payloads:
+- rfi_payload_1_dream
+- rfi_payload_2_story
+- rfi_payload_3_party
+- rfi_payload_4_human
+- rfi_payload_5_education
+severity: medium
+type: rfi

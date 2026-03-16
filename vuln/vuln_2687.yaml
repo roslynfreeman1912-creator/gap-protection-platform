@@ -1,0 +1,9 @@
+name: Sharable bi-directional architecture
+payloads:
+- ldap-injection_payload_1_fill
+- ldap-injection_payload_2_fine
+- ldap-injection_payload_3_international
+- ldap-injection_payload_4_recent
+- ldap-injection_payload_5_try
+severity: critical
+type: ldap-injection

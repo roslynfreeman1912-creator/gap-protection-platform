@@ -1,0 +1,9 @@
+name: Team-oriented needs-based hierarchy
+payloads:
+- rfi_payload_1_feel
+- rfi_payload_2_official
+- rfi_payload_3_however
+- rfi_payload_4_job
+- rfi_payload_5_view
+severity: low
+type: rfi

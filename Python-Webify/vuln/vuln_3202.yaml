@@ -1,0 +1,9 @@
+name: Centralized coherent neural-net
+payloads:
+- xss_payload_1_system
+- xss_payload_2_house
+- xss_payload_3_feeling
+- xss_payload_4_mind
+- xss_payload_5_mother
+severity: medium
+type: xss

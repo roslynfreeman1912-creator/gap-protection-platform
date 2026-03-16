@@ -1,0 +1,9 @@
+name: Synchronized intermediate extranet
+payloads:
+- command-injection_payload_1_possible
+- command-injection_payload_2_edge
+- command-injection_payload_3_his
+- command-injection_payload_4_pick
+- command-injection_payload_5_can
+severity: high
+type: command-injection

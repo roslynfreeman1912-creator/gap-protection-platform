@@ -1,0 +1,9 @@
+name: Managed asymmetric circuit
+payloads:
+- open-redirect_payload_1_strategy
+- open-redirect_payload_2_marriage
+- open-redirect_payload_3_up
+- open-redirect_payload_4_art
+- open-redirect_payload_5_current
+severity: medium
+type: open-redirect

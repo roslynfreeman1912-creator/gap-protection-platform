@@ -1,0 +1,9 @@
+name: Extended foreground customer loyalty
+payloads:
+- path-traversal_payload_1_station
+- path-traversal_payload_2_decade
+- path-traversal_payload_3_body
+- path-traversal_payload_4_easy
+- path-traversal_payload_5_dark
+severity: high
+type: path-traversal

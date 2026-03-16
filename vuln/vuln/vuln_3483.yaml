@@ -1,0 +1,9 @@
+name: Robust empowering groupware
+payloads:
+- command-injection_payload_1_part
+- command-injection_payload_2_record
+- command-injection_payload_3_fear
+- command-injection_payload_4_know
+- command-injection_payload_5_analysis
+severity: critical
+type: command-injection

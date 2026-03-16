@@ -1,0 +1,9 @@
+name: Horizontal logistical success
+payloads:
+- command-injection_payload_1_themselves
+- command-injection_payload_2_whose
+- command-injection_payload_3_group
+- command-injection_payload_4_soldier
+- command-injection_payload_5_agency
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Customizable logistical challenge
+payloads:
+- csrf_payload_1_have
+- csrf_payload_2_coach
+- csrf_payload_3_strategy
+- csrf_payload_4_police
+- csrf_payload_5_born
+severity: critical
+type: csrf

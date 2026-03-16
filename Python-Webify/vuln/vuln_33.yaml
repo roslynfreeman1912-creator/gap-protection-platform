@@ -1,0 +1,9 @@
+name: Synergistic motivating project
+payloads:
+- command-injection_payload_1_local
+- command-injection_payload_2_among
+- command-injection_payload_3_civil
+- command-injection_payload_4_beautiful
+- command-injection_payload_5_kitchen
+severity: critical
+type: command-injection

@@ -1,0 +1,9 @@
+name: Centralized intermediate structure
+payloads:
+- tabnabbing_payload_1_pick
+- tabnabbing_payload_2_field
+- tabnabbing_payload_3_several
+- tabnabbing_payload_4_why
+- tabnabbing_payload_5_show
+severity: high
+type: tabnabbing

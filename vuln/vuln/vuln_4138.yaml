@@ -1,0 +1,9 @@
+name: Phased multi-tasking info-mediaries
+payloads:
+- nosql-injection_payload_1_or
+- nosql-injection_payload_2_recently
+- nosql-injection_payload_3_among
+- nosql-injection_payload_4_whose
+- nosql-injection_payload_5_way
+severity: low
+type: nosql-injection

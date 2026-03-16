@@ -1,0 +1,9 @@
+name: Cloned user-facing archive
+payloads:
+- ssrf_payload_1_important
+- ssrf_payload_2_member
+- ssrf_payload_3_often
+- ssrf_payload_4_local
+- ssrf_payload_5_simple
+severity: critical
+type: ssrf

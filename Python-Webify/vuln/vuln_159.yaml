@@ -1,0 +1,9 @@
+name: Focused radical archive
+payloads:
+- path-traversal_payload_1_center
+- path-traversal_payload_2_hard
+- path-traversal_payload_3_alone
+- path-traversal_payload_4_home
+- path-traversal_payload_5_future
+severity: high
+type: path-traversal

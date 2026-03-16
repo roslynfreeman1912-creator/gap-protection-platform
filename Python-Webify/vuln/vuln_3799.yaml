@@ -1,0 +1,9 @@
+name: Digitized intermediate open architecture
+payloads:
+- csp-bypass_payload_1_leader
+- csp-bypass_payload_2_able
+- csp-bypass_payload_3_read
+- csp-bypass_payload_4_what
+- csp-bypass_payload_5_culture
+severity: low
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Stand-alone optimizing knowledgebase
+payloads:
+- jsonp-injection_payload_1_business
+- jsonp-injection_payload_2_street
+- jsonp-injection_payload_3_service
+- jsonp-injection_payload_4_we
+- jsonp-injection_payload_5_wife
+severity: high
+type: jsonp-injection

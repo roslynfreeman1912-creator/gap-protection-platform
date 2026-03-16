@@ -1,0 +1,9 @@
+name: Persevering grid-enabled capacity
+payloads:
+- command-injection_payload_1_above
+- command-injection_payload_2_necessary
+- command-injection_payload_3_history
+- command-injection_payload_4_charge
+- command-injection_payload_5_popular
+severity: high
+type: command-injection

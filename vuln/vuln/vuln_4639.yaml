@@ -1,0 +1,9 @@
+name: Cross-group intangible open architecture
+payloads:
+- clickjacking_payload_1_total
+- clickjacking_payload_2_member
+- clickjacking_payload_3_family
+- clickjacking_payload_4_anyone
+- clickjacking_payload_5_put
+severity: high
+type: clickjacking

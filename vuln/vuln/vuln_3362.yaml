@@ -1,0 +1,9 @@
+name: Managed non-volatile archive
+payloads:
+- ldap-injection_payload_1_watch
+- ldap-injection_payload_2_pick
+- ldap-injection_payload_3_step
+- ldap-injection_payload_4_close
+- ldap-injection_payload_5_approach
+severity: high
+type: ldap-injection

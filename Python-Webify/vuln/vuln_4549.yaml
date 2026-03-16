@@ -1,0 +1,9 @@
+name: Open-source modular protocol
+payloads:
+- csp-bypass_payload_1_recent
+- csp-bypass_payload_2_class
+- csp-bypass_payload_3_page
+- csp-bypass_payload_4_score
+- csp-bypass_payload_5_help
+severity: low
+type: csp-bypass

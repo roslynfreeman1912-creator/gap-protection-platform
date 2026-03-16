@@ -1,0 +1,9 @@
+name: Profound neutral time-frame
+payloads:
+- ssti_payload_1_food
+- ssti_payload_2_sound
+- ssti_payload_3_subject
+- ssti_payload_4_case
+- ssti_payload_5_gas
+severity: high
+type: ssti

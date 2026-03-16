@@ -1,0 +1,9 @@
+name: Organized incremental info-mediaries
+payloads:
+- command-injection_payload_1_season
+- command-injection_payload_2_station
+- command-injection_payload_3_small
+- command-injection_payload_4_two
+- command-injection_payload_5_analysis
+severity: critical
+type: command-injection

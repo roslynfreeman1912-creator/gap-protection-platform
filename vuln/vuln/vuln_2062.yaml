@@ -1,0 +1,9 @@
+name: Centralized real-time toolset
+payloads:
+- ldap-injection_payload_1_sport
+- ldap-injection_payload_2_admit
+- ldap-injection_payload_3_make
+- ldap-injection_payload_4_college
+- ldap-injection_payload_5_increase
+severity: critical
+type: ldap-injection

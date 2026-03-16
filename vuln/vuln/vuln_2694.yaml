@@ -1,0 +1,9 @@
+name: Adaptive executive forecast
+payloads:
+- javascript-injection_payload_1_speech
+- javascript-injection_payload_2_energy
+- javascript-injection_payload_3_ok
+- javascript-injection_payload_4_back
+- javascript-injection_payload_5_rest
+severity: critical
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Team-oriented context-sensitive approach
+payloads:
+- subdomain-takeover_payload_1_region
+- subdomain-takeover_payload_2_environment
+- subdomain-takeover_payload_3_blood
+- subdomain-takeover_payload_4_decide
+- subdomain-takeover_payload_5_agree
+severity: low
+type: subdomain-takeover

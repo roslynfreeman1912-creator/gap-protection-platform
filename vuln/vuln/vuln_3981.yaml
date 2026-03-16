@@ -1,0 +1,9 @@
+name: Balanced web-enabled circuit
+payloads:
+- csrf_payload_1_read
+- csrf_payload_2_record
+- csrf_payload_3_couple
+- csrf_payload_4_hour
+- csrf_payload_5_outside
+severity: critical
+type: csrf

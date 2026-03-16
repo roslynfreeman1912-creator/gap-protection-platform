@@ -1,0 +1,9 @@
+name: Customizable optimal intranet
+payloads:
+- frame-injection_payload_1_customer
+- frame-injection_payload_2_evidence
+- frame-injection_payload_3_treat
+- frame-injection_payload_4_daughter
+- frame-injection_payload_5_window
+severity: critical
+type: frame-injection

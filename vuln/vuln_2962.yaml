@@ -1,0 +1,9 @@
+name: Streamlined uniform migration
+payloads:
+- ldap-injection_payload_1_wind
+- ldap-injection_payload_2_three
+- ldap-injection_payload_3_friend
+- ldap-injection_payload_4_him
+- ldap-injection_payload_5_response
+severity: high
+type: ldap-injection

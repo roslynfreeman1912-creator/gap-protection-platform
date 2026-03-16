@@ -1,0 +1,9 @@
+name: Secured even-keeled emulation
+payloads:
+- sql_payload_1_democratic
+- sql_payload_2_us
+- sql_payload_3_country
+- sql_payload_4_subject
+- sql_payload_5_chance
+severity: low
+type: sql

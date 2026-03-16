@@ -1,0 +1,9 @@
+name: Monitored heuristic matrices
+payloads:
+- xxe_payload_1_happy
+- xxe_payload_2_everyone
+- xxe_payload_3_spring
+- xxe_payload_4_body
+- xxe_payload_5_turn
+severity: critical
+type: xxe

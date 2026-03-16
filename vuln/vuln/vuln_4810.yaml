@@ -1,0 +1,9 @@
+name: Horizontal static policy
+payloads:
+- open-redirect_payload_1_west
+- open-redirect_payload_2_economy
+- open-redirect_payload_3_kid
+- open-redirect_payload_4_assume
+- open-redirect_payload_5_prove
+severity: low
+type: open-redirect

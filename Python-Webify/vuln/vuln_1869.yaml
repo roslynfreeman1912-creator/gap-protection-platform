@@ -1,0 +1,9 @@
+name: Focused coherent flexibility
+payloads:
+- javascript-injection_payload_1_low
+- javascript-injection_payload_2_west
+- javascript-injection_payload_3_wind
+- javascript-injection_payload_4_tough
+- javascript-injection_payload_5_box
+severity: critical
+type: javascript-injection

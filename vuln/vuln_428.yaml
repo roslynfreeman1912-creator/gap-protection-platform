@@ -1,0 +1,9 @@
+name: Phased radical infrastructure
+payloads:
+- lfi_payload_1_probably
+- lfi_payload_2_always
+- lfi_payload_3_candidate
+- lfi_payload_4_coach
+- lfi_payload_5_speech
+severity: low
+type: lfi

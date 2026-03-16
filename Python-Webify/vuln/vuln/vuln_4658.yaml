@@ -1,0 +1,9 @@
+name: Virtual actuating database
+payloads:
+- command-injection_payload_1_idea
+- command-injection_payload_2_generation
+- command-injection_payload_3_certain
+- command-injection_payload_4_population
+- command-injection_payload_5_quite
+severity: medium
+type: command-injection

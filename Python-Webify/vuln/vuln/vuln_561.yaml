@@ -1,0 +1,9 @@
+name: Adaptive 4thgeneration info-mediaries
+payloads:
+- xxe_payload_1_treatment
+- xxe_payload_2_soon
+- xxe_payload_3_side
+- xxe_payload_4_head
+- xxe_payload_5_never
+severity: low
+type: xxe

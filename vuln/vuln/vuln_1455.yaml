@@ -1,0 +1,9 @@
+name: Upgradable mission-critical protocol
+payloads:
+- ssrf_payload_1_walk
+- ssrf_payload_2_above
+- ssrf_payload_3_my
+- ssrf_payload_4_number
+- ssrf_payload_5_customer
+severity: high
+type: ssrf

@@ -1,0 +1,9 @@
+name: Digitized systematic methodology
+payloads:
+- sql_payload_1_between
+- sql_payload_2_father
+- sql_payload_3_they
+- sql_payload_4_stock
+- sql_payload_5_role
+severity: medium
+type: sql

@@ -1,0 +1,9 @@
+name: Business-focused grid-enabled framework
+payloads:
+- csrf_payload_1_more
+- csrf_payload_2_product
+- csrf_payload_3_bill
+- csrf_payload_4_watch
+- csrf_payload_5_policy
+severity: medium
+type: csrf

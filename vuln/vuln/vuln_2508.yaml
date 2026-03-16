@@ -1,0 +1,9 @@
+name: Progressive encompassing ability
+payloads:
+- command-injection_payload_1_over
+- command-injection_payload_2_according
+- command-injection_payload_3_level
+- command-injection_payload_4_indeed
+- command-injection_payload_5_affect
+severity: low
+type: command-injection

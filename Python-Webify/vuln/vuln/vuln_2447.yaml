@@ -1,0 +1,9 @@
+name: Cross-platform secondary database
+payloads:
+- tabnabbing_payload_1_method
+- tabnabbing_payload_2_lawyer
+- tabnabbing_payload_3_if
+- tabnabbing_payload_4_probably
+- tabnabbing_payload_5_health
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Pre-emptive user-facing capacity
+payloads:
+- subdomain-takeover_payload_1_they
+- subdomain-takeover_payload_2_single
+- subdomain-takeover_payload_3_loss
+- subdomain-takeover_payload_4_pull
+- subdomain-takeover_payload_5_budget
+severity: high
+type: subdomain-takeover

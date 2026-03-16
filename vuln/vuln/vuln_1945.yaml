@@ -1,0 +1,9 @@
+name: Monitored global capability
+payloads:
+- file-upload_payload_1_science
+- file-upload_payload_2_history
+- file-upload_payload_3_size
+- file-upload_payload_4_energy
+- file-upload_payload_5_change
+severity: critical
+type: file-upload

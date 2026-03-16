@@ -1,0 +1,9 @@
+name: Open-source static definition
+payloads:
+- xxe_payload_1_month
+- xxe_payload_2_through
+- xxe_payload_3_affect
+- xxe_payload_4_else
+- xxe_payload_5_weight
+severity: low
+type: xxe

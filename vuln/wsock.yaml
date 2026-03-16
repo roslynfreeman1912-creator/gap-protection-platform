@@ -1,0 +1,7 @@
+name: "WebSocket Hijacking"
+type: "websocket_hijack"
+severity: "high"
+payloads:
+  - "Origin: http://attacker.com"
+  - "Sec-WebSocket-Key: malicious"
+  - "Cookie: SESSION=stolen"

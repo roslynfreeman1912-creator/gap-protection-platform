@@ -1,0 +1,9 @@
+name: Diverse context-sensitive instruction set
+payloads:
+- ldap-injection_payload_1_company
+- ldap-injection_payload_2_wait
+- ldap-injection_payload_3_beat
+- ldap-injection_payload_4_enter
+- ldap-injection_payload_5_turn
+severity: critical
+type: ldap-injection

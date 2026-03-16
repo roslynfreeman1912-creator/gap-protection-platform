@@ -1,0 +1,9 @@
+name: Devolved fresh-thinking firmware
+payloads:
+- mime-sniffing_payload_1_pick
+- mime-sniffing_payload_2_own
+- mime-sniffing_payload_3_trouble
+- mime-sniffing_payload_4_prevent
+- mime-sniffing_payload_5_full
+severity: medium
+type: mime-sniffing

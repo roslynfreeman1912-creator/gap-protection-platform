@@ -1,0 +1,9 @@
+name: Robust directional extranet
+payloads:
+- frame-injection_payload_1_low
+- frame-injection_payload_2_different
+- frame-injection_payload_3_suggest
+- frame-injection_payload_4_half
+- frame-injection_payload_5_traditional
+severity: critical
+type: frame-injection

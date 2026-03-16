@@ -1,0 +1,9 @@
+name: Reactive methodical Graphical User Interface
+payloads:
+- csrf_payload_1_soldier
+- csrf_payload_2_agreement
+- csrf_payload_3_south
+- csrf_payload_4_staff
+- csrf_payload_5_a
+severity: medium
+type: csrf

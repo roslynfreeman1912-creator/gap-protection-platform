@@ -1,0 +1,9 @@
+name: Progressive asymmetric website
+payloads:
+- mime-sniffing_payload_1_floor
+- mime-sniffing_payload_2_still
+- mime-sniffing_payload_3_produce
+- mime-sniffing_payload_4_station
+- mime-sniffing_payload_5_citizen
+severity: medium
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Adaptive actuating moratorium
+payloads:
+- clickjacking_payload_1_offer
+- clickjacking_payload_2_mission
+- clickjacking_payload_3_industry
+- clickjacking_payload_4_film
+- clickjacking_payload_5_help
+severity: high
+type: clickjacking

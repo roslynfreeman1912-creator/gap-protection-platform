@@ -1,0 +1,9 @@
+name: Synchronized motivating concept
+payloads:
+- open-redirect_payload_1_plan
+- open-redirect_payload_2_structure
+- open-redirect_payload_3_identify
+- open-redirect_payload_4_record
+- open-redirect_payload_5_find
+severity: low
+type: open-redirect

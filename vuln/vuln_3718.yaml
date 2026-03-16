@@ -1,0 +1,9 @@
+name: Decentralized upward-trending neural-net
+payloads:
+- subdomain-takeover_payload_1_college
+- subdomain-takeover_payload_2_go
+- subdomain-takeover_payload_3_will
+- subdomain-takeover_payload_4_miss
+- subdomain-takeover_payload_5_if
+severity: low
+type: subdomain-takeover

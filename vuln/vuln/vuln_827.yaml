@@ -1,0 +1,9 @@
+name: Front-line discrete knowledge user
+payloads:
+- xss_payload_1_financial
+- xss_payload_2_music
+- xss_payload_3_trip
+- xss_payload_4_memory
+- xss_payload_5_with
+severity: low
+type: xss

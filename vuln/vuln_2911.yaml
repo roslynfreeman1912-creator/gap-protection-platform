@@ -1,0 +1,9 @@
+name: Enterprise-wide content-based capacity
+payloads:
+- xxe_payload_1_future
+- xxe_payload_2_data
+- xxe_payload_3_painting
+- xxe_payload_4_use
+- xxe_payload_5_walk
+severity: critical
+type: xxe

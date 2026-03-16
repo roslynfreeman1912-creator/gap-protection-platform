@@ -1,0 +1,9 @@
+name: Devolved human-resource product
+payloads:
+- subdomain-takeover_payload_1_contain
+- subdomain-takeover_payload_2_writer
+- subdomain-takeover_payload_3_owner
+- subdomain-takeover_payload_4_case
+- subdomain-takeover_payload_5_Mrs
+severity: critical
+type: subdomain-takeover

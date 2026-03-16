@@ -1,0 +1,9 @@
+name: Balanced non-volatile product
+payloads:
+- frame-injection_payload_1_yeah
+- frame-injection_payload_2_finally
+- frame-injection_payload_3_operation
+- frame-injection_payload_4_dog
+- frame-injection_payload_5_few
+severity: critical
+type: frame-injection

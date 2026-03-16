@@ -1,0 +1,9 @@
+name: Realigned reciprocal synergy
+payloads:
+- tabnabbing_payload_1_table
+- tabnabbing_payload_2_put
+- tabnabbing_payload_3_cost
+- tabnabbing_payload_4_discussion
+- tabnabbing_payload_5_machine
+severity: high
+type: tabnabbing

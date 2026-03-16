@@ -1,0 +1,9 @@
+name: Cross-platform tertiary array
+payloads:
+- rfi_payload_1_central
+- rfi_payload_2_industry
+- rfi_payload_3_her
+- rfi_payload_4_range
+- rfi_payload_5_property
+severity: high
+type: rfi

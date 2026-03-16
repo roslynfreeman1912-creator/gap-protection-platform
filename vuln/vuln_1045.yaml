@@ -1,0 +1,9 @@
+name: Persevering logistical hub
+payloads:
+- file-upload_payload_1_find
+- file-upload_payload_2_executive
+- file-upload_payload_3_girl
+- file-upload_payload_4_true
+- file-upload_payload_5_upon
+severity: low
+type: file-upload

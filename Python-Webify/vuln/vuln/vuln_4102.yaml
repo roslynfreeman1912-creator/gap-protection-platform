@@ -1,0 +1,9 @@
+name: Extended clear-thinking architecture
+payloads:
+- xss_payload_1_name
+- xss_payload_2_somebody
+- xss_payload_3_cause
+- xss_payload_4_though
+- xss_payload_5_capital
+severity: low
+type: xss

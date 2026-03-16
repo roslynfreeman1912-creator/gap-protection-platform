@@ -1,0 +1,9 @@
+name: Streamlined leadingedge functionalities
+payloads:
+- xxe_payload_1_close
+- xxe_payload_2_sort
+- xxe_payload_3_guess
+- xxe_payload_4_past
+- xxe_payload_5_top
+severity: high
+type: xxe

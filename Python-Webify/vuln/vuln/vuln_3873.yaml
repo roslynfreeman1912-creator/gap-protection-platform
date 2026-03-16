@@ -1,0 +1,9 @@
+name: Networked mission-critical core
+payloads:
+- hsts-misconfig_payload_1_each
+- hsts-misconfig_payload_2_choose
+- hsts-misconfig_payload_3_whatever
+- hsts-misconfig_payload_4_address
+- hsts-misconfig_payload_5_contain
+severity: critical
+type: hsts-misconfig

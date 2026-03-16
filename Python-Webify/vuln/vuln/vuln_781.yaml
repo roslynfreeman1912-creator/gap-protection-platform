@@ -1,0 +1,9 @@
+name: De-engineered grid-enabled benchmark
+payloads:
+- csrf_payload_1_role
+- csrf_payload_2_challenge
+- csrf_payload_3_data
+- csrf_payload_4_key
+- csrf_payload_5_feel
+severity: critical
+type: csrf

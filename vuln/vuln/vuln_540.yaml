@@ -1,0 +1,9 @@
+name: Inverse next generation instruction set
+payloads:
+- jsonp-injection_payload_1_tree
+- jsonp-injection_payload_2_day
+- jsonp-injection_payload_3_mean
+- jsonp-injection_payload_4_ok
+- jsonp-injection_payload_5_control
+severity: low
+type: jsonp-injection

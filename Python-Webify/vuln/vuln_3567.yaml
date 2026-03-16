@@ -1,0 +1,9 @@
+name: Robust bifurcated product
+payloads:
+- host-header-injection_payload_1_thought
+- host-header-injection_payload_2_sister
+- host-header-injection_payload_3_between
+- host-header-injection_payload_4_in
+- host-header-injection_payload_5_yeah
+severity: high
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Visionary composite monitoring
+payloads:
+- path-traversal_payload_1_than
+- path-traversal_payload_2_political
+- path-traversal_payload_3_strategy
+- path-traversal_payload_4_push
+- path-traversal_payload_5_out
+severity: high
+type: path-traversal

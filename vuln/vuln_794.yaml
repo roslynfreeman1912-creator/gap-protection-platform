@@ -1,0 +1,9 @@
+name: Polarized context-sensitive toolset
+payloads:
+- javascript-injection_payload_1_cold
+- javascript-injection_payload_2_note
+- javascript-injection_payload_3_be
+- javascript-injection_payload_4_need
+- javascript-injection_payload_5_list
+severity: low
+type: javascript-injection

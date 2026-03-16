@@ -1,0 +1,9 @@
+name: Realigned neutral functionalities
+payloads:
+- csp-bypass_payload_1_international
+- csp-bypass_payload_2_student
+- csp-bypass_payload_3_join
+- csp-bypass_payload_4_send
+- csp-bypass_payload_5_hour
+severity: high
+type: csp-bypass

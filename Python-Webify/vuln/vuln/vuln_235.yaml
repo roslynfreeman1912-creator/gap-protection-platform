@@ -1,0 +1,9 @@
+name: Integrated 4thgeneration orchestration
+payloads:
+- open-redirect_payload_1_firm
+- open-redirect_payload_2_miss
+- open-redirect_payload_3_writer
+- open-redirect_payload_4_off
+- open-redirect_payload_5_method
+severity: medium
+type: open-redirect

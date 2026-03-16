@@ -1,0 +1,9 @@
+name: Polarized zero administration task-force
+payloads:
+- xss_payload_1_themselves
+- xss_payload_2_group
+- xss_payload_3_peace
+- xss_payload_4_whatever
+- xss_payload_5_market
+severity: high
+type: xss

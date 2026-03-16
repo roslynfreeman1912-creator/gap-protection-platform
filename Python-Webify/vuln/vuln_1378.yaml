@@ -1,0 +1,9 @@
+name: Enhanced next generation support
+payloads:
+- lfi_payload_1_when
+- lfi_payload_2_difference
+- lfi_payload_3_myself
+- lfi_payload_4_theory
+- lfi_payload_5_which
+severity: high
+type: lfi

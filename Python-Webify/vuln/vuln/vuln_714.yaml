@@ -1,0 +1,9 @@
+name: Configurable 3rdgeneration collaboration
+payloads:
+- clickjacking_payload_1_analysis
+- clickjacking_payload_2_current
+- clickjacking_payload_3_institution
+- clickjacking_payload_4_executive
+- clickjacking_payload_5_worker
+severity: medium
+type: clickjacking

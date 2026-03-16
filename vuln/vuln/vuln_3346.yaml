@@ -1,0 +1,9 @@
+name: Decentralized transitional analyzer
+payloads:
+- mime-sniffing_payload_1_job
+- mime-sniffing_payload_2_form
+- mime-sniffing_payload_3_network
+- mime-sniffing_payload_4_growth
+- mime-sniffing_payload_5_watch
+severity: medium
+type: mime-sniffing

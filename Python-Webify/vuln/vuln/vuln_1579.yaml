@@ -1,0 +1,9 @@
+name: De-engineered secondary firmware
+payloads:
+- rfi_payload_1_live
+- rfi_payload_2_doctor
+- rfi_payload_3_sister
+- rfi_payload_4_blood
+- rfi_payload_5_reality
+severity: critical
+type: rfi

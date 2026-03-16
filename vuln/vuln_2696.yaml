@@ -1,0 +1,9 @@
+name: Cross-group heuristic definition
+payloads:
+- mime-sniffing_payload_1_hair
+- mime-sniffing_payload_2_lot
+- mime-sniffing_payload_3_each
+- mime-sniffing_payload_4_TV
+- mime-sniffing_payload_5_some
+severity: high
+type: mime-sniffing

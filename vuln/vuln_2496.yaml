@@ -1,0 +1,9 @@
+name: Front-line next generation alliance
+payloads:
+- mime-sniffing_payload_1_laugh
+- mime-sniffing_payload_2_less
+- mime-sniffing_payload_3_group
+- mime-sniffing_payload_4_never
+- mime-sniffing_payload_5_traditional
+severity: critical
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Pre-emptive web-enabled customer loyalty
+payloads:
+- nosql-injection_payload_1_series
+- nosql-injection_payload_2_pass
+- nosql-injection_payload_3_treat
+- nosql-injection_payload_4_box
+- nosql-injection_payload_5_difference
+severity: medium
+type: nosql-injection

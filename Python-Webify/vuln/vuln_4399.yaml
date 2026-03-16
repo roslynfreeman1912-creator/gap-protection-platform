@@ -1,0 +1,9 @@
+name: Multi-layered bottom-line website
+payloads:
+- csp-bypass_payload_1_win
+- csp-bypass_payload_2_wear
+- csp-bypass_payload_3_provide
+- csp-bypass_payload_4_move
+- csp-bypass_payload_5_today
+severity: medium
+type: csp-bypass

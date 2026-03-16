@@ -1,0 +1,9 @@
+name: Implemented methodical protocol
+payloads:
+- file-upload_payload_1_trip
+- file-upload_payload_2_likely
+- file-upload_payload_3_office
+- file-upload_payload_4_budget
+- file-upload_payload_5_shoulder
+severity: low
+type: file-upload

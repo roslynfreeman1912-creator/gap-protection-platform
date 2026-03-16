@@ -1,0 +1,9 @@
+name: Synergized needs-based conglomeration
+payloads:
+- tabnabbing_payload_1_chance
+- tabnabbing_payload_2_animal
+- tabnabbing_payload_3_six
+- tabnabbing_payload_4_energy
+- tabnabbing_payload_5_involve
+severity: low
+type: tabnabbing

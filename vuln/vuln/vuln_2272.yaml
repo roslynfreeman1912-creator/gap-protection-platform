@@ -1,0 +1,9 @@
+name: Monitored bottom-line paradigm
+payloads:
+- tabnabbing_payload_1_much
+- tabnabbing_payload_2_lawyer
+- tabnabbing_payload_3_apply
+- tabnabbing_payload_4_firm
+- tabnabbing_payload_5_war
+severity: low
+type: tabnabbing

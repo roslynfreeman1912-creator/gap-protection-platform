@@ -1,0 +1,9 @@
+name: Synchronized static service-desk
+payloads:
+- ssti_payload_1_sign
+- ssti_payload_2_many
+- ssti_payload_3_bit
+- ssti_payload_4_student
+- ssti_payload_5_join
+severity: high
+type: ssti

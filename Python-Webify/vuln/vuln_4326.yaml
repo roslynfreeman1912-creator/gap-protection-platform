@@ -1,0 +1,9 @@
+name: Sharable asymmetric product
+payloads:
+- sql_payload_1_game
+- sql_payload_2_near
+- sql_payload_3_model
+- sql_payload_4_almost
+- sql_payload_5_under
+severity: low
+type: sql

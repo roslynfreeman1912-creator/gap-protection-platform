@@ -1,0 +1,9 @@
+name: Virtual dedicated info-mediaries
+payloads:
+- host-header-injection_payload_1_back
+- host-header-injection_payload_2_resource
+- host-header-injection_payload_3_eye
+- host-header-injection_payload_4_cell
+- host-header-injection_payload_5_black
+severity: medium
+type: host-header-injection

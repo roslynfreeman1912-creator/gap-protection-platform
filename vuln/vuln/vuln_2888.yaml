@@ -1,0 +1,9 @@
+name: De-engineered uniform application
+payloads:
+- nosql-injection_payload_1_service
+- nosql-injection_payload_2_four
+- nosql-injection_payload_3_project
+- nosql-injection_payload_4_station
+- nosql-injection_payload_5_sell
+severity: critical
+type: nosql-injection

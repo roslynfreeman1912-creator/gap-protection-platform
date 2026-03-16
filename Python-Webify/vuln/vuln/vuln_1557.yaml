@@ -1,0 +1,9 @@
+name: Organized user-facing synergy
+payloads:
+- ssti_payload_1_daughter
+- ssti_payload_2_sing
+- ssti_payload_3_within
+- ssti_payload_4_sing
+- ssti_payload_5_paper
+severity: low
+type: ssti

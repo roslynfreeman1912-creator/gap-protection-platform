@@ -1,0 +1,9 @@
+name: User-centric impactful capability
+payloads:
+- lfi_payload_1_happy
+- lfi_payload_2_any
+- lfi_payload_3_always
+- lfi_payload_4_thank
+- lfi_payload_5_soon
+severity: medium
+type: lfi

@@ -1,0 +1,9 @@
+name: Self-enabling holistic moratorium
+payloads:
+- rfi_payload_1_concern
+- rfi_payload_2_store
+- rfi_payload_3_certainly
+- rfi_payload_4_we
+- rfi_payload_5_religious
+severity: critical
+type: rfi

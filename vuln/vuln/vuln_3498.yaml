@@ -1,0 +1,9 @@
+name: Cloned system-worthy attitude
+payloads:
+- hsts-misconfig_payload_1_citizen
+- hsts-misconfig_payload_2_trade
+- hsts-misconfig_payload_3_from
+- hsts-misconfig_payload_4_seven
+- hsts-misconfig_payload_5_of
+severity: high
+type: hsts-misconfig

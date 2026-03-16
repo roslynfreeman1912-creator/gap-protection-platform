@@ -1,0 +1,9 @@
+name: Future-proofed asymmetric budgetary management
+payloads:
+- command-injection_payload_1_great
+- command-injection_payload_2_protect
+- command-injection_payload_3_else
+- command-injection_payload_4_business
+- command-injection_payload_5_letter
+severity: low
+type: command-injection

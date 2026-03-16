@@ -1,0 +1,9 @@
+name: Persistent asymmetric knowledgebase
+payloads:
+- hsts-misconfig_payload_1_human
+- hsts-misconfig_payload_2_deal
+- hsts-misconfig_payload_3_range
+- hsts-misconfig_payload_4_significant
+- hsts-misconfig_payload_5_simply
+severity: critical
+type: hsts-misconfig

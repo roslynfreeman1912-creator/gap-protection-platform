@@ -1,0 +1,9 @@
+name: Extended 5thgeneration matrices
+payloads:
+- mime-sniffing_payload_1_blood
+- mime-sniffing_payload_2_sell
+- mime-sniffing_payload_3_draw
+- mime-sniffing_payload_4_nature
+- mime-sniffing_payload_5_list
+severity: critical
+type: mime-sniffing

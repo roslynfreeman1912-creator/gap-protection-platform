@@ -1,0 +1,9 @@
+name: Operative uniform Local Area Network
+payloads:
+- ldap-injection_payload_1_ahead
+- ldap-injection_payload_2_feel
+- ldap-injection_payload_3_economy
+- ldap-injection_payload_4_center
+- ldap-injection_payload_5_reflect
+severity: high
+type: ldap-injection

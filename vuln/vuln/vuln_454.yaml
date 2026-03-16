@@ -1,0 +1,9 @@
+name: Reduced content-based analyzer
+payloads:
+- rfi_payload_1_century
+- rfi_payload_2_seem
+- rfi_payload_3_already
+- rfi_payload_4_house
+- rfi_payload_5_event
+severity: critical
+type: rfi

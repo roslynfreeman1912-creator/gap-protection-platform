@@ -1,0 +1,9 @@
+name: Team-oriented even-keeled hardware
+payloads:
+- xxe_payload_1_identify
+- xxe_payload_2_part
+- xxe_payload_3_share
+- xxe_payload_4_green
+- xxe_payload_5_list
+severity: medium
+type: xxe

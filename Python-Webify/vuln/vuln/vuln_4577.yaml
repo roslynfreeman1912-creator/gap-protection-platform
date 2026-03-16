@@ -1,0 +1,9 @@
+name: Cross-platform heuristic protocol
+payloads:
+- xss_payload_1_seek
+- xss_payload_2_instead
+- xss_payload_3_glass
+- xss_payload_4_girl
+- xss_payload_5_bit
+severity: low
+type: xss

@@ -1,0 +1,9 @@
+name: Horizontal background forecast
+payloads:
+- crlf-injection_payload_1_police
+- crlf-injection_payload_2_dinner
+- crlf-injection_payload_3_reach
+- crlf-injection_payload_4_citizen
+- crlf-injection_payload_5_stage
+severity: critical
+type: crlf-injection

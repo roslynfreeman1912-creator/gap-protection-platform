@@ -1,0 +1,9 @@
+name: Reduced next generation methodology
+payloads:
+- command-injection_payload_1_establish
+- command-injection_payload_2_sound
+- command-injection_payload_3_talk
+- command-injection_payload_4_send
+- command-injection_payload_5_production
+severity: low
+type: command-injection

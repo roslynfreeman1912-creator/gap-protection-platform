@@ -1,0 +1,9 @@
+name: Exclusive intermediate intranet
+payloads:
+- host-header-injection_payload_1_current
+- host-header-injection_payload_2_thing
+- host-header-injection_payload_3_likely
+- host-header-injection_payload_4_price
+- host-header-injection_payload_5_million
+severity: medium
+type: host-header-injection

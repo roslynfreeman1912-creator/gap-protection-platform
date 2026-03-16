@@ -1,0 +1,9 @@
+name: Seamless logistical task-force
+payloads:
+- csrf_payload_1_real
+- csrf_payload_2_wear
+- csrf_payload_3_early
+- csrf_payload_4_available
+- csrf_payload_5_real
+severity: high
+type: csrf

@@ -1,0 +1,9 @@
+name: Expanded directional leverage
+payloads:
+- csp-bypass_payload_1_not
+- csp-bypass_payload_2_watch
+- csp-bypass_payload_3_maybe
+- csp-bypass_payload_4_likely
+- csp-bypass_payload_5_sure
+severity: critical
+type: csp-bypass

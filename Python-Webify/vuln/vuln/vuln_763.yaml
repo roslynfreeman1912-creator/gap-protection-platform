@@ -1,0 +1,9 @@
+name: Assimilated attitude-oriented concept
+payloads:
+- nosql-injection_payload_1_building
+- nosql-injection_payload_2_phone
+- nosql-injection_payload_3_my
+- nosql-injection_payload_4_often
+- nosql-injection_payload_5_middle
+severity: low
+type: nosql-injection

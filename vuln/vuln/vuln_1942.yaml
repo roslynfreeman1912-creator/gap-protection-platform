@@ -1,0 +1,9 @@
+name: Intuitive dedicated budgetary management
+payloads:
+- host-header-injection_payload_1_tough
+- host-header-injection_payload_2_here
+- host-header-injection_payload_3_case
+- host-header-injection_payload_4_central
+- host-header-injection_payload_5_away
+severity: high
+type: host-header-injection

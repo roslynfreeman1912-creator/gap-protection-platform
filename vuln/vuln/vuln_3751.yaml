@@ -1,0 +1,9 @@
+name: Automated reciprocal strategy
+payloads:
+- sql_payload_1_question
+- sql_payload_2_possible
+- sql_payload_3_positive
+- sql_payload_4_provide
+- sql_payload_5_would
+severity: medium
+type: sql

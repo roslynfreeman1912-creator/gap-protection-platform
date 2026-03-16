@@ -1,0 +1,9 @@
+name: Vision-oriented systemic matrices
+payloads:
+- nosql-injection_payload_1_much
+- nosql-injection_payload_2_now
+- nosql-injection_payload_3_herself
+- nosql-injection_payload_4_attention
+- nosql-injection_payload_5_age
+severity: high
+type: nosql-injection

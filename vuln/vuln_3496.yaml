@@ -1,0 +1,9 @@
+name: Implemented clear-thinking service-desk
+payloads:
+- mime-sniffing_payload_1_page
+- mime-sniffing_payload_2_become
+- mime-sniffing_payload_3_activity
+- mime-sniffing_payload_4_character
+- mime-sniffing_payload_5_southern
+severity: high
+type: mime-sniffing

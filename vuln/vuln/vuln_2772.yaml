@@ -1,0 +1,9 @@
+name: Cross-platform radical product
+payloads:
+- tabnabbing_payload_1_wonder
+- tabnabbing_payload_2_reduce
+- tabnabbing_payload_3_summer
+- tabnabbing_payload_4_thought
+- tabnabbing_payload_5_stage
+severity: medium
+type: tabnabbing

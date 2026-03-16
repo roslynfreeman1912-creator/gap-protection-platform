@@ -1,0 +1,9 @@
+name: Pre-emptive dedicated encoding
+payloads:
+- frame-injection_payload_1_age
+- frame-injection_payload_2_individual
+- frame-injection_payload_3_race
+- frame-injection_payload_4_produce
+- frame-injection_payload_5_she
+severity: medium
+type: frame-injection

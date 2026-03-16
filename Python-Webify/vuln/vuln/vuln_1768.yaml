@@ -1,0 +1,9 @@
+name: Cross-group clear-thinking help-desk
+payloads:
+- subdomain-takeover_payload_1_like
+- subdomain-takeover_payload_2_full
+- subdomain-takeover_payload_3_never
+- subdomain-takeover_payload_4_police
+- subdomain-takeover_payload_5_measure
+severity: medium
+type: subdomain-takeover

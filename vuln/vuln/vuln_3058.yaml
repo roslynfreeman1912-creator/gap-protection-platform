@@ -1,0 +1,9 @@
+name: Enterprise-wide bottom-line software
+payloads:
+- command-injection_payload_1_appear
+- command-injection_payload_2_help
+- command-injection_payload_3_instead
+- command-injection_payload_4_by
+- command-injection_payload_5_style
+severity: low
+type: command-injection

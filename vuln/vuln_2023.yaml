@@ -1,0 +1,9 @@
+name: Enterprise-wide bottom-line interface
+payloads:
+- hsts-misconfig_payload_1_prepare
+- hsts-misconfig_payload_2_cost
+- hsts-misconfig_payload_3_opportunity
+- hsts-misconfig_payload_4_same
+- hsts-misconfig_payload_5_teach
+severity: critical
+type: hsts-misconfig

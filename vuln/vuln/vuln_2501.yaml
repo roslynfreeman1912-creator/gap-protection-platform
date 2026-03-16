@@ -1,0 +1,9 @@
+name: Multi-lateral tertiary archive
+payloads:
+- sql_payload_1_science
+- sql_payload_2_former
+- sql_payload_3_defense
+- sql_payload_4_imagine
+- sql_payload_5_fast
+severity: critical
+type: sql

@@ -1,0 +1,9 @@
+name: Cross-platform directional customer loyalty
+payloads:
+- path-traversal_payload_1_member
+- path-traversal_payload_2_clearly
+- path-traversal_payload_3_talk
+- path-traversal_payload_4_PM
+- path-traversal_payload_5_natural
+severity: medium
+type: path-traversal

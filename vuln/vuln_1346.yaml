@@ -1,0 +1,9 @@
+name: Reactive contextually-based Graphic Interface
+payloads:
+- mime-sniffing_payload_1_newspaper
+- mime-sniffing_payload_2_mouth
+- mime-sniffing_payload_3_light
+- mime-sniffing_payload_4_machine
+- mime-sniffing_payload_5_politics
+severity: medium
+type: mime-sniffing

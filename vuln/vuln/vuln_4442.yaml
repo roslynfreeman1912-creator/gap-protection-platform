@@ -1,0 +1,9 @@
+name: Digitized tangible website
+payloads:
+- host-header-injection_payload_1_later
+- host-header-injection_payload_2_meet
+- host-header-injection_payload_3_idea
+- host-header-injection_payload_4_somebody
+- host-header-injection_payload_5_job
+severity: low
+type: host-header-injection

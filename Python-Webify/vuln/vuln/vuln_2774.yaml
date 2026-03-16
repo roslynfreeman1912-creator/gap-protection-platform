@@ -1,0 +1,9 @@
+name: Adaptive bandwidth-monitored projection
+payloads:
+- csp-bypass_payload_1_decade
+- csp-bypass_payload_2_player
+- csp-bypass_payload_3_back
+- csp-bypass_payload_4_success
+- csp-bypass_payload_5_health
+severity: low
+type: csp-bypass

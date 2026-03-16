@@ -1,0 +1,9 @@
+name: Right-sized intermediate open system
+payloads:
+- frame-injection_payload_1_night
+- frame-injection_payload_2_else
+- frame-injection_payload_3_nation
+- frame-injection_payload_4_language
+- frame-injection_payload_5_public
+severity: low
+type: frame-injection

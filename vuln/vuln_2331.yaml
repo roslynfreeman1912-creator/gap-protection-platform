@@ -1,0 +1,9 @@
+name: Face-to-face well-modulated architecture
+payloads:
+- csrf_payload_1_then
+- csrf_payload_2_section
+- csrf_payload_3_also
+- csrf_payload_4_beat
+- csrf_payload_5_guy
+severity: critical
+type: csrf

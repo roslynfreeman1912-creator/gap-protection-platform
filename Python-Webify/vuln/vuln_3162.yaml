@@ -1,0 +1,9 @@
+name: Synergistic impactful info-mediaries
+payloads:
+- ldap-injection_payload_1_forward
+- ldap-injection_payload_2_poor
+- ldap-injection_payload_3_current
+- ldap-injection_payload_4_all
+- ldap-injection_payload_5_least
+severity: medium
+type: ldap-injection

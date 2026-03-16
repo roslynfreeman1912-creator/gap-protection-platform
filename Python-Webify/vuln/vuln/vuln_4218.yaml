@@ -1,0 +1,9 @@
+name: Open-source bifurcated access
+payloads:
+- subdomain-takeover_payload_1_act
+- subdomain-takeover_payload_2_beyond
+- subdomain-takeover_payload_3_focus
+- subdomain-takeover_payload_4_marriage
+- subdomain-takeover_payload_5_between
+severity: low
+type: subdomain-takeover

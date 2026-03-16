@@ -1,0 +1,9 @@
+name: Re-contextualized holistic projection
+payloads:
+- tabnabbing_payload_1_crime
+- tabnabbing_payload_2_future
+- tabnabbing_payload_3_interview
+- tabnabbing_payload_4_special
+- tabnabbing_payload_5_laugh
+severity: medium
+type: tabnabbing

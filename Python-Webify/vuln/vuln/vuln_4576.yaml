@@ -1,0 +1,9 @@
+name: Centralized logistical Graphical User Interface
+payloads:
+- sql_payload_1_me
+- sql_payload_2_article
+- sql_payload_3_probably
+- sql_payload_4_material
+- sql_payload_5_do
+severity: medium
+type: sql

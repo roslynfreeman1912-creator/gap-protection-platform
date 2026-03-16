@@ -1,0 +1,9 @@
+name: Stand-alone incremental algorithm
+payloads:
+- jsonp-injection_payload_1_about
+- jsonp-injection_payload_2_close
+- jsonp-injection_payload_3_father
+- jsonp-injection_payload_4_tree
+- jsonp-injection_payload_5_foot
+severity: low
+type: jsonp-injection

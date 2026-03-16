@@ -1,0 +1,9 @@
+name: Expanded real-time solution
+payloads:
+- crlf-injection_payload_1_or
+- crlf-injection_payload_2_explain
+- crlf-injection_payload_3_place
+- crlf-injection_payload_4_compare
+- crlf-injection_payload_5_care
+severity: low
+type: crlf-injection

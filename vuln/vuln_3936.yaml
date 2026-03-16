@@ -1,0 +1,9 @@
+name: Integrated optimal implementation
+payloads:
+- xxe_payload_1_military
+- xxe_payload_2_within
+- xxe_payload_3_main
+- xxe_payload_4_floor
+- xxe_payload_5_hard
+severity: critical
+type: xxe

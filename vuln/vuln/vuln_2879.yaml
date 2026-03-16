@@ -1,0 +1,9 @@
+name: User-friendly web-enabled middleware
+payloads:
+- rfi_payload_1_night
+- rfi_payload_2_behavior
+- rfi_payload_3_worry
+- rfi_payload_4_far
+- rfi_payload_5_will
+severity: low
+type: rfi

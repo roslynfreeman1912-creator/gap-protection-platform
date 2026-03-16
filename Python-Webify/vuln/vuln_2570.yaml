@@ -1,0 +1,9 @@
+name: Switchable content-based application
+payloads:
+- file-upload_payload_1_determine
+- file-upload_payload_2_goal
+- file-upload_payload_3_include
+- file-upload_payload_4_employee
+- file-upload_payload_5_win
+severity: medium
+type: file-upload

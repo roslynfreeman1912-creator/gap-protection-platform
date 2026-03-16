@@ -1,0 +1,9 @@
+name: Face-to-face intermediate help-desk
+payloads:
+- host-header-injection_payload_1_public
+- host-header-injection_payload_2_room
+- host-header-injection_payload_3_activity
+- host-header-injection_payload_4_thus
+- host-header-injection_payload_5_hot
+severity: high
+type: host-header-injection

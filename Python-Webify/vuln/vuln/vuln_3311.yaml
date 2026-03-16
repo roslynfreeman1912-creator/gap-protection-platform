@@ -1,0 +1,9 @@
+name: Compatible solution-oriented benchmark
+payloads:
+- xxe_payload_1_meet
+- xxe_payload_2_rule
+- xxe_payload_3_this
+- xxe_payload_4_throughout
+- xxe_payload_5_truth
+severity: medium
+type: xxe

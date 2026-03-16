@@ -1,0 +1,9 @@
+name: Progressive encompassing function
+payloads:
+- tabnabbing_payload_1_sure
+- tabnabbing_payload_2_tree
+- tabnabbing_payload_3_structure
+- tabnabbing_payload_4_early
+- tabnabbing_payload_5_event
+severity: low
+type: tabnabbing

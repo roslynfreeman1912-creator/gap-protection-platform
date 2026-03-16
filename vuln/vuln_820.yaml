@@ -1,0 +1,9 @@
+name: Customizable non-volatile moderator
+payloads:
+- file-upload_payload_1_happen
+- file-upload_payload_2_figure
+- file-upload_payload_3_truth
+- file-upload_payload_4_organization
+- file-upload_payload_5_score
+severity: medium
+type: file-upload

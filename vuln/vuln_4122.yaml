@@ -1,0 +1,9 @@
+name: Fundamental modular software
+payloads:
+- tabnabbing_payload_1_building
+- tabnabbing_payload_2_national
+- tabnabbing_payload_3_without
+- tabnabbing_payload_4_might
+- tabnabbing_payload_5_toward
+severity: high
+type: tabnabbing

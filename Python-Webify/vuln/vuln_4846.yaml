@@ -1,0 +1,9 @@
+name: Extended transitional support
+payloads:
+- mime-sniffing_payload_1_suggest
+- mime-sniffing_payload_2_machine
+- mime-sniffing_payload_3_road
+- mime-sniffing_payload_4_catch
+- mime-sniffing_payload_5_night
+severity: high
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Polarized regional algorithm
+payloads:
+- frame-injection_payload_1_outside
+- frame-injection_payload_2_medical
+- frame-injection_payload_3_trip
+- frame-injection_payload_4_hour
+- frame-injection_payload_5_statement
+severity: critical
+type: frame-injection

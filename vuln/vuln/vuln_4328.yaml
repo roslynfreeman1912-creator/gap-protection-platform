@@ -1,0 +1,9 @@
+name: Front-line background paradigm
+payloads:
+- lfi_payload_1_lay
+- lfi_payload_2_threat
+- lfi_payload_3_green
+- lfi_payload_4_each
+- lfi_payload_5_behavior
+severity: low
+type: lfi

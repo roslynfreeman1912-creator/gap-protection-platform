@@ -1,0 +1,9 @@
+name: Switchable maximized adapter
+payloads:
+- host-header-injection_payload_1_agreement
+- host-header-injection_payload_2_get
+- host-header-injection_payload_3_little
+- host-header-injection_payload_4_down
+- host-header-injection_payload_5_impact
+severity: high
+type: host-header-injection

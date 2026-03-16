@@ -1,0 +1,9 @@
+name: Ergonomic methodical protocol
+payloads:
+- clickjacking_payload_1_fill
+- clickjacking_payload_2_hospital
+- clickjacking_payload_3_hear
+- clickjacking_payload_4_who
+- clickjacking_payload_5_give
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Optimized mobile leverage
+payloads:
+- open-redirect_payload_1_hope
+- open-redirect_payload_2_event
+- open-redirect_payload_3_bar
+- open-redirect_payload_4_surface
+- open-redirect_payload_5_reach
+severity: critical
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Front-line national analyzer
+payloads:
+- file-upload_payload_1_man
+- file-upload_payload_2_glass
+- file-upload_payload_3_pull
+- file-upload_payload_4_quickly
+- file-upload_payload_5_former
+severity: high
+type: file-upload

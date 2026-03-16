@@ -1,0 +1,9 @@
+name: Team-oriented multi-state process improvement
+payloads:
+- ssti_payload_1_structure
+- ssti_payload_2_lay
+- ssti_payload_3_scientist
+- ssti_payload_4_police
+- ssti_payload_5_education
+severity: high
+type: ssti

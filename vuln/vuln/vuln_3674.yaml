@@ -1,0 +1,9 @@
+name: Stand-alone solution-oriented ability
+payloads:
+- csp-bypass_payload_1_its
+- csp-bypass_payload_2_key
+- csp-bypass_payload_3_collection
+- csp-bypass_payload_4_suffer
+- csp-bypass_payload_5_newspaper
+severity: low
+type: csp-bypass

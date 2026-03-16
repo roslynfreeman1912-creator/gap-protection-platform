@@ -1,0 +1,9 @@
+name: Distributed systemic forecast
+payloads:
+- hsts-misconfig_payload_1_different
+- hsts-misconfig_payload_2_training
+- hsts-misconfig_payload_3_money
+- hsts-misconfig_payload_4_bank
+- hsts-misconfig_payload_5_east
+severity: medium
+type: hsts-misconfig

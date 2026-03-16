@@ -1,0 +1,9 @@
+name: Balanced multimedia time-frame
+payloads:
+- hsts-misconfig_payload_1_election
+- hsts-misconfig_payload_2_since
+- hsts-misconfig_payload_3_city
+- hsts-misconfig_payload_4_newspaper
+- hsts-misconfig_payload_5_partner
+severity: critical
+type: hsts-misconfig

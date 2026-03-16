@@ -1,0 +1,9 @@
+name: Optional homogeneous installation
+payloads:
+- host-header-injection_payload_1_yourself
+- host-header-injection_payload_2_sign
+- host-header-injection_payload_3_chair
+- host-header-injection_payload_4_against
+- host-header-injection_payload_5_concern
+severity: high
+type: host-header-injection

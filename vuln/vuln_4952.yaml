@@ -1,0 +1,9 @@
+name: Triple-buffered systematic architecture
+payloads:
+- xss_payload_1_win
+- xss_payload_2_contain
+- xss_payload_3_you
+- xss_payload_4_artist
+- xss_payload_5_present
+severity: low
+type: xss

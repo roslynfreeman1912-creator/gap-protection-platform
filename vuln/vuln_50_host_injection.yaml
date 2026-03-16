@@ -1,0 +1,6 @@
+name: Host Header Injection Variant 40
+payloads:
+- 'Host: evil.com'
+- 'X-Forwarded-Host: attacker.com'
+severity: medium
+type: host_injection

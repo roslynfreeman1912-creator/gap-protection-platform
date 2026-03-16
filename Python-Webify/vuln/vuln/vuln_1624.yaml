@@ -1,0 +1,9 @@
+name: Multi-tiered asynchronous core
+payloads:
+- csp-bypass_payload_1_cell
+- csp-bypass_payload_2_later
+- csp-bypass_payload_3_manager
+- csp-bypass_payload_4_old
+- csp-bypass_payload_5_force
+severity: medium
+type: csp-bypass

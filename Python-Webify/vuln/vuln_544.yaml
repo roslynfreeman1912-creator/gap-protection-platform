@@ -1,0 +1,9 @@
+name: Enhanced 6thgeneration installation
+payloads:
+- javascript-injection_payload_1_approach
+- javascript-injection_payload_2_painting
+- javascript-injection_payload_3_we
+- javascript-injection_payload_4_win
+- javascript-injection_payload_5_order
+severity: medium
+type: javascript-injection

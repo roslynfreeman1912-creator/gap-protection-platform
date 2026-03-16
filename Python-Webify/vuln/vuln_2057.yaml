@@ -1,0 +1,9 @@
+name: Networked dedicated concept
+payloads:
+- ssti_payload_1_be
+- ssti_payload_2_soon
+- ssti_payload_3_recent
+- ssti_payload_4_heavy
+- ssti_payload_5_notice
+severity: critical
+type: ssti

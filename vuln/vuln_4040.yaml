@@ -1,0 +1,9 @@
+name: Stand-alone coherent software
+payloads:
+- jsonp-injection_payload_1_window
+- jsonp-injection_payload_2_conference
+- jsonp-injection_payload_3_toward
+- jsonp-injection_payload_4_tonight
+- jsonp-injection_payload_5_visit
+severity: critical
+type: jsonp-injection

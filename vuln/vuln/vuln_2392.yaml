@@ -1,0 +1,9 @@
+name: Streamlined mission-critical solution
+payloads:
+- host-header-injection_payload_1_much
+- host-header-injection_payload_2_possible
+- host-header-injection_payload_3_notice
+- host-header-injection_payload_4_sound
+- host-header-injection_payload_5_their
+severity: medium
+type: host-header-injection

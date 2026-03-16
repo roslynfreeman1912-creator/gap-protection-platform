@@ -1,0 +1,9 @@
+name: Sharable motivating Graphical User Interface
+payloads:
+- lfi_payload_1_media
+- lfi_payload_2_impact
+- lfi_payload_3_story
+- lfi_payload_4_you
+- lfi_payload_5_pass
+severity: medium
+type: lfi

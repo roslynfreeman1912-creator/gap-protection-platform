@@ -1,0 +1,9 @@
+name: Self-enabling logistical migration
+payloads:
+- command-injection_payload_1_mother
+- command-injection_payload_2_baby
+- command-injection_payload_3_toward
+- command-injection_payload_4_night
+- command-injection_payload_5_eat
+severity: high
+type: command-injection

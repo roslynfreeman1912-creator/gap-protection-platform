@@ -1,0 +1,9 @@
+name: Balanced real-time challenge
+payloads:
+- subdomain-takeover_payload_1_commercial
+- subdomain-takeover_payload_2_newspaper
+- subdomain-takeover_payload_3_reduce
+- subdomain-takeover_payload_4_stand
+- subdomain-takeover_payload_5_wonder
+severity: low
+type: subdomain-takeover

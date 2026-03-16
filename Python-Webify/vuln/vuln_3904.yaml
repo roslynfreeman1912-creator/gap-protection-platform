@@ -1,0 +1,9 @@
+name: Function-based systemic standardization
+payloads:
+- rfi_payload_1_mouth
+- rfi_payload_2_choice
+- rfi_payload_3_you
+- rfi_payload_4_office
+- rfi_payload_5_adult
+severity: critical
+type: rfi

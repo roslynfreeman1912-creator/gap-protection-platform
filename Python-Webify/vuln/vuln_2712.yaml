@@ -1,0 +1,9 @@
+name: Multi-layered attitude-oriented array
+payloads:
+- ldap-injection_payload_1_work
+- ldap-injection_payload_2_finally
+- ldap-injection_payload_3_finish
+- ldap-injection_payload_4_fast
+- ldap-injection_payload_5_unit
+severity: critical
+type: ldap-injection

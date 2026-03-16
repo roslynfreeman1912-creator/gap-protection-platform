@@ -1,0 +1,9 @@
+name: Upgradable next generation moratorium
+payloads:
+- open-redirect_payload_1_game
+- open-redirect_payload_2_happen
+- open-redirect_payload_3_approach
+- open-redirect_payload_4_environment
+- open-redirect_payload_5_author
+severity: high
+type: open-redirect

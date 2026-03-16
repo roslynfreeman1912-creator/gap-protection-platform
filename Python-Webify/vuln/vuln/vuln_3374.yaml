@@ -1,0 +1,9 @@
+name: Progressive composite challenge
+payloads:
+- csp-bypass_payload_1_science
+- csp-bypass_payload_2_pick
+- csp-bypass_payload_3_whether
+- csp-bypass_payload_4_old
+- csp-bypass_payload_5_force
+severity: low
+type: csp-bypass

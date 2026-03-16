@@ -1,0 +1,9 @@
+name: Grass-roots client-driven success
+payloads:
+- path-traversal_payload_1_agreement
+- path-traversal_payload_2_four
+- path-traversal_payload_3_teacher
+- path-traversal_payload_4_affect
+- path-traversal_payload_5_benefit
+severity: medium
+type: path-traversal

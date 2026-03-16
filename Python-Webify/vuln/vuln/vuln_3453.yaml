@@ -1,0 +1,9 @@
+name: Cloned full-range website
+payloads:
+- lfi_payload_1_pressure
+- lfi_payload_2_case
+- lfi_payload_3_stage
+- lfi_payload_4_central
+- lfi_payload_5_among
+severity: high
+type: lfi

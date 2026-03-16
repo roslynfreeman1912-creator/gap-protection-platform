@@ -1,0 +1,9 @@
+name: Networked 5thgeneration Internet solution
+payloads:
+- clickjacking_payload_1_modern
+- clickjacking_payload_2_half
+- clickjacking_payload_3_enter
+- clickjacking_payload_4_activity
+- clickjacking_payload_5_develop
+severity: critical
+type: clickjacking

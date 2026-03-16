@@ -1,0 +1,9 @@
+name: Cross-platform dedicated access
+payloads:
+- jsonp-injection_payload_1_its
+- jsonp-injection_payload_2_tree
+- jsonp-injection_payload_3_traditional
+- jsonp-injection_payload_4_run
+- jsonp-injection_payload_5_thank
+severity: low
+type: jsonp-injection

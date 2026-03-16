@@ -1,0 +1,9 @@
+name: Re-contextualized didactic info-mediaries
+payloads:
+- sql_payload_1_thought
+- sql_payload_2_during
+- sql_payload_3_quite
+- sql_payload_4_think
+- sql_payload_5_believe
+severity: critical
+type: sql

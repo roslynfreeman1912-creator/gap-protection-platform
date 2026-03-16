@@ -1,0 +1,9 @@
+name: Multi-channeled zero-defect success
+payloads:
+- sql_payload_1_perhaps
+- sql_payload_2_task
+- sql_payload_3_then
+- sql_payload_4_food
+- sql_payload_5_today
+severity: high
+type: sql

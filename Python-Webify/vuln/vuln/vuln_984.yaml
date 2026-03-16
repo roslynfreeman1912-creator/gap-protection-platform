@@ -1,0 +1,9 @@
+name: Business-focused asymmetric framework
+payloads:
+- path-traversal_payload_1_child
+- path-traversal_payload_2_tell
+- path-traversal_payload_3_prove
+- path-traversal_payload_4_administration
+- path-traversal_payload_5_next
+severity: medium
+type: path-traversal

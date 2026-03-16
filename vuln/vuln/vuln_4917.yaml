@@ -1,0 +1,9 @@
+name: Versatile even-keeled time-frame
+payloads:
+- host-header-injection_payload_1_cut
+- host-header-injection_payload_2_base
+- host-header-injection_payload_3_feeling
+- host-header-injection_payload_4_senior
+- host-header-injection_payload_5_election
+severity: medium
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Team-oriented reciprocal software
+payloads:
+- javascript-injection_payload_1_sea
+- javascript-injection_payload_2_morning
+- javascript-injection_payload_3_attorney
+- javascript-injection_payload_4_usually
+- javascript-injection_payload_5_risk
+severity: medium
+type: javascript-injection

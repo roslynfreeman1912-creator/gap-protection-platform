@@ -1,0 +1,9 @@
+name: Function-based solution-oriented application
+payloads:
+- xxe_payload_1_would
+- xxe_payload_2_including
+- xxe_payload_3_car
+- xxe_payload_4_election
+- xxe_payload_5_style
+severity: high
+type: xxe

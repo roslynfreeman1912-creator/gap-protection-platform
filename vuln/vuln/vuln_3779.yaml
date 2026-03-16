@@ -1,0 +1,9 @@
+name: Vision-oriented encompassing database
+payloads:
+- rfi_payload_1_activity
+- rfi_payload_2_spend
+- rfi_payload_3_system
+- rfi_payload_4_south
+- rfi_payload_5_history
+severity: high
+type: rfi

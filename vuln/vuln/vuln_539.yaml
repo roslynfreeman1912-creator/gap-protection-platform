@@ -1,0 +1,9 @@
+name: Innovative interactive secured line
+payloads:
+- clickjacking_payload_1_authority
+- clickjacking_payload_2_memory
+- clickjacking_payload_3_deal
+- clickjacking_payload_4_authority
+- clickjacking_payload_5_interest
+severity: medium
+type: clickjacking

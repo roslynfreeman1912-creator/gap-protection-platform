@@ -1,0 +1,9 @@
+name: Streamlined actuating attitude
+payloads:
+- path-traversal_payload_1_theory
+- path-traversal_payload_2_around
+- path-traversal_payload_3_child
+- path-traversal_payload_4_thousand
+- path-traversal_payload_5_lay
+severity: high
+type: path-traversal

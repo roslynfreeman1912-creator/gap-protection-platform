@@ -1,0 +1,9 @@
+name: Operative 24hour initiative
+payloads:
+- ssti_payload_1_that
+- ssti_payload_2_explain
+- ssti_payload_3_marriage
+- ssti_payload_4_news
+- ssti_payload_5_cell
+severity: critical
+type: ssti

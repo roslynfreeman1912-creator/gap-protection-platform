@@ -1,0 +1,9 @@
+name: Multi-channeled empowering Local Area Network
+payloads:
+- mime-sniffing_payload_1_blood
+- mime-sniffing_payload_2_center
+- mime-sniffing_payload_3_read
+- mime-sniffing_payload_4_by
+- mime-sniffing_payload_5_camera
+severity: low
+type: mime-sniffing

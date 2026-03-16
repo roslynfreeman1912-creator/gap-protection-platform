@@ -1,0 +1,9 @@
+name: Operative tertiary project
+payloads:
+- path-traversal_payload_1_population
+- path-traversal_payload_2_fill
+- path-traversal_payload_3_point
+- path-traversal_payload_4_give
+- path-traversal_payload_5_coach
+severity: high
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Synchronized heuristic monitoring
+payloads:
+- frame-injection_payload_1_stand
+- frame-injection_payload_2_half
+- frame-injection_payload_3_always
+- frame-injection_payload_4_special
+- frame-injection_payload_5_these
+severity: high
+type: frame-injection

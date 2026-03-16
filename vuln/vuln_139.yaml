@@ -1,0 +1,9 @@
+name: Integrated motivating matrices
+payloads:
+- clickjacking_payload_1_thus
+- clickjacking_payload_2_them
+- clickjacking_payload_3_among
+- clickjacking_payload_4_morning
+- clickjacking_payload_5_reflect
+severity: low
+type: clickjacking

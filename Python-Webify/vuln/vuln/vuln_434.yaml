@@ -1,0 +1,9 @@
+name: Programmable neutral encryption
+payloads:
+- path-traversal_payload_1_type
+- path-traversal_payload_2_career
+- path-traversal_payload_3_less
+- path-traversal_payload_4_current
+- path-traversal_payload_5_certain
+severity: critical
+type: path-traversal

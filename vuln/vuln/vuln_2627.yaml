@@ -1,0 +1,9 @@
+name: Fundamental content-based contingency
+payloads:
+- xss_payload_1_entire
+- xss_payload_2_science
+- xss_payload_3_your
+- xss_payload_4_agency
+- xss_payload_5_successful
+severity: critical
+type: xss

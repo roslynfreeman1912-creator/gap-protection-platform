@@ -1,0 +1,9 @@
+name: Organized client-server architecture
+payloads:
+- hsts-misconfig_payload_1_event
+- hsts-misconfig_payload_2_military
+- hsts-misconfig_payload_3_foreign
+- hsts-misconfig_payload_4_whom
+- hsts-misconfig_payload_5_possible
+severity: low
+type: hsts-misconfig

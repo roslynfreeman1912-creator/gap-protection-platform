@@ -1,0 +1,9 @@
+name: Cross-group content-based projection
+payloads:
+- ssrf_payload_1_skin
+- ssrf_payload_2_quality
+- ssrf_payload_3_also
+- ssrf_payload_4_only
+- ssrf_payload_5_environmental
+severity: critical
+type: ssrf

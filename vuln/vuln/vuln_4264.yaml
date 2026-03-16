@@ -1,0 +1,9 @@
+name: Decentralized radical superstructure
+payloads:
+- clickjacking_payload_1_than
+- clickjacking_payload_2_her
+- clickjacking_payload_3_hear
+- clickjacking_payload_4_rather
+- clickjacking_payload_5_later
+severity: medium
+type: clickjacking

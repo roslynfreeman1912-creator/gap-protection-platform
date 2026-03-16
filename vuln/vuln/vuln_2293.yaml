@@ -1,0 +1,9 @@
+name: Stand-alone value-added benchmark
+payloads:
+- subdomain-takeover_payload_1_sometimes
+- subdomain-takeover_payload_2_year
+- subdomain-takeover_payload_3_western
+- subdomain-takeover_payload_4_must
+- subdomain-takeover_payload_5_effect
+severity: low
+type: subdomain-takeover

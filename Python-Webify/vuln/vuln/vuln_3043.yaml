@@ -1,0 +1,9 @@
+name: Reverse-engineered coherent firmware
+payloads:
+- subdomain-takeover_payload_1_to
+- subdomain-takeover_payload_2_boy
+- subdomain-takeover_payload_3_tend
+- subdomain-takeover_payload_4_allow
+- subdomain-takeover_payload_5_property
+severity: high
+type: subdomain-takeover

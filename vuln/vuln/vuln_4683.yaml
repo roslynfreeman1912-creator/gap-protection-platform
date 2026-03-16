@@ -1,0 +1,9 @@
+name: Quality-focused real-time encoding
+payloads:
+- command-injection_payload_1_news
+- command-injection_payload_2_business
+- command-injection_payload_3_action
+- command-injection_payload_4_window
+- command-injection_payload_5_activity
+severity: critical
+type: command-injection

@@ -1,0 +1,9 @@
+name: Universal incremental neural-net
+payloads:
+- command-injection_payload_1_game
+- command-injection_payload_2_cut
+- command-injection_payload_3_admit
+- command-injection_payload_4_day
+- command-injection_payload_5_set
+severity: medium
+type: command-injection

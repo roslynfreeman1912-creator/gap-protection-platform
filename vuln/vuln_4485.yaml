@@ -1,0 +1,9 @@
+name: Reactive cohesive ability
+payloads:
+- open-redirect_payload_1_discuss
+- open-redirect_payload_2_camera
+- open-redirect_payload_3_happen
+- open-redirect_payload_4_public
+- open-redirect_payload_5_to
+severity: medium
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Self-enabling static firmware
+payloads:
+- mime-sniffing_payload_1_education
+- mime-sniffing_payload_2_throughout
+- mime-sniffing_payload_3_study
+- mime-sniffing_payload_4_school
+- mime-sniffing_payload_5_sometimes
+severity: high
+type: mime-sniffing

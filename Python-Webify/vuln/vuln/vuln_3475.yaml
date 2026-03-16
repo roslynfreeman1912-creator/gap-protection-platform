@@ -1,0 +1,9 @@
+name: Grass-roots neutral benchmark
+payloads:
+- frame-injection_payload_1_why
+- frame-injection_payload_2_student
+- frame-injection_payload_3_job
+- frame-injection_payload_4_walk
+- frame-injection_payload_5_feeling
+severity: critical
+type: frame-injection

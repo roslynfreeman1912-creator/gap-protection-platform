@@ -1,0 +1,9 @@
+name: Down-sized 3rdgeneration success
+payloads:
+- tabnabbing_payload_1_well
+- tabnabbing_payload_2_involve
+- tabnabbing_payload_3_poor
+- tabnabbing_payload_4_assume
+- tabnabbing_payload_5_always
+severity: medium
+type: tabnabbing

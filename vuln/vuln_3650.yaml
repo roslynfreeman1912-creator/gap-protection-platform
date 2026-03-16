@@ -1,0 +1,9 @@
+name: User-centric dedicated extranet
+payloads:
+- frame-injection_payload_1_benefit
+- frame-injection_payload_2_less
+- frame-injection_payload_3_world
+- frame-injection_payload_4_with
+- frame-injection_payload_5_prevent
+severity: high
+type: frame-injection

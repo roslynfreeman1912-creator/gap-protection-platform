@@ -1,0 +1,9 @@
+name: Customer-focused human-resource access
+payloads:
+- mime-sniffing_payload_1_guess
+- mime-sniffing_payload_2_probably
+- mime-sniffing_payload_3_music
+- mime-sniffing_payload_4_organization
+- mime-sniffing_payload_5_none
+severity: high
+type: mime-sniffing

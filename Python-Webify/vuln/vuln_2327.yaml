@@ -1,0 +1,9 @@
+name: Centralized user-facing algorithm
+payloads:
+- xss_payload_1_training
+- xss_payload_2_provide
+- xss_payload_3_likely
+- xss_payload_4_something
+- xss_payload_5_evidence
+severity: medium
+type: xss

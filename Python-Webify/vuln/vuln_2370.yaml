@@ -1,0 +1,9 @@
+name: Profit-focused modular archive
+payloads:
+- file-upload_payload_1_prove
+- file-upload_payload_2_rest
+- file-upload_payload_3_charge
+- file-upload_payload_4_produce
+- file-upload_payload_5_thought
+severity: low
+type: file-upload

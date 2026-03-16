@@ -1,0 +1,9 @@
+name: Digitized bandwidth-monitored circuit
+payloads:
+- crlf-injection_payload_1_record
+- crlf-injection_payload_2_movie
+- crlf-injection_payload_3_fly
+- crlf-injection_payload_4_by
+- crlf-injection_payload_5_four
+severity: critical
+type: crlf-injection

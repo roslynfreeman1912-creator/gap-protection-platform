@@ -1,0 +1,9 @@
+name: Customer-focused value-added service-desk
+payloads:
+- subdomain-takeover_payload_1_trade
+- subdomain-takeover_payload_2_majority
+- subdomain-takeover_payload_3_Mr
+- subdomain-takeover_payload_4_whom
+- subdomain-takeover_payload_5_result
+severity: high
+type: subdomain-takeover

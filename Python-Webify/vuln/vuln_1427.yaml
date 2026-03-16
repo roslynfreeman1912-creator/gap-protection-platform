@@ -1,0 +1,9 @@
+name: Secured didactic product
+payloads:
+- xss_payload_1_young
+- xss_payload_2_machine
+- xss_payload_3_heart
+- xss_payload_4_arm
+- xss_payload_5_call
+severity: high
+type: xss

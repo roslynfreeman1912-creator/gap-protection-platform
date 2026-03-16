@@ -1,0 +1,9 @@
+name: Assimilated coherent protocol
+payloads:
+- ldap-injection_payload_1_hope
+- ldap-injection_payload_2_issue
+- ldap-injection_payload_3_meeting
+- ldap-injection_payload_4_it
+- ldap-injection_payload_5_trial
+severity: low
+type: ldap-injection

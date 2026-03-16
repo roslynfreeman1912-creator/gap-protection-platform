@@ -1,0 +1,9 @@
+name: Devolved intangible Graphic Interface
+payloads:
+- ssti_payload_1_age
+- ssti_payload_2_number
+- ssti_payload_3_once
+- ssti_payload_4_respond
+- ssti_payload_5_officer
+severity: high
+type: ssti

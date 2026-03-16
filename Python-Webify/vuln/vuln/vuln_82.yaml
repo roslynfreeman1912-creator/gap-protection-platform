@@ -1,0 +1,9 @@
+name: Virtual bottom-line website
+payloads:
+- ssti_payload_1_painting
+- ssti_payload_2_memory
+- ssti_payload_3_citizen
+- ssti_payload_4_option
+- ssti_payload_5_newspaper
+severity: critical
+type: ssti

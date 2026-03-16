@@ -1,0 +1,9 @@
+name: Reverse-engineered hybrid interface
+payloads:
+- open-redirect_payload_1_walk
+- open-redirect_payload_2_direction
+- open-redirect_payload_3_wall
+- open-redirect_payload_4_who
+- open-redirect_payload_5_finally
+severity: critical
+type: open-redirect

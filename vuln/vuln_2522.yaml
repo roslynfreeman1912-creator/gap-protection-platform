@@ -1,0 +1,9 @@
+name: Robust clear-thinking database
+payloads:
+- tabnabbing_payload_1_free
+- tabnabbing_payload_2_bag
+- tabnabbing_payload_3_shoulder
+- tabnabbing_payload_4_like
+- tabnabbing_payload_5_left
+severity: critical
+type: tabnabbing

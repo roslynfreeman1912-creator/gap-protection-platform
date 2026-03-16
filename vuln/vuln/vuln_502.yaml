@@ -1,0 +1,9 @@
+name: Universal solution-oriented application
+payloads:
+- xss_payload_1_listen
+- xss_payload_2_management
+- xss_payload_3_pay
+- xss_payload_4_against
+- xss_payload_5_song
+severity: low
+type: xss

@@ -1,0 +1,9 @@
+name: Centralized disintermediate task-force
+payloads:
+- hsts-misconfig_payload_1_alone
+- hsts-misconfig_payload_2_each
+- hsts-misconfig_payload_3_tree
+- hsts-misconfig_payload_4_hundred
+- hsts-misconfig_payload_5_this
+severity: medium
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Universal empowering methodology
+payloads:
+- mime-sniffing_payload_1_memory
+- mime-sniffing_payload_2_position
+- mime-sniffing_payload_3_water
+- mime-sniffing_payload_4_front
+- mime-sniffing_payload_5_raise
+severity: critical
+type: mime-sniffing

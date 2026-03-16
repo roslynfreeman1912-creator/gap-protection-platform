@@ -1,0 +1,9 @@
+name: Profound analyzing challenge
+payloads:
+- command-injection_payload_1_college
+- command-injection_payload_2_throw
+- command-injection_payload_3_just
+- command-injection_payload_4_either
+- command-injection_payload_5_nor
+severity: high
+type: command-injection

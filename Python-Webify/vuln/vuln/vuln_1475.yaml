@@ -1,0 +1,9 @@
+name: Compatible 24/7 installation
+payloads:
+- frame-injection_payload_1_ready
+- frame-injection_payload_2_do
+- frame-injection_payload_3_analysis
+- frame-injection_payload_4_almost
+- frame-injection_payload_5_certainly
+severity: low
+type: frame-injection

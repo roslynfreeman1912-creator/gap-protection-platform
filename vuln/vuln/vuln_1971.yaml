@@ -1,0 +1,9 @@
+name: Streamlined neutral pricing structure
+payloads:
+- mime-sniffing_payload_1_resource
+- mime-sniffing_payload_2_different
+- mime-sniffing_payload_3_fill
+- mime-sniffing_payload_4_worry
+- mime-sniffing_payload_5_method
+severity: medium
+type: mime-sniffing

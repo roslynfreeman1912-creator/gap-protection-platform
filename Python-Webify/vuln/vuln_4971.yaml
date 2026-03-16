@@ -1,0 +1,9 @@
+name: Programmable bi-directional time-frame
+payloads:
+- mime-sniffing_payload_1_best
+- mime-sniffing_payload_2_compare
+- mime-sniffing_payload_3_population
+- mime-sniffing_payload_4_put
+- mime-sniffing_payload_5_environmental
+severity: critical
+type: mime-sniffing

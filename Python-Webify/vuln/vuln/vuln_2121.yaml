@@ -1,0 +1,9 @@
+name: Progressive holistic definition
+payloads:
+- mime-sniffing_payload_1_speech
+- mime-sniffing_payload_2_month
+- mime-sniffing_payload_3_food
+- mime-sniffing_payload_4_news
+- mime-sniffing_payload_5_simple
+severity: medium
+type: mime-sniffing

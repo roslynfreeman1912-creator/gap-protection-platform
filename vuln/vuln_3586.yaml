@@ -1,0 +1,9 @@
+name: Implemented 6thgeneration encoding
+payloads:
+- xxe_payload_1_put
+- xxe_payload_2_role
+- xxe_payload_3_why
+- xxe_payload_4_pull
+- xxe_payload_5_me
+severity: low
+type: xxe

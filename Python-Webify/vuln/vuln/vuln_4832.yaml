@@ -1,0 +1,9 @@
+name: Optional next generation function
+payloads:
+- ssti_payload_1_they
+- ssti_payload_2_table
+- ssti_payload_3_floor
+- ssti_payload_4_team
+- ssti_payload_5_movie
+severity: medium
+type: ssti

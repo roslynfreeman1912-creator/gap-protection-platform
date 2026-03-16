@@ -1,0 +1,9 @@
+name: Multi-channeled multi-tasking access
+payloads:
+- mime-sniffing_payload_1_rule
+- mime-sniffing_payload_2_group
+- mime-sniffing_payload_3_source
+- mime-sniffing_payload_4_fact
+- mime-sniffing_payload_5_different
+severity: low
+type: mime-sniffing

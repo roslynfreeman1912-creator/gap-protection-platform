@@ -1,0 +1,9 @@
+name: Reduced mission-critical installation
+payloads:
+- hsts-misconfig_payload_1_should
+- hsts-misconfig_payload_2_model
+- hsts-misconfig_payload_3_push
+- hsts-misconfig_payload_4_leave
+- hsts-misconfig_payload_5_small
+severity: low
+type: hsts-misconfig

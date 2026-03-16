@@ -1,0 +1,9 @@
+name: Enhanced systematic strategy
+payloads:
+- xxe_payload_1_early
+- xxe_payload_2_author
+- xxe_payload_3_forget
+- xxe_payload_4_near
+- xxe_payload_5_five
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Total local database
+payloads:
+- sql_payload_1_away
+- sql_payload_2_popular
+- sql_payload_3_career
+- sql_payload_4_pull
+- sql_payload_5_rich
+severity: critical
+type: sql

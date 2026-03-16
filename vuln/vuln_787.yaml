@@ -1,0 +1,9 @@
+name: Enterprise-wide optimal open architecture
+payloads:
+- ldap-injection_payload_1_its
+- ldap-injection_payload_2_collection
+- ldap-injection_payload_3_analysis
+- ldap-injection_payload_4_vote
+- ldap-injection_payload_5_game
+severity: high
+type: ldap-injection

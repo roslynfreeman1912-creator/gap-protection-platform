@@ -1,0 +1,9 @@
+name: User-centric static core
+payloads:
+- command-injection_payload_1_hundred
+- command-injection_payload_2_wrong
+- command-injection_payload_3_health
+- command-injection_payload_4_police
+- command-injection_payload_5_parent
+severity: medium
+type: command-injection

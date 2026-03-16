@@ -1,0 +1,9 @@
+name: Up-sized methodical data-warehouse
+payloads:
+- subdomain-takeover_payload_1_court
+- subdomain-takeover_payload_2_every
+- subdomain-takeover_payload_3_lot
+- subdomain-takeover_payload_4_area
+- subdomain-takeover_payload_5_event
+severity: medium
+type: subdomain-takeover

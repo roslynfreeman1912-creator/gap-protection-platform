@@ -1,0 +1,9 @@
+name: Synchronized cohesive system engine
+payloads:
+- jsonp-injection_payload_1_show
+- jsonp-injection_payload_2_as
+- jsonp-injection_payload_3_moment
+- jsonp-injection_payload_4_top
+- jsonp-injection_payload_5_one
+severity: low
+type: jsonp-injection

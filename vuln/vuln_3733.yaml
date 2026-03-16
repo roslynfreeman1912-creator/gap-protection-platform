@@ -1,0 +1,9 @@
+name: Digitized zero administration moderator
+payloads:
+- command-injection_payload_1_any
+- command-injection_payload_2_seek
+- command-injection_payload_3_fly
+- command-injection_payload_4_soldier
+- command-injection_payload_5_because
+severity: medium
+type: command-injection

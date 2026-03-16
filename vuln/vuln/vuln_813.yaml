@@ -1,0 +1,9 @@
+name: Vision-oriented secondary contingency
+payloads:
+- nosql-injection_payload_1_college
+- nosql-injection_payload_2_simple
+- nosql-injection_payload_3_technology
+- nosql-injection_payload_4_particularly
+- nosql-injection_payload_5_eat
+severity: high
+type: nosql-injection

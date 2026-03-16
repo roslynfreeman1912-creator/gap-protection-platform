@@ -1,0 +1,9 @@
+name: Robust multi-state alliance
+payloads:
+- xxe_payload_1_teacher
+- xxe_payload_2_rock
+- xxe_payload_3_yet
+- xxe_payload_4_beyond
+- xxe_payload_5_identify
+severity: high
+type: xxe

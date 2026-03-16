@@ -1,0 +1,9 @@
+name: Reduced composite time-frame
+payloads:
+- frame-injection_payload_1_knowledge
+- frame-injection_payload_2_start
+- frame-injection_payload_3_already
+- frame-injection_payload_4_despite
+- frame-injection_payload_5_leader
+severity: medium
+type: frame-injection

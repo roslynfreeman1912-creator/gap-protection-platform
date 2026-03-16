@@ -1,0 +1,9 @@
+name: Automated context-sensitive help-desk
+payloads:
+- mime-sniffing_payload_1_try
+- mime-sniffing_payload_2_natural
+- mime-sniffing_payload_3_deal
+- mime-sniffing_payload_4_station
+- mime-sniffing_payload_5_start
+severity: low
+type: mime-sniffing

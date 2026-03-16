@@ -1,0 +1,9 @@
+name: Multi-channeled 24/7 hardware
+payloads:
+- frame-injection_payload_1_every
+- frame-injection_payload_2_expert
+- frame-injection_payload_3_so
+- frame-injection_payload_4_technology
+- frame-injection_payload_5_appear
+severity: high
+type: frame-injection

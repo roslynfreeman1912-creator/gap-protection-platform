@@ -1,0 +1,9 @@
+name: Profound needs-based access
+payloads:
+- sql_payload_1_say
+- sql_payload_2_clear
+- sql_payload_3_score
+- sql_payload_4_land
+- sql_payload_5_fast
+severity: critical
+type: sql

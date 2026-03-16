@@ -1,0 +1,9 @@
+name: Right-sized needs-based encoding
+payloads:
+- command-injection_payload_1_state
+- command-injection_payload_2_myself
+- command-injection_payload_3_across
+- command-injection_payload_4_with
+- command-injection_payload_5_every
+severity: medium
+type: command-injection

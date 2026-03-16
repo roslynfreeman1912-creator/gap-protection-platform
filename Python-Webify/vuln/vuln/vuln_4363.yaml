@@ -1,0 +1,9 @@
+name: Persistent dynamic contingency
+payloads:
+- nosql-injection_payload_1_factor
+- nosql-injection_payload_2_item
+- nosql-injection_payload_3_beyond
+- nosql-injection_payload_4_and
+- nosql-injection_payload_5_process
+severity: high
+type: nosql-injection

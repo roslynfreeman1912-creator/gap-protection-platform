@@ -1,0 +1,9 @@
+name: Organized 4thgeneration firmware
+payloads:
+- path-traversal_payload_1_enjoy
+- path-traversal_payload_2_travel
+- path-traversal_payload_3_act
+- path-traversal_payload_4_argue
+- path-traversal_payload_5_environment
+severity: medium
+type: path-traversal

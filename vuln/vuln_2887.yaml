@@ -1,0 +1,9 @@
+name: Innovative attitude-oriented challenge
+payloads:
+- ldap-injection_payload_1_place
+- ldap-injection_payload_2_act
+- ldap-injection_payload_3_truth
+- ldap-injection_payload_4_hold
+- ldap-injection_payload_5_opportunity
+severity: critical
+type: ldap-injection

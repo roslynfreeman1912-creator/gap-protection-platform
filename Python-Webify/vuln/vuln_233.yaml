@@ -1,0 +1,9 @@
+name: Digitized 3rdgeneration database
+payloads:
+- command-injection_payload_1_new
+- command-injection_payload_2_federal
+- command-injection_payload_3_guy
+- command-injection_payload_4_morning
+- command-injection_payload_5_general
+severity: critical
+type: command-injection

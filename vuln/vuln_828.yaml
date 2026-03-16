@@ -1,0 +1,9 @@
+name: Inverse bi-directional policy
+payloads:
+- lfi_payload_1_he
+- lfi_payload_2_growth
+- lfi_payload_3_maintain
+- lfi_payload_4_else
+- lfi_payload_5_director
+severity: critical
+type: lfi

@@ -1,0 +1,9 @@
+name: Profit-focused well-modulated array
+payloads:
+- command-injection_payload_1_behind
+- command-injection_payload_2_product
+- command-injection_payload_3_program
+- command-injection_payload_4_need
+- command-injection_payload_5_go
+severity: medium
+type: command-injection

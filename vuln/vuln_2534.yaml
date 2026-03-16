@@ -1,0 +1,9 @@
+name: Phased exuding toolset
+payloads:
+- path-traversal_payload_1_those
+- path-traversal_payload_2_agree
+- path-traversal_payload_3_in
+- path-traversal_payload_4_each
+- path-traversal_payload_5_important
+severity: high
+type: path-traversal

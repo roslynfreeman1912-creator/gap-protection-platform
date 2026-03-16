@@ -1,0 +1,9 @@
+name: Inverse empowering instruction set
+payloads:
+- lfi_payload_1_late
+- lfi_payload_2_discover
+- lfi_payload_3_age
+- lfi_payload_4_green
+- lfi_payload_5_site
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Synergistic next generation process improvement
+payloads:
+- clickjacking_payload_1_certain
+- clickjacking_payload_2_turn
+- clickjacking_payload_3_friend
+- clickjacking_payload_4_person
+- clickjacking_payload_5_push
+severity: critical
+type: clickjacking

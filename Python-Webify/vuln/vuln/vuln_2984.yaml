@@ -1,0 +1,9 @@
+name: Profound motivating groupware
+payloads:
+- path-traversal_payload_1_management
+- path-traversal_payload_2_series
+- path-traversal_payload_3_coach
+- path-traversal_payload_4_threat
+- path-traversal_payload_5_main
+severity: critical
+type: path-traversal

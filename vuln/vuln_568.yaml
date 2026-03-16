@@ -1,0 +1,9 @@
+name: Managed uniform pricing structure
+payloads:
+- subdomain-takeover_payload_1_though
+- subdomain-takeover_payload_2_person
+- subdomain-takeover_payload_3_behind
+- subdomain-takeover_payload_4_guy
+- subdomain-takeover_payload_5_without
+severity: high
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Switchable national time-frame
+payloads:
+- jsonp-injection_payload_1_family
+- jsonp-injection_payload_2_it
+- jsonp-injection_payload_3_possible
+- jsonp-injection_payload_4_see
+- jsonp-injection_payload_5_interest
+severity: high
+type: jsonp-injection

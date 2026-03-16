@@ -1,0 +1,9 @@
+name: User-friendly bifurcated adapter
+payloads:
+- tabnabbing_payload_1_late
+- tabnabbing_payload_2_region
+- tabnabbing_payload_3_sure
+- tabnabbing_payload_4_street
+- tabnabbing_payload_5_remain
+severity: high
+type: tabnabbing

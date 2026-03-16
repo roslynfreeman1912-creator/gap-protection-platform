@@ -1,0 +1,9 @@
+name: Upgradable radical archive
+payloads:
+- frame-injection_payload_1_down
+- frame-injection_payload_2_message
+- frame-injection_payload_3_campaign
+- frame-injection_payload_4_former
+- frame-injection_payload_5_ever
+severity: high
+type: frame-injection

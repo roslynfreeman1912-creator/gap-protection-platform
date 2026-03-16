@@ -1,0 +1,9 @@
+name: Business-focused scalable adapter
+payloads:
+- open-redirect_payload_1_while
+- open-redirect_payload_2_poor
+- open-redirect_payload_3_scene
+- open-redirect_payload_4_production
+- open-redirect_payload_5_available
+severity: high
+type: open-redirect

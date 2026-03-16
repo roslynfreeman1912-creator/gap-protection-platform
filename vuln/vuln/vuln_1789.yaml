@@ -1,0 +1,9 @@
+name: Intuitive even-keeled toolset
+payloads:
+- clickjacking_payload_1_next
+- clickjacking_payload_2_indeed
+- clickjacking_payload_3_offer
+- clickjacking_payload_4_budget
+- clickjacking_payload_5_player
+severity: low
+type: clickjacking

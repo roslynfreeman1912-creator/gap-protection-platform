@@ -1,0 +1,9 @@
+name: Vision-oriented local help-desk
+payloads:
+- tabnabbing_payload_1_official
+- tabnabbing_payload_2_detail
+- tabnabbing_payload_3_we
+- tabnabbing_payload_4_hear
+- tabnabbing_payload_5_plan
+severity: critical
+type: tabnabbing

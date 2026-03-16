@@ -1,0 +1,9 @@
+name: Robust hybrid matrices
+payloads:
+- xxe_payload_1_million
+- xxe_payload_2_these
+- xxe_payload_3_really
+- xxe_payload_4_car
+- xxe_payload_5_our
+severity: medium
+type: xxe

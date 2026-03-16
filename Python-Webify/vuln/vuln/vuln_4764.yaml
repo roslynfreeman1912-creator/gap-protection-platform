@@ -1,0 +1,9 @@
+name: Cloned bandwidth-monitored hardware
+payloads:
+- clickjacking_payload_1_player
+- clickjacking_payload_2_direction
+- clickjacking_payload_3_scientist
+- clickjacking_payload_4_recently
+- clickjacking_payload_5_which
+severity: medium
+type: clickjacking

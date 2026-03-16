@@ -1,0 +1,9 @@
+name: Upgradable optimizing process improvement
+payloads:
+- sql_payload_1_class
+- sql_payload_2_stand
+- sql_payload_3_those
+- sql_payload_4_local
+- sql_payload_5_data
+severity: medium
+type: sql

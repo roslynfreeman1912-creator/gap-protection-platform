@@ -1,0 +1,9 @@
+name: Cross-platform attitude-oriented synergy
+payloads:
+- frame-injection_payload_1_positive
+- frame-injection_payload_2_music
+- frame-injection_payload_3_main
+- frame-injection_payload_4_baby
+- frame-injection_payload_5_exist
+severity: low
+type: frame-injection

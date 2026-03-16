@@ -1,0 +1,9 @@
+name: Programmable transitional middleware
+payloads:
+- host-header-injection_payload_1_keep
+- host-header-injection_payload_2_clear
+- host-header-injection_payload_3_race
+- host-header-injection_payload_4_decision
+- host-header-injection_payload_5_anyone
+severity: high
+type: host-header-injection

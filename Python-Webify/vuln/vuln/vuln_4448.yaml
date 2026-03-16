@@ -1,0 +1,9 @@
+name: Total global capacity
+payloads:
+- hsts-misconfig_payload_1_way
+- hsts-misconfig_payload_2_require
+- hsts-misconfig_payload_3_foreign
+- hsts-misconfig_payload_4_recognize
+- hsts-misconfig_payload_5_name
+severity: critical
+type: hsts-misconfig

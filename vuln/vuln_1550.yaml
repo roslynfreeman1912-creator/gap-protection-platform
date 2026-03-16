@@ -1,0 +1,9 @@
+name: Total heuristic architecture
+payloads:
+- frame-injection_payload_1_expect
+- frame-injection_payload_2_short
+- frame-injection_payload_3_sister
+- frame-injection_payload_4_a
+- frame-injection_payload_5_official
+severity: high
+type: frame-injection

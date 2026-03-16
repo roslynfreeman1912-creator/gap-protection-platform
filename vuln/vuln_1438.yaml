@@ -1,0 +1,9 @@
+name: Synergized motivating benchmark
+payloads:
+- nosql-injection_payload_1_someone
+- nosql-injection_payload_2_successful
+- nosql-injection_payload_3_relate
+- nosql-injection_payload_4_message
+- nosql-injection_payload_5_politics
+severity: critical
+type: nosql-injection

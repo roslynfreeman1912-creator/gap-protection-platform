@@ -1,0 +1,9 @@
+name: Total 5thgeneration collaboration
+payloads:
+- jsonp-injection_payload_1_expert
+- jsonp-injection_payload_2_degree
+- jsonp-injection_payload_3_knowledge
+- jsonp-injection_payload_4_finally
+- jsonp-injection_payload_5_for
+severity: critical
+type: jsonp-injection

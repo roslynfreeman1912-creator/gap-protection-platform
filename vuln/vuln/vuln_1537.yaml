@@ -1,0 +1,9 @@
+name: Switchable user-facing monitoring
+payloads:
+- ldap-injection_payload_1_bed
+- ldap-injection_payload_2_seek
+- ldap-injection_payload_3_cup
+- ldap-injection_payload_4_agency
+- ldap-injection_payload_5_stay
+severity: low
+type: ldap-injection

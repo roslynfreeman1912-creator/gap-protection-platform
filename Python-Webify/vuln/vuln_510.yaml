@@ -1,0 +1,9 @@
+name: Seamless zero administration success
+payloads:
+- open-redirect_payload_1_trip
+- open-redirect_payload_2_successful
+- open-redirect_payload_3_answer
+- open-redirect_payload_4_exist
+- open-redirect_payload_5_take
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Horizontal non-volatile interface
+payloads:
+- file-upload_payload_1_political
+- file-upload_payload_2_watch
+- file-upload_payload_3_culture
+- file-upload_payload_4_course
+- file-upload_payload_5_leave
+severity: low
+type: file-upload

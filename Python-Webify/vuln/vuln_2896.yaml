@@ -1,0 +1,9 @@
+name: Progressive bi-directional website
+payloads:
+- mime-sniffing_payload_1_deal
+- mime-sniffing_payload_2_car
+- mime-sniffing_payload_3_stay
+- mime-sniffing_payload_4_dinner
+- mime-sniffing_payload_5_century
+severity: medium
+type: mime-sniffing

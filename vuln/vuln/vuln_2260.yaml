@@ -1,0 +1,9 @@
+name: Seamless logistical support
+payloads:
+- open-redirect_payload_1_American
+- open-redirect_payload_2_area
+- open-redirect_payload_3_tree
+- open-redirect_payload_4_cultural
+- open-redirect_payload_5_probably
+severity: critical
+type: open-redirect

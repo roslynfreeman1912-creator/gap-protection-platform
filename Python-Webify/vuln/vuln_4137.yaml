@@ -1,0 +1,9 @@
+name: User-friendly fault-tolerant Local Area Network
+payloads:
+- ldap-injection_payload_1_and
+- ldap-injection_payload_2_effect
+- ldap-injection_payload_3_mission
+- ldap-injection_payload_4_available
+- ldap-injection_payload_5_party
+severity: medium
+type: ldap-injection

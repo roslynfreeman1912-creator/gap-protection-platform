@@ -1,0 +1,9 @@
+name: Streamlined methodical frame
+payloads:
+- path-traversal_payload_1_thought
+- path-traversal_payload_2_increase
+- path-traversal_payload_3_require
+- path-traversal_payload_4_point
+- path-traversal_payload_5_now
+severity: low
+type: path-traversal

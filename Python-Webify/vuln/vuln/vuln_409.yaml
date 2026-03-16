@@ -1,0 +1,9 @@
+name: Assimilated local structure
+payloads:
+- path-traversal_payload_1_next
+- path-traversal_payload_2_open
+- path-traversal_payload_3_officer
+- path-traversal_payload_4_local
+- path-traversal_payload_5_last
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Enhanced needs-based intranet
+payloads:
+- csp-bypass_payload_1_memory
+- csp-bypass_payload_2_north
+- csp-bypass_payload_3_shake
+- csp-bypass_payload_4_authority
+- csp-bypass_payload_5_community
+severity: high
+type: csp-bypass

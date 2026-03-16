@@ -1,0 +1,9 @@
+name: Profit-focused coherent complexity
+payloads:
+- nosql-injection_payload_1_little
+- nosql-injection_payload_2_school
+- nosql-injection_payload_3_many
+- nosql-injection_payload_4_man
+- nosql-injection_payload_5_exactly
+severity: medium
+type: nosql-injection

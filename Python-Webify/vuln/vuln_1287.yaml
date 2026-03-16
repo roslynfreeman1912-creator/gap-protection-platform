@@ -1,0 +1,9 @@
+name: De-engineered 24hour artificial intelligence
+payloads:
+- ldap-injection_payload_1_service
+- ldap-injection_payload_2_interview
+- ldap-injection_payload_3_enter
+- ldap-injection_payload_4_them
+- ldap-injection_payload_5_dog
+severity: low
+type: ldap-injection

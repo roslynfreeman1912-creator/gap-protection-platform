@@ -1,0 +1,9 @@
+name: Distributed human-resource methodology
+payloads:
+- path-traversal_payload_1_store
+- path-traversal_payload_2_conference
+- path-traversal_payload_3_forward
+- path-traversal_payload_4_plan
+- path-traversal_payload_5_decision
+severity: medium
+type: path-traversal

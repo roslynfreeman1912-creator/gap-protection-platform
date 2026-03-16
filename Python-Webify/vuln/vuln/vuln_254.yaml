@@ -1,0 +1,9 @@
+name: Vision-oriented eco-centric array
+payloads:
+- rfi_payload_1_garden
+- rfi_payload_2_call
+- rfi_payload_3_yeah
+- rfi_payload_4_Congress
+- rfi_payload_5_modern
+severity: high
+type: rfi

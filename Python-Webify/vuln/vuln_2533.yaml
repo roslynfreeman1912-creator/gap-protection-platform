@@ -1,0 +1,9 @@
+name: Cross-platform cohesive adapter
+payloads:
+- command-injection_payload_1_western
+- command-injection_payload_2_beautiful
+- command-injection_payload_3_view
+- command-injection_payload_4_thousand
+- command-injection_payload_5_bit
+severity: medium
+type: command-injection

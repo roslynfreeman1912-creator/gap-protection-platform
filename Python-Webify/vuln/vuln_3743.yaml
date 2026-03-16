@@ -1,0 +1,9 @@
+name: Public-key zero-defect framework
+payloads:
+- subdomain-takeover_payload_1_strong
+- subdomain-takeover_payload_2_blue
+- subdomain-takeover_payload_3_news
+- subdomain-takeover_payload_4_ahead
+- subdomain-takeover_payload_5_ask
+severity: critical
+type: subdomain-takeover

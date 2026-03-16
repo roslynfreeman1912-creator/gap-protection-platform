@@ -1,0 +1,9 @@
+name: Persistent zero tolerance hierarchy
+payloads:
+- sql_payload_1_any
+- sql_payload_2_rich
+- sql_payload_3_interesting
+- sql_payload_4_participant
+- sql_payload_5_develop
+severity: low
+type: sql

@@ -1,0 +1,9 @@
+name: Managed high-level Local Area Network
+payloads:
+- ssti_payload_1_toward
+- ssti_payload_2_surface
+- ssti_payload_3_again
+- ssti_payload_4_animal
+- ssti_payload_5_test
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Intuitive encompassing knowledgebase
+payloads:
+- xxe_payload_1_development
+- xxe_payload_2_firm
+- xxe_payload_3_compare
+- xxe_payload_4_role
+- xxe_payload_5_job
+severity: high
+type: xxe

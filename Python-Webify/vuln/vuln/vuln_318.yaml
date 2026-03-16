@@ -1,0 +1,9 @@
+name: Visionary neutral portal
+payloads:
+- subdomain-takeover_payload_1_matter
+- subdomain-takeover_payload_2_trip
+- subdomain-takeover_payload_3_level
+- subdomain-takeover_payload_4_agency
+- subdomain-takeover_payload_5_summer
+severity: medium
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Upgradable bandwidth-monitored info-mediaries
+payloads:
+- sql_payload_1_apply
+- sql_payload_2_not
+- sql_payload_3_truth
+- sql_payload_4_responsibility
+- sql_payload_5_blood
+severity: low
+type: sql

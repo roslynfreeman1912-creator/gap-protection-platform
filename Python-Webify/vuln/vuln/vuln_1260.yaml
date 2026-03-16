@@ -1,0 +1,9 @@
+name: Fully-configurable systemic orchestration
+payloads:
+- open-redirect_payload_1_opportunity
+- open-redirect_payload_2_class
+- open-redirect_payload_3_already
+- open-redirect_payload_4_range
+- open-redirect_payload_5_reflect
+severity: high
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Streamlined system-worthy product
+payloads:
+- frame-injection_payload_1_avoid
+- frame-injection_payload_2_thing
+- frame-injection_payload_3_something
+- frame-injection_payload_4_others
+- frame-injection_payload_5_too
+severity: medium
+type: frame-injection

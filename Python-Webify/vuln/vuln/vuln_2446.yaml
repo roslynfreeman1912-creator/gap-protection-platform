@@ -1,0 +1,9 @@
+name: Face-to-face radical monitoring
+payloads:
+- mime-sniffing_payload_1_nature
+- mime-sniffing_payload_2_pay
+- mime-sniffing_payload_3_ever
+- mime-sniffing_payload_4_education
+- mime-sniffing_payload_5_national
+severity: medium
+type: mime-sniffing

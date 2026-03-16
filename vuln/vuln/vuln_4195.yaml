@@ -1,0 +1,9 @@
+name: Cross-platform stable service-desk
+payloads:
+- file-upload_payload_1_your
+- file-upload_payload_2_high
+- file-upload_payload_3_long
+- file-upload_payload_4_magazine
+- file-upload_payload_5_mission
+severity: medium
+type: file-upload

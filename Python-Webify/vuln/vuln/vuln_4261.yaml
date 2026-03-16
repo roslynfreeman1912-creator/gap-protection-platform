@@ -1,0 +1,9 @@
+name: Expanded user-facing concept
+payloads:
+- xxe_payload_1_finish
+- xxe_payload_2_scientist
+- xxe_payload_3_mouth
+- xxe_payload_4_building
+- xxe_payload_5_later
+severity: medium
+type: xxe

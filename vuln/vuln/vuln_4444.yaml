@@ -1,0 +1,9 @@
+name: Progressive didactic info-mediaries
+payloads:
+- javascript-injection_payload_1_likely
+- javascript-injection_payload_2_win
+- javascript-injection_payload_3_on
+- javascript-injection_payload_4_under
+- javascript-injection_payload_5_affect
+severity: medium
+type: javascript-injection

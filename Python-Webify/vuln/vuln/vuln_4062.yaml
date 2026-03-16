@@ -1,0 +1,9 @@
+name: Team-oriented local algorithm
+payloads:
+- ldap-injection_payload_1_decision
+- ldap-injection_payload_2_manager
+- ldap-injection_payload_3_rest
+- ldap-injection_payload_4_with
+- ldap-injection_payload_5_large
+severity: high
+type: ldap-injection

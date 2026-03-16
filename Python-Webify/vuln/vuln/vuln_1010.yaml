@@ -1,0 +1,9 @@
+name: Secured zero-defect firmware
+payloads:
+- open-redirect_payload_1_save
+- open-redirect_payload_2_what
+- open-redirect_payload_3_coach
+- open-redirect_payload_4_career
+- open-redirect_payload_5_generation
+severity: medium
+type: open-redirect

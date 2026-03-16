@@ -1,0 +1,9 @@
+name: Digitized bifurcated info-mediaries
+payloads:
+- path-traversal_payload_1_enter
+- path-traversal_payload_2_opportunity
+- path-traversal_payload_3_shoulder
+- path-traversal_payload_4_impact
+- path-traversal_payload_5_fly
+severity: critical
+type: path-traversal

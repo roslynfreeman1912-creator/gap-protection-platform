@@ -1,0 +1,9 @@
+name: Decentralized clear-thinking adapter
+payloads:
+- nosql-injection_payload_1_maintain
+- nosql-injection_payload_2_bill
+- nosql-injection_payload_3_goal
+- nosql-injection_payload_4_human
+- nosql-injection_payload_5_myself
+severity: critical
+type: nosql-injection

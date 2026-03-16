@@ -1,0 +1,9 @@
+name: Reduced contextually-based firmware
+payloads:
+- frame-injection_payload_1_what
+- frame-injection_payload_2_manage
+- frame-injection_payload_3_population
+- frame-injection_payload_4_a
+- frame-injection_payload_5_conference
+severity: medium
+type: frame-injection

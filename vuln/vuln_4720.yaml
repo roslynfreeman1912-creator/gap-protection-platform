@@ -1,0 +1,9 @@
+name: Diverse object-oriented info-mediaries
+payloads:
+- file-upload_payload_1_play
+- file-upload_payload_2_daughter
+- file-upload_payload_3_available
+- file-upload_payload_4_describe
+- file-upload_payload_5_area
+severity: high
+type: file-upload

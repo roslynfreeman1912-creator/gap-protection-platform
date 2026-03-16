@@ -1,0 +1,9 @@
+name: Balanced secondary interface
+payloads:
+- file-upload_payload_1_keep
+- file-upload_payload_2_understand
+- file-upload_payload_3_top
+- file-upload_payload_4_they
+- file-upload_payload_5_step
+severity: medium
+type: file-upload

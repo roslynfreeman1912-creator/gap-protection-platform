@@ -1,0 +1,9 @@
+name: Proactive multi-state implementation
+payloads:
+- command-injection_payload_1_former
+- command-injection_payload_2_clear
+- command-injection_payload_3_few
+- command-injection_payload_4_whose
+- command-injection_payload_5_guy
+severity: low
+type: command-injection

@@ -1,0 +1,9 @@
+name: Operative cohesive paradigm
+payloads:
+- ssti_payload_1_meet
+- ssti_payload_2_assume
+- ssti_payload_3_food
+- ssti_payload_4_sing
+- ssti_payload_5_ready
+severity: low
+type: ssti

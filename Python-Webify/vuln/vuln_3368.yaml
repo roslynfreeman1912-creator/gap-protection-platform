@@ -1,0 +1,9 @@
+name: Reduced motivating flexibility
+payloads:
+- subdomain-takeover_payload_1_stop
+- subdomain-takeover_payload_2_than
+- subdomain-takeover_payload_3_brother
+- subdomain-takeover_payload_4_whatever
+- subdomain-takeover_payload_5_response
+severity: low
+type: subdomain-takeover

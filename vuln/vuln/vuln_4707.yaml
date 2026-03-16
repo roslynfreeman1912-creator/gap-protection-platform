@@ -1,0 +1,9 @@
+name: Triple-buffered foreground algorithm
+payloads:
+- ssti_payload_1_next
+- ssti_payload_2_successful
+- ssti_payload_3_sort
+- ssti_payload_4_against
+- ssti_payload_5_son
+severity: critical
+type: ssti

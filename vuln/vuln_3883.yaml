@@ -1,0 +1,9 @@
+name: Quality-focused high-level capability
+payloads:
+- command-injection_payload_1_recognize
+- command-injection_payload_2_offer
+- command-injection_payload_3_number
+- command-injection_payload_4_simply
+- command-injection_payload_5_standard
+severity: medium
+type: command-injection

@@ -1,0 +1,9 @@
+name: Monitored bandwidth-monitored orchestration
+payloads:
+- ssti_payload_1_main
+- ssti_payload_2_reduce
+- ssti_payload_3_upon
+- ssti_payload_4_hand
+- ssti_payload_5_star
+severity: low
+type: ssti

@@ -1,0 +1,9 @@
+name: Balanced full-range collaboration
+payloads:
+- mime-sniffing_payload_1_air
+- mime-sniffing_payload_2_tree
+- mime-sniffing_payload_3_clear
+- mime-sniffing_payload_4_news
+- mime-sniffing_payload_5_question
+severity: low
+type: mime-sniffing

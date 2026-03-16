@@ -1,0 +1,9 @@
+name: Seamless contextually-based throughput
+payloads:
+- javascript-injection_payload_1_evidence
+- javascript-injection_payload_2_beyond
+- javascript-injection_payload_3_relate
+- javascript-injection_payload_4_world
+- javascript-injection_payload_5_month
+severity: high
+type: javascript-injection

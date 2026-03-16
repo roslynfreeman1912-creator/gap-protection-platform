@@ -1,0 +1,9 @@
+name: Object-based tangible help-desk
+payloads:
+- ssti_payload_1_benefit
+- ssti_payload_2_smile
+- ssti_payload_3_someone
+- ssti_payload_4_car
+- ssti_payload_5_east
+severity: high
+type: ssti

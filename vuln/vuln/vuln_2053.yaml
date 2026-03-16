@@ -1,0 +1,9 @@
+name: Advanced bifurcated matrix
+payloads:
+- lfi_payload_1_see
+- lfi_payload_2_both
+- lfi_payload_3_I
+- lfi_payload_4_right
+- lfi_payload_5_tree
+severity: medium
+type: lfi

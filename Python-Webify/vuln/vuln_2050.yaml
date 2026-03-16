@@ -1,0 +1,9 @@
+name: Fully-configurable attitude-oriented forecast
+payloads:
+- frame-injection_payload_1_return
+- frame-injection_payload_2_bill
+- frame-injection_payload_3_to
+- frame-injection_payload_4_seat
+- frame-injection_payload_5_north
+severity: low
+type: frame-injection

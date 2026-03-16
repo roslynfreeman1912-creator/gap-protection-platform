@@ -1,0 +1,9 @@
+name: Diverse bandwidth-monitored standardization
+payloads:
+- csp-bypass_payload_1_get
+- csp-bypass_payload_2_agent
+- csp-bypass_payload_3_left
+- csp-bypass_payload_4_allow
+- csp-bypass_payload_5_miss
+severity: low
+type: csp-bypass

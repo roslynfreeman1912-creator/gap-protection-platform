@@ -1,0 +1,9 @@
+name: Ameliorated analyzing portal
+payloads:
+- path-traversal_payload_1_full
+- path-traversal_payload_2_especially
+- path-traversal_payload_3_same
+- path-traversal_payload_4_professor
+- path-traversal_payload_5_day
+severity: low
+type: path-traversal

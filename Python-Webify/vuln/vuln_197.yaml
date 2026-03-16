@@ -1,0 +1,9 @@
+name: Extended bandwidth-monitored project
+payloads:
+- tabnabbing_payload_1_by
+- tabnabbing_payload_2_new
+- tabnabbing_payload_3_possible
+- tabnabbing_payload_4_lead
+- tabnabbing_payload_5_compare
+severity: high
+type: tabnabbing

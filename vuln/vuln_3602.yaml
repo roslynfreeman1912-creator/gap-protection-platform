@@ -1,0 +1,9 @@
+name: Multi-tiered human-resource functionalities
+payloads:
+- xss_payload_1_off
+- xss_payload_2_summer
+- xss_payload_3_sea
+- xss_payload_4_quite
+- xss_payload_5_perhaps
+severity: medium
+type: xss

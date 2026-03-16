@@ -1,0 +1,9 @@
+name: Intuitive multimedia core
+payloads:
+- rfi_payload_1_some
+- rfi_payload_2_small
+- rfi_payload_3_wait
+- rfi_payload_4_local
+- rfi_payload_5_happen
+severity: medium
+type: rfi

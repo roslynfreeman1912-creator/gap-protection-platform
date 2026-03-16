@@ -1,0 +1,9 @@
+name: Optimized system-worthy functionalities
+payloads:
+- mime-sniffing_payload_1_trouble
+- mime-sniffing_payload_2_be
+- mime-sniffing_payload_3_seek
+- mime-sniffing_payload_4_wind
+- mime-sniffing_payload_5_result
+severity: low
+type: mime-sniffing

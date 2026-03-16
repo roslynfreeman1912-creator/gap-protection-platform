@@ -1,0 +1,9 @@
+name: Switchable human-resource core
+payloads:
+- hsts-misconfig_payload_1_behavior
+- hsts-misconfig_payload_2_care
+- hsts-misconfig_payload_3_organization
+- hsts-misconfig_payload_4_player
+- hsts-misconfig_payload_5_mouth
+severity: medium
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Versatile 4thgeneration system engine
+payloads:
+- subdomain-takeover_payload_1_whose
+- subdomain-takeover_payload_2_them
+- subdomain-takeover_payload_3_explain
+- subdomain-takeover_payload_4_miss
+- subdomain-takeover_payload_5_real
+severity: medium
+type: subdomain-takeover

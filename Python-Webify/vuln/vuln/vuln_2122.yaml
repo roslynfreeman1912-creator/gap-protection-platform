@@ -1,0 +1,9 @@
+name: Right-sized 24/7 frame
+payloads:
+- tabnabbing_payload_1_since
+- tabnabbing_payload_2_set
+- tabnabbing_payload_3_night
+- tabnabbing_payload_4_with
+- tabnabbing_payload_5_set
+severity: low
+type: tabnabbing

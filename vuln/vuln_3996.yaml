@@ -1,0 +1,9 @@
+name: Digitized high-level solution
+payloads:
+- mime-sniffing_payload_1_event
+- mime-sniffing_payload_2_central
+- mime-sniffing_payload_3_seem
+- mime-sniffing_payload_4_traditional
+- mime-sniffing_payload_5_between
+severity: medium
+type: mime-sniffing

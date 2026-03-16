@@ -1,0 +1,9 @@
+name: Vision-oriented intangible service-desk
+payloads:
+- clickjacking_payload_1_season
+- clickjacking_payload_2_financial
+- clickjacking_payload_3_do
+- clickjacking_payload_4_tonight
+- clickjacking_payload_5_daughter
+severity: medium
+type: clickjacking

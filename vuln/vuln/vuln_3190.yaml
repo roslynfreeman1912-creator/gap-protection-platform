@@ -1,0 +1,9 @@
+name: Upgradable static leverage
+payloads:
+- jsonp-injection_payload_1_such
+- jsonp-injection_payload_2_require
+- jsonp-injection_payload_3_network
+- jsonp-injection_payload_4_effort
+- jsonp-injection_payload_5_pay
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Mandatory leadingedge contingency
+payloads:
+- sql_payload_1_off
+- sql_payload_2_federal
+- sql_payload_3_pretty
+- sql_payload_4_film
+- sql_payload_5_tax
+severity: medium
+type: sql

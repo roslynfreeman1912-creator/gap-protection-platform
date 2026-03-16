@@ -1,0 +1,9 @@
+name: Multi-layered methodical installation
+payloads:
+- sql_payload_1_economy
+- sql_payload_2_chance
+- sql_payload_3_action
+- sql_payload_4_mention
+- sql_payload_5_think
+severity: medium
+type: sql

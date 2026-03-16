@@ -1,0 +1,9 @@
+name: Focused 4thgeneration instruction set
+payloads:
+- ssti_payload_1_third
+- ssti_payload_2_whose
+- ssti_payload_3_network
+- ssti_payload_4_report
+- ssti_payload_5_behavior
+severity: critical
+type: ssti

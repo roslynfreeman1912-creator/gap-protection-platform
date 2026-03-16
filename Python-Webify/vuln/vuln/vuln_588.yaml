@@ -1,0 +1,9 @@
+name: User-friendly global array
+payloads:
+- nosql-injection_payload_1_option
+- nosql-injection_payload_2_fear
+- nosql-injection_payload_3_yes
+- nosql-injection_payload_4_what
+- nosql-injection_payload_5_impact
+severity: medium
+type: nosql-injection

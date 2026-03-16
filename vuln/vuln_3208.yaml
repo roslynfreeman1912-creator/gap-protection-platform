@@ -1,0 +1,9 @@
+name: Streamlined responsive database
+payloads:
+- command-injection_payload_1_reach
+- command-injection_payload_2_teacher
+- command-injection_payload_3_involve
+- command-injection_payload_4_can
+- command-injection_payload_5_blue
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Compatible empowering focus group
+payloads:
+- path-traversal_payload_1_PM
+- path-traversal_payload_2_would
+- path-traversal_payload_3_computer
+- path-traversal_payload_4_body
+- path-traversal_payload_5_worry
+severity: high
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Distributed foreground toolset
+payloads:
+- tabnabbing_payload_1_early
+- tabnabbing_payload_2_person
+- tabnabbing_payload_3_seem
+- tabnabbing_payload_4_huge
+- tabnabbing_payload_5_within
+severity: critical
+type: tabnabbing

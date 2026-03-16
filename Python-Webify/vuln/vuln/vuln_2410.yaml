@@ -1,0 +1,9 @@
+name: Open-source bi-directional concept
+payloads:
+- open-redirect_payload_1_there
+- open-redirect_payload_2_sit
+- open-redirect_payload_3_trade
+- open-redirect_payload_4_floor
+- open-redirect_payload_5_agent
+severity: critical
+type: open-redirect

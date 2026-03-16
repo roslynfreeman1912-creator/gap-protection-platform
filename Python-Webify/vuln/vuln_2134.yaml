@@ -1,0 +1,9 @@
+name: Profit-focused user-facing function
+payloads:
+- path-traversal_payload_1_cup
+- path-traversal_payload_2_knowledge
+- path-traversal_payload_3_focus
+- path-traversal_payload_4_bill
+- path-traversal_payload_5_always
+severity: high
+type: path-traversal

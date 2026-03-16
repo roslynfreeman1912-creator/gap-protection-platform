@@ -1,0 +1,9 @@
+name: Total disintermediate protocol
+payloads:
+- file-upload_payload_1_true
+- file-upload_payload_2_heavy
+- file-upload_payload_3_keep
+- file-upload_payload_4_make
+- file-upload_payload_5_financial
+severity: critical
+type: file-upload

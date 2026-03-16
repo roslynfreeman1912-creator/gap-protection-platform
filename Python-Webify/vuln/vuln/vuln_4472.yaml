@@ -1,0 +1,9 @@
+name: Organized system-worthy orchestration
+payloads:
+- tabnabbing_payload_1_response
+- tabnabbing_payload_2_write
+- tabnabbing_payload_3_young
+- tabnabbing_payload_4_light
+- tabnabbing_payload_5_a
+severity: high
+type: tabnabbing

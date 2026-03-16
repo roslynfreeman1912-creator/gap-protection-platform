@@ -1,0 +1,9 @@
+name: Configurable bi-directional budgetary management
+payloads:
+- jsonp-injection_payload_1_research
+- jsonp-injection_payload_2_own
+- jsonp-injection_payload_3_both
+- jsonp-injection_payload_4_check
+- jsonp-injection_payload_5_enjoy
+severity: medium
+type: jsonp-injection

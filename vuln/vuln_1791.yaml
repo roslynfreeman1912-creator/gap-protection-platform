@@ -1,0 +1,9 @@
+name: Integrated empowering policy
+payloads:
+- crlf-injection_payload_1_us
+- crlf-injection_payload_2_usually
+- crlf-injection_payload_3_water
+- crlf-injection_payload_4_grow
+- crlf-injection_payload_5_rule
+severity: critical
+type: crlf-injection

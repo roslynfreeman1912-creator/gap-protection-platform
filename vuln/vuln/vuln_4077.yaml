@@ -1,0 +1,9 @@
+name: Grass-roots eco-centric moratorium
+payloads:
+- xss_payload_1_writer
+- xss_payload_2_it
+- xss_payload_3_gun
+- xss_payload_4_apply
+- xss_payload_5_stage
+severity: high
+type: xss

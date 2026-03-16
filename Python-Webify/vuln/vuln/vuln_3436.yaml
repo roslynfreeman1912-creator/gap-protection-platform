@@ -1,0 +1,9 @@
+name: Organic maximized alliance
+payloads:
+- xxe_payload_1_or
+- xxe_payload_2_interesting
+- xxe_payload_3_kid
+- xxe_payload_4_detail
+- xxe_payload_5_program
+severity: medium
+type: xxe

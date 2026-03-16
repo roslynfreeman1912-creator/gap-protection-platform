@@ -1,0 +1,9 @@
+name: Visionary interactive concept
+payloads:
+- jsonp-injection_payload_1_majority
+- jsonp-injection_payload_2_civil
+- jsonp-injection_payload_3_at
+- jsonp-injection_payload_4_minute
+- jsonp-injection_payload_5_opportunity
+severity: critical
+type: jsonp-injection

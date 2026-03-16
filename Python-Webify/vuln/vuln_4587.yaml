@@ -1,0 +1,9 @@
+name: Multi-channeled radical capability
+payloads:
+- ldap-injection_payload_1_common
+- ldap-injection_payload_2_perhaps
+- ldap-injection_payload_3_individual
+- ldap-injection_payload_4_rock
+- ldap-injection_payload_5_learn
+severity: low
+type: ldap-injection

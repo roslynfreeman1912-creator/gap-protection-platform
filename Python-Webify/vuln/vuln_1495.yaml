@@ -1,0 +1,9 @@
+name: Upgradable 4thgeneration project
+payloads:
+- file-upload_payload_1_leave
+- file-upload_payload_2_security
+- file-upload_payload_3_surface
+- file-upload_payload_4_child
+- file-upload_payload_5_day
+severity: high
+type: file-upload

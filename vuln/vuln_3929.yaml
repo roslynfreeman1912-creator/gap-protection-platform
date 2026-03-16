@@ -1,0 +1,9 @@
+name: Sharable intangible neural-net
+payloads:
+- rfi_payload_1_professor
+- rfi_payload_2_citizen
+- rfi_payload_3_new
+- rfi_payload_4_and
+- rfi_payload_5_strong
+severity: medium
+type: rfi

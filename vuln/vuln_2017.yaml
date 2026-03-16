@@ -1,0 +1,9 @@
+name: Virtual multimedia hardware
+payloads:
+- host-header-injection_payload_1_site
+- host-header-injection_payload_2_south
+- host-header-injection_payload_3_scene
+- host-header-injection_payload_4_decade
+- host-header-injection_payload_5_model
+severity: medium
+type: host-header-injection

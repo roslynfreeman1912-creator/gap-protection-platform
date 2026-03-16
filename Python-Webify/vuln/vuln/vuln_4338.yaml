@@ -1,0 +1,9 @@
+name: Persistent incremental access
+payloads:
+- nosql-injection_payload_1_officer
+- nosql-injection_payload_2_weight
+- nosql-injection_payload_3_rest
+- nosql-injection_payload_4_impact
+- nosql-injection_payload_5_treat
+severity: medium
+type: nosql-injection

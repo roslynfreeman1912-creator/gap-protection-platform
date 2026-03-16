@@ -1,0 +1,9 @@
+name: Fully-configurable global hierarchy
+payloads:
+- open-redirect_payload_1_without
+- open-redirect_payload_2_message
+- open-redirect_payload_3_brother
+- open-redirect_payload_4_project
+- open-redirect_payload_5_think
+severity: low
+type: open-redirect

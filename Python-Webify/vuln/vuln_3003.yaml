@@ -1,0 +1,9 @@
+name: Focused impactful data-warehouse
+payloads:
+- lfi_payload_1_offer
+- lfi_payload_2_three
+- lfi_payload_3_job
+- lfi_payload_4_continue
+- lfi_payload_5_nature
+severity: high
+type: lfi

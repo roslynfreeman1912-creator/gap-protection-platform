@@ -1,0 +1,9 @@
+name: Horizontal tertiary access
+payloads:
+- csp-bypass_payload_1_door
+- csp-bypass_payload_2_likely
+- csp-bypass_payload_3_painting
+- csp-bypass_payload_4_point
+- csp-bypass_payload_5_low
+severity: low
+type: csp-bypass

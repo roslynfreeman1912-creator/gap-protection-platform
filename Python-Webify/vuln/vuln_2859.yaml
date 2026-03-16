@@ -1,0 +1,9 @@
+name: Networked demand-driven migration
+payloads:
+- path-traversal_payload_1_special
+- path-traversal_payload_2_call
+- path-traversal_payload_3_debate
+- path-traversal_payload_4_how
+- path-traversal_payload_5_large
+severity: high
+type: path-traversal

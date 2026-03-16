@@ -1,0 +1,9 @@
+name: Distributed reciprocal benchmark
+payloads:
+- path-traversal_payload_1_worry
+- path-traversal_payload_2_recent
+- path-traversal_payload_3_interview
+- path-traversal_payload_4_guess
+- path-traversal_payload_5_last
+severity: low
+type: path-traversal

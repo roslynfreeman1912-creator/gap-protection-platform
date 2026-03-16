@@ -1,0 +1,9 @@
+name: Fundamental systemic intranet
+payloads:
+- xss_payload_1_product
+- xss_payload_2_rest
+- xss_payload_3_fill
+- xss_payload_4_garden
+- xss_payload_5_condition
+severity: medium
+type: xss

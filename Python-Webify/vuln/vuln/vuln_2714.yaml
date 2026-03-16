@@ -1,0 +1,9 @@
+name: Enterprise-wide demand-driven help-desk
+payloads:
+- clickjacking_payload_1_well
+- clickjacking_payload_2_involve
+- clickjacking_payload_3_collection
+- clickjacking_payload_4_employee
+- clickjacking_payload_5_Mrs
+severity: high
+type: clickjacking

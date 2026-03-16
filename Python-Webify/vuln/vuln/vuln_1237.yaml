@@ -1,0 +1,9 @@
+name: Seamless bandwidth-monitored access
+payloads:
+- ldap-injection_payload_1_year
+- ldap-injection_payload_2_seven
+- ldap-injection_payload_3_thus
+- ldap-injection_payload_4_forget
+- ldap-injection_payload_5_talk
+severity: medium
+type: ldap-injection

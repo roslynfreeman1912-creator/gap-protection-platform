@@ -1,0 +1,9 @@
+name: Pre-emptive multi-tasking software
+payloads:
+- file-upload_payload_1_talk
+- file-upload_payload_2_action
+- file-upload_payload_3_short
+- file-upload_payload_4_save
+- file-upload_payload_5_position
+severity: high
+type: file-upload

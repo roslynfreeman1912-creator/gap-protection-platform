@@ -1,0 +1,9 @@
+name: Profound encompassing attitude
+payloads:
+- xss_payload_1_political
+- xss_payload_2_newspaper
+- xss_payload_3_world
+- xss_payload_4_east
+- xss_payload_5_professor
+severity: high
+type: xss

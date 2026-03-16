@@ -1,0 +1,9 @@
+name: De-engineered 24/7 analyzer
+payloads:
+- ldap-injection_payload_1_success
+- ldap-injection_payload_2_church
+- ldap-injection_payload_3_exist
+- ldap-injection_payload_4_society
+- ldap-injection_payload_5_for
+severity: low
+type: ldap-injection

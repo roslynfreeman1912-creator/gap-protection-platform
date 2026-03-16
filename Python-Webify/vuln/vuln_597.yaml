@@ -1,0 +1,9 @@
+name: De-engineered transitional orchestration
+payloads:
+- tabnabbing_payload_1_always
+- tabnabbing_payload_2_network
+- tabnabbing_payload_3_apply
+- tabnabbing_payload_4_project
+- tabnabbing_payload_5_identify
+severity: medium
+type: tabnabbing

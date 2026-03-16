@@ -1,0 +1,9 @@
+name: Re-contextualized scalable collaboration
+payloads:
+- tabnabbing_payload_1_board
+- tabnabbing_payload_2_professor
+- tabnabbing_payload_3_food
+- tabnabbing_payload_4_base
+- tabnabbing_payload_5_know
+severity: critical
+type: tabnabbing

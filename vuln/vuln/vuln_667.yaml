@@ -1,0 +1,9 @@
+name: Fundamental system-worthy open system
+payloads:
+- host-header-injection_payload_1_least
+- host-header-injection_payload_2_its
+- host-header-injection_payload_3_spring
+- host-header-injection_payload_4_simple
+- host-header-injection_payload_5_star
+severity: low
+type: host-header-injection

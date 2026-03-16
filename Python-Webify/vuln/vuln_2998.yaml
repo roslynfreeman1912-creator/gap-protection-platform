@@ -1,0 +1,9 @@
+name: Fundamental content-based software
+payloads:
+- hsts-misconfig_payload_1_stand
+- hsts-misconfig_payload_2_she
+- hsts-misconfig_payload_3_provide
+- hsts-misconfig_payload_4_special
+- hsts-misconfig_payload_5_laugh
+severity: low
+type: hsts-misconfig

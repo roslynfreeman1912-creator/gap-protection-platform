@@ -1,0 +1,9 @@
+name: Polarized 3rdgeneration productivity
+payloads:
+- host-header-injection_payload_1_article
+- host-header-injection_payload_2_study
+- host-header-injection_payload_3_recognize
+- host-header-injection_payload_4_can
+- host-header-injection_payload_5_price
+severity: high
+type: host-header-injection

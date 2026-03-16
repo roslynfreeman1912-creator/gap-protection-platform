@@ -1,0 +1,9 @@
+name: Organized multi-state superstructure
+payloads:
+- csp-bypass_payload_1_true
+- csp-bypass_payload_2_take
+- csp-bypass_payload_3_position
+- csp-bypass_payload_4_late
+- csp-bypass_payload_5_visit
+severity: low
+type: csp-bypass

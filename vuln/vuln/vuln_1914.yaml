@@ -1,0 +1,9 @@
+name: Devolved user-facing paradigm
+payloads:
+- clickjacking_payload_1_election
+- clickjacking_payload_2_event
+- clickjacking_payload_3_them
+- clickjacking_payload_4_crime
+- clickjacking_payload_5_list
+severity: medium
+type: clickjacking

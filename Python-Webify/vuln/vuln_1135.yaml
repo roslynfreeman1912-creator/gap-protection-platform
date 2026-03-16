@@ -1,0 +1,9 @@
+name: Quality-focused executive moderator
+payloads:
+- open-redirect_payload_1_what
+- open-redirect_payload_2_population
+- open-redirect_payload_3_bill
+- open-redirect_payload_4_goal
+- open-redirect_payload_5_child
+severity: medium
+type: open-redirect

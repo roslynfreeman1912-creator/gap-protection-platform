@@ -1,0 +1,9 @@
+name: Automated actuating extranet
+payloads:
+- ldap-injection_payload_1_strong
+- ldap-injection_payload_2_other
+- ldap-injection_payload_3_anyone
+- ldap-injection_payload_4_one
+- ldap-injection_payload_5_phone
+severity: high
+type: ldap-injection

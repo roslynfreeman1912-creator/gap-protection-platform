@@ -1,0 +1,9 @@
+name: Expanded neutral implementation
+payloads:
+- jsonp-injection_payload_1_quite
+- jsonp-injection_payload_2_leader
+- jsonp-injection_payload_3_later
+- jsonp-injection_payload_4_total
+- jsonp-injection_payload_5_society
+severity: critical
+type: jsonp-injection

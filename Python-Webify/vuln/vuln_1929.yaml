@@ -1,0 +1,9 @@
+name: Total static focus group
+payloads:
+- rfi_payload_1_enough
+- rfi_payload_2_sort
+- rfi_payload_3_charge
+- rfi_payload_4_return
+- rfi_payload_5_clearly
+severity: medium
+type: rfi

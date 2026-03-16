@@ -1,0 +1,9 @@
+name: Proactive responsive Graphical User Interface
+payloads:
+- file-upload_payload_1_full
+- file-upload_payload_2_rise
+- file-upload_payload_3_because
+- file-upload_payload_4_generation
+- file-upload_payload_5_decide
+severity: medium
+type: file-upload

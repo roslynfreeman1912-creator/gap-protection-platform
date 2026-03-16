@@ -1,0 +1,9 @@
+name: Open-architected high-level focus group
+payloads:
+- clickjacking_payload_1_guess
+- clickjacking_payload_2_bad
+- clickjacking_payload_3_check
+- clickjacking_payload_4_just
+- clickjacking_payload_5_present
+severity: high
+type: clickjacking

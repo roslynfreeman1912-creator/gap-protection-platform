@@ -1,0 +1,9 @@
+name: Organic 24hour approach
+payloads:
+- tabnabbing_payload_1_small
+- tabnabbing_payload_2_arrive
+- tabnabbing_payload_3_Mrs
+- tabnabbing_payload_4_property
+- tabnabbing_payload_5_oil
+severity: critical
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Reactive zero-defect interface
+payloads:
+- javascript-injection_payload_1_special
+- javascript-injection_payload_2_development
+- javascript-injection_payload_3_article
+- javascript-injection_payload_4_yard
+- javascript-injection_payload_5_everyone
+severity: high
+type: javascript-injection

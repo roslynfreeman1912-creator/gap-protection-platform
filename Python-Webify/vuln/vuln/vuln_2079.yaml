@@ -1,0 +1,9 @@
+name: Total eco-centric emulation
+payloads:
+- rfi_payload_1_seat
+- rfi_payload_2_blood
+- rfi_payload_3_Democrat
+- rfi_payload_4_clearly
+- rfi_payload_5_create
+severity: low
+type: rfi

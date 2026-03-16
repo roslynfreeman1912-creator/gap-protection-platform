@@ -1,0 +1,9 @@
+name: Multi-tiered transitional open system
+payloads:
+- subdomain-takeover_payload_1_reduce
+- subdomain-takeover_payload_2_amount
+- subdomain-takeover_payload_3_debate
+- subdomain-takeover_payload_4_common
+- subdomain-takeover_payload_5_news
+severity: high
+type: subdomain-takeover

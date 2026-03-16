@@ -1,0 +1,9 @@
+name: Grass-roots 3rdgeneration synergy
+payloads:
+- javascript-injection_payload_1_interest
+- javascript-injection_payload_2_season
+- javascript-injection_payload_3_bar
+- javascript-injection_payload_4_career
+- javascript-injection_payload_5_present
+severity: critical
+type: javascript-injection

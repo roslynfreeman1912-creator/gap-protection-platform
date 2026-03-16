@@ -1,0 +1,9 @@
+name: Pre-emptive fault-tolerant hierarchy
+payloads:
+- hsts-misconfig_payload_1_yes
+- hsts-misconfig_payload_2_type
+- hsts-misconfig_payload_3_operation
+- hsts-misconfig_payload_4_loss
+- hsts-misconfig_payload_5_study
+severity: medium
+type: hsts-misconfig

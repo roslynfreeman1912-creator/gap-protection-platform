@@ -1,0 +1,9 @@
+name: Sharable mission-critical hardware
+payloads:
+- tabnabbing_payload_1_television
+- tabnabbing_payload_2_guess
+- tabnabbing_payload_3_quite
+- tabnabbing_payload_4_event
+- tabnabbing_payload_5_same
+severity: critical
+type: tabnabbing

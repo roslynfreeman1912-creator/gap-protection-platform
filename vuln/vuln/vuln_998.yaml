@@ -1,0 +1,9 @@
+name: Centralized cohesive task-force
+payloads:
+- hsts-misconfig_payload_1_send
+- hsts-misconfig_payload_2_decade
+- hsts-misconfig_payload_3_easy
+- hsts-misconfig_payload_4_into
+- hsts-misconfig_payload_5_mean
+severity: high
+type: hsts-misconfig

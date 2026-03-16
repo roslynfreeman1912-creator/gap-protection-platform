@@ -1,0 +1,9 @@
+name: Business-focused transitional moratorium
+payloads:
+- clickjacking_payload_1_give
+- clickjacking_payload_2_much
+- clickjacking_payload_3_notice
+- clickjacking_payload_4_community
+- clickjacking_payload_5_star
+severity: medium
+type: clickjacking

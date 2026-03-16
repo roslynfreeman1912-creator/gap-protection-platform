@@ -1,0 +1,9 @@
+name: Visionary 6thgeneration protocol
+payloads:
+- clickjacking_payload_1_recently
+- clickjacking_payload_2_reality
+- clickjacking_payload_3_office
+- clickjacking_payload_4_politics
+- clickjacking_payload_5_from
+severity: critical
+type: clickjacking

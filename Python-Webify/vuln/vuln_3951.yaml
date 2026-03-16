@@ -1,0 +1,9 @@
+name: Synchronized bifurcated forecast
+payloads:
+- sql_payload_1_always
+- sql_payload_2_whatever
+- sql_payload_3_kitchen
+- sql_payload_4_hit
+- sql_payload_5_cause
+severity: low
+type: sql

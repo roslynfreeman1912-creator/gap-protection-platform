@@ -1,0 +1,9 @@
+name: Networked zero-defect system engine
+payloads:
+- frame-injection_payload_1_work
+- frame-injection_payload_2_later
+- frame-injection_payload_3_protect
+- frame-injection_payload_4_that
+- frame-injection_payload_5_enter
+severity: high
+type: frame-injection

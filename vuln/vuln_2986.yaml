@@ -1,0 +1,9 @@
+name: Cross-group multi-state paradigm
+payloads:
+- xxe_payload_1_goal
+- xxe_payload_2_including
+- xxe_payload_3_miss
+- xxe_payload_4_low
+- xxe_payload_5_shake
+severity: medium
+type: xxe

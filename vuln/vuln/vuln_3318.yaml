@@ -1,0 +1,9 @@
+name: Compatible directional hardware
+payloads:
+- subdomain-takeover_payload_1_TV
+- subdomain-takeover_payload_2_office
+- subdomain-takeover_payload_3_start
+- subdomain-takeover_payload_4_pick
+- subdomain-takeover_payload_5_stand
+severity: medium
+type: subdomain-takeover

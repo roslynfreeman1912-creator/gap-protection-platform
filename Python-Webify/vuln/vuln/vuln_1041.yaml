@@ -1,0 +1,9 @@
+name: Phased eco-centric help-desk
+payloads:
+- crlf-injection_payload_1_city
+- crlf-injection_payload_2_leg
+- crlf-injection_payload_3_goal
+- crlf-injection_payload_4_whom
+- crlf-injection_payload_5_address
+severity: medium
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Ameliorated modular knowledgebase
+payloads:
+- mime-sniffing_payload_1_property
+- mime-sniffing_payload_2_produce
+- mime-sniffing_payload_3_employee
+- mime-sniffing_payload_4_at
+- mime-sniffing_payload_5_exactly
+severity: high
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Reduced systematic open system
+payloads:
+- sql_payload_1_sport
+- sql_payload_2_American
+- sql_payload_3_much
+- sql_payload_4_quality
+- sql_payload_5_sense
+severity: low
+type: sql

@@ -1,0 +1,9 @@
+name: Public-key hybrid migration
+payloads:
+- xxe_payload_1_before
+- xxe_payload_2_thank
+- xxe_payload_3_can
+- xxe_payload_4_now
+- xxe_payload_5_remember
+severity: high
+type: xxe

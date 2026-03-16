@@ -1,0 +1,9 @@
+name: Expanded hybrid pricing structure
+payloads:
+- frame-injection_payload_1_city
+- frame-injection_payload_2_she
+- frame-injection_payload_3_Congress
+- frame-injection_payload_4_nature
+- frame-injection_payload_5_fill
+severity: medium
+type: frame-injection

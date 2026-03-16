@@ -1,0 +1,9 @@
+name: Compatible discrete implementation
+payloads:
+- crlf-injection_payload_1_heart
+- crlf-injection_payload_2_reflect
+- crlf-injection_payload_3_our
+- crlf-injection_payload_4_magazine
+- crlf-injection_payload_5_almost
+severity: medium
+type: crlf-injection

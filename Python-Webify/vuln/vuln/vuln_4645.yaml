@@ -1,0 +1,9 @@
+name: Configurable analyzing adapter
+payloads:
+- file-upload_payload_1_summer
+- file-upload_payload_2_dog
+- file-upload_payload_3_floor
+- file-upload_payload_4_fire
+- file-upload_payload_5_age
+severity: high
+type: file-upload

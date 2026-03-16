@@ -1,0 +1,9 @@
+name: Networked secondary framework
+payloads:
+- crlf-injection_payload_1_production
+- crlf-injection_payload_2_true
+- crlf-injection_payload_3_police
+- crlf-injection_payload_4_coach
+- crlf-injection_payload_5_floor
+severity: critical
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Grass-roots dynamic policy
+payloads:
+- nosql-injection_payload_1_according
+- nosql-injection_payload_2_from
+- nosql-injection_payload_3_bar
+- nosql-injection_payload_4_maybe
+- nosql-injection_payload_5_be
+severity: high
+type: nosql-injection

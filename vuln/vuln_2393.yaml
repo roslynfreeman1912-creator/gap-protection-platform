@@ -1,0 +1,9 @@
+name: Innovative human-resource intranet
+payloads:
+- subdomain-takeover_payload_1_three
+- subdomain-takeover_payload_2_thousand
+- subdomain-takeover_payload_3_bag
+- subdomain-takeover_payload_4_different
+- subdomain-takeover_payload_5_pay
+severity: critical
+type: subdomain-takeover

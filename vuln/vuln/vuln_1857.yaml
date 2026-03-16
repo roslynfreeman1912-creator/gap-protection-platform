@@ -1,0 +1,9 @@
+name: Monitored systematic collaboration
+payloads:
+- ssti_payload_1_imagine
+- ssti_payload_2_increase
+- ssti_payload_3_red
+- ssti_payload_4_employee
+- ssti_payload_5_soon
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Organized bandwidth-monitored neural-net
+payloads:
+- file-upload_payload_1_help
+- file-upload_payload_2_election
+- file-upload_payload_3_attorney
+- file-upload_payload_4_player
+- file-upload_payload_5_natural
+severity: low
+type: file-upload

@@ -1,0 +1,9 @@
+name: Re-contextualized client-driven productivity
+payloads:
+- ldap-injection_payload_1_pull
+- ldap-injection_payload_2_herself
+- ldap-injection_payload_3_spring
+- ldap-injection_payload_4_Mrs
+- ldap-injection_payload_5_likely
+severity: high
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Cross-group scalable system engine
+payloads:
+- clickjacking_payload_1_able
+- clickjacking_payload_2_hold
+- clickjacking_payload_3_become
+- clickjacking_payload_4_himself
+- clickjacking_payload_5_set
+severity: low
+type: clickjacking

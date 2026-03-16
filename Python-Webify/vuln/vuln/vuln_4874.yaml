@@ -1,0 +1,9 @@
+name: Configurable reciprocal encryption
+payloads:
+- csp-bypass_payload_1_sort
+- csp-bypass_payload_2_move
+- csp-bypass_payload_3_young
+- csp-bypass_payload_4_war
+- csp-bypass_payload_5_off
+severity: critical
+type: csp-bypass

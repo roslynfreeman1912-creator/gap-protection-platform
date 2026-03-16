@@ -1,0 +1,9 @@
+name: Profit-focused encompassing encryption
+payloads:
+- lfi_payload_1_name
+- lfi_payload_2_less
+- lfi_payload_3_know
+- lfi_payload_4_rest
+- lfi_payload_5_catch
+severity: critical
+type: lfi

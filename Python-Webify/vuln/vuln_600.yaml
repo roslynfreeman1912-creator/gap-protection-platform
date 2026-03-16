@@ -1,0 +1,9 @@
+name: Mandatory logistical hub
+payloads:
+- frame-injection_payload_1_couple
+- frame-injection_payload_2_whatever
+- frame-injection_payload_3_impact
+- frame-injection_payload_4_piece
+- frame-injection_payload_5_commercial
+severity: critical
+type: frame-injection

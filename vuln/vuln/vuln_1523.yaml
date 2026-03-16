@@ -1,0 +1,9 @@
+name: Advanced multimedia protocol
+payloads:
+- hsts-misconfig_payload_1_beautiful
+- hsts-misconfig_payload_2_statement
+- hsts-misconfig_payload_3_shoulder
+- hsts-misconfig_payload_4_organization
+- hsts-misconfig_payload_5_benefit
+severity: medium
+type: hsts-misconfig

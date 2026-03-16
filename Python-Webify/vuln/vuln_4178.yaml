@@ -1,0 +1,9 @@
+name: Open-source zero administration architecture
+payloads:
+- lfi_payload_1_subject
+- lfi_payload_2_point
+- lfi_payload_3_machine
+- lfi_payload_4_chair
+- lfi_payload_5_according
+severity: low
+type: lfi

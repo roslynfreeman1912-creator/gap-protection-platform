@@ -1,0 +1,9 @@
+name: Operative actuating secured line
+payloads:
+- javascript-injection_payload_1_miss
+- javascript-injection_payload_2_international
+- javascript-injection_payload_3_shake
+- javascript-injection_payload_4_car
+- javascript-injection_payload_5_seem
+severity: high
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Switchable background flexibility
+payloads:
+- xss_payload_1_tough
+- xss_payload_2_where
+- xss_payload_3_day
+- xss_payload_4_past
+- xss_payload_5_sound
+severity: high
+type: xss

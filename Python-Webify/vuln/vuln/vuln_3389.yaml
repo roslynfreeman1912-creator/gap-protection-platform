@@ -1,0 +1,9 @@
+name: Exclusive incremental projection
+payloads:
+- clickjacking_payload_1_hold
+- clickjacking_payload_2_manage
+- clickjacking_payload_3_exactly
+- clickjacking_payload_4_part
+- clickjacking_payload_5_care
+severity: high
+type: clickjacking

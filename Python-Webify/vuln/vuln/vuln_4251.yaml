@@ -1,0 +1,9 @@
+name: Stand-alone dedicated access
+payloads:
+- sql_payload_1_center
+- sql_payload_2_but
+- sql_payload_3_fish
+- sql_payload_4_have
+- sql_payload_5_over
+severity: critical
+type: sql

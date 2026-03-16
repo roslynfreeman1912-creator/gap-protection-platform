@@ -1,0 +1,9 @@
+name: Integrated composite collaboration
+payloads:
+- jsonp-injection_payload_1_like
+- jsonp-injection_payload_2_walk
+- jsonp-injection_payload_3_though
+- jsonp-injection_payload_4_cut
+- jsonp-injection_payload_5_prove
+severity: critical
+type: jsonp-injection

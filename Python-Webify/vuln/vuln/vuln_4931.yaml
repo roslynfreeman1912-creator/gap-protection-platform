@@ -1,0 +1,9 @@
+name: Visionary analyzing workforce
+payloads:
+- csrf_payload_1_cut
+- csrf_payload_2_that
+- csrf_payload_3_shake
+- csrf_payload_4_energy
+- csrf_payload_5_commercial
+severity: low
+type: csrf

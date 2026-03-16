@@ -1,0 +1,9 @@
+name: Horizontal radical Graphical User Interface
+payloads:
+- clickjacking_payload_1_still
+- clickjacking_payload_2_social
+- clickjacking_payload_3_represent
+- clickjacking_payload_4_analysis
+- clickjacking_payload_5_from
+severity: medium
+type: clickjacking

@@ -1,0 +1,9 @@
+name: User-friendly bi-directional database
+payloads:
+- xss_payload_1_police
+- xss_payload_2_south
+- xss_payload_3_these
+- xss_payload_4_data
+- xss_payload_5_land
+severity: high
+type: xss

@@ -1,0 +1,9 @@
+name: Customizable next generation migration
+payloads:
+- clickjacking_payload_1_former
+- clickjacking_payload_2_mention
+- clickjacking_payload_3_certainly
+- clickjacking_payload_4_sister
+- clickjacking_payload_5_full
+severity: medium
+type: clickjacking

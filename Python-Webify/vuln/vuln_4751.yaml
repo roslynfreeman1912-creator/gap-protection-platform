@@ -1,0 +1,9 @@
+name: Vision-oriented coherent service-desk
+payloads:
+- sql_payload_1_wrong
+- sql_payload_2_remain
+- sql_payload_3_decade
+- sql_payload_4_second
+- sql_payload_5_close
+severity: high
+type: sql

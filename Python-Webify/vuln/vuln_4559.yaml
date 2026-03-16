@@ -1,0 +1,9 @@
+name: Reactive radical collaboration
+payloads:
+- path-traversal_payload_1_sometimes
+- path-traversal_payload_2_yourself
+- path-traversal_payload_3_perhaps
+- path-traversal_payload_4_support
+- path-traversal_payload_5_product
+severity: critical
+type: path-traversal

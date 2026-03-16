@@ -1,0 +1,9 @@
+name: Phased tangible intranet
+payloads:
+- javascript-injection_payload_1_speak
+- javascript-injection_payload_2_imagine
+- javascript-injection_payload_3_worker
+- javascript-injection_payload_4_have
+- javascript-injection_payload_5_whole
+severity: high
+type: javascript-injection

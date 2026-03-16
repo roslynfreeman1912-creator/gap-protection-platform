@@ -1,0 +1,9 @@
+name: Focused secondary forecast
+payloads:
+- nosql-injection_payload_1_control
+- nosql-injection_payload_2_finish
+- nosql-injection_payload_3_man
+- nosql-injection_payload_4_room
+- nosql-injection_payload_5_grow
+severity: low
+type: nosql-injection

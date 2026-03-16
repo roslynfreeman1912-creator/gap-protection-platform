@@ -1,0 +1,9 @@
+name: Extended 3rdgeneration customer loyalty
+payloads:
+- host-header-injection_payload_1_effect
+- host-header-injection_payload_2_agree
+- host-header-injection_payload_3_to
+- host-header-injection_payload_4_however
+- host-header-injection_payload_5_successful
+severity: medium
+type: host-header-injection

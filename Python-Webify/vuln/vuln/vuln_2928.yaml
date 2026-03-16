@@ -1,0 +1,9 @@
+name: Seamless multi-state customer loyalty
+payloads:
+- lfi_payload_1_catch
+- lfi_payload_2_others
+- lfi_payload_3_pressure
+- lfi_payload_4_late
+- lfi_payload_5_friend
+severity: low
+type: lfi

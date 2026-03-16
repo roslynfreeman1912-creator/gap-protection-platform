@@ -1,0 +1,9 @@
+name: Devolved mission-critical migration
+payloads:
+- subdomain-takeover_payload_1_artist
+- subdomain-takeover_payload_2_thing
+- subdomain-takeover_payload_3_issue
+- subdomain-takeover_payload_4_bit
+- subdomain-takeover_payload_5_very
+severity: low
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Triple-buffered high-level forecast
+payloads:
+- clickjacking_payload_1_event
+- clickjacking_payload_2_out
+- clickjacking_payload_3_letter
+- clickjacking_payload_4_she
+- clickjacking_payload_5_beat
+severity: low
+type: clickjacking

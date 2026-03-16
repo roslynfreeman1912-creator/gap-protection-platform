@@ -1,0 +1,9 @@
+name: Persevering real-time strategy
+payloads:
+- nosql-injection_payload_1_exactly
+- nosql-injection_payload_2_choose
+- nosql-injection_payload_3_something
+- nosql-injection_payload_4_member
+- nosql-injection_payload_5_rule
+severity: critical
+type: nosql-injection

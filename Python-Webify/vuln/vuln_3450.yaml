@@ -1,0 +1,9 @@
+name: Down-sized 6thgeneration process improvement
+payloads:
+- frame-injection_payload_1_contain
+- frame-injection_payload_2_recently
+- frame-injection_payload_3_appear
+- frame-injection_payload_4_piece
+- frame-injection_payload_5_dinner
+severity: low
+type: frame-injection

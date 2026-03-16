@@ -1,0 +1,9 @@
+name: Reduced directional throughput
+payloads:
+- file-upload_payload_1_sit
+- file-upload_payload_2_wide
+- file-upload_payload_3_new
+- file-upload_payload_4_quality
+- file-upload_payload_5_crime
+severity: critical
+type: file-upload

@@ -1,0 +1,9 @@
+name: Function-based national project
+payloads:
+- tabnabbing_payload_1_understand
+- tabnabbing_payload_2_amount
+- tabnabbing_payload_3_let
+- tabnabbing_payload_4_price
+- tabnabbing_payload_5_mother
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Multi-lateral non-volatile attitude
+payloads:
+- open-redirect_payload_1_fall
+- open-redirect_payload_2_his
+- open-redirect_payload_3_address
+- open-redirect_payload_4_expect
+- open-redirect_payload_5_big
+severity: medium
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Implemented executive middleware
+payloads:
+- frame-injection_payload_1_raise
+- frame-injection_payload_2_we
+- frame-injection_payload_3_natural
+- frame-injection_payload_4_town
+- frame-injection_payload_5_suffer
+severity: high
+type: frame-injection

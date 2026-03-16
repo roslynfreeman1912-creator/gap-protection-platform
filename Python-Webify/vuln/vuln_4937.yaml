@@ -1,0 +1,9 @@
+name: Horizontal tangible framework
+payloads:
+- ldap-injection_payload_1_rule
+- ldap-injection_payload_2_state
+- ldap-injection_payload_3_history
+- ldap-injection_payload_4_entire
+- ldap-injection_payload_5_hand
+severity: medium
+type: ldap-injection

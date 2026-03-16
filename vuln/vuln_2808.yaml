@@ -1,0 +1,9 @@
+name: Mandatory foreground extranet
+payloads:
+- command-injection_payload_1_live
+- command-injection_payload_2_human
+- command-injection_payload_3_father
+- command-injection_payload_4_you
+- command-injection_payload_5_property
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Integrated maximized contingency
+payloads:
+- rfi_payload_1_Democrat
+- rfi_payload_2_easy
+- rfi_payload_3_general
+- rfi_payload_4_movie
+- rfi_payload_5_get
+severity: medium
+type: rfi

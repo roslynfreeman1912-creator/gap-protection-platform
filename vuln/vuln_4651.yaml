@@ -1,0 +1,9 @@
+name: Vision-oriented reciprocal service-desk
+payloads:
+- sql_payload_1_bank
+- sql_payload_2_kind
+- sql_payload_3_just
+- sql_payload_4_buy
+- sql_payload_5_glass
+severity: medium
+type: sql

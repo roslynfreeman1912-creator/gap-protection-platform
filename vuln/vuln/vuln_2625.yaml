@@ -1,0 +1,9 @@
+name: Mandatory grid-enabled circuit
+payloads:
+- frame-injection_payload_1_game
+- frame-injection_payload_2_mother
+- frame-injection_payload_3_generation
+- frame-injection_payload_4_huge
+- frame-injection_payload_5_building
+severity: medium
+type: frame-injection

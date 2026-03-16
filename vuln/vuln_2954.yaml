@@ -1,0 +1,9 @@
+name: Optional radical alliance
+payloads:
+- rfi_payload_1_entire
+- rfi_payload_2_success
+- rfi_payload_3_sign
+- rfi_payload_4_for
+- rfi_payload_5_per
+severity: high
+type: rfi

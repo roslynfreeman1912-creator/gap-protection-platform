@@ -1,0 +1,9 @@
+name: Horizontal contextually-based concept
+payloads:
+- csp-bypass_payload_1_next
+- csp-bypass_payload_2_its
+- csp-bypass_payload_3_listen
+- csp-bypass_payload_4_no
+- csp-bypass_payload_5_home
+severity: medium
+type: csp-bypass

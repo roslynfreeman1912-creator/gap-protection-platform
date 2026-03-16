@@ -1,0 +1,9 @@
+name: Multi-lateral logistical alliance
+payloads:
+- host-header-injection_payload_1_usually
+- host-header-injection_payload_2_at
+- host-header-injection_payload_3_any
+- host-header-injection_payload_4_way
+- host-header-injection_payload_5_tax
+severity: medium
+type: host-header-injection

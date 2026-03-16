@@ -1,0 +1,9 @@
+name: Customer-focused fresh-thinking functionalities
+payloads:
+- rfi_payload_1_recognize
+- rfi_payload_2_language
+- rfi_payload_3_could
+- rfi_payload_4_message
+- rfi_payload_5_better
+severity: medium
+type: rfi

@@ -1,0 +1,9 @@
+name: Inverse content-based product
+payloads:
+- path-traversal_payload_1_couple
+- path-traversal_payload_2_within
+- path-traversal_payload_3_many
+- path-traversal_payload_4_court
+- path-traversal_payload_5_realize
+severity: medium
+type: path-traversal

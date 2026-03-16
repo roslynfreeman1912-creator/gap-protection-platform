@@ -1,0 +1,9 @@
+name: Centralized user-facing architecture
+payloads:
+- clickjacking_payload_1_detail
+- clickjacking_payload_2_wide
+- clickjacking_payload_3_follow
+- clickjacking_payload_4_day
+- clickjacking_payload_5_author
+severity: critical
+type: clickjacking

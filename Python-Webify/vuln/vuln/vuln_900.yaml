@@ -1,0 +1,9 @@
+name: Persevering client-server knowledgebase
+payloads:
+- frame-injection_payload_1_phone
+- frame-injection_payload_2_machine
+- frame-injection_payload_3_base
+- frame-injection_payload_4_so
+- frame-injection_payload_5_cover
+severity: low
+type: frame-injection

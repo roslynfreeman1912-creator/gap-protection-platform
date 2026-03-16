@@ -1,0 +1,9 @@
+name: Total asymmetric groupware
+payloads:
+- xss_payload_1_each
+- xss_payload_2_begin
+- xss_payload_3_candidate
+- xss_payload_4_general
+- xss_payload_5_school
+severity: high
+type: xss

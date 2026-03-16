@@ -1,0 +1,9 @@
+name: Horizontal foreground middleware
+payloads:
+- host-header-injection_payload_1_until
+- host-header-injection_payload_2_able
+- host-header-injection_payload_3_effort
+- host-header-injection_payload_4_parent
+- host-header-injection_payload_5_evening
+severity: high
+type: host-header-injection

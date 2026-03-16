@@ -1,0 +1,9 @@
+name: Ameliorated object-oriented methodology
+payloads:
+- rfi_payload_1_remember
+- rfi_payload_2_stay
+- rfi_payload_3_grow
+- rfi_payload_4_mention
+- rfi_payload_5_process
+severity: low
+type: rfi

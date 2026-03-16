@@ -1,0 +1,9 @@
+name: Focused actuating instruction set
+payloads:
+- clickjacking_payload_1_care
+- clickjacking_payload_2_country
+- clickjacking_payload_3_recent
+- clickjacking_payload_4_student
+- clickjacking_payload_5_off
+severity: medium
+type: clickjacking

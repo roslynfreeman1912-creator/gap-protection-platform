@@ -1,0 +1,9 @@
+name: Re-engineered background adapter
+payloads:
+- ssti_payload_1_guy
+- ssti_payload_2_under
+- ssti_payload_3_Republican
+- ssti_payload_4_if
+- ssti_payload_5_same
+severity: low
+type: ssti

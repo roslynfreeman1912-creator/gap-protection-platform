@@ -1,0 +1,9 @@
+name: Inverse 4thgeneration success
+payloads:
+- subdomain-takeover_payload_1_believe
+- subdomain-takeover_payload_2_fill
+- subdomain-takeover_payload_3_suggest
+- subdomain-takeover_payload_4_sign
+- subdomain-takeover_payload_5_learn
+severity: high
+type: subdomain-takeover

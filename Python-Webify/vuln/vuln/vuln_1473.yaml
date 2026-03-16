@@ -1,0 +1,9 @@
+name: Centralized zero-defect paradigm
+payloads:
+- hsts-misconfig_payload_1_serve
+- hsts-misconfig_payload_2_home
+- hsts-misconfig_payload_3_cold
+- hsts-misconfig_payload_4_establish
+- hsts-misconfig_payload_5_sea
+severity: low
+type: hsts-misconfig

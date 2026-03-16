@@ -1,0 +1,9 @@
+name: Re-engineered solution-oriented productivity
+payloads:
+- file-upload_payload_1_kitchen
+- file-upload_payload_2_its
+- file-upload_payload_3_simple
+- file-upload_payload_4_oil
+- file-upload_payload_5_his
+severity: low
+type: file-upload

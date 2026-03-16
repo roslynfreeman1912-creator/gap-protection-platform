@@ -1,0 +1,9 @@
+name: Multi-tiered full-range instruction set
+payloads:
+- open-redirect_payload_1_inside
+- open-redirect_payload_2_occur
+- open-redirect_payload_3_newspaper
+- open-redirect_payload_4_wish
+- open-redirect_payload_5_something
+severity: medium
+type: open-redirect

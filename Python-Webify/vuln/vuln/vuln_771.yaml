@@ -1,0 +1,9 @@
+name: Advanced local Graphic Interface
+payloads:
+- mime-sniffing_payload_1_interest
+- mime-sniffing_payload_2_north
+- mime-sniffing_payload_3_week
+- mime-sniffing_payload_4_center
+- mime-sniffing_payload_5_ahead
+severity: medium
+type: mime-sniffing

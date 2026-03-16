@@ -1,0 +1,9 @@
+name: De-engineered national paradigm
+payloads:
+- xxe_payload_1_low
+- xxe_payload_2_produce
+- xxe_payload_3_hotel
+- xxe_payload_4_western
+- xxe_payload_5_election
+severity: high
+type: xxe

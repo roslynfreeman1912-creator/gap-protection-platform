@@ -1,0 +1,9 @@
+name: Operative tangible policy
+payloads:
+- nosql-injection_payload_1_minute
+- nosql-injection_payload_2_yourself
+- nosql-injection_payload_3_national
+- nosql-injection_payload_4_everything
+- nosql-injection_payload_5_pick
+severity: low
+type: nosql-injection

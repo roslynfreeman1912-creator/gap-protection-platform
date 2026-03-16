@@ -1,0 +1,9 @@
+name: Balanced homogeneous projection
+payloads:
+- xxe_payload_1_defense
+- xxe_payload_2_spend
+- xxe_payload_3_large
+- xxe_payload_4_address
+- xxe_payload_5_support
+severity: low
+type: xxe

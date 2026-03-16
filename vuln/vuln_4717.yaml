@@ -1,0 +1,9 @@
+name: Re-engineered modular software
+payloads:
+- host-header-injection_payload_1_coach
+- host-header-injection_payload_2_such
+- host-header-injection_payload_3_identify
+- host-header-injection_payload_4_want
+- host-header-injection_payload_5_loss
+severity: medium
+type: host-header-injection

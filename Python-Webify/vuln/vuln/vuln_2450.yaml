@@ -1,0 +1,9 @@
+name: Focused composite concept
+payloads:
+- frame-injection_payload_1_himself
+- frame-injection_payload_2_amount
+- frame-injection_payload_3_six
+- frame-injection_payload_4_plan
+- frame-injection_payload_5_thought
+severity: medium
+type: frame-injection

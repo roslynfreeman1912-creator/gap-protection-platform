@@ -1,0 +1,9 @@
+name: Sharable tangible conglomeration
+payloads:
+- csp-bypass_payload_1_activity
+- csp-bypass_payload_2_decade
+- csp-bypass_payload_3_learn
+- csp-bypass_payload_4_little
+- csp-bypass_payload_5_turn
+severity: critical
+type: csp-bypass

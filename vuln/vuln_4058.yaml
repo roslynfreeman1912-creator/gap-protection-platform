@@ -1,0 +1,9 @@
+name: Enterprise-wide value-added structure
+payloads:
+- command-injection_payload_1_meeting
+- command-injection_payload_2_how
+- command-injection_payload_3_air
+- command-injection_payload_4_never
+- command-injection_payload_5_challenge
+severity: critical
+type: command-injection

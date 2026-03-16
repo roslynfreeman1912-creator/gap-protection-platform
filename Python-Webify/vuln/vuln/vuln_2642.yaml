@@ -1,0 +1,9 @@
+name: Grass-roots cohesive pricing structure
+payloads:
+- host-header-injection_payload_1_trade
+- host-header-injection_payload_2_Mr
+- host-header-injection_payload_3_use
+- host-header-injection_payload_4_person
+- host-header-injection_payload_5_program
+severity: critical
+type: host-header-injection

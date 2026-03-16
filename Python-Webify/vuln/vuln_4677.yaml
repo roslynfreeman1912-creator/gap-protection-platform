@@ -1,0 +1,9 @@
+name: Compatible full-range productivity
+payloads:
+- xss_payload_1_thus
+- xss_payload_2_you
+- xss_payload_3_politics
+- xss_payload_4_write
+- xss_payload_5_look
+severity: critical
+type: xss

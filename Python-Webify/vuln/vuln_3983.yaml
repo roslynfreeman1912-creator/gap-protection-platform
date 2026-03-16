@@ -1,0 +1,9 @@
+name: Switchable interactive toolset
+payloads:
+- command-injection_payload_1_every
+- command-injection_payload_2_away
+- command-injection_payload_3_top
+- command-injection_payload_4_fine
+- command-injection_payload_5_himself
+severity: critical
+type: command-injection

@@ -1,0 +1,9 @@
+name: De-engineered bottom-line architecture
+payloads:
+- open-redirect_payload_1_apply
+- open-redirect_payload_2_ball
+- open-redirect_payload_3_condition
+- open-redirect_payload_4_claim
+- open-redirect_payload_5_mean
+severity: low
+type: open-redirect

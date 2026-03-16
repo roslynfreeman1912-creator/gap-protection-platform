@@ -1,0 +1,9 @@
+name: Proactive systematic website
+payloads:
+- nosql-injection_payload_1_court
+- nosql-injection_payload_2_law
+- nosql-injection_payload_3_throughout
+- nosql-injection_payload_4_summer
+- nosql-injection_payload_5_once
+severity: low
+type: nosql-injection

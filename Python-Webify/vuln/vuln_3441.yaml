@@ -1,0 +1,9 @@
+name: Digitized dynamic Local Area Network
+payloads:
+- crlf-injection_payload_1_from
+- crlf-injection_payload_2_describe
+- crlf-injection_payload_3_cause
+- crlf-injection_payload_4_main
+- crlf-injection_payload_5_every
+severity: medium
+type: crlf-injection

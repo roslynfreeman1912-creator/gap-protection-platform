@@ -1,0 +1,9 @@
+name: Polarized actuating task-force
+payloads:
+- sql_payload_1_head
+- sql_payload_2_wall
+- sql_payload_3_garden
+- sql_payload_4_affect
+- sql_payload_5_because
+severity: critical
+type: sql

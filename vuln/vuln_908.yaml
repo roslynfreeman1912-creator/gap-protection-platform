@@ -1,0 +1,9 @@
+name: Organic value-added matrices
+payloads:
+- command-injection_payload_1_list
+- command-injection_payload_2_foreign
+- command-injection_payload_3_get
+- command-injection_payload_4_buy
+- command-injection_payload_5_former
+severity: low
+type: command-injection

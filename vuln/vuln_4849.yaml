@@ -1,0 +1,9 @@
+name: Multi-layered 24hour secured line
+payloads:
+- csp-bypass_payload_1_full
+- csp-bypass_payload_2_relationship
+- csp-bypass_payload_3_five
+- csp-bypass_payload_4_matter
+- csp-bypass_payload_5_foreign
+severity: medium
+type: csp-bypass

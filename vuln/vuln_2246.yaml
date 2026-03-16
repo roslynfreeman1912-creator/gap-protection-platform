@@ -1,0 +1,9 @@
+name: Organized full-range model
+payloads:
+- mime-sniffing_payload_1_himself
+- mime-sniffing_payload_2_central
+- mime-sniffing_payload_3_operation
+- mime-sniffing_payload_4_summer
+- mime-sniffing_payload_5_six
+severity: low
+type: mime-sniffing

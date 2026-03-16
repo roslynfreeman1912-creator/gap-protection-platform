@@ -1,0 +1,9 @@
+name: User-centric responsive open system
+payloads:
+- file-upload_payload_1_her
+- file-upload_payload_2_mission
+- file-upload_payload_3_turn
+- file-upload_payload_4_practice
+- file-upload_payload_5_radio
+severity: low
+type: file-upload

@@ -1,0 +1,9 @@
+name: Organic intermediate hardware
+payloads:
+- clickjacking_payload_1_which
+- clickjacking_payload_2_choice
+- clickjacking_payload_3_get
+- clickjacking_payload_4_green
+- clickjacking_payload_5_lead
+severity: medium
+type: clickjacking

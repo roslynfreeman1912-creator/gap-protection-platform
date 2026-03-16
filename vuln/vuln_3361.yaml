@@ -1,0 +1,9 @@
+name: Monitored zero administration frame
+payloads:
+- xxe_payload_1_sport
+- xxe_payload_2_hospital
+- xxe_payload_3_every
+- xxe_payload_4_court
+- xxe_payload_5_data
+severity: low
+type: xxe

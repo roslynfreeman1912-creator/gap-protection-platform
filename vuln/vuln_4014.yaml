@@ -1,0 +1,9 @@
+name: Open-source solution-oriented conglomeration
+payloads:
+- clickjacking_payload_1_station
+- clickjacking_payload_2_continue
+- clickjacking_payload_3_law
+- clickjacking_payload_4_behind
+- clickjacking_payload_5_parent
+severity: high
+type: clickjacking

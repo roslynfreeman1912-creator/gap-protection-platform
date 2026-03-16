@@ -1,0 +1,9 @@
+name: Distributed tertiary Graphical User Interface
+payloads:
+- file-upload_payload_1_which
+- file-upload_payload_2_gun
+- file-upload_payload_3_either
+- file-upload_payload_4_certainly
+- file-upload_payload_5_economy
+severity: low
+type: file-upload

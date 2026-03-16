@@ -1,0 +1,9 @@
+name: Reverse-engineered national budgetary management
+payloads:
+- mime-sniffing_payload_1_seem
+- mime-sniffing_payload_2_add
+- mime-sniffing_payload_3_reveal
+- mime-sniffing_payload_4_whatever
+- mime-sniffing_payload_5_still
+severity: medium
+type: mime-sniffing

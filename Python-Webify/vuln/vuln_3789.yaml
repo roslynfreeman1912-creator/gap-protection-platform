@@ -1,0 +1,9 @@
+name: Integrated solution-oriented hardware
+payloads:
+- clickjacking_payload_1_address
+- clickjacking_payload_2_when
+- clickjacking_payload_3_education
+- clickjacking_payload_4_themselves
+- clickjacking_payload_5_cultural
+severity: low
+type: clickjacking

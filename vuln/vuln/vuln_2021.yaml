@@ -1,0 +1,9 @@
+name: Enhanced content-based architecture
+payloads:
+- mime-sniffing_payload_1_already
+- mime-sniffing_payload_2_education
+- mime-sniffing_payload_3_politics
+- mime-sniffing_payload_4_star
+- mime-sniffing_payload_5_rock
+severity: medium
+type: mime-sniffing

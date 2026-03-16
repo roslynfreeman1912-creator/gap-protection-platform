@@ -1,0 +1,9 @@
+name: Multi-lateral clear-thinking standardization
+payloads:
+- path-traversal_payload_1_small
+- path-traversal_payload_2_million
+- path-traversal_payload_3_public
+- path-traversal_payload_4_along
+- path-traversal_payload_5_book
+severity: critical
+type: path-traversal

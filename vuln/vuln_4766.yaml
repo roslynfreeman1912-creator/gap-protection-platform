@@ -1,0 +1,9 @@
+name: Re-engineered bottom-line Internet solution
+payloads:
+- crlf-injection_payload_1_much
+- crlf-injection_payload_2_throughout
+- crlf-injection_payload_3_weight
+- crlf-injection_payload_4_to
+- crlf-injection_payload_5_stop
+severity: critical
+type: crlf-injection

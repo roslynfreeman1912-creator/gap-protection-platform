@@ -1,0 +1,9 @@
+name: Phased actuating ability
+payloads:
+- jsonp-injection_payload_1_cover
+- jsonp-injection_payload_2_full
+- jsonp-injection_payload_3_mother
+- jsonp-injection_payload_4_season
+- jsonp-injection_payload_5_sure
+severity: medium
+type: jsonp-injection

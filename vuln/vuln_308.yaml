@@ -1,0 +1,9 @@
+name: Decentralized actuating toolset
+payloads:
+- command-injection_payload_1_evidence
+- command-injection_payload_2_stock
+- command-injection_payload_3_enter
+- command-injection_payload_4_cause
+- command-injection_payload_5_policy
+severity: critical
+type: command-injection

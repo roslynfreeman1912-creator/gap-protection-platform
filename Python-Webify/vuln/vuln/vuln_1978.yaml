@@ -1,0 +1,9 @@
+name: Progressive object-oriented infrastructure
+payloads:
+- lfi_payload_1_hospital
+- lfi_payload_2_dog
+- lfi_payload_3_along
+- lfi_payload_4_month
+- lfi_payload_5_face
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: Implemented user-facing matrix
+payloads:
+- csp-bypass_payload_1_late
+- csp-bypass_payload_2_look
+- csp-bypass_payload_3_market
+- csp-bypass_payload_4_south
+- csp-bypass_payload_5_himself
+severity: critical
+type: csp-bypass

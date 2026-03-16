@@ -1,0 +1,9 @@
+name: Optional local flexibility
+payloads:
+- rfi_payload_1_politics
+- rfi_payload_2_high
+- rfi_payload_3_wind
+- rfi_payload_4_hour
+- rfi_payload_5_describe
+severity: medium
+type: rfi

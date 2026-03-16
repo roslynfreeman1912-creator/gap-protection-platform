@@ -1,0 +1,9 @@
+name: User-friendly mobile framework
+payloads:
+- open-redirect_payload_1_suffer
+- open-redirect_payload_2_prepare
+- open-redirect_payload_3_respond
+- open-redirect_payload_4_work
+- open-redirect_payload_5_down
+severity: high
+type: open-redirect

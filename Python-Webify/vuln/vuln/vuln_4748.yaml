@@ -1,0 +1,9 @@
+name: Integrated systematic alliance
+payloads:
+- hsts-misconfig_payload_1_clearly
+- hsts-misconfig_payload_2_ago
+- hsts-misconfig_payload_3_modern
+- hsts-misconfig_payload_4_hard
+- hsts-misconfig_payload_5_give
+severity: medium
+type: hsts-misconfig

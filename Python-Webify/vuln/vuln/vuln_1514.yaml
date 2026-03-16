@@ -1,0 +1,9 @@
+name: Self-enabling 5thgeneration task-force
+payloads:
+- clickjacking_payload_1_bar
+- clickjacking_payload_2_PM
+- clickjacking_payload_3_manage
+- clickjacking_payload_4_assume
+- clickjacking_payload_5_cell
+severity: critical
+type: clickjacking

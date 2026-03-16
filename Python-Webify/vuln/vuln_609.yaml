@@ -1,0 +1,9 @@
+name: Persistent bifurcated open system
+payloads:
+- path-traversal_payload_1_medical
+- path-traversal_payload_2_else
+- path-traversal_payload_3_fly
+- path-traversal_payload_4_look
+- path-traversal_payload_5_between
+severity: medium
+type: path-traversal

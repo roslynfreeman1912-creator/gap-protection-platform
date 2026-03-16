@@ -1,0 +1,9 @@
+name: Assimilated mission-critical service-desk
+payloads:
+- ssti_payload_1_few
+- ssti_payload_2_claim
+- ssti_payload_3_now
+- ssti_payload_4_whether
+- ssti_payload_5_stock
+severity: low
+type: ssti

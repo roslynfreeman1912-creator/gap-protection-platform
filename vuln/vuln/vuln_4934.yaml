@@ -1,0 +1,9 @@
+name: Switchable maximized frame
+payloads:
+- path-traversal_payload_1_more
+- path-traversal_payload_2_stop
+- path-traversal_payload_3_current
+- path-traversal_payload_4_response
+- path-traversal_payload_5_discussion
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Profit-focused value-added adapter
+payloads:
+- subdomain-takeover_payload_1_us
+- subdomain-takeover_payload_2_bed
+- subdomain-takeover_payload_3_pass
+- subdomain-takeover_payload_4_international
+- subdomain-takeover_payload_5_would
+severity: medium
+type: subdomain-takeover

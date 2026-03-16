@@ -1,0 +1,9 @@
+name: Cloned cohesive matrices
+payloads:
+- lfi_payload_1_seek
+- lfi_payload_2_current
+- lfi_payload_3_on
+- lfi_payload_4_through
+- lfi_payload_5_along
+severity: medium
+type: lfi

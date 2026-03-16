@@ -1,0 +1,9 @@
+name: Customizable web-enabled emulation
+payloads:
+- csp-bypass_payload_1_major
+- csp-bypass_payload_2_happen
+- csp-bypass_payload_3_enter
+- csp-bypass_payload_4_week
+- csp-bypass_payload_5_sound
+severity: critical
+type: csp-bypass

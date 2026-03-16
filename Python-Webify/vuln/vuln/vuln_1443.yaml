@@ -1,0 +1,9 @@
+name: Realigned maximized capability
+payloads:
+- subdomain-takeover_payload_1_phone
+- subdomain-takeover_payload_2_all
+- subdomain-takeover_payload_3_act
+- subdomain-takeover_payload_4_than
+- subdomain-takeover_payload_5_often
+severity: medium
+type: subdomain-takeover

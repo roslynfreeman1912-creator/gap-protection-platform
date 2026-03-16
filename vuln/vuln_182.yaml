@@ -1,0 +1,9 @@
+name: Organized motivating task-force
+payloads:
+- ssti_payload_1_institution
+- ssti_payload_2_rest
+- ssti_payload_3_present
+- ssti_payload_4_green
+- ssti_payload_5_new
+severity: high
+type: ssti

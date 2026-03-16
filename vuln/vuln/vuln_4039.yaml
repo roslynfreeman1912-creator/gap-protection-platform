@@ -1,0 +1,9 @@
+name: Open-architected fresh-thinking adapter
+payloads:
+- clickjacking_payload_1_notice
+- clickjacking_payload_2_need
+- clickjacking_payload_3_cold
+- clickjacking_payload_4_scientist
+- clickjacking_payload_5_find
+severity: high
+type: clickjacking

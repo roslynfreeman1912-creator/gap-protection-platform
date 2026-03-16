@@ -1,0 +1,9 @@
+name: Balanced attitude-oriented neural-net
+payloads:
+- mime-sniffing_payload_1_happen
+- mime-sniffing_payload_2_spend
+- mime-sniffing_payload_3_bad
+- mime-sniffing_payload_4_tax
+- mime-sniffing_payload_5_personal
+severity: high
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Operative coherent complexity
+payloads:
+- file-upload_payload_1_sister
+- file-upload_payload_2_image
+- file-upload_payload_3_throughout
+- file-upload_payload_4_son
+- file-upload_payload_5_front
+severity: critical
+type: file-upload

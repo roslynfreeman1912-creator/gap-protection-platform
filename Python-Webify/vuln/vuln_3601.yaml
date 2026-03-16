@@ -1,0 +1,9 @@
+name: Automated logistical framework
+payloads:
+- sql_payload_1_still
+- sql_payload_2_officer
+- sql_payload_3_American
+- sql_payload_4_customer
+- sql_payload_5_investment
+severity: low
+type: sql

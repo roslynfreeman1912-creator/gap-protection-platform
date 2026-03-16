@@ -1,0 +1,9 @@
+name: Robust interactive emulation
+payloads:
+- nosql-injection_payload_1_arrive
+- nosql-injection_payload_2_recently
+- nosql-injection_payload_3_key
+- nosql-injection_payload_4_effect
+- nosql-injection_payload_5_yourself
+severity: low
+type: nosql-injection

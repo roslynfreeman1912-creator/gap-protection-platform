@@ -1,0 +1,9 @@
+name: Polarized empowering standardization
+payloads:
+- path-traversal_payload_1_whole
+- path-traversal_payload_2_set
+- path-traversal_payload_3_require
+- path-traversal_payload_4_leg
+- path-traversal_payload_5_general
+severity: high
+type: path-traversal

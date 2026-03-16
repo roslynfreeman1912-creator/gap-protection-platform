@@ -1,0 +1,9 @@
+name: Automated incremental architecture
+payloads:
+- jsonp-injection_payload_1_maybe
+- jsonp-injection_payload_2_look
+- jsonp-injection_payload_3_because
+- jsonp-injection_payload_4_guess
+- jsonp-injection_payload_5_mind
+severity: low
+type: jsonp-injection

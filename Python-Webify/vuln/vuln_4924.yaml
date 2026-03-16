@@ -1,0 +1,9 @@
+name: Inverse national throughput
+payloads:
+- csp-bypass_payload_1_program
+- csp-bypass_payload_2_nothing
+- csp-bypass_payload_3_baby
+- csp-bypass_payload_4_arm
+- csp-bypass_payload_5_with
+severity: medium
+type: csp-bypass

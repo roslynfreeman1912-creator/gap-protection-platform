@@ -1,0 +1,9 @@
+name: Secured tertiary solution
+payloads:
+- hsts-misconfig_payload_1_push
+- hsts-misconfig_payload_2_land
+- hsts-misconfig_payload_3_free
+- hsts-misconfig_payload_4_investment
+- hsts-misconfig_payload_5_born
+severity: high
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Open-source impactful collaboration
+payloads:
+- host-header-injection_payload_1_bank
+- host-header-injection_payload_2_final
+- host-header-injection_payload_3_actually
+- host-header-injection_payload_4_dream
+- host-header-injection_payload_5_per
+severity: critical
+type: host-header-injection

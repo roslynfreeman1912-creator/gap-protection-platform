@@ -1,0 +1,9 @@
+name: Secured dedicated methodology
+payloads:
+- lfi_payload_1_could
+- lfi_payload_2_might
+- lfi_payload_3_them
+- lfi_payload_4_three
+- lfi_payload_5_behavior
+severity: high
+type: lfi

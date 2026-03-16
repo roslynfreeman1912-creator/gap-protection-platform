@@ -1,0 +1,9 @@
+name: Vision-oriented bottom-line functionalities
+payloads:
+- host-header-injection_payload_1_pressure
+- host-header-injection_payload_2_better
+- host-header-injection_payload_3_take
+- host-header-injection_payload_4_finally
+- host-header-injection_payload_5_money
+severity: low
+type: host-header-injection

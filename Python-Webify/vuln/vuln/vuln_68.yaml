@@ -1,0 +1,9 @@
+name: Customizable secondary focus group
+payloads:
+- subdomain-takeover_payload_1_organization
+- subdomain-takeover_payload_2_easy
+- subdomain-takeover_payload_3_knowledge
+- subdomain-takeover_payload_4_wear
+- subdomain-takeover_payload_5_control
+severity: high
+type: subdomain-takeover

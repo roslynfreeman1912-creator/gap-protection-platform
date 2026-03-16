@@ -1,0 +1,9 @@
+name: Networked clear-thinking structure
+payloads:
+- jsonp-injection_payload_1_indeed
+- jsonp-injection_payload_2_which
+- jsonp-injection_payload_3_shoulder
+- jsonp-injection_payload_4_nice
+- jsonp-injection_payload_5_religious
+severity: medium
+type: jsonp-injection

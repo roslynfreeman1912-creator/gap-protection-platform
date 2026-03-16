@@ -1,0 +1,9 @@
+name: Profound systematic strategy
+payloads:
+- host-header-injection_payload_1_value
+- host-header-injection_payload_2_hair
+- host-header-injection_payload_3_change
+- host-header-injection_payload_4_near
+- host-header-injection_payload_5_success
+severity: high
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Right-sized grid-enabled intranet
+payloads:
+- lfi_payload_1_young
+- lfi_payload_2_nation
+- lfi_payload_3_mention
+- lfi_payload_4_one
+- lfi_payload_5_buy
+severity: medium
+type: lfi

@@ -1,0 +1,9 @@
+name: Enterprise-wide intangible groupware
+payloads:
+- frame-injection_payload_1_top
+- frame-injection_payload_2_but
+- frame-injection_payload_3_often
+- frame-injection_payload_4_age
+- frame-injection_payload_5_set
+severity: low
+type: frame-injection

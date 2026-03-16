@@ -1,0 +1,9 @@
+name: Sharable optimal focus group
+payloads:
+- mime-sniffing_payload_1_best
+- mime-sniffing_payload_2_beat
+- mime-sniffing_payload_3_find
+- mime-sniffing_payload_4_hard
+- mime-sniffing_payload_5_scene
+severity: high
+type: mime-sniffing

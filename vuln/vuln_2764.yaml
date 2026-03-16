@@ -1,0 +1,9 @@
+name: De-engineered coherent workforce
+payloads:
+- clickjacking_payload_1_describe
+- clickjacking_payload_2_way
+- clickjacking_payload_3_senior
+- clickjacking_payload_4_result
+- clickjacking_payload_5_early
+severity: critical
+type: clickjacking

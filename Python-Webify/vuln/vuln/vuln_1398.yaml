@@ -1,0 +1,9 @@
+name: User-centric regional open system
+payloads:
+- hsts-misconfig_payload_1_mention
+- hsts-misconfig_payload_2_view
+- hsts-misconfig_payload_3_church
+- hsts-misconfig_payload_4_rock
+- hsts-misconfig_payload_5_country
+severity: low
+type: hsts-misconfig

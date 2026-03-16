@@ -1,0 +1,9 @@
+name: Triple-buffered didactic knowledgebase
+payloads:
+- lfi_payload_1_table
+- lfi_payload_2_more
+- lfi_payload_3_enjoy
+- lfi_payload_4_main
+- lfi_payload_5_wide
+severity: critical
+type: lfi

@@ -1,0 +1,9 @@
+name: De-engineered fresh-thinking middleware
+payloads:
+- subdomain-takeover_payload_1_return
+- subdomain-takeover_payload_2_in
+- subdomain-takeover_payload_3_west
+- subdomain-takeover_payload_4_late
+- subdomain-takeover_payload_5_deal
+severity: critical
+type: subdomain-takeover

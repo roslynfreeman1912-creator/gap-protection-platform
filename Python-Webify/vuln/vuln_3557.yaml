@@ -1,0 +1,9 @@
+name: Re-contextualized content-based utilization
+payloads:
+- ssti_payload_1_pull
+- ssti_payload_2_political
+- ssti_payload_3_issue
+- ssti_payload_4_teacher
+- ssti_payload_5_end
+severity: high
+type: ssti

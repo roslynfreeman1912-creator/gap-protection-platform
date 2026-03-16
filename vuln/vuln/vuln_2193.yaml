@@ -1,0 +1,9 @@
+name: Decentralized logistical encoding
+payloads:
+- subdomain-takeover_payload_1_Mr
+- subdomain-takeover_payload_2_support
+- subdomain-takeover_payload_3_risk
+- subdomain-takeover_payload_4_almost
+- subdomain-takeover_payload_5_real
+severity: high
+type: subdomain-takeover

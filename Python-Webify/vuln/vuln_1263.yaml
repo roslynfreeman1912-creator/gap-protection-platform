@@ -1,0 +1,9 @@
+name: Focused fresh-thinking support
+payloads:
+- nosql-injection_payload_1_area
+- nosql-injection_payload_2_nor
+- nosql-injection_payload_3_team
+- nosql-injection_payload_4_compare
+- nosql-injection_payload_5_family
+severity: low
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Progressive motivating encryption
+payloads:
+- rfi_payload_1_worry
+- rfi_payload_2_poor
+- rfi_payload_3_second
+- rfi_payload_4_go
+- rfi_payload_5_job
+severity: high
+type: rfi

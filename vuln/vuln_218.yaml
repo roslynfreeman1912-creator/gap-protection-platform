@@ -1,0 +1,9 @@
+name: Multi-tiered content-based instruction set
+payloads:
+- subdomain-takeover_payload_1_building
+- subdomain-takeover_payload_2_just
+- subdomain-takeover_payload_3_rest
+- subdomain-takeover_payload_4_town
+- subdomain-takeover_payload_5_beat
+severity: high
+type: subdomain-takeover

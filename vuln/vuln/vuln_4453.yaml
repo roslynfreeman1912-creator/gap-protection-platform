@@ -1,0 +1,9 @@
+name: Open-architected interactive strategy
+payloads:
+- lfi_payload_1_cultural
+- lfi_payload_2_whose
+- lfi_payload_3_step
+- lfi_payload_4_involve
+- lfi_payload_5_though
+severity: medium
+type: lfi

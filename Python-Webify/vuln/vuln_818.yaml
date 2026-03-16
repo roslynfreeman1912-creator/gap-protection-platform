@@ -1,0 +1,9 @@
+name: Right-sized mobile leverage
+payloads:
+- subdomain-takeover_payload_1_pattern
+- subdomain-takeover_payload_2_there
+- subdomain-takeover_payload_3_beautiful
+- subdomain-takeover_payload_4_threat
+- subdomain-takeover_payload_5_dog
+severity: high
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Grass-roots demand-driven policy
+payloads:
+- rfi_payload_1_bag
+- rfi_payload_2_inside
+- rfi_payload_3_data
+- rfi_payload_4_trade
+- rfi_payload_5_institution
+severity: medium
+type: rfi

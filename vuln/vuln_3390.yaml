@@ -1,0 +1,9 @@
+name: Progressive impactful core
+payloads:
+- jsonp-injection_payload_1_them
+- jsonp-injection_payload_2_range
+- jsonp-injection_payload_3_up
+- jsonp-injection_payload_4_word
+- jsonp-injection_payload_5_choose
+severity: critical
+type: jsonp-injection

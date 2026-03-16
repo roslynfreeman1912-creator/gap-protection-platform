@@ -1,0 +1,9 @@
+name: Proactive motivating moratorium
+payloads:
+- csrf_payload_1_much
+- csrf_payload_2_number
+- csrf_payload_3_environment
+- csrf_payload_4_mouth
+- csrf_payload_5_stuff
+severity: critical
+type: csrf

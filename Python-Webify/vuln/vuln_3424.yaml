@@ -1,0 +1,9 @@
+name: Centralized coherent methodology
+payloads:
+- csp-bypass_payload_1_wish
+- csp-bypass_payload_2_music
+- csp-bypass_payload_3_try
+- csp-bypass_payload_4_our
+- csp-bypass_payload_5_beat
+severity: high
+type: csp-bypass

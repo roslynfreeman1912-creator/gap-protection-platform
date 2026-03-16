@@ -1,0 +1,9 @@
+name: Digitized motivating protocol
+payloads:
+- csp-bypass_payload_1_free
+- csp-bypass_payload_2_land
+- csp-bypass_payload_3_voice
+- csp-bypass_payload_4_book
+- csp-bypass_payload_5_first
+severity: low
+type: csp-bypass

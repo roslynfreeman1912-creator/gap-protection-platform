@@ -1,0 +1,9 @@
+name: Focused methodical complexity
+payloads:
+- mime-sniffing_payload_1_song
+- mime-sniffing_payload_2_cup
+- mime-sniffing_payload_3_create
+- mime-sniffing_payload_4_thank
+- mime-sniffing_payload_5_now
+severity: high
+type: mime-sniffing

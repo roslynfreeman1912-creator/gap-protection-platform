@@ -1,0 +1,9 @@
+name: Balanced asymmetric encryption
+payloads:
+- file-upload_payload_1_another
+- file-upload_payload_2_interview
+- file-upload_payload_3_why
+- file-upload_payload_4_floor
+- file-upload_payload_5_drug
+severity: high
+type: file-upload

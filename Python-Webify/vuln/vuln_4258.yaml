@@ -1,0 +1,9 @@
+name: Customer-focused value-added orchestration
+payloads:
+- command-injection_payload_1_play
+- command-injection_payload_2_strategy
+- command-injection_payload_3_apply
+- command-injection_payload_4_computer
+- command-injection_payload_5_along
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Fully-configurable heuristic moratorium
+payloads:
+- csrf_payload_1_store
+- csrf_payload_2_better
+- csrf_payload_3_popular
+- csrf_payload_4_at
+- csrf_payload_5_recognize
+severity: high
+type: csrf

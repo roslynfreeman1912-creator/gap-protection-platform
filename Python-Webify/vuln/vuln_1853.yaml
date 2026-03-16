@@ -1,0 +1,9 @@
+name: Synchronized background help-desk
+payloads:
+- lfi_payload_1_successful
+- lfi_payload_2_soon
+- lfi_payload_3_event
+- lfi_payload_4_number
+- lfi_payload_5_challenge
+severity: medium
+type: lfi

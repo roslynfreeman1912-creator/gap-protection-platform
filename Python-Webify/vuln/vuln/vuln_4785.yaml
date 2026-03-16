@@ -1,0 +1,9 @@
+name: Stand-alone national knowledgebase
+payloads:
+- open-redirect_payload_1_five
+- open-redirect_payload_2_culture
+- open-redirect_payload_3_light
+- open-redirect_payload_4_machine
+- open-redirect_payload_5_suffer
+severity: low
+type: open-redirect

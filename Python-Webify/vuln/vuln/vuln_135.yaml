@@ -1,0 +1,9 @@
+name: Operative incremental function
+payloads:
+- open-redirect_payload_1_energy
+- open-redirect_payload_2_maybe
+- open-redirect_payload_3_series
+- open-redirect_payload_4_leader
+- open-redirect_payload_5_shake
+severity: low
+type: open-redirect

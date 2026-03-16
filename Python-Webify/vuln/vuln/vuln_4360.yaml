@@ -1,0 +1,9 @@
+name: Monitored dynamic methodology
+payloads:
+- open-redirect_payload_1_security
+- open-redirect_payload_2_growth
+- open-redirect_payload_3_computer
+- open-redirect_payload_4_example
+- open-redirect_payload_5_environment
+severity: medium
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Multi-channeled stable help-desk
+payloads:
+- rfi_payload_1_do
+- rfi_payload_2_itself
+- rfi_payload_3_thus
+- rfi_payload_4_main
+- rfi_payload_5_certain
+severity: critical
+type: rfi

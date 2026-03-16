@@ -1,0 +1,9 @@
+name: Up-sized object-oriented time-frame
+payloads:
+- command-injection_payload_1_away
+- command-injection_payload_2_many
+- command-injection_payload_3_nice
+- command-injection_payload_4_affect
+- command-injection_payload_5_those
+severity: critical
+type: command-injection

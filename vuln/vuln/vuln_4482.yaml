@@ -1,0 +1,9 @@
+name: Profound high-level framework
+payloads:
+- ssti_payload_1_light
+- ssti_payload_2_population
+- ssti_payload_3_finish
+- ssti_payload_4_they
+- ssti_payload_5_and
+severity: critical
+type: ssti

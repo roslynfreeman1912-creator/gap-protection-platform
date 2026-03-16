@@ -1,0 +1,9 @@
+name: Quality-focused web-enabled time-frame
+payloads:
+- file-upload_payload_1_community
+- file-upload_payload_2_medical
+- file-upload_payload_3_rest
+- file-upload_payload_4_turn
+- file-upload_payload_5_whole
+severity: medium
+type: file-upload

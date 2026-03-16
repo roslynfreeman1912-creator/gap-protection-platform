@@ -1,0 +1,9 @@
+name: Devolved solution-oriented flexibility
+payloads:
+- frame-injection_payload_1_world
+- frame-injection_payload_2_enter
+- frame-injection_payload_3_face
+- frame-injection_payload_4_stock
+- frame-injection_payload_5_sort
+severity: critical
+type: frame-injection

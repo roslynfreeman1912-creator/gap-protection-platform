@@ -1,0 +1,9 @@
+name: Operative background strategy
+payloads:
+- host-header-injection_payload_1_no
+- host-header-injection_payload_2_conference
+- host-header-injection_payload_3_trouble
+- host-header-injection_payload_4_nearly
+- host-header-injection_payload_5_word
+severity: medium
+type: host-header-injection

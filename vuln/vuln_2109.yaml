@@ -1,0 +1,9 @@
+name: Polarized content-based frame
+payloads:
+- path-traversal_payload_1_parent
+- path-traversal_payload_2_knowledge
+- path-traversal_payload_3_wait
+- path-traversal_payload_4_several
+- path-traversal_payload_5_people
+severity: high
+type: path-traversal

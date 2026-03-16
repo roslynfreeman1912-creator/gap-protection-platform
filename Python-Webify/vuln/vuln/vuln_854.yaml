@@ -1,0 +1,9 @@
+name: Function-based cohesive archive
+payloads:
+- rfi_payload_1_expect
+- rfi_payload_2_office
+- rfi_payload_3_appear
+- rfi_payload_4_sort
+- rfi_payload_5_detail
+severity: critical
+type: rfi

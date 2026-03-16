@@ -1,0 +1,9 @@
+name: Face-to-face client-server installation
+payloads:
+- sql_payload_1_moment
+- sql_payload_2_kind
+- sql_payload_3_after
+- sql_payload_4_wrong
+- sql_payload_5_throughout
+severity: medium
+type: sql

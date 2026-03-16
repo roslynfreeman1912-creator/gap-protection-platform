@@ -1,0 +1,9 @@
+name: Realigned intermediate model
+payloads:
+- csp-bypass_payload_1_throw
+- csp-bypass_payload_2_think
+- csp-bypass_payload_3_instead
+- csp-bypass_payload_4_say
+- csp-bypass_payload_5_issue
+severity: medium
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Enterprise-wide stable algorithm
+payloads:
+- nosql-injection_payload_1_hope
+- nosql-injection_payload_2_join
+- nosql-injection_payload_3_mouth
+- nosql-injection_payload_4_cold
+- nosql-injection_payload_5_just
+severity: low
+type: nosql-injection

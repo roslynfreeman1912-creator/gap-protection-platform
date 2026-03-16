@@ -1,0 +1,9 @@
+name: Virtual intermediate structure
+payloads:
+- ldap-injection_payload_1_which
+- ldap-injection_payload_2_effect
+- ldap-injection_payload_3_food
+- ldap-injection_payload_4_candidate
+- ldap-injection_payload_5_development
+severity: high
+type: ldap-injection

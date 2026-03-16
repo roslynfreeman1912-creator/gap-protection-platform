@@ -1,0 +1,9 @@
+name: De-engineered static array
+payloads:
+- open-redirect_payload_1_meet
+- open-redirect_payload_2_eat
+- open-redirect_payload_3_fill
+- open-redirect_payload_4_range
+- open-redirect_payload_5_medical
+severity: high
+type: open-redirect

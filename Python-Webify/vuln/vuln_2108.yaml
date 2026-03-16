@@ -1,0 +1,9 @@
+name: Inverse fresh-thinking firmware
+payloads:
+- command-injection_payload_1_many
+- command-injection_payload_2_pattern
+- command-injection_payload_3_could
+- command-injection_payload_4_would
+- command-injection_payload_5_money
+severity: high
+type: command-injection

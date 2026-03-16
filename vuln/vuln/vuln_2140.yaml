@@ -1,0 +1,9 @@
+name: Universal bandwidth-monitored framework
+payloads:
+- jsonp-injection_payload_1_watch
+- jsonp-injection_payload_2_whom
+- jsonp-injection_payload_3_clearly
+- jsonp-injection_payload_4_medical
+- jsonp-injection_payload_5_thus
+severity: low
+type: jsonp-injection

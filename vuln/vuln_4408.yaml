@@ -1,0 +1,9 @@
+name: User-centric regional neural-net
+payloads:
+- command-injection_payload_1_girl
+- command-injection_payload_2_also
+- command-injection_payload_3_difference
+- command-injection_payload_4_for
+- command-injection_payload_5_charge
+severity: low
+type: command-injection

@@ -1,0 +1,9 @@
+name: Multi-layered human-resource utilization
+payloads:
+- mime-sniffing_payload_1_loss
+- mime-sniffing_payload_2_on
+- mime-sniffing_payload_3_health
+- mime-sniffing_payload_4_receive
+- mime-sniffing_payload_5_society
+severity: medium
+type: mime-sniffing

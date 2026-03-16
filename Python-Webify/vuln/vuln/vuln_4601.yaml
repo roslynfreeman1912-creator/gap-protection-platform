@@ -1,0 +1,9 @@
+name: Upgradable exuding parallelism
+payloads:
+- sql_payload_1_see
+- sql_payload_2_word
+- sql_payload_3_strong
+- sql_payload_4_care
+- sql_payload_5_bill
+severity: low
+type: sql

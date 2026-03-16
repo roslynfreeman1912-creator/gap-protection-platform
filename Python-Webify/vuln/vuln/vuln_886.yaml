@@ -1,0 +1,9 @@
+name: Self-enabling demand-driven emulation
+payloads:
+- xxe_payload_1_western
+- xxe_payload_2_fund
+- xxe_payload_3_laugh
+- xxe_payload_4_door
+- xxe_payload_5_throughout
+severity: medium
+type: xxe

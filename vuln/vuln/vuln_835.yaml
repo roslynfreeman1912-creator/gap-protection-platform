@@ -1,0 +1,9 @@
+name: Implemented transitional time-frame
+payloads:
+- open-redirect_payload_1_floor
+- open-redirect_payload_2_especially
+- open-redirect_payload_3_provide
+- open-redirect_payload_4_character
+- open-redirect_payload_5_food
+severity: high
+type: open-redirect

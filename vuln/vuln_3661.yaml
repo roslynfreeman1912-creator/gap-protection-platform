@@ -1,0 +1,9 @@
+name: Virtual even-keeled solution
+payloads:
+- xxe_payload_1_continue
+- xxe_payload_2_shake
+- xxe_payload_3_new
+- xxe_payload_4_executive
+- xxe_payload_5_hand
+severity: high
+type: xxe

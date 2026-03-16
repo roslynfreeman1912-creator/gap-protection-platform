@@ -1,0 +1,9 @@
+name: Devolved reciprocal protocol
+payloads:
+- mime-sniffing_payload_1_successful
+- mime-sniffing_payload_2_state
+- mime-sniffing_payload_3_certainly
+- mime-sniffing_payload_4_put
+- mime-sniffing_payload_5_form
+severity: low
+type: mime-sniffing

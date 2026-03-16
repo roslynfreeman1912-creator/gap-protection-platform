@@ -1,0 +1,9 @@
+name: Cross-platform intermediate service-desk
+payloads:
+- path-traversal_payload_1_plan
+- path-traversal_payload_2_development
+- path-traversal_payload_3_face
+- path-traversal_payload_4_center
+- path-traversal_payload_5_condition
+severity: high
+type: path-traversal

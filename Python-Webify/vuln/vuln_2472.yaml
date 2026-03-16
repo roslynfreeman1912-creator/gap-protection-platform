@@ -1,0 +1,9 @@
+name: Expanded national customer loyalty
+payloads:
+- tabnabbing_payload_1_deal
+- tabnabbing_payload_2_him
+- tabnabbing_payload_3_sort
+- tabnabbing_payload_4_feeling
+- tabnabbing_payload_5_purpose
+severity: medium
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Function-based intermediate approach
+payloads:
+- sql_payload_1_current
+- sql_payload_2_food
+- sql_payload_3_foot
+- sql_payload_4_dream
+- sql_payload_5_budget
+severity: medium
+type: sql

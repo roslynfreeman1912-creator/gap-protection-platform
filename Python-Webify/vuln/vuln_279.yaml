@@ -1,0 +1,9 @@
+name: Distributed didactic function
+payloads:
+- rfi_payload_1_really
+- rfi_payload_2_drug
+- rfi_payload_3_expect
+- rfi_payload_4_picture
+- rfi_payload_5_while
+severity: medium
+type: rfi

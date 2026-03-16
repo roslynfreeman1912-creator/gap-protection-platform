@@ -1,0 +1,9 @@
+name: Persevering grid-enabled middleware
+payloads:
+- ldap-injection_payload_1_standard
+- ldap-injection_payload_2_recent
+- ldap-injection_payload_3_among
+- ldap-injection_payload_4_strategy
+- ldap-injection_payload_5_deep
+severity: medium
+type: ldap-injection

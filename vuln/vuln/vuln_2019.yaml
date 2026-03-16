@@ -1,0 +1,9 @@
+name: Reduced content-based Local Area Network
+payloads:
+- javascript-injection_payload_1_last
+- javascript-injection_payload_2_property
+- javascript-injection_payload_3_walk
+- javascript-injection_payload_4_cell
+- javascript-injection_payload_5_win
+severity: low
+type: javascript-injection

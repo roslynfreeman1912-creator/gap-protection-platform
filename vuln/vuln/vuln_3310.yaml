@@ -1,0 +1,9 @@
+name: Mandatory dynamic budgetary management
+payloads:
+- open-redirect_payload_1_apply
+- open-redirect_payload_2_young
+- open-redirect_payload_3_room
+- open-redirect_payload_4_stuff
+- open-redirect_payload_5_movie
+severity: high
+type: open-redirect

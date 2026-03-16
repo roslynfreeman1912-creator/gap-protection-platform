@@ -1,0 +1,9 @@
+name: Visionary directional model
+payloads:
+- ssti_payload_1_he
+- ssti_payload_2_blue
+- ssti_payload_3_expert
+- ssti_payload_4_number
+- ssti_payload_5_activity
+severity: low
+type: ssti

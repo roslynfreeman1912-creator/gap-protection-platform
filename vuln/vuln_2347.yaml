@@ -1,0 +1,9 @@
+name: Expanded systematic leverage
+payloads:
+- tabnabbing_payload_1_become
+- tabnabbing_payload_2_also
+- tabnabbing_payload_3_white
+- tabnabbing_payload_4_top
+- tabnabbing_payload_5_such
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Switchable mobile website
+payloads:
+- ssti_payload_1_window
+- ssti_payload_2_at
+- ssti_payload_3_religious
+- ssti_payload_4_whole
+- ssti_payload_5_against
+severity: high
+type: ssti

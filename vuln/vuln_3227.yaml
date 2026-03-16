@@ -1,0 +1,9 @@
+name: Open-architected zero tolerance middleware
+payloads:
+- xss_payload_1_same
+- xss_payload_2_could
+- xss_payload_3_school
+- xss_payload_4_thousand
+- xss_payload_5_special
+severity: high
+type: xss

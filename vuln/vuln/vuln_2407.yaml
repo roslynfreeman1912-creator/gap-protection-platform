@@ -1,0 +1,9 @@
+name: Enhanced actuating ability
+payloads:
+- ssti_payload_1_them
+- ssti_payload_2_operation
+- ssti_payload_3_show
+- ssti_payload_4_behavior
+- ssti_payload_5_lot
+severity: high
+type: ssti

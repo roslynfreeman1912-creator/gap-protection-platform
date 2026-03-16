@@ -1,0 +1,9 @@
+name: Proactive asymmetric methodology
+payloads:
+- subdomain-takeover_payload_1_as
+- subdomain-takeover_payload_2_particular
+- subdomain-takeover_payload_3_medical
+- subdomain-takeover_payload_4_explain
+- subdomain-takeover_payload_5_place
+severity: critical
+type: subdomain-takeover

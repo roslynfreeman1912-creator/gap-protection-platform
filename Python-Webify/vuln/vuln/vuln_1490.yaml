@@ -1,0 +1,9 @@
+name: Multi-channeled coherent implementation
+payloads:
+- jsonp-injection_payload_1_key
+- jsonp-injection_payload_2_of
+- jsonp-injection_payload_3_garden
+- jsonp-injection_payload_4_dinner
+- jsonp-injection_payload_5_interview
+severity: high
+type: jsonp-injection

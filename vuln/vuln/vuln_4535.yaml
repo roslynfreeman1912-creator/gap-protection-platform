@@ -1,0 +1,9 @@
+name: Persistent context-sensitive toolset
+payloads:
+- open-redirect_payload_1_agent
+- open-redirect_payload_2_traditional
+- open-redirect_payload_3_morning
+- open-redirect_payload_4_reduce
+- open-redirect_payload_5_particular
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Pre-emptive optimizing challenge
+payloads:
+- host-header-injection_payload_1_authority
+- host-header-injection_payload_2_represent
+- host-header-injection_payload_3_position
+- host-header-injection_payload_4_owner
+- host-header-injection_payload_5_serve
+severity: low
+type: host-header-injection

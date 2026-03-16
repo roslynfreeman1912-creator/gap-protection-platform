@@ -1,0 +1,9 @@
+name: Triple-buffered contextually-based flexibility
+payloads:
+- crlf-injection_payload_1_reflect
+- crlf-injection_payload_2_hit
+- crlf-injection_payload_3_relate
+- crlf-injection_payload_4_performance
+- crlf-injection_payload_5_window
+severity: critical
+type: crlf-injection

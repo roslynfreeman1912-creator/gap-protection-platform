@@ -1,0 +1,9 @@
+name: Operative clear-thinking Graphic Interface
+payloads:
+- javascript-injection_payload_1_article
+- javascript-injection_payload_2_large
+- javascript-injection_payload_3_wind
+- javascript-injection_payload_4_artist
+- javascript-injection_payload_5_employee
+severity: high
+type: javascript-injection

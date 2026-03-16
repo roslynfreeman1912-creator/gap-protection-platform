@@ -1,0 +1,9 @@
+name: Stand-alone 24/7 emulation
+payloads:
+- mime-sniffing_payload_1_light
+- mime-sniffing_payload_2_occur
+- mime-sniffing_payload_3_attorney
+- mime-sniffing_payload_4_find
+- mime-sniffing_payload_5_wonder
+severity: low
+type: mime-sniffing

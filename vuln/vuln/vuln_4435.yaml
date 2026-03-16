@@ -1,0 +1,9 @@
+name: User-friendly mission-critical product
+payloads:
+- open-redirect_payload_1_not
+- open-redirect_payload_2_blood
+- open-redirect_payload_3_north
+- open-redirect_payload_4_evening
+- open-redirect_payload_5_break
+severity: medium
+type: open-redirect

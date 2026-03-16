@@ -1,0 +1,9 @@
+name: Fundamental user-facing infrastructure
+payloads:
+- file-upload_payload_1_mean
+- file-upload_payload_2_call
+- file-upload_payload_3_within
+- file-upload_payload_4_generation
+- file-upload_payload_5_with
+severity: low
+type: file-upload

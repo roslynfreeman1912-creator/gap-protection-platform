@@ -1,0 +1,9 @@
+name: Exclusive bifurcated contingency
+payloads:
+- mime-sniffing_payload_1_east
+- mime-sniffing_payload_2_feeling
+- mime-sniffing_payload_3_require
+- mime-sniffing_payload_4_between
+- mime-sniffing_payload_5_win
+severity: low
+type: mime-sniffing

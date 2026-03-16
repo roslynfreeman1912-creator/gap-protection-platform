@@ -1,0 +1,9 @@
+name: Reactive coherent artificial intelligence
+payloads:
+- rfi_payload_1_have
+- rfi_payload_2_professional
+- rfi_payload_3_floor
+- rfi_payload_4_short
+- rfi_payload_5_degree
+severity: critical
+type: rfi

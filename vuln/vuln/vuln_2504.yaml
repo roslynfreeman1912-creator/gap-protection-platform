@@ -1,0 +1,9 @@
+name: Organic next generation productivity
+payloads:
+- rfi_payload_1_project
+- rfi_payload_2_floor
+- rfi_payload_3_myself
+- rfi_payload_4_paper
+- rfi_payload_5_pull
+severity: low
+type: rfi

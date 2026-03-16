@@ -1,0 +1,9 @@
+name: Persistent coherent application
+payloads:
+- clickjacking_payload_1_go
+- clickjacking_payload_2_teach
+- clickjacking_payload_3_cost
+- clickjacking_payload_4_rather
+- clickjacking_payload_5_happy
+severity: critical
+type: clickjacking

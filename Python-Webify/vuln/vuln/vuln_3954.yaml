@@ -1,0 +1,9 @@
+name: Down-sized human-resource moderator
+payloads:
+- rfi_payload_1_between
+- rfi_payload_2_play
+- rfi_payload_3_clearly
+- rfi_payload_4_about
+- rfi_payload_5_trade
+severity: medium
+type: rfi

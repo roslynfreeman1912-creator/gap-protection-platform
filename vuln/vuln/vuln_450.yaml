@@ -1,0 +1,9 @@
+name: Visionary discrete initiative
+payloads:
+- frame-injection_payload_1_finally
+- frame-injection_payload_2_general
+- frame-injection_payload_3_usually
+- frame-injection_payload_4_inside
+- frame-injection_payload_5_there
+severity: critical
+type: frame-injection

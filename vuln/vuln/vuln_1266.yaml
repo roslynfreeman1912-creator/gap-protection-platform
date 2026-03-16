@@ -1,0 +1,9 @@
+name: Cross-group logistical superstructure
+payloads:
+- crlf-injection_payload_1_end
+- crlf-injection_payload_2_student
+- crlf-injection_payload_3_should
+- crlf-injection_payload_4_out
+- crlf-injection_payload_5_town
+severity: medium
+type: crlf-injection

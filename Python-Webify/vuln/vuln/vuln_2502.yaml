@@ -1,0 +1,9 @@
+name: Up-sized intangible product
+payloads:
+- xss_payload_1_part
+- xss_payload_2_under
+- xss_payload_3_green
+- xss_payload_4_under
+- xss_payload_5_trip
+severity: low
+type: xss

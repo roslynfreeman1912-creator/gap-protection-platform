@@ -1,0 +1,9 @@
+name: Universal didactic algorithm
+payloads:
+- command-injection_payload_1_each
+- command-injection_payload_2_effect
+- command-injection_payload_3_begin
+- command-injection_payload_4_pull
+- command-injection_payload_5_say
+severity: high
+type: command-injection

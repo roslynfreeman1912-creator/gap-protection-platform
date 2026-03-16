@@ -1,0 +1,9 @@
+name: Profit-focused regional neural-net
+payloads:
+- hsts-misconfig_payload_1_see
+- hsts-misconfig_payload_2_century
+- hsts-misconfig_payload_3_visit
+- hsts-misconfig_payload_4_yeah
+- hsts-misconfig_payload_5_expert
+severity: high
+type: hsts-misconfig

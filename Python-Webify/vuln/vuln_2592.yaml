@@ -1,0 +1,9 @@
+name: Reverse-engineered grid-enabled Graphic Interface
+payloads:
+- host-header-injection_payload_1_drive
+- host-header-injection_payload_2_western
+- host-header-injection_payload_3_western
+- host-header-injection_payload_4_subject
+- host-header-injection_payload_5_lay
+severity: low
+type: host-header-injection

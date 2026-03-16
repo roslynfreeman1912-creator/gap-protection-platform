@@ -1,0 +1,9 @@
+name: Business-focused dedicated orchestration
+payloads:
+- xxe_payload_1_yourself
+- xxe_payload_2_late
+- xxe_payload_3_day
+- xxe_payload_4_expect
+- xxe_payload_5_field
+severity: medium
+type: xxe

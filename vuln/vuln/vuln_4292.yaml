@@ -1,0 +1,9 @@
+name: Centralized scalable moderator
+payloads:
+- host-header-injection_payload_1_appear
+- host-header-injection_payload_2_little
+- host-header-injection_payload_3_recognize
+- host-header-injection_payload_4_result
+- host-header-injection_payload_5_throw
+severity: high
+type: host-header-injection

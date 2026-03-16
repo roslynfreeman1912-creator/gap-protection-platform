@@ -1,0 +1,9 @@
+name: Team-oriented 5thgeneration policy
+payloads:
+- xxe_payload_1_part
+- xxe_payload_2_factor
+- xxe_payload_3_type
+- xxe_payload_4_authority
+- xxe_payload_5_first
+severity: medium
+type: xxe

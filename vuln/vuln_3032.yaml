@@ -1,0 +1,9 @@
+name: Universal actuating toolset
+payloads:
+- ssti_payload_1_land
+- ssti_payload_2_matter
+- ssti_payload_3_travel
+- ssti_payload_4_note
+- ssti_payload_5_month
+severity: low
+type: ssti

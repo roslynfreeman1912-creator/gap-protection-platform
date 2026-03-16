@@ -1,0 +1,9 @@
+name: Profit-focused interactive leverage
+payloads:
+- sql_payload_1_worker
+- sql_payload_2_fall
+- sql_payload_3_however
+- sql_payload_4_huge
+- sql_payload_5_yet
+severity: low
+type: sql

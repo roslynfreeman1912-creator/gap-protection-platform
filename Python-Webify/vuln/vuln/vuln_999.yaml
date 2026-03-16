@@ -1,0 +1,9 @@
+name: Function-based upward-trending collaboration
+payloads:
+- csp-bypass_payload_1_relate
+- csp-bypass_payload_2_wear
+- csp-bypass_payload_3_firm
+- csp-bypass_payload_4_into
+- csp-bypass_payload_5_show
+severity: critical
+type: csp-bypass

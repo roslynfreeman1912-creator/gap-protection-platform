@@ -1,0 +1,9 @@
+name: Realigned heuristic encryption
+payloads:
+- clickjacking_payload_1_court
+- clickjacking_payload_2_those
+- clickjacking_payload_3_action
+- clickjacking_payload_4_technology
+- clickjacking_payload_5_knowledge
+severity: critical
+type: clickjacking

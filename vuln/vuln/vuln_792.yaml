@@ -1,0 +1,9 @@
+name: Profit-focused zero administration pricing structure
+payloads:
+- host-header-injection_payload_1_skin
+- host-header-injection_payload_2_where
+- host-header-injection_payload_3_often
+- host-header-injection_payload_4_be
+- host-header-injection_payload_5_church
+severity: low
+type: host-header-injection

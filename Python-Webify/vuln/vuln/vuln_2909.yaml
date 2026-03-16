@@ -1,0 +1,9 @@
+name: Visionary object-oriented methodology
+payloads:
+- path-traversal_payload_1_realize
+- path-traversal_payload_2_true
+- path-traversal_payload_3_on
+- path-traversal_payload_4_thousand
+- path-traversal_payload_5_grow
+severity: high
+type: path-traversal

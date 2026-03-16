@@ -1,0 +1,9 @@
+name: Realigned bifurcated artificial intelligence
+payloads:
+- path-traversal_payload_1_color
+- path-traversal_payload_2_fly
+- path-traversal_payload_3_head
+- path-traversal_payload_4_personal
+- path-traversal_payload_5_we
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Synergized leadingedge secured line
+payloads:
+- csrf_payload_1_once
+- csrf_payload_2_police
+- csrf_payload_3_late
+- csrf_payload_4_cup
+- csrf_payload_5_language
+severity: medium
+type: csrf

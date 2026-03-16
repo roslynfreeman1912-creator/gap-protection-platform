@@ -1,0 +1,9 @@
+name: Re-contextualized user-facing paradigm
+payloads:
+- clickjacking_payload_1_window
+- clickjacking_payload_2_lay
+- clickjacking_payload_3_capital
+- clickjacking_payload_4_expert
+- clickjacking_payload_5_trial
+severity: critical
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Progressive holistic projection
+payloads:
+- subdomain-takeover_payload_1_ever
+- subdomain-takeover_payload_2_increase
+- subdomain-takeover_payload_3_man
+- subdomain-takeover_payload_4_scene
+- subdomain-takeover_payload_5_piece
+severity: critical
+type: subdomain-takeover

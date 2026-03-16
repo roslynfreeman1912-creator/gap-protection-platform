@@ -1,0 +1,9 @@
+name: Seamless bandwidth-monitored alliance
+payloads:
+- xss_payload_1_room
+- xss_payload_2_behavior
+- xss_payload_3_weight
+- xss_payload_4_really
+- xss_payload_5_yard
+severity: low
+type: xss

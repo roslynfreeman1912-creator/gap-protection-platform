@@ -1,0 +1,9 @@
+name: Pre-emptive heuristic process improvement
+payloads:
+- sql_payload_1_them
+- sql_payload_2_under
+- sql_payload_3_alone
+- sql_payload_4_future
+- sql_payload_5_economy
+severity: critical
+type: sql

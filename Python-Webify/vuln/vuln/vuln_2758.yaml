@@ -1,0 +1,9 @@
+name: Optimized bifurcated superstructure
+payloads:
+- command-injection_payload_1_choose
+- command-injection_payload_2_trial
+- command-injection_payload_3_important
+- command-injection_payload_4_tend
+- command-injection_payload_5_recognize
+severity: critical
+type: command-injection

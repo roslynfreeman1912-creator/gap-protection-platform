@@ -1,0 +1,9 @@
+name: Multi-lateral well-modulated function
+payloads:
+- javascript-injection_payload_1_tell
+- javascript-injection_payload_2_side
+- javascript-injection_payload_3_expect
+- javascript-injection_payload_4_outside
+- javascript-injection_payload_5_nearly
+severity: critical
+type: javascript-injection

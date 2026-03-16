@@ -1,0 +1,9 @@
+name: Configurable stable info-mediaries
+payloads:
+- jsonp-injection_payload_1_visit
+- jsonp-injection_payload_2_support
+- jsonp-injection_payload_3_pull
+- jsonp-injection_payload_4_take
+- jsonp-injection_payload_5_choose
+severity: high
+type: jsonp-injection

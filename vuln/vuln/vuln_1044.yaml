@@ -1,0 +1,9 @@
+name: Balanced didactic architecture
+payloads:
+- javascript-injection_payload_1_impact
+- javascript-injection_payload_2_consider
+- javascript-injection_payload_3_writer
+- javascript-injection_payload_4_court
+- javascript-injection_payload_5_TV
+severity: low
+type: javascript-injection

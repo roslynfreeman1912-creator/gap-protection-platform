@@ -1,0 +1,9 @@
+name: Upgradable user-facing array
+payloads:
+- path-traversal_payload_1_meeting
+- path-traversal_payload_2_share
+- path-traversal_payload_3_entire
+- path-traversal_payload_4_shake
+- path-traversal_payload_5_people
+severity: medium
+type: path-traversal

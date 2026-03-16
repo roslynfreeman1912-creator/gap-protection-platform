@@ -1,0 +1,9 @@
+name: Balanced maximized encoding
+payloads:
+- path-traversal_payload_1_month
+- path-traversal_payload_2_many
+- path-traversal_payload_3_also
+- path-traversal_payload_4_leave
+- path-traversal_payload_5_coach
+severity: critical
+type: path-traversal

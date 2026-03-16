@@ -1,0 +1,9 @@
+name: Multi-channeled global portal
+payloads:
+- crlf-injection_payload_1_suggest
+- crlf-injection_payload_2_information
+- crlf-injection_payload_3_business
+- crlf-injection_payload_4_first
+- crlf-injection_payload_5_yet
+severity: critical
+type: crlf-injection

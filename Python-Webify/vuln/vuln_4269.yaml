@@ -1,0 +1,9 @@
+name: Automated client-driven paradigm
+payloads:
+- javascript-injection_payload_1_finally
+- javascript-injection_payload_2_list
+- javascript-injection_payload_3_begin
+- javascript-injection_payload_4_piece
+- javascript-injection_payload_5_western
+severity: high
+type: javascript-injection

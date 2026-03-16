@@ -1,0 +1,9 @@
+name: Quality-focused tertiary strategy
+payloads:
+- nosql-injection_payload_1_return
+- nosql-injection_payload_2_level
+- nosql-injection_payload_3_certainly
+- nosql-injection_payload_4_positive
+- nosql-injection_payload_5_worker
+severity: medium
+type: nosql-injection

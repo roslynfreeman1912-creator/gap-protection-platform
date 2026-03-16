@@ -1,0 +1,9 @@
+name: Centralized scalable emulation
+payloads:
+- path-traversal_payload_1_field
+- path-traversal_payload_2_onto
+- path-traversal_payload_3_attack
+- path-traversal_payload_4_hope
+- path-traversal_payload_5_last
+severity: low
+type: path-traversal

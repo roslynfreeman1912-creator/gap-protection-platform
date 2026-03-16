@@ -1,0 +1,9 @@
+name: Grass-roots bottom-line software
+payloads:
+- xxe_payload_1_available
+- xxe_payload_2_large
+- xxe_payload_3_kitchen
+- xxe_payload_4_example
+- xxe_payload_5_foot
+severity: high
+type: xxe

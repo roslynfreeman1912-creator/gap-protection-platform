@@ -1,0 +1,9 @@
+name: Switchable multi-tasking solution
+payloads:
+- host-header-injection_payload_1_avoid
+- host-header-injection_payload_2_each
+- host-header-injection_payload_3_event
+- host-header-injection_payload_4_yet
+- host-header-injection_payload_5_most
+severity: medium
+type: host-header-injection

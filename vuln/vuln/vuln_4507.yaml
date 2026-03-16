@@ -1,0 +1,9 @@
+name: Grass-roots uniform methodology
+payloads:
+- ssti_payload_1_stage
+- ssti_payload_2_past
+- ssti_payload_3_sense
+- ssti_payload_4_pay
+- ssti_payload_5_television
+severity: medium
+type: ssti

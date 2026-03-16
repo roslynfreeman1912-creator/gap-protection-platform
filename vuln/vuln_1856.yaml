@@ -1,0 +1,9 @@
+name: Grass-roots asymmetric system engine
+payloads:
+- csrf_payload_1_fine
+- csrf_payload_2_soon
+- csrf_payload_3_national
+- csrf_payload_4_eye
+- csrf_payload_5_mouth
+severity: high
+type: csrf

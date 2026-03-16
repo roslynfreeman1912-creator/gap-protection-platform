@@ -1,0 +1,9 @@
+name: Synergized intangible strategy
+payloads:
+- csp-bypass_payload_1_newspaper
+- csp-bypass_payload_2_chair
+- csp-bypass_payload_3_open
+- csp-bypass_payload_4_wait
+- csp-bypass_payload_5_remember
+severity: medium
+type: csp-bypass

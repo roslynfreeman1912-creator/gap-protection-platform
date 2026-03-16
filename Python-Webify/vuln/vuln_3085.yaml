@@ -1,0 +1,9 @@
+name: Pre-emptive solution-oriented forecast
+payloads:
+- open-redirect_payload_1_treatment
+- open-redirect_payload_2_very
+- open-redirect_payload_3_me
+- open-redirect_payload_4_clearly
+- open-redirect_payload_5_career
+severity: critical
+type: open-redirect

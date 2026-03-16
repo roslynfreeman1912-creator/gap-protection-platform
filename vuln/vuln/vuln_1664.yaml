@@ -1,0 +1,9 @@
+name: Synchronized executive service-desk
+payloads:
+- clickjacking_payload_1_administration
+- clickjacking_payload_2_paper
+- clickjacking_payload_3_three
+- clickjacking_payload_4_source
+- clickjacking_payload_5_run
+severity: high
+type: clickjacking

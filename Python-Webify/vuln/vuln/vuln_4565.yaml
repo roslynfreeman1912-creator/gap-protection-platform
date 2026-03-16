@@ -1,0 +1,9 @@
+name: Vision-oriented zero-defect product
+payloads:
+- jsonp-injection_payload_1_beat
+- jsonp-injection_payload_2_explain
+- jsonp-injection_payload_3_truth
+- jsonp-injection_payload_4_beyond
+- jsonp-injection_payload_5_another
+severity: critical
+type: jsonp-injection

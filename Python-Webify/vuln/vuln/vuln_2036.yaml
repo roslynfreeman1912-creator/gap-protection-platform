@@ -1,0 +1,9 @@
+name: Upgradable zero administration strategy
+payloads:
+- xxe_payload_1_everything
+- xxe_payload_2_us
+- xxe_payload_3_treat
+- xxe_payload_4_follow
+- xxe_payload_5_between
+severity: critical
+type: xxe

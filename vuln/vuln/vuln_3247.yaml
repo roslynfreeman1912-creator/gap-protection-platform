@@ -1,0 +1,9 @@
+name: Reduced 24hour standardization
+payloads:
+- tabnabbing_payload_1_somebody
+- tabnabbing_payload_2_especially
+- tabnabbing_payload_3_reality
+- tabnabbing_payload_4_its
+- tabnabbing_payload_5_choose
+severity: low
+type: tabnabbing

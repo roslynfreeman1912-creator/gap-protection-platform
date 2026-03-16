@@ -1,0 +1,9 @@
+name: Profit-focused neutral paradigm
+payloads:
+- path-traversal_payload_1_sit
+- path-traversal_payload_2_generation
+- path-traversal_payload_3_stop
+- path-traversal_payload_4_which
+- path-traversal_payload_5_bag
+severity: medium
+type: path-traversal

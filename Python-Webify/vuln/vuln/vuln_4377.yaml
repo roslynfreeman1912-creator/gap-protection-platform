@@ -1,0 +1,9 @@
+name: Progressive even-keeled open architecture
+payloads:
+- xss_payload_1_defense
+- xss_payload_2_land
+- xss_payload_3_opportunity
+- xss_payload_4_total
+- xss_payload_5_receive
+severity: low
+type: xss

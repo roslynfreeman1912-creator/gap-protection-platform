@@ -1,0 +1,9 @@
+name: Assimilated empowering encryption
+payloads:
+- open-redirect_payload_1_answer
+- open-redirect_payload_2_present
+- open-redirect_payload_3_bag
+- open-redirect_payload_4_sort
+- open-redirect_payload_5_how
+severity: medium
+type: open-redirect

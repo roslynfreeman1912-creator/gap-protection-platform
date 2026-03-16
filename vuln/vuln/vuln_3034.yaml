@@ -1,0 +1,9 @@
+name: Multi-layered context-sensitive flexibility
+payloads:
+- path-traversal_payload_1_help
+- path-traversal_payload_2_ten
+- path-traversal_payload_3_approach
+- path-traversal_payload_4_and
+- path-traversal_payload_5_player
+severity: low
+type: path-traversal

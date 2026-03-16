@@ -1,0 +1,9 @@
+name: Reactive 5thgeneration leverage
+payloads:
+- subdomain-takeover_payload_1_plant
+- subdomain-takeover_payload_2_current
+- subdomain-takeover_payload_3_firm
+- subdomain-takeover_payload_4_manager
+- subdomain-takeover_payload_5_carry
+severity: critical
+type: subdomain-takeover

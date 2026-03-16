@@ -1,0 +1,9 @@
+name: Fully-configurable tangible artificial intelligence
+payloads:
+- tabnabbing_payload_1_bed
+- tabnabbing_payload_2_some
+- tabnabbing_payload_3_popular
+- tabnabbing_payload_4_condition
+- tabnabbing_payload_5_data
+severity: low
+type: tabnabbing

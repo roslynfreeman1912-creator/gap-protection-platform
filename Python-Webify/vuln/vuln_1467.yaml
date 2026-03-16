@@ -1,0 +1,9 @@
+name: Vision-oriented asynchronous contingency
+payloads:
+- host-header-injection_payload_1_detail
+- host-header-injection_payload_2_base
+- host-header-injection_payload_3_evening
+- host-header-injection_payload_4_wind
+- host-header-injection_payload_5_price
+severity: high
+type: host-header-injection

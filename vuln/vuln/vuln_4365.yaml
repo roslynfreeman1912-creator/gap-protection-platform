@@ -1,0 +1,9 @@
+name: Exclusive actuating policy
+payloads:
+- jsonp-injection_payload_1_Mrs
+- jsonp-injection_payload_2_trade
+- jsonp-injection_payload_3_have
+- jsonp-injection_payload_4_trade
+- jsonp-injection_payload_5_run
+severity: medium
+type: jsonp-injection

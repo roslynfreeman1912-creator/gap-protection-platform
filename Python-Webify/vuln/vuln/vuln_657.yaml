@@ -1,0 +1,9 @@
+name: Operative systemic synergy
+payloads:
+- ssti_payload_1_game
+- ssti_payload_2_region
+- ssti_payload_3_her
+- ssti_payload_4_pay
+- ssti_payload_5_pattern
+severity: low
+type: ssti

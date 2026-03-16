@@ -1,0 +1,9 @@
+name: Right-sized value-added moratorium
+payloads:
+- open-redirect_payload_1_seek
+- open-redirect_payload_2_coach
+- open-redirect_payload_3_whole
+- open-redirect_payload_4_its
+- open-redirect_payload_5_here
+severity: high
+type: open-redirect

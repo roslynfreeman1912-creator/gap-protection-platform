@@ -1,0 +1,9 @@
+name: Centralized interactive groupware
+payloads:
+- tabnabbing_payload_1_must
+- tabnabbing_payload_2_benefit
+- tabnabbing_payload_3_material
+- tabnabbing_payload_4_send
+- tabnabbing_payload_5_seem
+severity: high
+type: tabnabbing

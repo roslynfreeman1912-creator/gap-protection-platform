@@ -1,0 +1,9 @@
+name: Multi-lateral leadingedge ability
+payloads:
+- ssrf_payload_1_art
+- ssrf_payload_2_politics
+- ssrf_payload_3_despite
+- ssrf_payload_4_lay
+- ssrf_payload_5_audience
+severity: critical
+type: ssrf

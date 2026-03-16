@@ -1,0 +1,9 @@
+name: Persevering clear-thinking open system
+payloads:
+- nosql-injection_payload_1_sense
+- nosql-injection_payload_2_action
+- nosql-injection_payload_3_PM
+- nosql-injection_payload_4_customer
+- nosql-injection_payload_5_huge
+severity: high
+type: nosql-injection

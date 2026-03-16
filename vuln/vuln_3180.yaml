@@ -1,0 +1,9 @@
+name: Assimilated local emulation
+payloads:
+- ssrf_payload_1_surface
+- ssrf_payload_2_line
+- ssrf_payload_3_word
+- ssrf_payload_4_forward
+- ssrf_payload_5_defense
+severity: critical
+type: ssrf

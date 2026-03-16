@@ -1,0 +1,9 @@
+name: Advanced maximized alliance
+payloads:
+- mime-sniffing_payload_1_Mrs
+- mime-sniffing_payload_2_actually
+- mime-sniffing_payload_3_loss
+- mime-sniffing_payload_4_bill
+- mime-sniffing_payload_5_position
+severity: critical
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Cross-group encompassing circuit
+payloads:
+- subdomain-takeover_payload_1_tonight
+- subdomain-takeover_payload_2_meeting
+- subdomain-takeover_payload_3_help
+- subdomain-takeover_payload_4_rest
+- subdomain-takeover_payload_5_couple
+severity: medium
+type: subdomain-takeover

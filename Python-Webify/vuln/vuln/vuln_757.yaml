@@ -1,0 +1,9 @@
+name: Centralized mission-critical frame
+payloads:
+- ssti_payload_1_keep
+- ssti_payload_2_western
+- ssti_payload_3_chance
+- ssti_payload_4_realize
+- ssti_payload_5_together
+severity: critical
+type: ssti

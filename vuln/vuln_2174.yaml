@@ -1,0 +1,9 @@
+name: Profound user-facing leverage
+payloads:
+- csp-bypass_payload_1_science
+- csp-bypass_payload_2_at
+- csp-bypass_payload_3_myself
+- csp-bypass_payload_4_west
+- csp-bypass_payload_5_relationship
+severity: high
+type: csp-bypass

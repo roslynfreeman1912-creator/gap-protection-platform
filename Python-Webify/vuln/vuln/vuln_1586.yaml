@@ -1,0 +1,9 @@
+name: User-friendly empowering product
+payloads:
+- xxe_payload_1_system
+- xxe_payload_2_education
+- xxe_payload_3_expect
+- xxe_payload_4_several
+- xxe_payload_5_rich
+severity: critical
+type: xxe

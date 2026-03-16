@@ -1,0 +1,9 @@
+name: Multi-tiered foreground methodology
+payloads:
+- crlf-injection_payload_1_understand
+- crlf-injection_payload_2_for
+- crlf-injection_payload_3_society
+- crlf-injection_payload_4_try
+- crlf-injection_payload_5_quite
+severity: low
+type: crlf-injection

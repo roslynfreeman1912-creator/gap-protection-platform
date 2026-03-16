@@ -1,0 +1,9 @@
+name: Customizable needs-based ability
+payloads:
+- nosql-injection_payload_1_charge
+- nosql-injection_payload_2_notice
+- nosql-injection_payload_3_skin
+- nosql-injection_payload_4_American
+- nosql-injection_payload_5_ten
+severity: low
+type: nosql-injection

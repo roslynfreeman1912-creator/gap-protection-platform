@@ -1,0 +1,9 @@
+name: Digitized uniform Internet solution
+payloads:
+- clickjacking_payload_1_however
+- clickjacking_payload_2_left
+- clickjacking_payload_3_win
+- clickjacking_payload_4_when
+- clickjacking_payload_5_water
+severity: medium
+type: clickjacking

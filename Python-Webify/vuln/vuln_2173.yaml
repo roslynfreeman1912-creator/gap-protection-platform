@@ -1,0 +1,9 @@
+name: Triple-buffered multi-tasking emulation
+payloads:
+- hsts-misconfig_payload_1_draw
+- hsts-misconfig_payload_2_short
+- hsts-misconfig_payload_3_help
+- hsts-misconfig_payload_4_unit
+- hsts-misconfig_payload_5_ready
+severity: medium
+type: hsts-misconfig

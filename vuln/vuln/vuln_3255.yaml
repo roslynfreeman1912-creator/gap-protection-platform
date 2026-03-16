@@ -1,0 +1,9 @@
+name: De-engineered national policy
+payloads:
+- ssrf_payload_1_question
+- ssrf_payload_2_all
+- ssrf_payload_3_simply
+- ssrf_payload_4_democratic
+- ssrf_payload_5_however
+severity: critical
+type: ssrf

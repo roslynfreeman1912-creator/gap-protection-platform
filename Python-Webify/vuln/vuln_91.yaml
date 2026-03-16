@@ -1,0 +1,9 @@
+name: Diverse modular data-warehouse
+payloads:
+- crlf-injection_payload_1_sort
+- crlf-injection_payload_2_organization
+- crlf-injection_payload_3_economic
+- crlf-injection_payload_4_agree
+- crlf-injection_payload_5_executive
+severity: critical
+type: crlf-injection

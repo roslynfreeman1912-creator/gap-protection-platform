@@ -1,0 +1,9 @@
+name: Re-contextualized multi-tasking collaboration
+payloads:
+- clickjacking_payload_1_sing
+- clickjacking_payload_2_through
+- clickjacking_payload_3_million
+- clickjacking_payload_4_air
+- clickjacking_payload_5_site
+severity: medium
+type: clickjacking

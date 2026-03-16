@@ -1,0 +1,9 @@
+name: Intuitive client-driven parallelism
+payloads:
+- ldap-injection_payload_1_themselves
+- ldap-injection_payload_2_worry
+- ldap-injection_payload_3_girl
+- ldap-injection_payload_4_newspaper
+- ldap-injection_payload_5_study
+severity: high
+type: ldap-injection

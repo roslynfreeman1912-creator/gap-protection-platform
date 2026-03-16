@@ -1,0 +1,9 @@
+name: Cross-group actuating process improvement
+payloads:
+- csp-bypass_payload_1_general
+- csp-bypass_payload_2_drive
+- csp-bypass_payload_3_agent
+- csp-bypass_payload_4_seem
+- csp-bypass_payload_5_yet
+severity: low
+type: csp-bypass

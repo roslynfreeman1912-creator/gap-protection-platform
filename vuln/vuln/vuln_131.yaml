@@ -1,0 +1,9 @@
+name: Stand-alone analyzing circuit
+payloads:
+- csrf_payload_1_pay
+- csrf_payload_2_mouth
+- csrf_payload_3_report
+- csrf_payload_4_lose
+- csrf_payload_5_live
+severity: critical
+type: csrf

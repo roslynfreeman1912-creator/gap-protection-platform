@@ -1,0 +1,9 @@
+name: Configurable mission-critical matrices
+payloads:
+- tabnabbing_payload_1_small
+- tabnabbing_payload_2_cost
+- tabnabbing_payload_3_simple
+- tabnabbing_payload_4_yourself
+- tabnabbing_payload_5_current
+severity: critical
+type: tabnabbing

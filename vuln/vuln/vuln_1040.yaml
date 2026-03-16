@@ -1,0 +1,9 @@
+name: Business-focused actuating customer loyalty
+payloads:
+- jsonp-injection_payload_1_surface
+- jsonp-injection_payload_2_our
+- jsonp-injection_payload_3_over
+- jsonp-injection_payload_4_left
+- jsonp-injection_payload_5_lawyer
+severity: low
+type: jsonp-injection

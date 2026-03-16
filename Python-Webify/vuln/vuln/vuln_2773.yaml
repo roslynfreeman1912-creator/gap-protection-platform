@@ -1,0 +1,9 @@
+name: Function-based exuding policy
+payloads:
+- hsts-misconfig_payload_1_teach
+- hsts-misconfig_payload_2_cup
+- hsts-misconfig_payload_3_free
+- hsts-misconfig_payload_4_space
+- hsts-misconfig_payload_5_reason
+severity: critical
+type: hsts-misconfig

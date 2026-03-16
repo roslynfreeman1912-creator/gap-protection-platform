@@ -1,0 +1,9 @@
+name: Intuitive tertiary support
+payloads:
+- path-traversal_payload_1_seven
+- path-traversal_payload_2_soon
+- path-traversal_payload_3_outside
+- path-traversal_payload_4_create
+- path-traversal_payload_5_season
+severity: critical
+type: path-traversal

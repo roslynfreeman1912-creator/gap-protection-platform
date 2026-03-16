@@ -1,0 +1,9 @@
+name: Function-based asymmetric moderator
+payloads:
+- path-traversal_payload_1_program
+- path-traversal_payload_2_maybe
+- path-traversal_payload_3_street
+- path-traversal_payload_4_life
+- path-traversal_payload_5_skin
+severity: high
+type: path-traversal

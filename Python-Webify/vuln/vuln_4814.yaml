@@ -1,0 +1,9 @@
+name: Automated bi-directional archive
+payloads:
+- clickjacking_payload_1_new
+- clickjacking_payload_2_require
+- clickjacking_payload_3_fly
+- clickjacking_payload_4_law
+- clickjacking_payload_5_pass
+severity: critical
+type: clickjacking

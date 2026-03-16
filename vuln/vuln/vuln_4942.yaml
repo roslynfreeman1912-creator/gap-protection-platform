@@ -1,0 +1,9 @@
+name: Universal transitional matrices
+payloads:
+- host-header-injection_payload_1_too
+- host-header-injection_payload_2_test
+- host-header-injection_payload_3_grow
+- host-header-injection_payload_4_check
+- host-header-injection_payload_5_response
+severity: high
+type: host-header-injection

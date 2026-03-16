@@ -1,0 +1,9 @@
+name: Fully-configurable bandwidth-monitored open architecture
+payloads:
+- lfi_payload_1_head
+- lfi_payload_2_although
+- lfi_payload_3_century
+- lfi_payload_4_ability
+- lfi_payload_5_suddenly
+severity: critical
+type: lfi

@@ -1,0 +1,9 @@
+name: Distributed responsive algorithm
+payloads:
+- file-upload_payload_1_nothing
+- file-upload_payload_2_attorney
+- file-upload_payload_3_southern
+- file-upload_payload_4_media
+- file-upload_payload_5_born
+severity: critical
+type: file-upload

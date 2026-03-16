@@ -1,0 +1,9 @@
+name: Programmable dedicated forecast
+payloads:
+- mime-sniffing_payload_1_perform
+- mime-sniffing_payload_2_stuff
+- mime-sniffing_payload_3_more
+- mime-sniffing_payload_4_them
+- mime-sniffing_payload_5_bed
+severity: low
+type: mime-sniffing

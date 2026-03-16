@@ -1,0 +1,9 @@
+name: Profit-focused secondary emulation
+payloads:
+- rfi_payload_1_machine
+- rfi_payload_2_his
+- rfi_payload_3_loss
+- rfi_payload_4_last
+- rfi_payload_5_law
+severity: high
+type: rfi

@@ -1,0 +1,9 @@
+name: Future-proofed well-modulated Local Area Network
+payloads:
+- command-injection_payload_1_rise
+- command-injection_payload_2_end
+- command-injection_payload_3_allow
+- command-injection_payload_4_to
+- command-injection_payload_5_behind
+severity: low
+type: command-injection

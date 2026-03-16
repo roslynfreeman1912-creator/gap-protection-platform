@@ -1,0 +1,9 @@
+name: De-engineered multimedia matrix
+payloads:
+- host-header-injection_payload_1_could
+- host-header-injection_payload_2_write
+- host-header-injection_payload_3_government
+- host-header-injection_payload_4_describe
+- host-header-injection_payload_5_still
+severity: critical
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Robust cohesive strategy
+payloads:
+- open-redirect_payload_1_together
+- open-redirect_payload_2_find
+- open-redirect_payload_3_group
+- open-redirect_payload_4_analysis
+- open-redirect_payload_5_gas
+severity: low
+type: open-redirect

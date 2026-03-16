@@ -1,0 +1,9 @@
+name: Reverse-engineered non-volatile open architecture
+payloads:
+- crlf-injection_payload_1_at
+- crlf-injection_payload_2_authority
+- crlf-injection_payload_3_go
+- crlf-injection_payload_4_world
+- crlf-injection_payload_5_decade
+severity: low
+type: crlf-injection

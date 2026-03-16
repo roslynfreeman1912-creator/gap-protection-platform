@@ -1,0 +1,9 @@
+name: Optional local ability
+payloads:
+- ssti_payload_1_dog
+- ssti_payload_2_political
+- ssti_payload_3_yeah
+- ssti_payload_4_guy
+- ssti_payload_5_whom
+severity: critical
+type: ssti

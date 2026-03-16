@@ -1,0 +1,9 @@
+name: Robust value-added monitoring
+payloads:
+- file-upload_payload_1_effort
+- file-upload_payload_2_by
+- file-upload_payload_3_space
+- file-upload_payload_4_can
+- file-upload_payload_5_ago
+severity: low
+type: file-upload

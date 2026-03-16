@@ -1,0 +1,9 @@
+name: De-engineered optimizing pricing structure
+payloads:
+- jsonp-injection_payload_1_fire
+- jsonp-injection_payload_2_station
+- jsonp-injection_payload_3_reflect
+- jsonp-injection_payload_4_brother
+- jsonp-injection_payload_5_parent
+severity: critical
+type: jsonp-injection

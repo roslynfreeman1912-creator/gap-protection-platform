@@ -1,0 +1,9 @@
+name: Face-to-face discrete open system
+payloads:
+- subdomain-takeover_payload_1_up
+- subdomain-takeover_payload_2_development
+- subdomain-takeover_payload_3_grow
+- subdomain-takeover_payload_4_reality
+- subdomain-takeover_payload_5_manager
+severity: critical
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Diverse well-modulated moderator
+payloads:
+- subdomain-takeover_payload_1_total
+- subdomain-takeover_payload_2_power
+- subdomain-takeover_payload_3_popular
+- subdomain-takeover_payload_4_spring
+- subdomain-takeover_payload_5_his
+severity: low
+type: subdomain-takeover

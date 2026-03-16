@@ -1,0 +1,9 @@
+name: Decentralized leadingedge parallelism
+payloads:
+- ldap-injection_payload_1_cup
+- ldap-injection_payload_2_speech
+- ldap-injection_payload_3_discussion
+- ldap-injection_payload_4_road
+- ldap-injection_payload_5_color
+severity: medium
+type: ldap-injection

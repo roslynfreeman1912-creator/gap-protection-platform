@@ -1,0 +1,9 @@
+name: Front-line fresh-thinking array
+payloads:
+- host-header-injection_payload_1_high
+- host-header-injection_payload_2_nice
+- host-header-injection_payload_3_young
+- host-header-injection_payload_4_pick
+- host-header-injection_payload_5_him
+severity: critical
+type: host-header-injection

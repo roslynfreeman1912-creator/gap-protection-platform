@@ -1,0 +1,9 @@
+name: User-centric empowering help-desk
+payloads:
+- csrf_payload_1_same
+- csrf_payload_2_identify
+- csrf_payload_3_themselves
+- csrf_payload_4_most
+- csrf_payload_5_reach
+severity: high
+type: csrf

@@ -1,0 +1,9 @@
+name: Pre-emptive object-oriented access
+payloads:
+- open-redirect_payload_1_anything
+- open-redirect_payload_2_message
+- open-redirect_payload_3_on
+- open-redirect_payload_4_break
+- open-redirect_payload_5_go
+severity: low
+type: open-redirect

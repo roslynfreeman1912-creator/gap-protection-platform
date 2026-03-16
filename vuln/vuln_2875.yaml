@@ -1,0 +1,9 @@
+name: Vision-oriented well-modulated functionalities
+payloads:
+- frame-injection_payload_1_ball
+- frame-injection_payload_2_letter
+- frame-injection_payload_3_light
+- frame-injection_payload_4_difficult
+- frame-injection_payload_5_use
+severity: medium
+type: frame-injection

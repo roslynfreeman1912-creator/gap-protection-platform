@@ -1,0 +1,9 @@
+name: Profit-focused zero-defect product
+payloads:
+- csp-bypass_payload_1_tree
+- csp-bypass_payload_2_member
+- csp-bypass_payload_3_race
+- csp-bypass_payload_4_stay
+- csp-bypass_payload_5_weight
+severity: medium
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Right-sized real-time time-frame
+payloads:
+- command-injection_payload_1_likely
+- command-injection_payload_2_in
+- command-injection_payload_3_data
+- command-injection_payload_4_line
+- command-injection_payload_5_hope
+severity: medium
+type: command-injection

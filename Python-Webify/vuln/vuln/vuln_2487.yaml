@@ -1,0 +1,9 @@
+name: Expanded 3rdgeneration orchestration
+payloads:
+- ldap-injection_payload_1_would
+- ldap-injection_payload_2_establish
+- ldap-injection_payload_3_unit
+- ldap-injection_payload_4_stop
+- ldap-injection_payload_5_individual
+severity: low
+type: ldap-injection

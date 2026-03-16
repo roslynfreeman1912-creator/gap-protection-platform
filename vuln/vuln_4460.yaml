@@ -1,0 +1,9 @@
+name: Reverse-engineered reciprocal knowledgebase
+payloads:
+- open-redirect_payload_1_on
+- open-redirect_payload_2_buy
+- open-redirect_payload_3_free
+- open-redirect_payload_4_material
+- open-redirect_payload_5_point
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Integrated radical array
+payloads:
+- subdomain-takeover_payload_1_possible
+- subdomain-takeover_payload_2_phone
+- subdomain-takeover_payload_3_fine
+- subdomain-takeover_payload_4_later
+- subdomain-takeover_payload_5_develop
+severity: low
+type: subdomain-takeover

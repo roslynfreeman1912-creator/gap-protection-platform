@@ -1,0 +1,9 @@
+name: Persevering background model
+payloads:
+- tabnabbing_payload_1_although
+- tabnabbing_payload_2_thing
+- tabnabbing_payload_3_police
+- tabnabbing_payload_4_short
+- tabnabbing_payload_5_read
+severity: low
+type: tabnabbing

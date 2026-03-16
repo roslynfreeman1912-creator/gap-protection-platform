@@ -1,0 +1,9 @@
+name: Synchronized contextually-based neural-net
+payloads:
+- csp-bypass_payload_1_final
+- csp-bypass_payload_2_push
+- csp-bypass_payload_3_peace
+- csp-bypass_payload_4_decade
+- csp-bypass_payload_5_standard
+severity: low
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Proactive analyzing pricing structure
+payloads:
+- sql_payload_1_year
+- sql_payload_2_necessary
+- sql_payload_3_though
+- sql_payload_4_hear
+- sql_payload_5_tend
+severity: critical
+type: sql

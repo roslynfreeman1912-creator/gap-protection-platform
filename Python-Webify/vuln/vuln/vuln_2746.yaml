@@ -1,0 +1,9 @@
+name: Grass-roots scalable support
+payloads:
+- mime-sniffing_payload_1_require
+- mime-sniffing_payload_2_computer
+- mime-sniffing_payload_3_item
+- mime-sniffing_payload_4_a
+- mime-sniffing_payload_5_since
+severity: medium
+type: mime-sniffing

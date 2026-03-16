@@ -1,0 +1,9 @@
+name: Implemented zero administration info-mediaries
+payloads:
+- frame-injection_payload_1_hit
+- frame-injection_payload_2_people
+- frame-injection_payload_3_area
+- frame-injection_payload_4_force
+- frame-injection_payload_5_throughout
+severity: low
+type: frame-injection

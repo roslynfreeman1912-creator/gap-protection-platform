@@ -1,0 +1,9 @@
+name: Quality-focused bandwidth-monitored pricing structure
+payloads:
+- ssti_payload_1_high
+- ssti_payload_2_hair
+- ssti_payload_3_agent
+- ssti_payload_4_must
+- ssti_payload_5_customer
+severity: medium
+type: ssti

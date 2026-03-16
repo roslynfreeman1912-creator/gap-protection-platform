@@ -1,0 +1,9 @@
+name: Configurable needs-based success
+payloads:
+- xss_payload_1_pretty
+- xss_payload_2_social
+- xss_payload_3_personal
+- xss_payload_4_join
+- xss_payload_5_conference
+severity: medium
+type: xss

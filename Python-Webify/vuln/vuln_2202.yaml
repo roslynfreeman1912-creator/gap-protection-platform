@@ -1,0 +1,9 @@
+name: Balanced foreground toolset
+payloads:
+- xss_payload_1_so
+- xss_payload_2_down
+- xss_payload_3_hour
+- xss_payload_4_develop
+- xss_payload_5_kid
+severity: low
+type: xss

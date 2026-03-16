@@ -1,0 +1,9 @@
+name: Up-sized attitude-oriented definition
+payloads:
+- lfi_payload_1_director
+- lfi_payload_2_experience
+- lfi_payload_3_perhaps
+- lfi_payload_4_who
+- lfi_payload_5_between
+severity: critical
+type: lfi

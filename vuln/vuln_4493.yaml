@@ -1,0 +1,9 @@
+name: Mandatory multimedia knowledgebase
+payloads:
+- subdomain-takeover_payload_1_change
+- subdomain-takeover_payload_2_total
+- subdomain-takeover_payload_3_her
+- subdomain-takeover_payload_4_evening
+- subdomain-takeover_payload_5_doctor
+severity: medium
+type: subdomain-takeover

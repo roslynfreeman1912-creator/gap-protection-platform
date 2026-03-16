@@ -1,0 +1,9 @@
+name: Diverse fresh-thinking extranet
+payloads:
+- tabnabbing_payload_1_inside
+- tabnabbing_payload_2_fact
+- tabnabbing_payload_3_maybe
+- tabnabbing_payload_4_huge
+- tabnabbing_payload_5_radio
+severity: low
+type: tabnabbing

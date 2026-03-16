@@ -1,0 +1,9 @@
+name: Organic multimedia secured line
+payloads:
+- frame-injection_payload_1_rather
+- frame-injection_payload_2_least
+- frame-injection_payload_3_wide
+- frame-injection_payload_4_several
+- frame-injection_payload_5_low
+severity: medium
+type: frame-injection

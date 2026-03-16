@@ -1,0 +1,9 @@
+name: Grass-roots solution-oriented projection
+payloads:
+- hsts-misconfig_payload_1_rather
+- hsts-misconfig_payload_2_finally
+- hsts-misconfig_payload_3_nothing
+- hsts-misconfig_payload_4_discuss
+- hsts-misconfig_payload_5_policy
+severity: low
+type: hsts-misconfig

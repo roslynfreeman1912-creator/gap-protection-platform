@@ -1,0 +1,9 @@
+name: Face-to-face background ability
+payloads:
+- xxe_payload_1_nothing
+- xxe_payload_2_loss
+- xxe_payload_3_subject
+- xxe_payload_4_organization
+- xxe_payload_5_inside
+severity: high
+type: xxe

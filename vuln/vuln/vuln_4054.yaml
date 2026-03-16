@@ -1,0 +1,9 @@
+name: Assimilated reciprocal definition
+payloads:
+- rfi_payload_1_keep
+- rfi_payload_2_summer
+- rfi_payload_3_significant
+- rfi_payload_4_guy
+- rfi_payload_5_PM
+severity: medium
+type: rfi

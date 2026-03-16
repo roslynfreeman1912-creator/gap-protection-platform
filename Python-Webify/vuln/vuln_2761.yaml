@@ -1,0 +1,9 @@
+name: Managed eco-centric open architecture
+payloads:
+- xxe_payload_1_watch
+- xxe_payload_2_his
+- xxe_payload_3_as
+- xxe_payload_4_ahead
+- xxe_payload_5_character
+severity: critical
+type: xxe

@@ -1,0 +1,9 @@
+name: Compatible tangible frame
+payloads:
+- ssrf_payload_1_financial
+- ssrf_payload_2_whatever
+- ssrf_payload_3_any
+- ssrf_payload_4_relate
+- ssrf_payload_5_letter
+severity: medium
+type: ssrf

@@ -1,0 +1,9 @@
+name: Devolved systemic capability
+payloads:
+- frame-injection_payload_1_you
+- frame-injection_payload_2_reduce
+- frame-injection_payload_3_bank
+- frame-injection_payload_4_space
+- frame-injection_payload_5_six
+severity: low
+type: frame-injection

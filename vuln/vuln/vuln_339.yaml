@@ -1,0 +1,9 @@
+name: Switchable multi-state database
+payloads:
+- clickjacking_payload_1_condition
+- clickjacking_payload_2_fight
+- clickjacking_payload_3_special
+- clickjacking_payload_4_measure
+- clickjacking_payload_5_night
+severity: critical
+type: clickjacking

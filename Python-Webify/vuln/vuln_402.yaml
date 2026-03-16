@@ -1,0 +1,9 @@
+name: Reactive human-resource concept
+payloads:
+- xss_payload_1_industry
+- xss_payload_2_us
+- xss_payload_3_set
+- xss_payload_4_because
+- xss_payload_5_Congress
+severity: high
+type: xss

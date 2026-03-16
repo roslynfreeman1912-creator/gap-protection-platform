@@ -1,0 +1,9 @@
+name: Quality-focused actuating attitude
+payloads:
+- subdomain-takeover_payload_1_fast
+- subdomain-takeover_payload_2_may
+- subdomain-takeover_payload_3_stand
+- subdomain-takeover_payload_4_small
+- subdomain-takeover_payload_5_today
+severity: high
+type: subdomain-takeover

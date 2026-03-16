@@ -1,0 +1,9 @@
+name: Re-engineered radical superstructure
+payloads:
+- jsonp-injection_payload_1_serious
+- jsonp-injection_payload_2_environmental
+- jsonp-injection_payload_3_explain
+- jsonp-injection_payload_4_offer
+- jsonp-injection_payload_5_at
+severity: high
+type: jsonp-injection

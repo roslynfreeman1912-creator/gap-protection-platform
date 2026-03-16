@@ -1,0 +1,9 @@
+name: Universal tangible definition
+payloads:
+- hsts-misconfig_payload_1_series
+- hsts-misconfig_payload_2_soldier
+- hsts-misconfig_payload_3_film
+- hsts-misconfig_payload_4_box
+- hsts-misconfig_payload_5_fall
+severity: high
+type: hsts-misconfig

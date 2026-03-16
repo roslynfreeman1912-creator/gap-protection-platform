@@ -1,0 +1,9 @@
+name: Extended foreground Graphical User Interface
+payloads:
+- path-traversal_payload_1_fall
+- path-traversal_payload_2_design
+- path-traversal_payload_3_nor
+- path-traversal_payload_4_certainly
+- path-traversal_payload_5_success
+severity: critical
+type: path-traversal

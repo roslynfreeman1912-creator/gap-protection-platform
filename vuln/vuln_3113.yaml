@@ -1,0 +1,9 @@
+name: Fundamental asynchronous workforce
+payloads:
+- nosql-injection_payload_1_possible
+- nosql-injection_payload_2_foreign
+- nosql-injection_payload_3_fill
+- nosql-injection_payload_4_decision
+- nosql-injection_payload_5_theory
+severity: low
+type: nosql-injection

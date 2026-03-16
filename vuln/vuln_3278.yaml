@@ -1,0 +1,9 @@
+name: Implemented upward-trending functionalities
+payloads:
+- lfi_payload_1_bag
+- lfi_payload_2_stuff
+- lfi_payload_3_summer
+- lfi_payload_4_network
+- lfi_payload_5_ahead
+severity: low
+type: lfi

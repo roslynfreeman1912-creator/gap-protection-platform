@@ -1,0 +1,9 @@
+name: Configurable hybrid Graphical User Interface
+payloads:
+- open-redirect_payload_1_support
+- open-redirect_payload_2_difference
+- open-redirect_payload_3_foreign
+- open-redirect_payload_4_time
+- open-redirect_payload_5_student
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Polarized multimedia moderator
+payloads:
+- sql_payload_1_sister
+- sql_payload_2_true
+- sql_payload_3_personal
+- sql_payload_4_early
+- sql_payload_5_green
+severity: critical
+type: sql

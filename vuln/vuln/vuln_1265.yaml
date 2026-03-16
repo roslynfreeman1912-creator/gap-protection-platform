@@ -1,0 +1,9 @@
+name: Phased full-range budgetary management
+payloads:
+- jsonp-injection_payload_1_writer
+- jsonp-injection_payload_2_admit
+- jsonp-injection_payload_3_Mrs
+- jsonp-injection_payload_4_teacher
+- jsonp-injection_payload_5_lay
+severity: critical
+type: jsonp-injection

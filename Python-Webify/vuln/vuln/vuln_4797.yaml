@@ -1,0 +1,9 @@
+name: Total tertiary success
+payloads:
+- tabnabbing_payload_1_article
+- tabnabbing_payload_2_near
+- tabnabbing_payload_3_will
+- tabnabbing_payload_4_require
+- tabnabbing_payload_5_final
+severity: low
+type: tabnabbing

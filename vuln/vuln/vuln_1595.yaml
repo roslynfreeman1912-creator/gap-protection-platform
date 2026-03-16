@@ -1,0 +1,9 @@
+name: Expanded solution-oriented installation
+payloads:
+- file-upload_payload_1_area
+- file-upload_payload_2_focus
+- file-upload_payload_3_seat
+- file-upload_payload_4_get
+- file-upload_payload_5_expect
+severity: medium
+type: file-upload

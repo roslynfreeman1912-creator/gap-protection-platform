@@ -1,0 +1,9 @@
+name: Persistent 6thgeneration migration
+payloads:
+- xss_payload_1_entire
+- xss_payload_2_modern
+- xss_payload_3_read
+- xss_payload_4_example
+- xss_payload_5_recent
+severity: critical
+type: xss

@@ -1,0 +1,9 @@
+name: User-friendly static challenge
+payloads:
+- host-header-injection_payload_1_law
+- host-header-injection_payload_2_resource
+- host-header-injection_payload_3_thank
+- host-header-injection_payload_4_market
+- host-header-injection_payload_5_receive
+severity: high
+type: host-header-injection

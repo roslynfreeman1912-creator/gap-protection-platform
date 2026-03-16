@@ -1,0 +1,9 @@
+name: User-centric multimedia moratorium
+payloads:
+- ssrf_payload_1_provide
+- ssrf_payload_2_education
+- ssrf_payload_3_western
+- ssrf_payload_4_reflect
+- ssrf_payload_5_security
+severity: low
+type: ssrf

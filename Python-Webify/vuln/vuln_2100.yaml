@@ -1,0 +1,9 @@
+name: Front-line actuating infrastructure
+payloads:
+- frame-injection_payload_1_budget
+- frame-injection_payload_2_attorney
+- frame-injection_payload_3_wall
+- frame-injection_payload_4_talk
+- frame-injection_payload_5_American
+severity: medium
+type: frame-injection

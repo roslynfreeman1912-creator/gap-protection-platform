@@ -1,0 +1,9 @@
+name: Right-sized object-oriented portal
+payloads:
+- subdomain-takeover_payload_1_good
+- subdomain-takeover_payload_2_yes
+- subdomain-takeover_payload_3_reach
+- subdomain-takeover_payload_4_between
+- subdomain-takeover_payload_5_stay
+severity: medium
+type: subdomain-takeover

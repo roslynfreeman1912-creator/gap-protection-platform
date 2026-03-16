@@ -1,0 +1,9 @@
+name: Synchronized encompassing paradigm
+payloads:
+- lfi_payload_1_nearly
+- lfi_payload_2_action
+- lfi_payload_3_himself
+- lfi_payload_4_similar
+- lfi_payload_5_without
+severity: high
+type: lfi

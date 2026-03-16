@@ -1,0 +1,9 @@
+name: Persistent stable budgetary management
+payloads:
+- host-header-injection_payload_1_table
+- host-header-injection_payload_2_or
+- host-header-injection_payload_3_mind
+- host-header-injection_payload_4_realize
+- host-header-injection_payload_5_opportunity
+severity: high
+type: host-header-injection

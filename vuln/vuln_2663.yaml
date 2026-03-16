@@ -1,0 +1,9 @@
+name: Mandatory context-sensitive portal
+payloads:
+- nosql-injection_payload_1_less
+- nosql-injection_payload_2_issue
+- nosql-injection_payload_3_exactly
+- nosql-injection_payload_4_professional
+- nosql-injection_payload_5_theory
+severity: high
+type: nosql-injection

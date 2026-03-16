@@ -1,0 +1,9 @@
+name: Organized upward-trending pricing structure
+payloads:
+- command-injection_payload_1_little
+- command-injection_payload_2_book
+- command-injection_payload_3_capital
+- command-injection_payload_4_machine
+- command-injection_payload_5_line
+severity: medium
+type: command-injection

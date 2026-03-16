@@ -1,0 +1,9 @@
+name: Devolved zero tolerance methodology
+payloads:
+- lfi_payload_1_key
+- lfi_payload_2_hold
+- lfi_payload_3_garden
+- lfi_payload_4_experience
+- lfi_payload_5_increase
+severity: critical
+type: lfi

@@ -1,0 +1,9 @@
+name: Operative encompassing time-frame
+payloads:
+- frame-injection_payload_1_husband
+- frame-injection_payload_2_realize
+- frame-injection_payload_3_seat
+- frame-injection_payload_4_order
+- frame-injection_payload_5_born
+severity: medium
+type: frame-injection

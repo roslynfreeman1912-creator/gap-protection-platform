@@ -1,0 +1,9 @@
+name: Self-enabling executive leverage
+payloads:
+- lfi_payload_1_newspaper
+- lfi_payload_2_exist
+- lfi_payload_3_until
+- lfi_payload_4_difference
+- lfi_payload_5_run
+severity: critical
+type: lfi

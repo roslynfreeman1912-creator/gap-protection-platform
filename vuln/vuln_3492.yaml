@@ -1,0 +1,9 @@
+name: Grass-roots high-level hardware
+payloads:
+- host-header-injection_payload_1_continue
+- host-header-injection_payload_2_worry
+- host-header-injection_payload_3_call
+- host-header-injection_payload_4_on
+- host-header-injection_payload_5_effort
+severity: high
+type: host-header-injection

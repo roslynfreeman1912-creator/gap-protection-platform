@@ -1,0 +1,9 @@
+name: User-friendly executive knowledgebase
+payloads:
+- hsts-misconfig_payload_1_especially
+- hsts-misconfig_payload_2_special
+- hsts-misconfig_payload_3_source
+- hsts-misconfig_payload_4_can
+- hsts-misconfig_payload_5_food
+severity: medium
+type: hsts-misconfig

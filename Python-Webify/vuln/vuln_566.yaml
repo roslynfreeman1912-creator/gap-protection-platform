@@ -1,0 +1,9 @@
+name: Profound heuristic toolset
+payloads:
+- crlf-injection_payload_1_public
+- crlf-injection_payload_2_task
+- crlf-injection_payload_3_enter
+- crlf-injection_payload_4_magazine
+- crlf-injection_payload_5_offer
+severity: critical
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Down-sized real-time paradigm
+payloads:
+- command-injection_payload_1_various
+- command-injection_payload_2_agree
+- command-injection_payload_3_interview
+- command-injection_payload_4_admit
+- command-injection_payload_5_our
+severity: low
+type: command-injection

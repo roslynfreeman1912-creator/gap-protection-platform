@@ -1,0 +1,9 @@
+name: Open-architected zero tolerance access
+payloads:
+- subdomain-takeover_payload_1_the
+- subdomain-takeover_payload_2_but
+- subdomain-takeover_payload_3_which
+- subdomain-takeover_payload_4_hundred
+- subdomain-takeover_payload_5_method
+severity: high
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Multi-lateral grid-enabled data-warehouse
+payloads:
+- csp-bypass_payload_1_situation
+- csp-bypass_payload_2_name
+- csp-bypass_payload_3_every
+- csp-bypass_payload_4_house
+- csp-bypass_payload_5_study
+severity: critical
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Universal motivating architecture
+payloads:
+- subdomain-takeover_payload_1_social
+- subdomain-takeover_payload_2_color
+- subdomain-takeover_payload_3_politics
+- subdomain-takeover_payload_4_range
+- subdomain-takeover_payload_5_glass
+severity: high
+type: subdomain-takeover

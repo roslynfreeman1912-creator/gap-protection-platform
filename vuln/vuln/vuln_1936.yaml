@@ -1,0 +1,9 @@
+name: Ameliorated zero tolerance archive
+payloads:
+- xxe_payload_1_recognize
+- xxe_payload_2_woman
+- xxe_payload_3_more
+- xxe_payload_4_likely
+- xxe_payload_5_book
+severity: low
+type: xxe

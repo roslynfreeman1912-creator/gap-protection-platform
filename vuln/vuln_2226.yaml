@@ -1,0 +1,9 @@
+name: Up-sized zero administration structure
+payloads:
+- sql_payload_1_animal
+- sql_payload_2_experience
+- sql_payload_3_lot
+- sql_payload_4_share
+- sql_payload_5_long
+severity: low
+type: sql

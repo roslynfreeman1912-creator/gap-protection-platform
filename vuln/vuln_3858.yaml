@@ -1,0 +1,9 @@
+name: Intuitive mission-critical extranet
+payloads:
+- command-injection_payload_1_despite
+- command-injection_payload_2_list
+- command-injection_payload_3_toward
+- command-injection_payload_4_year
+- command-injection_payload_5_these
+severity: medium
+type: command-injection

@@ -1,0 +1,9 @@
+name: Organic non-volatile conglomeration
+payloads:
+- path-traversal_payload_1_at
+- path-traversal_payload_2_might
+- path-traversal_payload_3_child
+- path-traversal_payload_4_away
+- path-traversal_payload_5_do
+severity: low
+type: path-traversal

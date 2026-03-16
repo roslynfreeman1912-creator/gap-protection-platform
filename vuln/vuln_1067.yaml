@@ -1,0 +1,9 @@
+name: Fundamental composite approach
+payloads:
+- host-header-injection_payload_1_once
+- host-header-injection_payload_2_reveal
+- host-header-injection_payload_3_system
+- host-header-injection_payload_4_the
+- host-header-injection_payload_5_population
+severity: critical
+type: host-header-injection

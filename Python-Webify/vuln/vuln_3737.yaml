@@ -1,0 +1,9 @@
+name: Pre-emptive bi-directional core
+payloads:
+- ldap-injection_payload_1_indeed
+- ldap-injection_payload_2_rate
+- ldap-injection_payload_3_term
+- ldap-injection_payload_4_threat
+- ldap-injection_payload_5_opportunity
+severity: critical
+type: ldap-injection

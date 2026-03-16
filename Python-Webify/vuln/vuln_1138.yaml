@@ -1,0 +1,9 @@
+name: Business-focused homogeneous superstructure
+payloads:
+- nosql-injection_payload_1_protect
+- nosql-injection_payload_2_modern
+- nosql-injection_payload_3_house
+- nosql-injection_payload_4_win
+- nosql-injection_payload_5_week
+severity: medium
+type: nosql-injection

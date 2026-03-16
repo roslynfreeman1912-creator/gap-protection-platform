@@ -1,0 +1,9 @@
+name: Polarized object-oriented migration
+payloads:
+- javascript-injection_payload_1_he
+- javascript-injection_payload_2_imagine
+- javascript-injection_payload_3_I
+- javascript-injection_payload_4_sell
+- javascript-injection_payload_5_perform
+severity: high
+type: javascript-injection

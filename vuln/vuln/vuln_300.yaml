@@ -1,0 +1,9 @@
+name: Front-line zero tolerance encoding
+payloads:
+- frame-injection_payload_1_hair
+- frame-injection_payload_2_today
+- frame-injection_payload_3_painting
+- frame-injection_payload_4_election
+- frame-injection_payload_5_major
+severity: low
+type: frame-injection

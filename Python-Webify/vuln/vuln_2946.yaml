@@ -1,0 +1,9 @@
+name: Compatible transitional leverage
+payloads:
+- mime-sniffing_payload_1_statement
+- mime-sniffing_payload_2_deep
+- mime-sniffing_payload_3_we
+- mime-sniffing_payload_4_community
+- mime-sniffing_payload_5_system
+severity: medium
+type: mime-sniffing

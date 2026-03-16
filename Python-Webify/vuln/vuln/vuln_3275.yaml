@@ -1,0 +1,9 @@
+name: Customer-focused system-worthy portal
+payloads:
+- frame-injection_payload_1_send
+- frame-injection_payload_2_write
+- frame-injection_payload_3_hair
+- frame-injection_payload_4_west
+- frame-injection_payload_5_contain
+severity: low
+type: frame-injection

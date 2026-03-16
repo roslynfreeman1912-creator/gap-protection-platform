@@ -1,0 +1,9 @@
+name: Profound systematic architecture
+payloads:
+- csrf_payload_1_choose
+- csrf_payload_2_significant
+- csrf_payload_3_any
+- csrf_payload_4_when
+- csrf_payload_5_way
+severity: low
+type: csrf

@@ -1,0 +1,9 @@
+name: Expanded attitude-oriented initiative
+payloads:
+- rfi_payload_1_more
+- rfi_payload_2_walk
+- rfi_payload_3_late
+- rfi_payload_4_ten
+- rfi_payload_5_travel
+severity: high
+type: rfi

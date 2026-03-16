@@ -1,0 +1,9 @@
+name: Persistent mobile pricing structure
+payloads:
+- tabnabbing_payload_1_treatment
+- tabnabbing_payload_2_manager
+- tabnabbing_payload_3_history
+- tabnabbing_payload_4_stock
+- tabnabbing_payload_5_word
+severity: medium
+type: tabnabbing

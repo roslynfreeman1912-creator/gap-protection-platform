@@ -1,0 +1,9 @@
+name: Organized didactic intranet
+payloads:
+- file-upload_payload_1_less
+- file-upload_payload_2_letter
+- file-upload_payload_3_generation
+- file-upload_payload_4_local
+- file-upload_payload_5_on
+severity: medium
+type: file-upload

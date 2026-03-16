@@ -1,0 +1,9 @@
+name: Streamlined eco-centric initiative
+payloads:
+- ldap-injection_payload_1_second
+- ldap-injection_payload_2_act
+- ldap-injection_payload_3_arrive
+- ldap-injection_payload_4_behind
+- ldap-injection_payload_5_least
+severity: low
+type: ldap-injection

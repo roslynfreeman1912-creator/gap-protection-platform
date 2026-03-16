@@ -1,0 +1,9 @@
+name: Realigned holistic archive
+payloads:
+- subdomain-takeover_payload_1_marriage
+- subdomain-takeover_payload_2_focus
+- subdomain-takeover_payload_3_system
+- subdomain-takeover_payload_4_child
+- subdomain-takeover_payload_5_billion
+severity: low
+type: subdomain-takeover

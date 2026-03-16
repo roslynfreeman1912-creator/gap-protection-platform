@@ -1,0 +1,9 @@
+name: Configurable intangible standardization
+payloads:
+- command-injection_payload_1_certainly
+- command-injection_payload_2_or
+- command-injection_payload_3_lay
+- command-injection_payload_4_democratic
+- command-injection_payload_5_ten
+severity: medium
+type: command-injection

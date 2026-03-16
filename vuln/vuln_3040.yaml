@@ -1,0 +1,9 @@
+name: Re-engineered intangible time-frame
+payloads:
+- jsonp-injection_payload_1_after
+- jsonp-injection_payload_2_without
+- jsonp-injection_payload_3_east
+- jsonp-injection_payload_4_professor
+- jsonp-injection_payload_5_perform
+severity: low
+type: jsonp-injection

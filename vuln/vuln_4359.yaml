@@ -1,0 +1,9 @@
+name: Universal high-level data-warehouse
+payloads:
+- path-traversal_payload_1_city
+- path-traversal_payload_2_should
+- path-traversal_payload_3_bed
+- path-traversal_payload_4_enter
+- path-traversal_payload_5_rise
+severity: critical
+type: path-traversal

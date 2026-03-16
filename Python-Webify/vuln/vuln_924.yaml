@@ -1,0 +1,9 @@
+name: De-engineered 24hour model
+payloads:
+- csp-bypass_payload_1_local
+- csp-bypass_payload_2_hard
+- csp-bypass_payload_3_teach
+- csp-bypass_payload_4_believe
+- csp-bypass_payload_5_first
+severity: critical
+type: csp-bypass

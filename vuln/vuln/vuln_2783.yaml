@@ -1,0 +1,9 @@
+name: Intuitive uniform initiative
+payloads:
+- command-injection_payload_1_provide
+- command-injection_payload_2_sister
+- command-injection_payload_3_return
+- command-injection_payload_4_despite
+- command-injection_payload_5_explain
+severity: low
+type: command-injection

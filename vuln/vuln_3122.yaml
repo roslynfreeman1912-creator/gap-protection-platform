@@ -1,0 +1,9 @@
+name: User-centric transitional open system
+payloads:
+- tabnabbing_payload_1_practice
+- tabnabbing_payload_2_direction
+- tabnabbing_payload_3_behind
+- tabnabbing_payload_4_hotel
+- tabnabbing_payload_5_guy
+severity: high
+type: tabnabbing

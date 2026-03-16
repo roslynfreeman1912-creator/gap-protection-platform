@@ -1,0 +1,9 @@
+name: Multi-layered bifurcated projection
+payloads:
+- tabnabbing_payload_1_gas
+- tabnabbing_payload_2_among
+- tabnabbing_payload_3_enough
+- tabnabbing_payload_4_left
+- tabnabbing_payload_5_box
+severity: medium
+type: tabnabbing

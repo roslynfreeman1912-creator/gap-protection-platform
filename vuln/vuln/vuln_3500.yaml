@@ -1,0 +1,9 @@
+name: Stand-alone homogeneous approach
+payloads:
+- frame-injection_payload_1_field
+- frame-injection_payload_2_instead
+- frame-injection_payload_3_industry
+- frame-injection_payload_4_window
+- frame-injection_payload_5_argue
+severity: low
+type: frame-injection

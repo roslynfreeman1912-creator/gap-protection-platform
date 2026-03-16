@@ -1,0 +1,9 @@
+name: Proactive next generation open system
+payloads:
+- tabnabbing_payload_1_approach
+- tabnabbing_payload_2_situation
+- tabnabbing_payload_3_card
+- tabnabbing_payload_4_similar
+- tabnabbing_payload_5_kitchen
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Self-enabling bifurcated definition
+payloads:
+- jsonp-injection_payload_1_study
+- jsonp-injection_payload_2_class
+- jsonp-injection_payload_3_final
+- jsonp-injection_payload_4_need
+- jsonp-injection_payload_5_easy
+severity: critical
+type: jsonp-injection

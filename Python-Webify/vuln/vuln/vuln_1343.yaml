@@ -1,0 +1,9 @@
+name: Enterprise-wide static database
+payloads:
+- subdomain-takeover_payload_1_political
+- subdomain-takeover_payload_2_affect
+- subdomain-takeover_payload_3_red
+- subdomain-takeover_payload_4_believe
+- subdomain-takeover_payload_5_store
+severity: low
+type: subdomain-takeover

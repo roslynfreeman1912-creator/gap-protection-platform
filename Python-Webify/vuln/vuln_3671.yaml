@@ -1,0 +1,9 @@
+name: Versatile leadingedge projection
+payloads:
+- mime-sniffing_payload_1_son
+- mime-sniffing_payload_2_point
+- mime-sniffing_payload_3_responsibility
+- mime-sniffing_payload_4_likely
+- mime-sniffing_payload_5_we
+severity: critical
+type: mime-sniffing

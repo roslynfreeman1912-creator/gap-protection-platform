@@ -1,0 +1,9 @@
+name: Digitized scalable leverage
+payloads:
+- lfi_payload_1_figure
+- lfi_payload_2_child
+- lfi_payload_3_across
+- lfi_payload_4_position
+- lfi_payload_5_green
+severity: medium
+type: lfi

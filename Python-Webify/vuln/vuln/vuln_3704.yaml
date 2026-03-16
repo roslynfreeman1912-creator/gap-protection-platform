@@ -1,0 +1,9 @@
+name: User-centric responsive definition
+payloads:
+- rfi_payload_1_enter
+- rfi_payload_2_material
+- rfi_payload_3_budget
+- rfi_payload_4_nation
+- rfi_payload_5_generation
+severity: critical
+type: rfi

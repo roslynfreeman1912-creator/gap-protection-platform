@@ -1,0 +1,9 @@
+name: Mandatory systematic matrix
+payloads:
+- clickjacking_payload_1_tax
+- clickjacking_payload_2_reason
+- clickjacking_payload_3_safe
+- clickjacking_payload_4_support
+- clickjacking_payload_5_maintain
+severity: medium
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Robust solution-oriented archive
+payloads:
+- frame-injection_payload_1_chance
+- frame-injection_payload_2_either
+- frame-injection_payload_3_future
+- frame-injection_payload_4_center
+- frame-injection_payload_5_list
+severity: low
+type: frame-injection

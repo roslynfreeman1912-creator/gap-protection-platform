@@ -1,0 +1,9 @@
+name: Synergistic incremental info-mediaries
+payloads:
+- host-header-injection_payload_1_no
+- host-header-injection_payload_2_necessary
+- host-header-injection_payload_3_dog
+- host-header-injection_payload_4_see
+- host-header-injection_payload_5_trade
+severity: critical
+type: host-header-injection

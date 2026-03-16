@@ -1,0 +1,9 @@
+name: Seamless reciprocal conglomeration
+payloads:
+- xxe_payload_1_wear
+- xxe_payload_2_painting
+- xxe_payload_3_focus
+- xxe_payload_4_without
+- xxe_payload_5_available
+severity: high
+type: xxe

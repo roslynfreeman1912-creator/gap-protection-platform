@@ -1,0 +1,9 @@
+name: Realigned methodical help-desk
+payloads:
+- frame-injection_payload_1_control
+- frame-injection_payload_2_can
+- frame-injection_payload_3_political
+- frame-injection_payload_4_pass
+- frame-injection_payload_5_itself
+severity: critical
+type: frame-injection

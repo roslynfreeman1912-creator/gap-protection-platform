@@ -1,0 +1,9 @@
+name: Reactive zero tolerance core
+payloads:
+- tabnabbing_payload_1_million
+- tabnabbing_payload_2_tonight
+- tabnabbing_payload_3_beyond
+- tabnabbing_payload_4_study
+- tabnabbing_payload_5_much
+severity: high
+type: tabnabbing

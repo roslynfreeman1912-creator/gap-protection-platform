@@ -1,0 +1,9 @@
+name: Stand-alone human-resource emulation
+payloads:
+- crlf-injection_payload_1_local
+- crlf-injection_payload_2_series
+- crlf-injection_payload_3_practice
+- crlf-injection_payload_4_every
+- crlf-injection_payload_5_not
+severity: critical
+type: crlf-injection

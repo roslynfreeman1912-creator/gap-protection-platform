@@ -1,0 +1,9 @@
+name: Synchronized national approach
+payloads:
+- file-upload_payload_1_early
+- file-upload_payload_2_must
+- file-upload_payload_3_sister
+- file-upload_payload_4_decision
+- file-upload_payload_5_mean
+severity: medium
+type: file-upload

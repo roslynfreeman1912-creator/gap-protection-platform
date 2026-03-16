@@ -1,0 +1,9 @@
+name: Advanced zero tolerance framework
+payloads:
+- subdomain-takeover_payload_1_simply
+- subdomain-takeover_payload_2_learn
+- subdomain-takeover_payload_3_your
+- subdomain-takeover_payload_4_near
+- subdomain-takeover_payload_5_drop
+severity: high
+type: subdomain-takeover

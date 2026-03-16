@@ -1,0 +1,9 @@
+name: User-friendly 6thgeneration extranet
+payloads:
+- command-injection_payload_1_live
+- command-injection_payload_2_choose
+- command-injection_payload_3_chance
+- command-injection_payload_4_mean
+- command-injection_payload_5_land
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Right-sized modular task-force
+payloads:
+- xxe_payload_1_ready
+- xxe_payload_2_knowledge
+- xxe_payload_3_cold
+- xxe_payload_4_enjoy
+- xxe_payload_5_cold
+severity: critical
+type: xxe

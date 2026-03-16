@@ -1,0 +1,9 @@
+name: Robust 4thgeneration methodology
+payloads:
+- xxe_payload_1_soldier
+- xxe_payload_2_rich
+- xxe_payload_3_responsibility
+- xxe_payload_4_relationship
+- xxe_payload_5_research
+severity: low
+type: xxe

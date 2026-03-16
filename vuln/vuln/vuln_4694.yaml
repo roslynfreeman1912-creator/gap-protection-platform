@@ -1,0 +1,9 @@
+name: Distributed zero administration knowledge user
+payloads:
+- javascript-injection_payload_1_environment
+- javascript-injection_payload_2_spring
+- javascript-injection_payload_3_area
+- javascript-injection_payload_4_majority
+- javascript-injection_payload_5_enjoy
+severity: low
+type: javascript-injection

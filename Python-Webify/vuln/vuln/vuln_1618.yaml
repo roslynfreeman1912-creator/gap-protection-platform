@@ -1,0 +1,9 @@
+name: Streamlined scalable knowledgebase
+payloads:
+- subdomain-takeover_payload_1_recent
+- subdomain-takeover_payload_2_energy
+- subdomain-takeover_payload_3_soldier
+- subdomain-takeover_payload_4_program
+- subdomain-takeover_payload_5_low
+severity: critical
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Persevering next generation productivity
+payloads:
+- hsts-misconfig_payload_1_entire
+- hsts-misconfig_payload_2_too
+- hsts-misconfig_payload_3_official
+- hsts-misconfig_payload_4_though
+- hsts-misconfig_payload_5_lay
+severity: medium
+type: hsts-misconfig

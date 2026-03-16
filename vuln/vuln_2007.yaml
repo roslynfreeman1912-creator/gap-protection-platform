@@ -1,0 +1,9 @@
+name: Re-engineered well-modulated collaboration
+payloads:
+- ssti_payload_1_happen
+- ssti_payload_2_account
+- ssti_payload_3_view
+- ssti_payload_4_lead
+- ssti_payload_5_continue
+severity: high
+type: ssti

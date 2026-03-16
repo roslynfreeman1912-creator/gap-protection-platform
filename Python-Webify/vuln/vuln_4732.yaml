@@ -1,0 +1,9 @@
+name: Enterprise-wide actuating matrices
+payloads:
+- ssti_payload_1_wide
+- ssti_payload_2_each
+- ssti_payload_3_resource
+- ssti_payload_4_concern
+- ssti_payload_5_free
+severity: low
+type: ssti

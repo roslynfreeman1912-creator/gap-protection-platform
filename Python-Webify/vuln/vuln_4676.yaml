@@ -1,0 +1,9 @@
+name: Exclusive optimal project
+payloads:
+- sql_payload_1_him
+- sql_payload_2_left
+- sql_payload_3_meeting
+- sql_payload_4_return
+- sql_payload_5_happy
+severity: medium
+type: sql

@@ -1,0 +1,9 @@
+name: Organic client-driven focus group
+payloads:
+- subdomain-takeover_payload_1_society
+- subdomain-takeover_payload_2_usually
+- subdomain-takeover_payload_3_person
+- subdomain-takeover_payload_4_four
+- subdomain-takeover_payload_5_term
+severity: medium
+type: subdomain-takeover

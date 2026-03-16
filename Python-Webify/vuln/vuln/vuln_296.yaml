@@ -1,0 +1,9 @@
+name: Realigned multi-tasking projection
+payloads:
+- mime-sniffing_payload_1_southern
+- mime-sniffing_payload_2_present
+- mime-sniffing_payload_3_end
+- mime-sniffing_payload_4_line
+- mime-sniffing_payload_5_have
+severity: medium
+type: mime-sniffing

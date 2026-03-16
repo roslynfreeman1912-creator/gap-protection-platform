@@ -1,0 +1,9 @@
+name: Centralized high-level time-frame
+payloads:
+- ldap-injection_payload_1_those
+- ldap-injection_payload_2_keep
+- ldap-injection_payload_3_you
+- ldap-injection_payload_4_table
+- ldap-injection_payload_5_turn
+severity: high
+type: ldap-injection

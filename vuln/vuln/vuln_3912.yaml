@@ -1,0 +1,9 @@
+name: Face-to-face fault-tolerant capacity
+payloads:
+- ldap-injection_payload_1_identify
+- ldap-injection_payload_2_recognize
+- ldap-injection_payload_3_nice
+- ldap-injection_payload_4_wind
+- ldap-injection_payload_5_mean
+severity: high
+type: ldap-injection

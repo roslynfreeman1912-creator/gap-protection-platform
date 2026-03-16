@@ -1,0 +1,9 @@
+name: Up-sized stable artificial intelligence
+payloads:
+- command-injection_payload_1_window
+- command-injection_payload_2_today
+- command-injection_payload_3_argue
+- command-injection_payload_4_each
+- command-injection_payload_5_soon
+severity: critical
+type: command-injection

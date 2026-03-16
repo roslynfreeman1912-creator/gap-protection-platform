@@ -1,0 +1,9 @@
+name: Fundamental real-time functionalities
+payloads:
+- csp-bypass_payload_1_anything
+- csp-bypass_payload_2_fund
+- csp-bypass_payload_3_table
+- csp-bypass_payload_4_per
+- csp-bypass_payload_5_development
+severity: medium
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Seamless systemic pricing structure
+payloads:
+- jsonp-injection_payload_1_turn
+- jsonp-injection_payload_2_remember
+- jsonp-injection_payload_3_effect
+- jsonp-injection_payload_4_then
+- jsonp-injection_payload_5_pick
+severity: medium
+type: jsonp-injection

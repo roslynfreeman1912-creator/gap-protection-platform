@@ -1,0 +1,9 @@
+name: Fundamental static implementation
+payloads:
+- jsonp-injection_payload_1_Congress
+- jsonp-injection_payload_2_worry
+- jsonp-injection_payload_3_Democrat
+- jsonp-injection_payload_4_list
+- jsonp-injection_payload_5_improve
+severity: medium
+type: jsonp-injection

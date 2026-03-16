@@ -1,0 +1,9 @@
+name: Compatible motivating database
+payloads:
+- hsts-misconfig_payload_1_work
+- hsts-misconfig_payload_2_use
+- hsts-misconfig_payload_3_to
+- hsts-misconfig_payload_4_bed
+- hsts-misconfig_payload_5_little
+severity: high
+type: hsts-misconfig

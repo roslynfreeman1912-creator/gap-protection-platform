@@ -1,0 +1,9 @@
+name: Expanded composite service-desk
+payloads:
+- ssti_payload_1_off
+- ssti_payload_2_smile
+- ssti_payload_3_but
+- ssti_payload_4_difference
+- ssti_payload_5_project
+severity: high
+type: ssti

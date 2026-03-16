@@ -1,0 +1,9 @@
+name: Organic real-time adapter
+payloads:
+- sql_payload_1_step
+- sql_payload_2_response
+- sql_payload_3_allow
+- sql_payload_4_why
+- sql_payload_5_whether
+severity: high
+type: sql

@@ -1,0 +1,9 @@
+name: Persevering mission-critical task-force
+payloads:
+- javascript-injection_payload_1_ground
+- javascript-injection_payload_2_remain
+- javascript-injection_payload_3_resource
+- javascript-injection_payload_4_everything
+- javascript-injection_payload_5_real
+severity: low
+type: javascript-injection

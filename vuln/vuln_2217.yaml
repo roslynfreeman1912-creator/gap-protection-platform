@@ -1,0 +1,9 @@
+name: Compatible executive conglomeration
+payloads:
+- host-header-injection_payload_1_check
+- host-header-injection_payload_2_today
+- host-header-injection_payload_3_they
+- host-header-injection_payload_4_another
+- host-header-injection_payload_5_simple
+severity: low
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Secured real-time focus group
+payloads:
+- javascript-injection_payload_1_key
+- javascript-injection_payload_2_use
+- javascript-injection_payload_3_you
+- javascript-injection_payload_4_article
+- javascript-injection_payload_5_care
+severity: critical
+type: javascript-injection

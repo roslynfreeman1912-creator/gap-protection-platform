@@ -1,0 +1,9 @@
+name: Monitored explicit success
+payloads:
+- hsts-misconfig_payload_1_throw
+- hsts-misconfig_payload_2_nation
+- hsts-misconfig_payload_3_that
+- hsts-misconfig_payload_4_miss
+- hsts-misconfig_payload_5_usually
+severity: high
+type: hsts-misconfig

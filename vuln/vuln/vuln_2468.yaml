@@ -1,0 +1,9 @@
+name: User-centric client-driven definition
+payloads:
+- subdomain-takeover_payload_1_wish
+- subdomain-takeover_payload_2_strong
+- subdomain-takeover_payload_3_home
+- subdomain-takeover_payload_4_me
+- subdomain-takeover_payload_5_easy
+severity: high
+type: subdomain-takeover

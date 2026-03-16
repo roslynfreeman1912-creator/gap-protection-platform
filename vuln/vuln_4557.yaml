@@ -1,0 +1,9 @@
+name: Right-sized system-worthy process improvement
+payloads:
+- ssti_payload_1_dinner
+- ssti_payload_2_serve
+- ssti_payload_3_quite
+- ssti_payload_4_our
+- ssti_payload_5_card
+severity: high
+type: ssti

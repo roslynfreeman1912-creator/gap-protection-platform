@@ -1,0 +1,9 @@
+name: Adaptive bandwidth-monitored array
+payloads:
+- xxe_payload_1_provide
+- xxe_payload_2_memory
+- xxe_payload_3_near
+- xxe_payload_4_minute
+- xxe_payload_5_set
+severity: low
+type: xxe

@@ -1,0 +1,9 @@
+name: Up-sized logistical monitoring
+payloads:
+- clickjacking_payload_1_audience
+- clickjacking_payload_2_thank
+- clickjacking_payload_3_their
+- clickjacking_payload_4_whole
+- clickjacking_payload_5_customer
+severity: low
+type: clickjacking

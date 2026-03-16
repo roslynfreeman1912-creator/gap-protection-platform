@@ -1,0 +1,9 @@
+name: Seamless multi-state extranet
+payloads:
+- crlf-injection_payload_1_tax
+- crlf-injection_payload_2_write
+- crlf-injection_payload_3_despite
+- crlf-injection_payload_4_goal
+- crlf-injection_payload_5_their
+severity: low
+type: crlf-injection

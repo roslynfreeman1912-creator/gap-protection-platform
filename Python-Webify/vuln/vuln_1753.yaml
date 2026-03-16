@@ -1,0 +1,9 @@
+name: Up-sized web-enabled open architecture
+payloads:
+- lfi_payload_1_marriage
+- lfi_payload_2_develop
+- lfi_payload_3_woman
+- lfi_payload_4_deep
+- lfi_payload_5_need
+severity: medium
+type: lfi

@@ -1,0 +1,9 @@
+name: Multi-tiered homogeneous firmware
+payloads:
+- open-redirect_payload_1_six
+- open-redirect_payload_2_you
+- open-redirect_payload_3_democratic
+- open-redirect_payload_4_door
+- open-redirect_payload_5_case
+severity: critical
+type: open-redirect

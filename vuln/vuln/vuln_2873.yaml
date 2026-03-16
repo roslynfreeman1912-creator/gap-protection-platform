@@ -1,0 +1,9 @@
+name: Universal executive concept
+payloads:
+- hsts-misconfig_payload_1_movie
+- hsts-misconfig_payload_2_ground
+- hsts-misconfig_payload_3_arrive
+- hsts-misconfig_payload_4_these
+- hsts-misconfig_payload_5_job
+severity: medium
+type: hsts-misconfig

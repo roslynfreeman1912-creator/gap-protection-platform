@@ -1,0 +1,9 @@
+name: Phased zero tolerance hierarchy
+payloads:
+- ssrf_payload_1_vote
+- ssrf_payload_2_sign
+- ssrf_payload_3_our
+- ssrf_payload_4_indeed
+- ssrf_payload_5_read
+severity: low
+type: ssrf

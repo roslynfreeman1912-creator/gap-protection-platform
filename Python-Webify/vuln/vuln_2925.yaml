@@ -1,0 +1,9 @@
+name: Ergonomic needs-based toolset
+payloads:
+- frame-injection_payload_1_put
+- frame-injection_payload_2_area
+- frame-injection_payload_3_financial
+- frame-injection_payload_4_so
+- frame-injection_payload_5_minute
+severity: medium
+type: frame-injection

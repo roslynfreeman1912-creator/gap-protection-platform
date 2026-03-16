@@ -1,0 +1,9 @@
+name: Virtual secondary info-mediaries
+payloads:
+- csrf_payload_1_produce
+- csrf_payload_2_person
+- csrf_payload_3_almost
+- csrf_payload_4_world
+- csrf_payload_5_man
+severity: high
+type: csrf

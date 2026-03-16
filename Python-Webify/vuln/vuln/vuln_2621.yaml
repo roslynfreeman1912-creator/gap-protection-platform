@@ -1,0 +1,9 @@
+name: User-friendly zero-defect workforce
+payloads:
+- mime-sniffing_payload_1_recent
+- mime-sniffing_payload_2_this
+- mime-sniffing_payload_3_trouble
+- mime-sniffing_payload_4_simple
+- mime-sniffing_payload_5_action
+severity: low
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Face-to-face discrete application
+payloads:
+- open-redirect_payload_1_experience
+- open-redirect_payload_2_though
+- open-redirect_payload_3_anyone
+- open-redirect_payload_4_note
+- open-redirect_payload_5_act
+severity: critical
+type: open-redirect

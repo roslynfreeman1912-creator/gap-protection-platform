@@ -1,0 +1,9 @@
+name: Digitized coherent open architecture
+payloads:
+- xxe_payload_1_song
+- xxe_payload_2_still
+- xxe_payload_3_these
+- xxe_payload_4_off
+- xxe_payload_5_nation
+severity: critical
+type: xxe

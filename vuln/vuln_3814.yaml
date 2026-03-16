@@ -1,0 +1,9 @@
+name: Centralized leadingedge encoding
+payloads:
+- clickjacking_payload_1_up
+- clickjacking_payload_2_save
+- clickjacking_payload_3_change
+- clickjacking_payload_4_cut
+- clickjacking_payload_5_arm
+severity: low
+type: clickjacking

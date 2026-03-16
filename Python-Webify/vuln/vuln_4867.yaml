@@ -1,0 +1,9 @@
+name: Synergistic secondary Graphic Interface
+payloads:
+- host-header-injection_payload_1_sometimes
+- host-header-injection_payload_2_truth
+- host-header-injection_payload_3_race
+- host-header-injection_payload_4_or
+- host-header-injection_payload_5_matter
+severity: medium
+type: host-header-injection

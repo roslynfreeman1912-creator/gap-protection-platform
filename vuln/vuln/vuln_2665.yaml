@@ -1,0 +1,9 @@
+name: Adaptive high-level interface
+payloads:
+- jsonp-injection_payload_1_yeah
+- jsonp-injection_payload_2_PM
+- jsonp-injection_payload_3_why
+- jsonp-injection_payload_4_Mr
+- jsonp-injection_payload_5_mind
+severity: low
+type: jsonp-injection

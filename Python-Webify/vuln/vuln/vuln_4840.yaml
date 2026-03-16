@@ -1,0 +1,9 @@
+name: Automated zero administration implementation
+payloads:
+- jsonp-injection_payload_1_more
+- jsonp-injection_payload_2_career
+- jsonp-injection_payload_3_worker
+- jsonp-injection_payload_4_door
+- jsonp-injection_payload_5_order
+severity: critical
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Vision-oriented bandwidth-monitored intranet
+payloads:
+- csrf_payload_1_could
+- csrf_payload_2_tree
+- csrf_payload_3_possible
+- csrf_payload_4_writer
+- csrf_payload_5_possible
+severity: medium
+type: csrf

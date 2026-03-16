@@ -1,0 +1,9 @@
+name: Right-sized discrete monitoring
+payloads:
+- frame-injection_payload_1_bank
+- frame-injection_payload_2_series
+- frame-injection_payload_3_son
+- frame-injection_payload_4_force
+- frame-injection_payload_5_amount
+severity: medium
+type: frame-injection

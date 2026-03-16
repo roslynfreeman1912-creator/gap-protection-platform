@@ -1,0 +1,9 @@
+name: Self-enabling systemic algorithm
+payloads:
+- file-upload_payload_1_rise
+- file-upload_payload_2_must
+- file-upload_payload_3_position
+- file-upload_payload_4_nothing
+- file-upload_payload_5_cell
+severity: critical
+type: file-upload

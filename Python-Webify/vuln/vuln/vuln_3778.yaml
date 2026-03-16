@@ -1,0 +1,9 @@
+name: Multi-lateral logistical emulation
+payloads:
+- lfi_payload_1_red
+- lfi_payload_2_market
+- lfi_payload_3_area
+- lfi_payload_4_own
+- lfi_payload_5_statement
+severity: medium
+type: lfi

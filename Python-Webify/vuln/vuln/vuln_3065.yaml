@@ -1,0 +1,9 @@
+name: Distributed attitude-oriented archive
+payloads:
+- jsonp-injection_payload_1_man
+- jsonp-injection_payload_2_cover
+- jsonp-injection_payload_3_boy
+- jsonp-injection_payload_4_Democrat
+- jsonp-injection_payload_5_current
+severity: critical
+type: jsonp-injection

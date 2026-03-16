@@ -1,0 +1,9 @@
+name: Extended intangible encoding
+payloads:
+- xxe_payload_1_resource
+- xxe_payload_2_move
+- xxe_payload_3_degree
+- xxe_payload_4_of
+- xxe_payload_5_sure
+severity: medium
+type: xxe

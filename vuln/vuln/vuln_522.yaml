@@ -1,0 +1,9 @@
+name: Enhanced stable benchmark
+payloads:
+- tabnabbing_payload_1_national
+- tabnabbing_payload_2_skill
+- tabnabbing_payload_3_put
+- tabnabbing_payload_4_adult
+- tabnabbing_payload_5_day
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Vision-oriented tangible synergy
+payloads:
+- command-injection_payload_1_go
+- command-injection_payload_2_over
+- command-injection_payload_3_tough
+- command-injection_payload_4_under
+- command-injection_payload_5_food
+severity: critical
+type: command-injection

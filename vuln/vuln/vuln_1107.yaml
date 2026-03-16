@@ -1,0 +1,9 @@
+name: Quality-focused multimedia middleware
+payloads:
+- ssti_payload_1_anything
+- ssti_payload_2_ago
+- ssti_payload_3_window
+- ssti_payload_4_center
+- ssti_payload_5_similar
+severity: critical
+type: ssti

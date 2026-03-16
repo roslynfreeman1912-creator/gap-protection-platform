@@ -1,0 +1,9 @@
+name: Persevering didactic parallelism
+payloads:
+- sql_payload_1_high
+- sql_payload_2_effort
+- sql_payload_3_recently
+- sql_payload_4_hold
+- sql_payload_5_foreign
+severity: critical
+type: sql

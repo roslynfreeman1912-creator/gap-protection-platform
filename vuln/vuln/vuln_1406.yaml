@@ -1,0 +1,9 @@
+name: Ergonomic maximized approach
+payloads:
+- csrf_payload_1_sell
+- csrf_payload_2_wonder
+- csrf_payload_3_still
+- csrf_payload_4_institution
+- csrf_payload_5_how
+severity: medium
+type: csrf

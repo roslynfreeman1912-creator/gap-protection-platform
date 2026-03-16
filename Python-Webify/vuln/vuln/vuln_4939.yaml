@@ -1,0 +1,9 @@
+name: Function-based intermediate artificial intelligence
+payloads:
+- clickjacking_payload_1_together
+- clickjacking_payload_2_skill
+- clickjacking_payload_3_president
+- clickjacking_payload_4_according
+- clickjacking_payload_5_theory
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Open-source upward-trending pricing structure
+payloads:
+- command-injection_payload_1_score
+- command-injection_payload_2_traditional
+- command-injection_payload_3_mission
+- command-injection_payload_4_mind
+- command-injection_payload_5_degree
+severity: medium
+type: command-injection

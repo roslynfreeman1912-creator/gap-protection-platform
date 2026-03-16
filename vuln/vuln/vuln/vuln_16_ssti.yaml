@@ -1,0 +1,9 @@
+name: Server Side Template Injection (SSTI) Variant 6
+payloads:
+- '{{7*7}}'
+- ${7*7}
+- '{% print(7*7) %}'
+- <%= 7 * 7 %>
+- '{{ config.items() }}'
+severity: high
+type: ssti

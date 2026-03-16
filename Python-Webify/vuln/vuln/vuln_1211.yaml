@@ -1,0 +1,9 @@
+name: Monitored user-facing paradigm
+payloads:
+- xxe_payload_1_turn
+- xxe_payload_2_challenge
+- xxe_payload_3_how
+- xxe_payload_4_against
+- xxe_payload_5_use
+severity: critical
+type: xxe

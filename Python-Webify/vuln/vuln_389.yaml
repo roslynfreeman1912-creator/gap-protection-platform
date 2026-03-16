@@ -1,0 +1,9 @@
+name: Ameliorated leadingedge function
+payloads:
+- clickjacking_payload_1_site
+- clickjacking_payload_2_yet
+- clickjacking_payload_3_pretty
+- clickjacking_payload_4_toward
+- clickjacking_payload_5_decade
+severity: medium
+type: clickjacking

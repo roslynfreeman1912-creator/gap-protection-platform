@@ -1,0 +1,9 @@
+name: Progressive cohesive middleware
+payloads:
+- subdomain-takeover_payload_1_program
+- subdomain-takeover_payload_2_media
+- subdomain-takeover_payload_3_unit
+- subdomain-takeover_payload_4_information
+- subdomain-takeover_payload_5_sure
+severity: high
+type: subdomain-takeover

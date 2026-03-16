@@ -1,0 +1,9 @@
+name: Proactive optimizing frame
+payloads:
+- jsonp-injection_payload_1_treat
+- jsonp-injection_payload_2_line
+- jsonp-injection_payload_3_between
+- jsonp-injection_payload_4_stuff
+- jsonp-injection_payload_5_hope
+severity: low
+type: jsonp-injection

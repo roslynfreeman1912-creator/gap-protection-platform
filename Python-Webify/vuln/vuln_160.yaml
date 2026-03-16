@@ -1,0 +1,9 @@
+name: Function-based content-based task-force
+payloads:
+- open-redirect_payload_1_forward
+- open-redirect_payload_2_what
+- open-redirect_payload_3_local
+- open-redirect_payload_4_exactly
+- open-redirect_payload_5_use
+severity: high
+type: open-redirect

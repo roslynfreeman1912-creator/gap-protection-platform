@@ -1,0 +1,9 @@
+name: Virtual asynchronous Graphic Interface
+payloads:
+- open-redirect_payload_1_sell
+- open-redirect_payload_2_our
+- open-redirect_payload_3_loss
+- open-redirect_payload_4_region
+- open-redirect_payload_5_section
+severity: medium
+type: open-redirect

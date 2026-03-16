@@ -1,0 +1,9 @@
+name: Right-sized context-sensitive capacity
+payloads:
+- open-redirect_payload_1_past
+- open-redirect_payload_2_experience
+- open-redirect_payload_3_attention
+- open-redirect_payload_4_least
+- open-redirect_payload_5_hot
+severity: critical
+type: open-redirect

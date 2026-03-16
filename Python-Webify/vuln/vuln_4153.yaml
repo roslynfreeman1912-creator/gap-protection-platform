@@ -1,0 +1,9 @@
+name: Distributed stable synergy
+payloads:
+- lfi_payload_1_house
+- lfi_payload_2_these
+- lfi_payload_3_record
+- lfi_payload_4_defense
+- lfi_payload_5_help
+severity: high
+type: lfi

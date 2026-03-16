@@ -1,0 +1,9 @@
+name: Quality-focused 24/7 solution
+payloads:
+- subdomain-takeover_payload_1_discover
+- subdomain-takeover_payload_2_mention
+- subdomain-takeover_payload_3_whatever
+- subdomain-takeover_payload_4_last
+- subdomain-takeover_payload_5_prove
+severity: critical
+type: subdomain-takeover

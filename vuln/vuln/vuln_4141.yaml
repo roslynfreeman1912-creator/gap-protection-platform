@@ -1,0 +1,9 @@
+name: Cross-platform bandwidth-monitored concept
+payloads:
+- crlf-injection_payload_1_our
+- crlf-injection_payload_2_truth
+- crlf-injection_payload_3_arm
+- crlf-injection_payload_4_always
+- crlf-injection_payload_5_mission
+severity: high
+type: crlf-injection

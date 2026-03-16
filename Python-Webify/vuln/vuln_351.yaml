@@ -1,0 +1,9 @@
+name: Optional radical Local Area Network
+payloads:
+- sql_payload_1_main
+- sql_payload_2_friend
+- sql_payload_3_deep
+- sql_payload_4_according
+- sql_payload_5_commercial
+severity: low
+type: sql

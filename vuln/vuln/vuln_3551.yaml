@@ -1,0 +1,9 @@
+name: Robust tertiary hub
+payloads:
+- sql_payload_1_performance
+- sql_payload_2_game
+- sql_payload_3_not
+- sql_payload_4_customer
+- sql_payload_5_near
+severity: high
+type: sql

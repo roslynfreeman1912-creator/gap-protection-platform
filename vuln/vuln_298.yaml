@@ -1,0 +1,9 @@
+name: Realigned uniform help-desk
+payloads:
+- hsts-misconfig_payload_1_oil
+- hsts-misconfig_payload_2_stuff
+- hsts-misconfig_payload_3_seek
+- hsts-misconfig_payload_4_yard
+- hsts-misconfig_payload_5_top
+severity: critical
+type: hsts-misconfig

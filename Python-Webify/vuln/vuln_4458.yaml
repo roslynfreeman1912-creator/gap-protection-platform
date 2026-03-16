@@ -1,0 +1,9 @@
+name: Cross-platform 24hour algorithm
+payloads:
+- command-injection_payload_1_teacher
+- command-injection_payload_2_Democrat
+- command-injection_payload_3_suddenly
+- command-injection_payload_4_air
+- command-injection_payload_5_lay
+severity: high
+type: command-injection

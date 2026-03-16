@@ -1,0 +1,9 @@
+name: Switchable encompassing challenge
+payloads:
+- command-injection_payload_1_kitchen
+- command-injection_payload_2_serious
+- command-injection_payload_3_woman
+- command-injection_payload_4_get
+- command-injection_payload_5_unit
+severity: medium
+type: command-injection

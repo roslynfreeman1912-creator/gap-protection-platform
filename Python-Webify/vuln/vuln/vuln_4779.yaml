@@ -1,0 +1,9 @@
+name: Robust foreground framework
+payloads:
+- rfi_payload_1_similar
+- rfi_payload_2_start
+- rfi_payload_3_Mrs
+- rfi_payload_4_president
+- rfi_payload_5_project
+severity: high
+type: rfi

@@ -1,0 +1,9 @@
+name: Secured incremental success
+payloads:
+- path-traversal_payload_1_movie
+- path-traversal_payload_2_eat
+- path-traversal_payload_3_product
+- path-traversal_payload_4_state
+- path-traversal_payload_5_participant
+severity: critical
+type: path-traversal

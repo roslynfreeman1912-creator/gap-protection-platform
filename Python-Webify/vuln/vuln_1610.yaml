@@ -1,0 +1,9 @@
+name: Compatible optimal open architecture
+payloads:
+- open-redirect_payload_1_up
+- open-redirect_payload_2_debate
+- open-redirect_payload_3_final
+- open-redirect_payload_4_idea
+- open-redirect_payload_5_better
+severity: medium
+type: open-redirect

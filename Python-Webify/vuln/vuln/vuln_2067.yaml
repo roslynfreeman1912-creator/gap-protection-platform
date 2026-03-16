@@ -1,0 +1,9 @@
+name: Profit-focused global superstructure
+payloads:
+- host-header-injection_payload_1_family
+- host-header-injection_payload_2_describe
+- host-header-injection_payload_3_ground
+- host-header-injection_payload_4_situation
+- host-header-injection_payload_5_catch
+severity: low
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Exclusive fault-tolerant application
+payloads:
+- subdomain-takeover_payload_1_fear
+- subdomain-takeover_payload_2_student
+- subdomain-takeover_payload_3_tend
+- subdomain-takeover_payload_4_box
+- subdomain-takeover_payload_5_body
+severity: critical
+type: subdomain-takeover

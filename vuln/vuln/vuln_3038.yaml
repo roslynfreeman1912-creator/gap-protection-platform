@@ -1,0 +1,9 @@
+name: Organized analyzing functionalities
+payloads:
+- nosql-injection_payload_1_your
+- nosql-injection_payload_2_ground
+- nosql-injection_payload_3_industry
+- nosql-injection_payload_4_deal
+- nosql-injection_payload_5_card
+severity: medium
+type: nosql-injection

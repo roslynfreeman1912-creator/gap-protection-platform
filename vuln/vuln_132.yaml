@@ -1,0 +1,9 @@
+name: Phased web-enabled extranet
+payloads:
+- ssti_payload_1_inside
+- ssti_payload_2_south
+- ssti_payload_3_follow
+- ssti_payload_4_positive
+- ssti_payload_5_administration
+severity: high
+type: ssti

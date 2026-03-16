@@ -1,0 +1,9 @@
+name: Optional next generation access
+payloads:
+- lfi_payload_1_road
+- lfi_payload_2_dream
+- lfi_payload_3_get
+- lfi_payload_4_appear
+- lfi_payload_5_expect
+severity: low
+type: lfi

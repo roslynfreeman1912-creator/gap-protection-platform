@@ -1,0 +1,9 @@
+name: Focused bifurcated budgetary management
+payloads:
+- rfi_payload_1_simply
+- rfi_payload_2_expert
+- rfi_payload_3_how
+- rfi_payload_4_crime
+- rfi_payload_5_better
+severity: critical
+type: rfi

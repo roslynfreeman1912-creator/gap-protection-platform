@@ -1,0 +1,9 @@
+name: Synergized user-facing interface
+payloads:
+- nosql-injection_payload_1_spring
+- nosql-injection_payload_2_government
+- nosql-injection_payload_3_great
+- nosql-injection_payload_4_present
+- nosql-injection_payload_5_blue
+severity: high
+type: nosql-injection

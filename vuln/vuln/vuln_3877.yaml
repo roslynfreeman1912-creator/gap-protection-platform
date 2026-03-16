@@ -1,0 +1,9 @@
+name: Persistent didactic benchmark
+payloads:
+- xss_payload_1_return
+- xss_payload_2_capital
+- xss_payload_3_land
+- xss_payload_4_over
+- xss_payload_5_business
+severity: medium
+type: xss

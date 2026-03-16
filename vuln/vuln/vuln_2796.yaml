@@ -1,0 +1,9 @@
+name: Decentralized empowering alliance
+payloads:
+- mime-sniffing_payload_1_customer
+- mime-sniffing_payload_2_including
+- mime-sniffing_payload_3_dream
+- mime-sniffing_payload_4_economic
+- mime-sniffing_payload_5_see
+severity: high
+type: mime-sniffing

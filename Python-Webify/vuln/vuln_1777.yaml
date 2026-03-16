@@ -1,0 +1,9 @@
+name: Multi-lateral grid-enabled knowledgebase
+payloads:
+- xss_payload_1_woman
+- xss_payload_2_soldier
+- xss_payload_3_price
+- xss_payload_4_sister
+- xss_payload_5_market
+severity: high
+type: xss

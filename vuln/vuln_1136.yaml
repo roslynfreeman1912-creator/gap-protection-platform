@@ -1,0 +1,9 @@
+name: Diverse systemic contingency
+payloads:
+- xxe_payload_1_threat
+- xxe_payload_2_drug
+- xxe_payload_3_third
+- xxe_payload_4_ago
+- xxe_payload_5_fear
+severity: low
+type: xxe

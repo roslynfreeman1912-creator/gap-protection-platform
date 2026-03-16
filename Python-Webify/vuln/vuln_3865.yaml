@@ -1,0 +1,9 @@
+name: Seamless bottom-line moderator
+payloads:
+- jsonp-injection_payload_1_feeling
+- jsonp-injection_payload_2_put
+- jsonp-injection_payload_3_around
+- jsonp-injection_payload_4_movement
+- jsonp-injection_payload_5_speech
+severity: critical
+type: jsonp-injection

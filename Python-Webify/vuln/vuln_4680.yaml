@@ -1,0 +1,9 @@
+name: Networked next generation emulation
+payloads:
+- ssrf_payload_1_few
+- ssrf_payload_2_type
+- ssrf_payload_3_unit
+- ssrf_payload_4_pretty
+- ssrf_payload_5_others
+severity: low
+type: ssrf

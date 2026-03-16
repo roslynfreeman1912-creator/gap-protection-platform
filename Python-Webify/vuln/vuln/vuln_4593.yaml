@@ -1,0 +1,9 @@
+name: Customer-focused demand-driven functionalities
+payloads:
+- subdomain-takeover_payload_1_car
+- subdomain-takeover_payload_2_nothing
+- subdomain-takeover_payload_3_administration
+- subdomain-takeover_payload_4_positive
+- subdomain-takeover_payload_5_could
+severity: high
+type: subdomain-takeover

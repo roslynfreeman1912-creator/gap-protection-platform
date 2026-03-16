@@ -1,0 +1,9 @@
+name: Cross-group client-server interface
+payloads:
+- sql_payload_1_cut
+- sql_payload_2_staff
+- sql_payload_3_action
+- sql_payload_4_ability
+- sql_payload_5_tonight
+severity: medium
+type: sql

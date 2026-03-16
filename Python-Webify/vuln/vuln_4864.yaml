@@ -1,0 +1,9 @@
+name: User-friendly zero tolerance hardware
+payloads:
+- clickjacking_payload_1_herself
+- clickjacking_payload_2_remember
+- clickjacking_payload_3_money
+- clickjacking_payload_4_question
+- clickjacking_payload_5_camera
+severity: low
+type: clickjacking

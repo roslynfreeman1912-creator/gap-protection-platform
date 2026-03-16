@@ -1,0 +1,9 @@
+name: Operative background service-desk
+payloads:
+- command-injection_payload_1_apply
+- command-injection_payload_2_understand
+- command-injection_payload_3_morning
+- command-injection_payload_4_staff
+- command-injection_payload_5_myself
+severity: critical
+type: command-injection

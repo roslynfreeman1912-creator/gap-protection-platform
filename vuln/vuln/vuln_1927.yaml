@@ -1,0 +1,9 @@
+name: Front-line empowering function
+payloads:
+- xss_payload_1_defense
+- xss_payload_2_approach
+- xss_payload_3_amount
+- xss_payload_4_crime
+- xss_payload_5_others
+severity: low
+type: xss

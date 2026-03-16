@@ -1,0 +1,9 @@
+name: Enhanced zero administration Graphical User Interface
+payloads:
+- nosql-injection_payload_1_particularly
+- nosql-injection_payload_2_garden
+- nosql-injection_payload_3_per
+- nosql-injection_payload_4_season
+- nosql-injection_payload_5_certainly
+severity: medium
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Quality-focused grid-enabled project
+payloads:
+- command-injection_payload_1_feeling
+- command-injection_payload_2_race
+- command-injection_payload_3_actually
+- command-injection_payload_4_option
+- command-injection_payload_5_environment
+severity: medium
+type: command-injection

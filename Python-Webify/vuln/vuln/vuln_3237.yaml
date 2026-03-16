@@ -1,0 +1,9 @@
+name: Open-source zero administration attitude
+payloads:
+- ldap-injection_payload_1_anything
+- ldap-injection_payload_2_receive
+- ldap-injection_payload_3_become
+- ldap-injection_payload_4_money
+- ldap-injection_payload_5_within
+severity: critical
+type: ldap-injection

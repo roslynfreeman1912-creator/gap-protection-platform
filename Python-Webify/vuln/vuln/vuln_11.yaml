@@ -1,0 +1,9 @@
+name: Multi-tiered systemic superstructure
+payloads:
+- xxe_payload_1_participant
+- xxe_payload_2_week
+- xxe_payload_3_main
+- xxe_payload_4_rate
+- xxe_payload_5_board
+severity: medium
+type: xxe

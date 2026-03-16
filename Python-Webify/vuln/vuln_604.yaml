@@ -1,0 +1,9 @@
+name: Organic solution-oriented archive
+payloads:
+- rfi_payload_1_pretty
+- rfi_payload_2_describe
+- rfi_payload_3_soldier
+- rfi_payload_4_computer
+- rfi_payload_5_rate
+severity: low
+type: rfi

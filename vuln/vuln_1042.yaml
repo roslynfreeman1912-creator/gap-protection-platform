@@ -1,0 +1,9 @@
+name: Distributed dedicated Graphical User Interface
+payloads:
+- host-header-injection_payload_1_southern
+- host-header-injection_payload_2_policy
+- host-header-injection_payload_3_condition
+- host-header-injection_payload_4_choice
+- host-header-injection_payload_5_something
+severity: high
+type: host-header-injection

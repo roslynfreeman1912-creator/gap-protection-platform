@@ -1,0 +1,9 @@
+name: Distributed bi-directional Internet solution
+payloads:
+- mime-sniffing_payload_1_community
+- mime-sniffing_payload_2_cover
+- mime-sniffing_payload_3_data
+- mime-sniffing_payload_4_order
+- mime-sniffing_payload_5_Mrs
+severity: critical
+type: mime-sniffing

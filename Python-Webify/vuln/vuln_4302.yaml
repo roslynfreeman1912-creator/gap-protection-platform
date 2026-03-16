@@ -1,0 +1,9 @@
+name: Re-engineered transitional concept
+payloads:
+- xss_payload_1_safe
+- xss_payload_2_discuss
+- xss_payload_3_democratic
+- xss_payload_4_new
+- xss_payload_5_herself
+severity: high
+type: xss

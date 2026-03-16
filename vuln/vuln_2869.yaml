@@ -1,0 +1,9 @@
+name: Cross-platform needs-based leverage
+payloads:
+- javascript-injection_payload_1_process
+- javascript-injection_payload_2_area
+- javascript-injection_payload_3_order
+- javascript-injection_payload_4_even
+- javascript-injection_payload_5_chance
+severity: critical
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: De-engineered user-facing focus group
+payloads:
+- ssti_payload_1_property
+- ssti_payload_2_test
+- ssti_payload_3_right
+- ssti_payload_4_describe
+- ssti_payload_5_attack
+severity: medium
+type: ssti

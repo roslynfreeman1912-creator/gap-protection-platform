@@ -1,0 +1,9 @@
+name: Reverse-engineered dynamic standardization
+payloads:
+- sql_payload_1_mouth
+- sql_payload_2_suggest
+- sql_payload_3_development
+- sql_payload_4_then
+- sql_payload_5_save
+severity: critical
+type: sql

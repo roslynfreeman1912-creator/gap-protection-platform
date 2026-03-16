@@ -1,0 +1,9 @@
+name: Cross-platform incremental circuit
+payloads:
+- xss_payload_1_play
+- xss_payload_2_off
+- xss_payload_3_according
+- xss_payload_4_represent
+- xss_payload_5_something
+severity: high
+type: xss

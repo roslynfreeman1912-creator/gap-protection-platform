@@ -1,0 +1,9 @@
+name: Automated needs-based migration
+payloads:
+- nosql-injection_payload_1_she
+- nosql-injection_payload_2_democratic
+- nosql-injection_payload_3_note
+- nosql-injection_payload_4_bit
+- nosql-injection_payload_5_wonder
+severity: critical
+type: nosql-injection

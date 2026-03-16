@@ -1,0 +1,9 @@
+name: Diverse web-enabled open system
+payloads:
+- csp-bypass_payload_1_certainly
+- csp-bypass_payload_2_size
+- csp-bypass_payload_3_set
+- csp-bypass_payload_4_ask
+- csp-bypass_payload_5_poor
+severity: medium
+type: csp-bypass

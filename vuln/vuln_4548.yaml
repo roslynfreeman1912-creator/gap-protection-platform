@@ -1,0 +1,9 @@
+name: Expanded contextually-based initiative
+payloads:
+- hsts-misconfig_payload_1_fish
+- hsts-misconfig_payload_2_account
+- hsts-misconfig_payload_3_yes
+- hsts-misconfig_payload_4_realize
+- hsts-misconfig_payload_5_beat
+severity: critical
+type: hsts-misconfig

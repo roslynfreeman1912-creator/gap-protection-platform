@@ -1,0 +1,9 @@
+name: Proactive 4thgeneration capacity
+payloads:
+- subdomain-takeover_payload_1_community
+- subdomain-takeover_payload_2_so
+- subdomain-takeover_payload_3_dark
+- subdomain-takeover_payload_4_all
+- subdomain-takeover_payload_5_teacher
+severity: critical
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Team-oriented asymmetric capability
+payloads:
+- tabnabbing_payload_1_myself
+- tabnabbing_payload_2_movement
+- tabnabbing_payload_3_day
+- tabnabbing_payload_4_second
+- tabnabbing_payload_5_serve
+severity: medium
+type: tabnabbing

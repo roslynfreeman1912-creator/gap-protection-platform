@@ -1,0 +1,9 @@
+name: Extended bandwidth-monitored capacity
+payloads:
+- command-injection_payload_1_strong
+- command-injection_payload_2_way
+- command-injection_payload_3_suddenly
+- command-injection_payload_4_soldier
+- command-injection_payload_5_off
+severity: medium
+type: command-injection

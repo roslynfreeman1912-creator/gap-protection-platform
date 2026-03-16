@@ -1,0 +1,9 @@
+name: Diverse user-facing firmware
+payloads:
+- ssrf_payload_1_matter
+- ssrf_payload_2_for
+- ssrf_payload_3_identify
+- ssrf_payload_4_learn
+- ssrf_payload_5_suddenly
+severity: low
+type: ssrf

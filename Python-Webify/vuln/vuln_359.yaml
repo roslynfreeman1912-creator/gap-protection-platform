@@ -1,0 +1,9 @@
+name: Operative systemic challenge
+payloads:
+- path-traversal_payload_1_impact
+- path-traversal_payload_2_decade
+- path-traversal_payload_3_yeah
+- path-traversal_payload_4_receive
+- path-traversal_payload_5_say
+severity: low
+type: path-traversal

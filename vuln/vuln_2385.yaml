@@ -1,0 +1,9 @@
+name: Switchable web-enabled interface
+payloads:
+- open-redirect_payload_1_well
+- open-redirect_payload_2_full
+- open-redirect_payload_3_lead
+- open-redirect_payload_4_enter
+- open-redirect_payload_5_fund
+severity: high
+type: open-redirect

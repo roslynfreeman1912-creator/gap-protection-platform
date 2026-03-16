@@ -1,0 +1,9 @@
+name: Multi-lateral actuating knowledgebase
+payloads:
+- ssrf_payload_1_if
+- ssrf_payload_2_past
+- ssrf_payload_3_start
+- ssrf_payload_4_similar
+- ssrf_payload_5_environment
+severity: critical
+type: ssrf

@@ -1,0 +1,9 @@
+name: Reactive maximized Graphical User Interface
+payloads:
+- csp-bypass_payload_1_step
+- csp-bypass_payload_2_play
+- csp-bypass_payload_3_collection
+- csp-bypass_payload_4_onto
+- csp-bypass_payload_5_top
+severity: critical
+type: csp-bypass

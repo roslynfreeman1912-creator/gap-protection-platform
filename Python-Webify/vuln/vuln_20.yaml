@@ -1,0 +1,9 @@
+name: Enterprise-wide maximized initiative
+payloads:
+- file-upload_payload_1_box
+- file-upload_payload_2_society
+- file-upload_payload_3_over
+- file-upload_payload_4_beyond
+- file-upload_payload_5_cut
+severity: critical
+type: file-upload

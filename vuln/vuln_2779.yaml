@@ -1,0 +1,9 @@
+name: Customizable optimal superstructure
+payloads:
+- rfi_payload_1_it
+- rfi_payload_2_high
+- rfi_payload_3_like
+- rfi_payload_4_trial
+- rfi_payload_5_agree
+severity: critical
+type: rfi

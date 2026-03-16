@@ -1,0 +1,9 @@
+name: Pre-emptive 3rdgeneration collaboration
+payloads:
+- path-traversal_payload_1_father
+- path-traversal_payload_2_consumer
+- path-traversal_payload_3_under
+- path-traversal_payload_4_should
+- path-traversal_payload_5_field
+severity: high
+type: path-traversal

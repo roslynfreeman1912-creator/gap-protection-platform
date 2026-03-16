@@ -1,0 +1,9 @@
+name: Triple-buffered web-enabled instruction set
+payloads:
+- file-upload_payload_1_simply
+- file-upload_payload_2_among
+- file-upload_payload_3_region
+- file-upload_payload_4_book
+- file-upload_payload_5_reason
+severity: medium
+type: file-upload

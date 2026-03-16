@@ -1,0 +1,9 @@
+name: Open-source contextually-based task-force
+payloads:
+- ldap-injection_payload_1_study
+- ldap-injection_payload_2_job
+- ldap-injection_payload_3_matter
+- ldap-injection_payload_4_instead
+- ldap-injection_payload_5_country
+severity: high
+type: ldap-injection

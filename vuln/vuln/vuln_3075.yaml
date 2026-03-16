@@ -1,0 +1,9 @@
+name: Implemented composite knowledge user
+payloads:
+- frame-injection_payload_1_answer
+- frame-injection_payload_2_clearly
+- frame-injection_payload_3_from
+- frame-injection_payload_4_high
+- frame-injection_payload_5_improve
+severity: low
+type: frame-injection

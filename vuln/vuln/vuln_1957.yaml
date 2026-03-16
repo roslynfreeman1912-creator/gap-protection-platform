@@ -1,0 +1,9 @@
+name: Devolved multimedia frame
+payloads:
+- ssti_payload_1_face
+- ssti_payload_2_Republican
+- ssti_payload_3_thank
+- ssti_payload_4_role
+- ssti_payload_5_sell
+severity: low
+type: ssti

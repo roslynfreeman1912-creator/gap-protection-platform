@@ -1,0 +1,9 @@
+name: Multi-layered executive extranet
+payloads:
+- hsts-misconfig_payload_1_now
+- hsts-misconfig_payload_2_movie
+- hsts-misconfig_payload_3_church
+- hsts-misconfig_payload_4_environmental
+- hsts-misconfig_payload_5_serious
+severity: low
+type: hsts-misconfig

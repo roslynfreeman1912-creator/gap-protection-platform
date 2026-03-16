@@ -1,0 +1,9 @@
+name: Horizontal tangible synergy
+payloads:
+- path-traversal_payload_1_financial
+- path-traversal_payload_2_leave
+- path-traversal_payload_3_beyond
+- path-traversal_payload_4_power
+- path-traversal_payload_5_cell
+severity: critical
+type: path-traversal

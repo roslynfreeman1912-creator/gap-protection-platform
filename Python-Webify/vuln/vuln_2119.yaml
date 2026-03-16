@@ -1,0 +1,9 @@
+name: Face-to-face analyzing array
+payloads:
+- javascript-injection_payload_1_attorney
+- javascript-injection_payload_2_task
+- javascript-injection_payload_3_hear
+- javascript-injection_payload_4_around
+- javascript-injection_payload_5_play
+severity: critical
+type: javascript-injection

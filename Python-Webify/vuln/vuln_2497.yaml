@@ -1,0 +1,9 @@
+name: Organic tangible approach
+payloads:
+- tabnabbing_payload_1_better
+- tabnabbing_payload_2_stop
+- tabnabbing_payload_3_police
+- tabnabbing_payload_4_spend
+- tabnabbing_payload_5_enough
+severity: medium
+type: tabnabbing

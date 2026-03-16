@@ -1,0 +1,9 @@
+name: Upgradable user-facing intranet
+payloads:
+- open-redirect_payload_1_lot
+- open-redirect_payload_2_relate
+- open-redirect_payload_3_entire
+- open-redirect_payload_4_lawyer
+- open-redirect_payload_5_someone
+severity: low
+type: open-redirect

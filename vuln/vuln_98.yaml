@@ -1,0 +1,9 @@
+name: Advanced contextually-based forecast
+payloads:
+- hsts-misconfig_payload_1_conference
+- hsts-misconfig_payload_2_with
+- hsts-misconfig_payload_3_crime
+- hsts-misconfig_payload_4_Congress
+- hsts-misconfig_payload_5_oil
+severity: high
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Open-architected scalable success
+payloads:
+- sql_payload_1_top
+- sql_payload_2_nature
+- sql_payload_3_cold
+- sql_payload_4_land
+- sql_payload_5_hit
+severity: critical
+type: sql

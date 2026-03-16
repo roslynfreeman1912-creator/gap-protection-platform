@@ -1,0 +1,9 @@
+name: Adaptive zero administration architecture
+payloads:
+- hsts-misconfig_payload_1_cost
+- hsts-misconfig_payload_2_act
+- hsts-misconfig_payload_3_already
+- hsts-misconfig_payload_4_foreign
+- hsts-misconfig_payload_5_study
+severity: medium
+type: hsts-misconfig

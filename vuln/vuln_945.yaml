@@ -1,0 +1,9 @@
+name: Object-based tertiary project
+payloads:
+- file-upload_payload_1_senior
+- file-upload_payload_2_make
+- file-upload_payload_3_off
+- file-upload_payload_4_shoulder
+- file-upload_payload_5_major
+severity: medium
+type: file-upload

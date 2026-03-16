@@ -1,0 +1,9 @@
+name: Devolved solution-oriented monitoring
+payloads:
+- clickjacking_payload_1_buy
+- clickjacking_payload_2_cultural
+- clickjacking_payload_3_main
+- clickjacking_payload_4_especially
+- clickjacking_payload_5_them
+severity: medium
+type: clickjacking

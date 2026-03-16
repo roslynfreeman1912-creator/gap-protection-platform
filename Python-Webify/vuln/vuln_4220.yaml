@@ -1,0 +1,9 @@
+name: User-friendly demand-driven initiative
+payloads:
+- file-upload_payload_1_maybe
+- file-upload_payload_2_on
+- file-upload_payload_3_ago
+- file-upload_payload_4_accept
+- file-upload_payload_5_more
+severity: low
+type: file-upload

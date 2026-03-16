@@ -1,0 +1,9 @@
+name: Customer-focused asymmetric matrix
+payloads:
+- javascript-injection_payload_1_take
+- javascript-injection_payload_2_staff
+- javascript-injection_payload_3_past
+- javascript-injection_payload_4_plan
+- javascript-injection_payload_5_year
+severity: high
+type: javascript-injection

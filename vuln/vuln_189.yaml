@@ -1,0 +1,9 @@
+name: Open-architected multimedia methodology
+payloads:
+- clickjacking_payload_1_security
+- clickjacking_payload_2_any
+- clickjacking_payload_3_parent
+- clickjacking_payload_4_state
+- clickjacking_payload_5_increase
+severity: critical
+type: clickjacking

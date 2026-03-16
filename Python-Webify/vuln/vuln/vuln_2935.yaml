@@ -1,0 +1,9 @@
+name: Universal dedicated hardware
+payloads:
+- open-redirect_payload_1_happy
+- open-redirect_payload_2_operation
+- open-redirect_payload_3_throw
+- open-redirect_payload_4_great
+- open-redirect_payload_5_data
+severity: low
+type: open-redirect

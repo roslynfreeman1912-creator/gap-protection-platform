@@ -1,0 +1,9 @@
+name: Customer-focused motivating toolset
+payloads:
+- lfi_payload_1_though
+- lfi_payload_2_we
+- lfi_payload_3_work
+- lfi_payload_4_current
+- lfi_payload_5_make
+severity: low
+type: lfi

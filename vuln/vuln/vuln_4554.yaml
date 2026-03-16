@@ -1,0 +1,9 @@
+name: Open-source bi-directional hierarchy
+payloads:
+- rfi_payload_1_one
+- rfi_payload_2_party
+- rfi_payload_3_live
+- rfi_payload_4_alone
+- rfi_payload_5_kind
+severity: high
+type: rfi

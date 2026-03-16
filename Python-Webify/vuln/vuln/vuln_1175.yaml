@@ -1,0 +1,9 @@
+name: Exclusive real-time moratorium
+payloads:
+- frame-injection_payload_1_total
+- frame-injection_payload_2_it
+- frame-injection_payload_3_prepare
+- frame-injection_payload_4_part
+- frame-injection_payload_5_best
+severity: high
+type: frame-injection

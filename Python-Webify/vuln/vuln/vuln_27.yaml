@@ -1,0 +1,9 @@
+name: Monitored asynchronous workforce
+payloads:
+- xss_payload_1_itself
+- xss_payload_2_raise
+- xss_payload_3_turn
+- xss_payload_4_unit
+- xss_payload_5_source
+severity: critical
+type: xss

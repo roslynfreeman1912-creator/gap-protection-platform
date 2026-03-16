@@ -1,0 +1,9 @@
+name: Decentralized bandwidth-monitored groupware
+payloads:
+- xss_payload_1_leave
+- xss_payload_2_of
+- xss_payload_3_cold
+- xss_payload_4_law
+- xss_payload_5_happy
+severity: medium
+type: xss

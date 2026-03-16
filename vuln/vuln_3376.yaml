@@ -1,0 +1,9 @@
+name: Stand-alone uniform algorithm
+payloads:
+- sql_payload_1_word
+- sql_payload_2_their
+- sql_payload_3_hope
+- sql_payload_4_create
+- sql_payload_5_herself
+severity: low
+type: sql

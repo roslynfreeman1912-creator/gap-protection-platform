@@ -1,0 +1,9 @@
+name: Progressive intermediate algorithm
+payloads:
+- lfi_payload_1_benefit
+- lfi_payload_2_fast
+- lfi_payload_3_picture
+- lfi_payload_4_election
+- lfi_payload_5_writer
+severity: low
+type: lfi

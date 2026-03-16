@@ -1,0 +1,9 @@
+name: Integrated local Internet solution
+payloads:
+- file-upload_payload_1_arm
+- file-upload_payload_2_deep
+- file-upload_payload_3_my
+- file-upload_payload_4_sing
+- file-upload_payload_5_exist
+severity: critical
+type: file-upload

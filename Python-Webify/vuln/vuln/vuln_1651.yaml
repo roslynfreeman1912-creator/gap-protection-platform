@@ -1,0 +1,9 @@
+name: Networked encompassing neural-net
+payloads:
+- sql_payload_1_manager
+- sql_payload_2_about
+- sql_payload_3_act
+- sql_payload_4_attention
+- sql_payload_5_us
+severity: low
+type: sql

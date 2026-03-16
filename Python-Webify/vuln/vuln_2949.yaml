@@ -1,0 +1,9 @@
+name: Grass-roots even-keeled intranet
+payloads:
+- csp-bypass_payload_1_visit
+- csp-bypass_payload_2_school
+- csp-bypass_payload_3_ground
+- csp-bypass_payload_4_not
+- csp-bypass_payload_5_lose
+severity: critical
+type: csp-bypass

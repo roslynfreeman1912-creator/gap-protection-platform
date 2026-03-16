@@ -1,0 +1,72 @@
+# Aider
+.aider*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+*.egg-info/
+dist/
+build/
+
+# Node
+node_modules/
+.npm/
+
+# Environment & Secrets
+.env
+.env.local
+.env.production
+*.env
+
+# Build outputs
+remix-of-mlm-main/dist/
+remix-of-mlm-main/dist.zip
+remix-of-mlm-main/backup-before-vite7.zip
+Python-Webify/dist/
+Python-Webify/node_modules/
+Python-Webify/.venv/
+Python-Webify/deploy-scanner.tar.gz
+Python-Webify/deploy-scanner.zip
+
+# Logs & reports
+*.log
+*.txt
+scan_output.txt
+errors-only-report.txt
+full-project-report.txt
+test-auth-result.txt
+security_report_*.json
+security_report_*.txt
+sicherheitsbericht_*.json
+sicherheitsbericht_*.txt
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/settings.json
+.claude/
+
+# Git disabled folders
+remix-of-mlm-main/.git_disabled/
+Python-Webify/.git_disabled/
+
+# Sensitive scripts (server credentials)
+cpanel-*.py
+sftp-*.py
+deploy-cpanel.*
+debug-cpanel.py
+check-login.py
+try-ssh-*.py
+try-cpanel-*.py
+test-cpanel-*.py
+test-ports.py
+find-cpanel.py
+find-upload-endpoint.py
+http-upload.py
+upload-now.py
+sftp-upload.py
+discover-server.py

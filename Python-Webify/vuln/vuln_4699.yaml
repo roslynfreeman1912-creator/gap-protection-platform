@@ -1,0 +1,9 @@
+name: Grass-roots real-time architecture
+payloads:
+- csp-bypass_payload_1_physical
+- csp-bypass_payload_2_market
+- csp-bypass_payload_3_or
+- csp-bypass_payload_4_standard
+- csp-bypass_payload_5_floor
+severity: medium
+type: csp-bypass

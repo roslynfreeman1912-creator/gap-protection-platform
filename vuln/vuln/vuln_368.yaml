@@ -1,0 +1,9 @@
+name: Configurable next generation function
+payloads:
+- subdomain-takeover_payload_1_choice
+- subdomain-takeover_payload_2_rich
+- subdomain-takeover_payload_3_ever
+- subdomain-takeover_payload_4_eat
+- subdomain-takeover_payload_5_recognize
+severity: medium
+type: subdomain-takeover

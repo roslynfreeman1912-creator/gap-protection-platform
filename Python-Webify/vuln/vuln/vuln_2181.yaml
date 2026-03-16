@@ -1,0 +1,9 @@
+name: User-friendly clear-thinking leverage
+payloads:
+- csrf_payload_1_ground
+- csrf_payload_2_this
+- csrf_payload_3_yet
+- csrf_payload_4_sell
+- csrf_payload_5_PM
+severity: critical
+type: csrf

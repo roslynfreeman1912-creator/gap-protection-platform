@@ -1,0 +1,9 @@
+name: Progressive multi-tasking encryption
+payloads:
+- ldap-injection_payload_1_instead
+- ldap-injection_payload_2_mouth
+- ldap-injection_payload_3_anything
+- ldap-injection_payload_4_morning
+- ldap-injection_payload_5_technology
+severity: medium
+type: ldap-injection

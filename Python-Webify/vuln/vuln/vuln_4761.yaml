@@ -1,0 +1,9 @@
+name: Horizontal static adapter
+payloads:
+- xxe_payload_1_politics
+- xxe_payload_2_send
+- xxe_payload_3_see
+- xxe_payload_4_case
+- xxe_payload_5_able
+severity: high
+type: xxe

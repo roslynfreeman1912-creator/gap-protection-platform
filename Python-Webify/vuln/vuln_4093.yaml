@@ -1,0 +1,9 @@
+name: Polarized value-added collaboration
+payloads:
+- subdomain-takeover_payload_1_lead
+- subdomain-takeover_payload_2_take
+- subdomain-takeover_payload_3_six
+- subdomain-takeover_payload_4_agreement
+- subdomain-takeover_payload_5_page
+severity: low
+type: subdomain-takeover

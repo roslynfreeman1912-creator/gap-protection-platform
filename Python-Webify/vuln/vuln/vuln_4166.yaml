@@ -1,0 +1,9 @@
+name: Extended explicit knowledge user
+payloads:
+- crlf-injection_payload_1_training
+- crlf-injection_payload_2_imagine
+- crlf-injection_payload_3_authority
+- crlf-injection_payload_4_rather
+- crlf-injection_payload_5_understand
+severity: low
+type: crlf-injection

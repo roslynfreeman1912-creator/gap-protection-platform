@@ -1,0 +1,9 @@
+name: Grass-roots content-based hierarchy
+payloads:
+- nosql-injection_payload_1_ten
+- nosql-injection_payload_2_move
+- nosql-injection_payload_3_three
+- nosql-injection_payload_4_heart
+- nosql-injection_payload_5_floor
+severity: critical
+type: nosql-injection

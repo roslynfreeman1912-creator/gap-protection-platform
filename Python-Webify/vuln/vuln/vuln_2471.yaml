@@ -1,0 +1,9 @@
+name: Enterprise-wide bifurcated artificial intelligence
+payloads:
+- mime-sniffing_payload_1_how
+- mime-sniffing_payload_2_test
+- mime-sniffing_payload_3_source
+- mime-sniffing_payload_4_whose
+- mime-sniffing_payload_5_picture
+severity: medium
+type: mime-sniffing

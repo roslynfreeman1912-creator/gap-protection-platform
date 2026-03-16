@@ -1,0 +1,9 @@
+name: Decentralized asymmetric concept
+payloads:
+- javascript-injection_payload_1_piece
+- javascript-injection_payload_2_stage
+- javascript-injection_payload_3_four
+- javascript-injection_payload_4_several
+- javascript-injection_payload_5_policy
+severity: medium
+type: javascript-injection

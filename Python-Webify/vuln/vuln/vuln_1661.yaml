@@ -1,0 +1,9 @@
+name: Up-sized dedicated productivity
+payloads:
+- xxe_payload_1_specific
+- xxe_payload_2_every
+- xxe_payload_3_than
+- xxe_payload_4_present
+- xxe_payload_5_data
+severity: critical
+type: xxe

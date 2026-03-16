@@ -1,0 +1,9 @@
+name: Progressive actuating toolset
+payloads:
+- file-upload_payload_1_clearly
+- file-upload_payload_2_book
+- file-upload_payload_3_analysis
+- file-upload_payload_4_site
+- file-upload_payload_5_visit
+severity: medium
+type: file-upload

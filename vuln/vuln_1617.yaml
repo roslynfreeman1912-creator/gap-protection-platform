@@ -1,0 +1,9 @@
+name: Adaptive exuding matrices
+payloads:
+- host-header-injection_payload_1_rise
+- host-header-injection_payload_2_short
+- host-header-injection_payload_3_cover
+- host-header-injection_payload_4_staff
+- host-header-injection_payload_5_rather
+severity: high
+type: host-header-injection

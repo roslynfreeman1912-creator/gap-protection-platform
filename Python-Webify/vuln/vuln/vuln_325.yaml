@@ -1,0 +1,9 @@
+name: Multi-tiered zero tolerance installation
+payloads:
+- frame-injection_payload_1_cause
+- frame-injection_payload_2_himself
+- frame-injection_payload_3_traditional
+- frame-injection_payload_4_how
+- frame-injection_payload_5_play
+severity: critical
+type: frame-injection

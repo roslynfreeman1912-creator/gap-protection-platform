@@ -1,0 +1,9 @@
+name: Innovative 4thgeneration methodology
+payloads:
+- crlf-injection_payload_1_significant
+- crlf-injection_payload_2_enjoy
+- crlf-injection_payload_3_citizen
+- crlf-injection_payload_4_hotel
+- crlf-injection_payload_5_source
+severity: medium
+type: crlf-injection

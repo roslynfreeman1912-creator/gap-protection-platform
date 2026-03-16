@@ -1,0 +1,9 @@
+name: Synergized multi-tasking data-warehouse
+payloads:
+- path-traversal_payload_1_near
+- path-traversal_payload_2_against
+- path-traversal_payload_3_enjoy
+- path-traversal_payload_4_already
+- path-traversal_payload_5_machine
+severity: low
+type: path-traversal

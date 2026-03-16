@@ -1,0 +1,9 @@
+name: Profit-focused multi-tasking installation
+payloads:
+- clickjacking_payload_1_draw
+- clickjacking_payload_2_process
+- clickjacking_payload_3_mother
+- clickjacking_payload_4_few
+- clickjacking_payload_5_star
+severity: critical
+type: clickjacking

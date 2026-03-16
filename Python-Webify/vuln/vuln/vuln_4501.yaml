@@ -1,0 +1,9 @@
+name: Streamlined transitional help-desk
+payloads:
+- sql_payload_1_family
+- sql_payload_2_his
+- sql_payload_3_detail
+- sql_payload_4_reveal
+- sql_payload_5_machine
+severity: low
+type: sql

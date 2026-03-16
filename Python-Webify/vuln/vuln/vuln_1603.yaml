@@ -1,0 +1,9 @@
+name: Organic next generation product
+payloads:
+- lfi_payload_1_carry
+- lfi_payload_2_all
+- lfi_payload_3_score
+- lfi_payload_4_reduce
+- lfi_payload_5_again
+severity: medium
+type: lfi

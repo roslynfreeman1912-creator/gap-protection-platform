@@ -1,0 +1,9 @@
+name: Synergized cohesive product
+payloads:
+- csp-bypass_payload_1_hit
+- csp-bypass_payload_2_thing
+- csp-bypass_payload_3_reason
+- csp-bypass_payload_4_how
+- csp-bypass_payload_5_that
+severity: low
+type: csp-bypass

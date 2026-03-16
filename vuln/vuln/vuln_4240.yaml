@@ -1,0 +1,9 @@
+name: Phased optimizing data-warehouse
+payloads:
+- jsonp-injection_payload_1_because
+- jsonp-injection_payload_2_walk
+- jsonp-injection_payload_3_anything
+- jsonp-injection_payload_4_yard
+- jsonp-injection_payload_5_news
+severity: medium
+type: jsonp-injection

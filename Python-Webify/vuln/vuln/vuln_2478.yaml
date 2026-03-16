@@ -1,0 +1,9 @@
+name: Focused context-sensitive array
+payloads:
+- lfi_payload_1_nor
+- lfi_payload_2_night
+- lfi_payload_3_common
+- lfi_payload_4_newspaper
+- lfi_payload_5_painting
+severity: medium
+type: lfi

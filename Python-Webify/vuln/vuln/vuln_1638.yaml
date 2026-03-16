@@ -1,0 +1,9 @@
+name: Synchronized analyzing matrices
+payloads:
+- nosql-injection_payload_1_job
+- nosql-injection_payload_2_enough
+- nosql-injection_payload_3_statement
+- nosql-injection_payload_4_remember
+- nosql-injection_payload_5_so
+severity: low
+type: nosql-injection

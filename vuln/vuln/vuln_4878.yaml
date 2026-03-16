@@ -1,0 +1,9 @@
+name: Cross-group bandwidth-monitored toolset
+payloads:
+- lfi_payload_1_tax
+- lfi_payload_2_door
+- lfi_payload_3_appear
+- lfi_payload_4_almost
+- lfi_payload_5_side
+severity: low
+type: lfi

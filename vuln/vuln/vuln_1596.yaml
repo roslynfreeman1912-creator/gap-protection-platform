@@ -1,0 +1,9 @@
+name: Intuitive 4thgeneration ability
+payloads:
+- mime-sniffing_payload_1_heart
+- mime-sniffing_payload_2_instead
+- mime-sniffing_payload_3_wish
+- mime-sniffing_payload_4_detail
+- mime-sniffing_payload_5_late
+severity: critical
+type: mime-sniffing

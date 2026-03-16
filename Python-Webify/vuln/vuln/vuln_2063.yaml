@@ -1,0 +1,9 @@
+name: Multi-channeled bottom-line alliance
+payloads:
+- nosql-injection_payload_1_huge
+- nosql-injection_payload_2_card
+- nosql-injection_payload_3_popular
+- nosql-injection_payload_4_state
+- nosql-injection_payload_5_bring
+severity: low
+type: nosql-injection

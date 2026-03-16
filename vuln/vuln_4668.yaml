@@ -1,0 +1,9 @@
+name: Grass-roots human-resource strategy
+payloads:
+- subdomain-takeover_payload_1_few
+- subdomain-takeover_payload_2_one
+- subdomain-takeover_payload_3_policy
+- subdomain-takeover_payload_4_find
+- subdomain-takeover_payload_5_could
+severity: medium
+type: subdomain-takeover

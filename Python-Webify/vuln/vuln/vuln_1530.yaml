@@ -1,0 +1,9 @@
+name: Configurable high-level capability
+payloads:
+- ssrf_payload_1_ball
+- ssrf_payload_2_cause
+- ssrf_payload_3_full
+- ssrf_payload_4_culture
+- ssrf_payload_5_head
+severity: low
+type: ssrf

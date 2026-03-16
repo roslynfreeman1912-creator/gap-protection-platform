@@ -1,0 +1,9 @@
+name: Total clear-thinking infrastructure
+payloads:
+- ssrf_payload_1_capital
+- ssrf_payload_2_water
+- ssrf_payload_3_near
+- ssrf_payload_4_hour
+- ssrf_payload_5_yes
+severity: high
+type: ssrf

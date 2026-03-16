@@ -1,0 +1,9 @@
+name: Persistent 24hour circuit
+payloads:
+- crlf-injection_payload_1_single
+- crlf-injection_payload_2_particular
+- crlf-injection_payload_3_summer
+- crlf-injection_payload_4_take
+- crlf-injection_payload_5_activity
+severity: critical
+type: crlf-injection

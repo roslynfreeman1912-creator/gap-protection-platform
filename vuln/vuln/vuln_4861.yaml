@@ -1,0 +1,9 @@
+name: Multi-layered radical success
+payloads:
+- xxe_payload_1_identify
+- xxe_payload_2_could
+- xxe_payload_3_require
+- xxe_payload_4_property
+- xxe_payload_5_easy
+severity: high
+type: xxe

@@ -1,0 +1,9 @@
+name: Configurable non-volatile function
+payloads:
+- hsts-misconfig_payload_1_feeling
+- hsts-misconfig_payload_2_prove
+- hsts-misconfig_payload_3_open
+- hsts-misconfig_payload_4_none
+- hsts-misconfig_payload_5_moment
+severity: low
+type: hsts-misconfig

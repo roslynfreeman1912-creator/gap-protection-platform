@@ -1,0 +1,9 @@
+name: Visionary intangible circuit
+payloads:
+- subdomain-takeover_payload_1_old
+- subdomain-takeover_payload_2_mission
+- subdomain-takeover_payload_3_report
+- subdomain-takeover_payload_4_approach
+- subdomain-takeover_payload_5_our
+severity: critical
+type: subdomain-takeover

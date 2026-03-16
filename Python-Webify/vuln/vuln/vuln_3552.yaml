@@ -1,0 +1,9 @@
+name: Up-sized transitional conglomeration
+payloads:
+- xss_payload_1_act
+- xss_payload_2_service
+- xss_payload_3_stuff
+- xss_payload_4_social
+- xss_payload_5_begin
+severity: low
+type: xss

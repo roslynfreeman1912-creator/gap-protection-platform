@@ -1,0 +1,9 @@
+name: Compatible fresh-thinking structure
+payloads:
+- lfi_payload_1_anyone
+- lfi_payload_2_style
+- lfi_payload_3_west
+- lfi_payload_4_set
+- lfi_payload_5_rest
+severity: critical
+type: lfi

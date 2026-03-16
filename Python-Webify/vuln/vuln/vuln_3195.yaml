@@ -1,0 +1,9 @@
+name: Customizable cohesive extranet
+payloads:
+- file-upload_payload_1_enter
+- file-upload_payload_2_end
+- file-upload_payload_3_reveal
+- file-upload_payload_4_rather
+- file-upload_payload_5_recently
+severity: low
+type: file-upload

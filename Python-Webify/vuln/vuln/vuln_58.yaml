@@ -1,0 +1,9 @@
+name: Stand-alone zero-defect website
+payloads:
+- command-injection_payload_1_realize
+- command-injection_payload_2_protect
+- command-injection_payload_3_audience
+- command-injection_payload_4_each
+- command-injection_payload_5_job
+severity: high
+type: command-injection

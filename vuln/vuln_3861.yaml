@@ -1,0 +1,9 @@
+name: Assimilated systematic parallelism
+payloads:
+- xxe_payload_1_ever
+- xxe_payload_2_instead
+- xxe_payload_3_money
+- xxe_payload_4_affect
+- xxe_payload_5_evening
+severity: low
+type: xxe

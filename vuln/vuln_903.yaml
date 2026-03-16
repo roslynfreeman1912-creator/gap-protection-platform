@@ -1,0 +1,9 @@
+name: Stand-alone dedicated Graphical User Interface
+payloads:
+- lfi_payload_1_no
+- lfi_payload_2_create
+- lfi_payload_3_century
+- lfi_payload_4_staff
+- lfi_payload_5_answer
+severity: critical
+type: lfi

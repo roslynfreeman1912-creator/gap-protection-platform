@@ -1,0 +1,9 @@
+name: Reverse-engineered attitude-oriented info-mediaries
+payloads:
+- tabnabbing_payload_1_by
+- tabnabbing_payload_2_expert
+- tabnabbing_payload_3_language
+- tabnabbing_payload_4_president
+- tabnabbing_payload_5_point
+severity: medium
+type: tabnabbing

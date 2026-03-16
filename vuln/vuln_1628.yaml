@@ -1,0 +1,9 @@
+name: Inverse upward-trending success
+payloads:
+- lfi_payload_1_fight
+- lfi_payload_2_against
+- lfi_payload_3_serious
+- lfi_payload_4_notice
+- lfi_payload_5_maybe
+severity: critical
+type: lfi

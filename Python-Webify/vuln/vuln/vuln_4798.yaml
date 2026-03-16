@@ -1,0 +1,9 @@
+name: Function-based heuristic workforce
+payloads:
+- hsts-misconfig_payload_1_industry
+- hsts-misconfig_payload_2_notice
+- hsts-misconfig_payload_3_dream
+- hsts-misconfig_payload_4_among
+- hsts-misconfig_payload_5_require
+severity: high
+type: hsts-misconfig

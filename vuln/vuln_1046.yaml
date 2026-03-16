@@ -1,0 +1,9 @@
+name: Exclusive next generation data-warehouse
+payloads:
+- mime-sniffing_payload_1_society
+- mime-sniffing_payload_2_than
+- mime-sniffing_payload_3_pull
+- mime-sniffing_payload_4_room
+- mime-sniffing_payload_5_into
+severity: critical
+type: mime-sniffing

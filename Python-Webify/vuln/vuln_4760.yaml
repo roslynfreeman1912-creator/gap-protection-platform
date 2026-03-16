@@ -1,0 +1,9 @@
+name: Virtual attitude-oriented hierarchy
+payloads:
+- open-redirect_payload_1_four
+- open-redirect_payload_2_large
+- open-redirect_payload_3_me
+- open-redirect_payload_4_everyone
+- open-redirect_payload_5_wish
+severity: low
+type: open-redirect

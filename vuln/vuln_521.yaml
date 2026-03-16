@@ -1,0 +1,9 @@
+name: Open-source composite encoding
+payloads:
+- mime-sniffing_payload_1_shake
+- mime-sniffing_payload_2_few
+- mime-sniffing_payload_3_meeting
+- mime-sniffing_payload_4_dark
+- mime-sniffing_payload_5_first
+severity: high
+type: mime-sniffing

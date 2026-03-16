@@ -1,0 +1,9 @@
+name: Extended well-modulated neural-net
+payloads:
+- mime-sniffing_payload_1_early
+- mime-sniffing_payload_2_center
+- mime-sniffing_payload_3_wish
+- mime-sniffing_payload_4_prevent
+- mime-sniffing_payload_5_though
+severity: low
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: De-engineered holistic algorithm
+payloads:
+- rfi_payload_1_condition
+- rfi_payload_2_away
+- rfi_payload_3_us
+- rfi_payload_4_care
+- rfi_payload_5_other
+severity: critical
+type: rfi

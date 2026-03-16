@@ -1,0 +1,9 @@
+name: Face-to-face 24hour algorithm
+payloads:
+- path-traversal_payload_1_religious
+- path-traversal_payload_2_city
+- path-traversal_payload_3_site
+- path-traversal_payload_4_whose
+- path-traversal_payload_5_chair
+severity: low
+type: path-traversal

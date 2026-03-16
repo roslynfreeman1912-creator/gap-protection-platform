@@ -1,0 +1,9 @@
+name: Horizontal eco-centric standardization
+payloads:
+- csrf_payload_1_into
+- csrf_payload_2_which
+- csrf_payload_3_truth
+- csrf_payload_4_least
+- csrf_payload_5_work
+severity: low
+type: csrf

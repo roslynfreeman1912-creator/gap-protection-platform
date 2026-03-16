@@ -1,0 +1,9 @@
+name: Mandatory optimizing capacity
+payloads:
+- sql_payload_1_friend
+- sql_payload_2_marriage
+- sql_payload_3_say
+- sql_payload_4_wife
+- sql_payload_5_throw
+severity: low
+type: sql

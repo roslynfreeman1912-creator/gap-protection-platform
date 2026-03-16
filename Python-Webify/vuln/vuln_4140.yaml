@@ -1,0 +1,9 @@
+name: Realigned solution-oriented Graphic Interface
+payloads:
+- jsonp-injection_payload_1_decision
+- jsonp-injection_payload_2_nature
+- jsonp-injection_payload_3_prove
+- jsonp-injection_payload_4_stop
+- jsonp-injection_payload_5_listen
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Automated well-modulated open system
+payloads:
+- csp-bypass_payload_1_somebody
+- csp-bypass_payload_2_act
+- csp-bypass_payload_3_watch
+- csp-bypass_payload_4_word
+- csp-bypass_payload_5_serve
+severity: high
+type: csp-bypass

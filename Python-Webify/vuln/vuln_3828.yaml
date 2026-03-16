@@ -1,0 +1,9 @@
+name: Adaptive explicit paradigm
+payloads:
+- lfi_payload_1_seat
+- lfi_payload_2_memory
+- lfi_payload_3_watch
+- lfi_payload_4_see
+- lfi_payload_5_international
+severity: low
+type: lfi

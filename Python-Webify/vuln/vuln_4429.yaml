@@ -1,0 +1,9 @@
+name: Open-architected interactive application
+payloads:
+- rfi_payload_1_bed
+- rfi_payload_2_exist
+- rfi_payload_3_key
+- rfi_payload_4_build
+- rfi_payload_5_position
+severity: medium
+type: rfi

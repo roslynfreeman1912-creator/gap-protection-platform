@@ -1,0 +1,9 @@
+name: Open-architected systemic focus group
+payloads:
+- hsts-misconfig_payload_1_speech
+- hsts-misconfig_payload_2_certainly
+- hsts-misconfig_payload_3_similar
+- hsts-misconfig_payload_4_his
+- hsts-misconfig_payload_5_month
+severity: medium
+type: hsts-misconfig

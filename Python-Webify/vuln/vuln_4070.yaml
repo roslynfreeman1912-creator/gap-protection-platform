@@ -1,0 +1,9 @@
+name: Team-oriented national product
+payloads:
+- file-upload_payload_1_back
+- file-upload_payload_2_PM
+- file-upload_payload_3_five
+- file-upload_payload_4_reason
+- file-upload_payload_5_food
+severity: low
+type: file-upload

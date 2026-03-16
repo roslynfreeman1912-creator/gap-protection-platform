@@ -1,0 +1,9 @@
+name: Multi-layered static migration
+payloads:
+- host-header-injection_payload_1_should
+- host-header-injection_payload_2_air
+- host-header-injection_payload_3_sing
+- host-header-injection_payload_4_force
+- host-header-injection_payload_5_again
+severity: medium
+type: host-header-injection

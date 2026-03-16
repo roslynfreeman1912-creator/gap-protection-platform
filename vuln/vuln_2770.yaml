@@ -1,0 +1,9 @@
+name: User-centric well-modulated application
+payloads:
+- file-upload_payload_1_step
+- file-upload_payload_2_president
+- file-upload_payload_3_reflect
+- file-upload_payload_4_prove
+- file-upload_payload_5_still
+severity: high
+type: file-upload

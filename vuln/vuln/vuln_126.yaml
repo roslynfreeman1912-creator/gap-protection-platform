@@ -1,0 +1,9 @@
+name: Mandatory multimedia budgetary management
+payloads:
+- sql_payload_1_between
+- sql_payload_2_thing
+- sql_payload_3_economic
+- sql_payload_4_year
+- sql_payload_5_my
+severity: low
+type: sql

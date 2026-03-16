@@ -1,0 +1,9 @@
+name: Customizable bifurcated productivity
+payloads:
+- ldap-injection_payload_1_alone
+- ldap-injection_payload_2_tree
+- ldap-injection_payload_3_yet
+- ldap-injection_payload_4_increase
+- ldap-injection_payload_5_new
+severity: critical
+type: ldap-injection

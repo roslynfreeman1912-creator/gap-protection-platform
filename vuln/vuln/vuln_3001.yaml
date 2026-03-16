@@ -1,0 +1,9 @@
+name: Operative 24hour access
+payloads:
+- sql_payload_1_head
+- sql_payload_2_early
+- sql_payload_3_sign
+- sql_payload_4_company
+- sql_payload_5_watch
+severity: high
+type: sql

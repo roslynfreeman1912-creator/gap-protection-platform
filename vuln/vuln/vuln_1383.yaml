@@ -1,0 +1,9 @@
+name: Secured methodical superstructure
+payloads:
+- command-injection_payload_1_body
+- command-injection_payload_2_act
+- command-injection_payload_3_energy
+- command-injection_payload_4_kitchen
+- command-injection_payload_5_a
+severity: low
+type: command-injection

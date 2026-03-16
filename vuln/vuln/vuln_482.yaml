@@ -1,0 +1,9 @@
+name: Sharable optimizing capacity
+payloads:
+- ssti_payload_1_open
+- ssti_payload_2_miss
+- ssti_payload_3_make
+- ssti_payload_4_black
+- ssti_payload_5_sure
+severity: critical
+type: ssti

@@ -1,0 +1,9 @@
+name: Distributed user-facing Graphical User Interface
+payloads:
+- xss_payload_1_gas
+- xss_payload_2_finally
+- xss_payload_3_wrong
+- xss_payload_4_perhaps
+- xss_payload_5_PM
+severity: high
+type: xss

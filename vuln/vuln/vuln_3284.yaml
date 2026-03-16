@@ -1,0 +1,9 @@
+name: Synergistic dedicated time-frame
+payloads:
+- path-traversal_payload_1_federal
+- path-traversal_payload_2_worry
+- path-traversal_payload_3_upon
+- path-traversal_payload_4_begin
+- path-traversal_payload_5_measure
+severity: critical
+type: path-traversal

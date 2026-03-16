@@ -1,0 +1,9 @@
+name: Advanced stable attitude
+payloads:
+- mime-sniffing_payload_1_blue
+- mime-sniffing_payload_2_spend
+- mime-sniffing_payload_3_you
+- mime-sniffing_payload_4_tax
+- mime-sniffing_payload_5_before
+severity: low
+type: mime-sniffing

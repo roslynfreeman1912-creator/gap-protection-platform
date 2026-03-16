@@ -1,0 +1,9 @@
+name: De-engineered well-modulated open architecture
+payloads:
+- hsts-misconfig_payload_1_culture
+- hsts-misconfig_payload_2_writer
+- hsts-misconfig_payload_3_skill
+- hsts-misconfig_payload_4_her
+- hsts-misconfig_payload_5_reduce
+severity: low
+type: hsts-misconfig

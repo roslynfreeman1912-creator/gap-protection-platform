@@ -1,0 +1,9 @@
+name: Sharable demand-driven superstructure
+payloads:
+- file-upload_payload_1_rule
+- file-upload_payload_2_develop
+- file-upload_payload_3_majority
+- file-upload_payload_4_tax
+- file-upload_payload_5_there
+severity: critical
+type: file-upload

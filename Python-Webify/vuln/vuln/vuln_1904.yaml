@@ -1,0 +1,9 @@
+name: Profound real-time alliance
+payloads:
+- rfi_payload_1_fly
+- rfi_payload_2_science
+- rfi_payload_3_all
+- rfi_payload_4_ten
+- rfi_payload_5_responsibility
+severity: medium
+type: rfi

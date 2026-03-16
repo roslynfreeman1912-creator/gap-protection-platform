@@ -1,0 +1,9 @@
+name: Seamless leadingedge focus group
+payloads:
+- ssti_payload_1_down
+- ssti_payload_2_rise
+- ssti_payload_3_finally
+- ssti_payload_4_daughter
+- ssti_payload_5_Republican
+severity: critical
+type: ssti

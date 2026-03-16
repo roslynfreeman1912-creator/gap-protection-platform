@@ -1,0 +1,9 @@
+name: Profit-focused tertiary focus group
+payloads:
+- csp-bypass_payload_1_stay
+- csp-bypass_payload_2_share
+- csp-bypass_payload_3_image
+- csp-bypass_payload_4_wide
+- csp-bypass_payload_5_own
+severity: critical
+type: csp-bypass

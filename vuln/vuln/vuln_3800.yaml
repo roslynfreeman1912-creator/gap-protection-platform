@@ -1,0 +1,9 @@
+name: Front-line leadingedge support
+payloads:
+- frame-injection_payload_1_when
+- frame-injection_payload_2_store
+- frame-injection_payload_3_again
+- frame-injection_payload_4_have
+- frame-injection_payload_5_see
+severity: medium
+type: frame-injection

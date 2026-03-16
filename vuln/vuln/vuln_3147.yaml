@@ -1,0 +1,9 @@
+name: Multi-lateral global groupware
+payloads:
+- tabnabbing_payload_1_fund
+- tabnabbing_payload_2_sell
+- tabnabbing_payload_3_nothing
+- tabnabbing_payload_4_could
+- tabnabbing_payload_5_traditional
+severity: critical
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Phased object-oriented matrices
+payloads:
+- jsonp-injection_payload_1_need
+- jsonp-injection_payload_2_sell
+- jsonp-injection_payload_3_cut
+- jsonp-injection_payload_4_miss
+- jsonp-injection_payload_5_concern
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Business-focused fresh-thinking policy
+payloads:
+- host-header-injection_payload_1_care
+- host-header-injection_payload_2_else
+- host-header-injection_payload_3_charge
+- host-header-injection_payload_4_the
+- host-header-injection_payload_5_study
+severity: low
+type: host-header-injection

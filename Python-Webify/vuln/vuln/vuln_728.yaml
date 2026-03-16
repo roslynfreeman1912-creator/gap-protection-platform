@@ -1,0 +1,9 @@
+name: Face-to-face zero administration policy
+payloads:
+- lfi_payload_1_chance
+- lfi_payload_2_rise
+- lfi_payload_3_least
+- lfi_payload_4_letter
+- lfi_payload_5_medical
+severity: critical
+type: lfi

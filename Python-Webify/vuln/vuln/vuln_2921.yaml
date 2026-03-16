@@ -1,0 +1,9 @@
+name: Robust attitude-oriented hierarchy
+payloads:
+- mime-sniffing_payload_1_heavy
+- mime-sniffing_payload_2_near
+- mime-sniffing_payload_3_manage
+- mime-sniffing_payload_4_family
+- mime-sniffing_payload_5_second
+severity: critical
+type: mime-sniffing

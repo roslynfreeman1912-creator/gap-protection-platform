@@ -1,0 +1,9 @@
+name: Versatile regional circuit
+payloads:
+- subdomain-takeover_payload_1_itself
+- subdomain-takeover_payload_2_life
+- subdomain-takeover_payload_3_hit
+- subdomain-takeover_payload_4_improve
+- subdomain-takeover_payload_5_only
+severity: low
+type: subdomain-takeover

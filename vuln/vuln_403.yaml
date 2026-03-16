@@ -1,0 +1,9 @@
+name: Virtual logistical system engine
+payloads:
+- lfi_payload_1_expect
+- lfi_payload_2_instead
+- lfi_payload_3_official
+- lfi_payload_4_recognize
+- lfi_payload_5_director
+severity: low
+type: lfi

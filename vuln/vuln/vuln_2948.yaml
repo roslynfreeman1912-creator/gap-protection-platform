@@ -1,0 +1,9 @@
+name: Ergonomic didactic functionalities
+payloads:
+- hsts-misconfig_payload_1_cold
+- hsts-misconfig_payload_2_heart
+- hsts-misconfig_payload_3_matter
+- hsts-misconfig_payload_4_collection
+- hsts-misconfig_payload_5_affect
+severity: medium
+type: hsts-misconfig

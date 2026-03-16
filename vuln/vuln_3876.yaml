@@ -1,0 +1,9 @@
+name: Diverse holistic capacity
+payloads:
+- sql_payload_1_bank
+- sql_payload_2_apply
+- sql_payload_3_less
+- sql_payload_4_every
+- sql_payload_5_although
+severity: medium
+type: sql

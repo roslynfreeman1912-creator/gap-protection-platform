@@ -1,0 +1,9 @@
+name: Total contextually-based pricing structure
+payloads:
+- path-traversal_payload_1_morning
+- path-traversal_payload_2_respond
+- path-traversal_payload_3_Congress
+- path-traversal_payload_4_center
+- path-traversal_payload_5_he
+severity: critical
+type: path-traversal

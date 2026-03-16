@@ -1,0 +1,9 @@
+name: Networked intermediate attitude
+payloads:
+- mime-sniffing_payload_1_recent
+- mime-sniffing_payload_2_hot
+- mime-sniffing_payload_3_heart
+- mime-sniffing_payload_4_walk
+- mime-sniffing_payload_5_center
+severity: low
+type: mime-sniffing

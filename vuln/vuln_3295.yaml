@@ -1,0 +1,9 @@
+name: Automated value-added synergy
+payloads:
+- file-upload_payload_1_small
+- file-upload_payload_2_floor
+- file-upload_payload_3_treat
+- file-upload_payload_4_consumer
+- file-upload_payload_5_agreement
+severity: critical
+type: file-upload

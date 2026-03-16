@@ -1,0 +1,9 @@
+name: User-centric client-server knowledgebase
+payloads:
+- hsts-misconfig_payload_1_price
+- hsts-misconfig_payload_2_she
+- hsts-misconfig_payload_3_indicate
+- hsts-misconfig_payload_4_herself
+- hsts-misconfig_payload_5_who
+severity: high
+type: hsts-misconfig

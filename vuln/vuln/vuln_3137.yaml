@@ -1,0 +1,9 @@
+name: Streamlined systemic groupware
+payloads:
+- ldap-injection_payload_1_family
+- ldap-injection_payload_2_arm
+- ldap-injection_payload_3_analysis
+- ldap-injection_payload_4_first
+- ldap-injection_payload_5_stay
+severity: low
+type: ldap-injection

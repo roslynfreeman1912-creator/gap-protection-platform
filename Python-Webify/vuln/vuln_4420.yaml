@@ -1,0 +1,9 @@
+name: Multi-layered heuristic adapter
+payloads:
+- file-upload_payload_1_cost
+- file-upload_payload_2_from
+- file-upload_payload_3_group
+- file-upload_payload_4_goal
+- file-upload_payload_5_middle
+severity: critical
+type: file-upload

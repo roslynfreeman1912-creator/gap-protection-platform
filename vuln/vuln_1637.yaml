@@ -1,0 +1,9 @@
+name: Right-sized 24hour knowledgebase
+payloads:
+- ldap-injection_payload_1_shoulder
+- ldap-injection_payload_2_enjoy
+- ldap-injection_payload_3_structure
+- ldap-injection_payload_4_run
+- ldap-injection_payload_5_run
+severity: low
+type: ldap-injection

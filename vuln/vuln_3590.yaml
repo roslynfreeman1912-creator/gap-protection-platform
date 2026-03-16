@@ -1,0 +1,9 @@
+name: Vision-oriented next generation attitude
+payloads:
+- jsonp-injection_payload_1_those
+- jsonp-injection_payload_2_behavior
+- jsonp-injection_payload_3_occur
+- jsonp-injection_payload_4_return
+- jsonp-injection_payload_5_man
+severity: high
+type: jsonp-injection

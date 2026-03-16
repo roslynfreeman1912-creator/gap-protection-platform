@@ -1,0 +1,9 @@
+name: Inverse didactic throughput
+payloads:
+- host-header-injection_payload_1_line
+- host-header-injection_payload_2_end
+- host-header-injection_payload_3_agent
+- host-header-injection_payload_4_focus
+- host-header-injection_payload_5_strong
+severity: critical
+type: host-header-injection

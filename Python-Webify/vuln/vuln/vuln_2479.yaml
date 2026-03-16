@@ -1,0 +1,9 @@
+name: Open-source 3rdgeneration solution
+payloads:
+- rfi_payload_1_clear
+- rfi_payload_2_door
+- rfi_payload_3_kitchen
+- rfi_payload_4_standard
+- rfi_payload_5_state
+severity: critical
+type: rfi

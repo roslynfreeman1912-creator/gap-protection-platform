@@ -1,0 +1,9 @@
+name: Vision-oriented homogeneous capability
+payloads:
+- command-injection_payload_1_international
+- command-injection_payload_2_my
+- command-injection_payload_3_forget
+- command-injection_payload_4_mother
+- command-injection_payload_5_go
+severity: high
+type: command-injection

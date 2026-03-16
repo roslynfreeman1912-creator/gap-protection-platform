@@ -1,0 +1,9 @@
+name: Automated incremental paradigm
+payloads:
+- ldap-injection_payload_1_article
+- ldap-injection_payload_2_price
+- ldap-injection_payload_3_lose
+- ldap-injection_payload_4_media
+- ldap-injection_payload_5_protect
+severity: medium
+type: ldap-injection

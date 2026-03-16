@@ -1,0 +1,9 @@
+name: Ameliorated scalable intranet
+payloads:
+- xss_payload_1_lead
+- xss_payload_2_bag
+- xss_payload_3_central
+- xss_payload_4_financial
+- xss_payload_5_catch
+severity: medium
+type: xss

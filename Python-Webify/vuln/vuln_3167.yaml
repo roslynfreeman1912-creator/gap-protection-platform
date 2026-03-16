@@ -1,0 +1,9 @@
+name: Total directional pricing structure
+payloads:
+- host-header-injection_payload_1_someone
+- host-header-injection_payload_2_left
+- host-header-injection_payload_3_choose
+- host-header-injection_payload_4_only
+- host-header-injection_payload_5_strategy
+severity: low
+type: host-header-injection

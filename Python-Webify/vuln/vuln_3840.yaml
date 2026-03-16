@@ -1,0 +1,9 @@
+name: Upgradable secondary Internet solution
+payloads:
+- jsonp-injection_payload_1_business
+- jsonp-injection_payload_2_force
+- jsonp-injection_payload_3_everybody
+- jsonp-injection_payload_4_threat
+- jsonp-injection_payload_5_special
+severity: critical
+type: jsonp-injection

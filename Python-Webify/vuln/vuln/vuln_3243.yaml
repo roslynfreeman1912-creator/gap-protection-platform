@@ -1,0 +1,9 @@
+name: Realigned intangible alliance
+payloads:
+- subdomain-takeover_payload_1_accept
+- subdomain-takeover_payload_2_various
+- subdomain-takeover_payload_3_member
+- subdomain-takeover_payload_4_source
+- subdomain-takeover_payload_5_finally
+severity: critical
+type: subdomain-takeover

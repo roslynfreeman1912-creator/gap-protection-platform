@@ -1,0 +1,9 @@
+name: Open-source object-oriented encryption
+payloads:
+- crlf-injection_payload_1_produce
+- crlf-injection_payload_2_argue
+- crlf-injection_payload_3_market
+- crlf-injection_payload_4_around
+- crlf-injection_payload_5_red
+severity: medium
+type: crlf-injection

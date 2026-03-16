@@ -1,0 +1,9 @@
+name: Advanced exuding throughput
+payloads:
+- xxe_payload_1_form
+- xxe_payload_2_as
+- xxe_payload_3_trade
+- xxe_payload_4_most
+- xxe_payload_5_notice
+severity: low
+type: xxe

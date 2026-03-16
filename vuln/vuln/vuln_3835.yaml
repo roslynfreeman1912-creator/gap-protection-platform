@@ -1,0 +1,9 @@
+name: Sharable leadingedge monitoring
+payloads:
+- open-redirect_payload_1_action
+- open-redirect_payload_2_player
+- open-redirect_payload_3_must
+- open-redirect_payload_4_center
+- open-redirect_payload_5_only
+severity: medium
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Multi-layered motivating flexibility
+payloads:
+- command-injection_payload_1_husband
+- command-injection_payload_2_evening
+- command-injection_payload_3_security
+- command-injection_payload_4_class
+- command-injection_payload_5_tree
+severity: high
+type: command-injection

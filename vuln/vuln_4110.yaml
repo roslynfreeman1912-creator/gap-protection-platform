@@ -1,0 +1,9 @@
+name: Persistent optimal initiative
+payloads:
+- open-redirect_payload_1_coach
+- open-redirect_payload_2_few
+- open-redirect_payload_3_field
+- open-redirect_payload_4_no
+- open-redirect_payload_5_reason
+severity: medium
+type: open-redirect

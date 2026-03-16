@@ -1,0 +1,9 @@
+name: Distributed stable project
+payloads:
+- csp-bypass_payload_1_house
+- csp-bypass_payload_2_head
+- csp-bypass_payload_3_morning
+- csp-bypass_payload_4_decide
+- csp-bypass_payload_5_cell
+severity: critical
+type: csp-bypass

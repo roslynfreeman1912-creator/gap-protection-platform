@@ -1,0 +1,9 @@
+name: Switchable global solution
+payloads:
+- xss_payload_1_trial
+- xss_payload_2_maintain
+- xss_payload_3_up
+- xss_payload_4_determine
+- xss_payload_5_ready
+severity: critical
+type: xss

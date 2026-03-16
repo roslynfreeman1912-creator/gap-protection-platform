@@ -1,0 +1,9 @@
+name: User-friendly systemic leverage
+payloads:
+- rfi_payload_1_one
+- rfi_payload_2_world
+- rfi_payload_3_question
+- rfi_payload_4_measure
+- rfi_payload_5_stuff
+severity: critical
+type: rfi

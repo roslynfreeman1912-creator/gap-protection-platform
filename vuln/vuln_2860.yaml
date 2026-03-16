@@ -1,0 +1,9 @@
+name: Organic neutral interface
+payloads:
+- open-redirect_payload_1_not
+- open-redirect_payload_2_hand
+- open-redirect_payload_3_assume
+- open-redirect_payload_4_professor
+- open-redirect_payload_5_indicate
+severity: critical
+type: open-redirect

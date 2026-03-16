@@ -1,0 +1,9 @@
+name: Extended asynchronous capability
+payloads:
+- ssti_payload_1_debate
+- ssti_payload_2_conference
+- ssti_payload_3_reach
+- ssti_payload_4_big
+- ssti_payload_5_successful
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Cross-platform high-level parallelism
+payloads:
+- crlf-injection_payload_1_book
+- crlf-injection_payload_2_why
+- crlf-injection_payload_3_office
+- crlf-injection_payload_4_not
+- crlf-injection_payload_5_skill
+severity: critical
+type: crlf-injection

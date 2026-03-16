@@ -1,0 +1,9 @@
+name: Re-contextualized optimizing emulation
+payloads:
+- subdomain-takeover_payload_1_politics
+- subdomain-takeover_payload_2_lawyer
+- subdomain-takeover_payload_3_share
+- subdomain-takeover_payload_4_fly
+- subdomain-takeover_payload_5_standard
+severity: critical
+type: subdomain-takeover

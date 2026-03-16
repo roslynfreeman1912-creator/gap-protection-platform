@@ -1,0 +1,9 @@
+name: Streamlined high-level intranet
+payloads:
+- xxe_payload_1_agent
+- xxe_payload_2_official
+- xxe_payload_3_case
+- xxe_payload_4_type
+- xxe_payload_5_worker
+severity: medium
+type: xxe

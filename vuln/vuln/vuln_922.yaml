@@ -1,0 +1,9 @@
+name: Reactive modular function
+payloads:
+- tabnabbing_payload_1_almost
+- tabnabbing_payload_2_include
+- tabnabbing_payload_3_radio
+- tabnabbing_payload_4_side
+- tabnabbing_payload_5_these
+severity: medium
+type: tabnabbing

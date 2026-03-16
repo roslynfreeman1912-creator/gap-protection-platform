@@ -1,0 +1,9 @@
+name: Advanced secondary interface
+payloads:
+- frame-injection_payload_1_rise
+- frame-injection_payload_2_majority
+- frame-injection_payload_3_claim
+- frame-injection_payload_4_resource
+- frame-injection_payload_5_enter
+severity: critical
+type: frame-injection

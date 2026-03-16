@@ -1,0 +1,9 @@
+name: Operative value-added framework
+payloads:
+- lfi_payload_1_itself
+- lfi_payload_2_it
+- lfi_payload_3_manager
+- lfi_payload_4_player
+- lfi_payload_5_material
+severity: medium
+type: lfi

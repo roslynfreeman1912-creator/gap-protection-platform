@@ -1,0 +1,9 @@
+name: Advanced cohesive extranet
+payloads:
+- jsonp-injection_payload_1_week
+- jsonp-injection_payload_2_participant
+- jsonp-injection_payload_3_how
+- jsonp-injection_payload_4_staff
+- jsonp-injection_payload_5_meet
+severity: critical
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Focused disintermediate product
+payloads:
+- lfi_payload_1_process
+- lfi_payload_2_idea
+- lfi_payload_3_some
+- lfi_payload_4_wonder
+- lfi_payload_5_voice
+severity: critical
+type: lfi

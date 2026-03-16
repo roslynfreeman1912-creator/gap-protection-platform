@@ -1,0 +1,9 @@
+name: Total system-worthy contingency
+payloads:
+- tabnabbing_payload_1_look
+- tabnabbing_payload_2_media
+- tabnabbing_payload_3_east
+- tabnabbing_payload_4_front
+- tabnabbing_payload_5_food
+severity: low
+type: tabnabbing

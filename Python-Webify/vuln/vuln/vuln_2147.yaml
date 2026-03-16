@@ -1,0 +1,9 @@
+name: Focused discrete alliance
+payloads:
+- tabnabbing_payload_1_these
+- tabnabbing_payload_2_policy
+- tabnabbing_payload_3_down
+- tabnabbing_payload_4_summer
+- tabnabbing_payload_5_natural
+severity: critical
+type: tabnabbing

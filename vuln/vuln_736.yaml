@@ -1,0 +1,9 @@
+name: Triple-buffered foreground moderator
+payloads:
+- xxe_payload_1_ago
+- xxe_payload_2_work
+- xxe_payload_3_audience
+- xxe_payload_4_form
+- xxe_payload_5_PM
+severity: low
+type: xxe

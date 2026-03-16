@@ -1,0 +1,9 @@
+name: Intuitive context-sensitive function
+payloads:
+- open-redirect_payload_1_poor
+- open-redirect_payload_2_subject
+- open-redirect_payload_3_teach
+- open-redirect_payload_4_goal
+- open-redirect_payload_5_do
+severity: medium
+type: open-redirect

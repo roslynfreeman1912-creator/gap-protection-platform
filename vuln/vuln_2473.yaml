@@ -1,0 +1,9 @@
+name: Pre-emptive client-server ability
+payloads:
+- hsts-misconfig_payload_1_truth
+- hsts-misconfig_payload_2_seek
+- hsts-misconfig_payload_3_never
+- hsts-misconfig_payload_4_go
+- hsts-misconfig_payload_5_rather
+severity: low
+type: hsts-misconfig

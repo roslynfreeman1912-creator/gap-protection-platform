@@ -1,0 +1,9 @@
+name: Cloned interactive portal
+payloads:
+- hsts-misconfig_payload_1_other
+- hsts-misconfig_payload_2_instead
+- hsts-misconfig_payload_3_expect
+- hsts-misconfig_payload_4_finish
+- hsts-misconfig_payload_5_whose
+severity: high
+type: hsts-misconfig

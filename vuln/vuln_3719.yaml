@@ -1,0 +1,9 @@
+name: Compatible stable secured line
+payloads:
+- javascript-injection_payload_1_base
+- javascript-injection_payload_2_finish
+- javascript-injection_payload_3_tax
+- javascript-injection_payload_4_collection
+- javascript-injection_payload_5_whose
+severity: high
+type: javascript-injection

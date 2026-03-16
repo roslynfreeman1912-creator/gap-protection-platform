@@ -1,0 +1,9 @@
+name: Proactive user-facing methodology
+payloads:
+- nosql-injection_payload_1_father
+- nosql-injection_payload_2_national
+- nosql-injection_payload_3_recently
+- nosql-injection_payload_4_nearly
+- nosql-injection_payload_5_laugh
+severity: high
+type: nosql-injection

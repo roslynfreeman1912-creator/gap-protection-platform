@@ -1,0 +1,9 @@
+name: Down-sized didactic Internet solution
+payloads:
+- sql_payload_1_job
+- sql_payload_2_box
+- sql_payload_3_director
+- sql_payload_4_fast
+- sql_payload_5_suggest
+severity: critical
+type: sql

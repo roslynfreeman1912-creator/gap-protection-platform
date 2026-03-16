@@ -1,0 +1,9 @@
+name: Synchronized global open architecture
+payloads:
+- jsonp-injection_payload_1_bar
+- jsonp-injection_payload_2_at
+- jsonp-injection_payload_3_peace
+- jsonp-injection_payload_4_break
+- jsonp-injection_payload_5_her
+severity: medium
+type: jsonp-injection

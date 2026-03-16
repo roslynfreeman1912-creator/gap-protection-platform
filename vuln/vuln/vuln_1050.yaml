@@ -1,0 +1,9 @@
+name: Innovative directional challenge
+payloads:
+- frame-injection_payload_1_close
+- frame-injection_payload_2_like
+- frame-injection_payload_3_line
+- frame-injection_payload_4_first
+- frame-injection_payload_5_which
+severity: high
+type: frame-injection

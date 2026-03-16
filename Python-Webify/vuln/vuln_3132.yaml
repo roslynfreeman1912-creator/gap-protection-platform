@@ -1,0 +1,9 @@
+name: Multi-lateral didactic focus group
+payloads:
+- ssti_payload_1_who
+- ssti_payload_2_dream
+- ssti_payload_3_level
+- ssti_payload_4_often
+- ssti_payload_5_structure
+severity: critical
+type: ssti

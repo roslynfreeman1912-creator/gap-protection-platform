@@ -1,0 +1,9 @@
+name: Integrated solution-oriented interface
+payloads:
+- clickjacking_payload_1_know
+- clickjacking_payload_2_hospital
+- clickjacking_payload_3_town
+- clickjacking_payload_4_term
+- clickjacking_payload_5_whole
+severity: low
+type: clickjacking

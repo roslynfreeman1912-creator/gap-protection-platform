@@ -1,0 +1,9 @@
+name: Monitored directional concept
+payloads:
+- rfi_payload_1_letter
+- rfi_payload_2_almost
+- rfi_payload_3_when
+- rfi_payload_4_floor
+- rfi_payload_5_your
+severity: medium
+type: rfi

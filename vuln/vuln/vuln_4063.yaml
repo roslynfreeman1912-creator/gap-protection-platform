@@ -1,0 +1,9 @@
+name: Reactive methodical Internet solution
+payloads:
+- nosql-injection_payload_1_front
+- nosql-injection_payload_2_compare
+- nosql-injection_payload_3_camera
+- nosql-injection_payload_4_behind
+- nosql-injection_payload_5_spring
+severity: medium
+type: nosql-injection

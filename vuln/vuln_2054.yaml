@@ -1,0 +1,9 @@
+name: Self-enabling static structure
+payloads:
+- rfi_payload_1_easy
+- rfi_payload_2_Democrat
+- rfi_payload_3_list
+- rfi_payload_4_go
+- rfi_payload_5_everything
+severity: high
+type: rfi

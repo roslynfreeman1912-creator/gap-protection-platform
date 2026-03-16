@@ -1,0 +1,9 @@
+name: Managed user-facing definition
+payloads:
+- open-redirect_payload_1_him
+- open-redirect_payload_2_sell
+- open-redirect_payload_3_alone
+- open-redirect_payload_4_read
+- open-redirect_payload_5_culture
+severity: high
+type: open-redirect

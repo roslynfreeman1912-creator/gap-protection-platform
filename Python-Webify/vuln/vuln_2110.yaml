@@ -1,0 +1,9 @@
+name: Enhanced bifurcated alliance
+payloads:
+- open-redirect_payload_1_smile
+- open-redirect_payload_2_magazine
+- open-redirect_payload_3_return
+- open-redirect_payload_4_available
+- open-redirect_payload_5_field
+severity: high
+type: open-redirect

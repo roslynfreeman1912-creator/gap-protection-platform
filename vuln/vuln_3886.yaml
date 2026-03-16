@@ -1,0 +1,9 @@
+name: Intuitive upward-trending model
+payloads:
+- xxe_payload_1_available
+- xxe_payload_2_pick
+- xxe_payload_3_go
+- xxe_payload_4_another
+- xxe_payload_5_ground
+severity: medium
+type: xxe

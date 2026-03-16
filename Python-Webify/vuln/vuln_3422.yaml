@@ -1,0 +1,9 @@
+name: Operative zero tolerance Internet solution
+payloads:
+- tabnabbing_payload_1_else
+- tabnabbing_payload_2_scene
+- tabnabbing_payload_3_seem
+- tabnabbing_payload_4_name
+- tabnabbing_payload_5_minute
+severity: critical
+type: tabnabbing

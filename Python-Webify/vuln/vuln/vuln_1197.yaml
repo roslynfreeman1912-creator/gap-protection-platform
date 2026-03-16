@@ -1,0 +1,9 @@
+name: Automated executive system engine
+payloads:
+- tabnabbing_payload_1_name
+- tabnabbing_payload_2_center
+- tabnabbing_payload_3_production
+- tabnabbing_payload_4_tend
+- tabnabbing_payload_5_indicate
+severity: high
+type: tabnabbing

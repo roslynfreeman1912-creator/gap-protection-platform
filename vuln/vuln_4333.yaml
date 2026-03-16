@@ -1,0 +1,9 @@
+name: De-engineered fresh-thinking algorithm
+payloads:
+- command-injection_payload_1_type
+- command-injection_payload_2_seat
+- command-injection_payload_3_example
+- command-injection_payload_4_outside
+- command-injection_payload_5_music
+severity: medium
+type: command-injection

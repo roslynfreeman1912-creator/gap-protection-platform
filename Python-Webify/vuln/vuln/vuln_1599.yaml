@@ -1,0 +1,9 @@
+name: Phased bifurcated instruction set
+payloads:
+- csp-bypass_payload_1_final
+- csp-bypass_payload_2_late
+- csp-bypass_payload_3_necessary
+- csp-bypass_payload_4_relate
+- csp-bypass_payload_5_body
+severity: medium
+type: csp-bypass

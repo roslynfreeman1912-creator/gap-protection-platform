@@ -1,0 +1,9 @@
+name: Function-based object-oriented function
+payloads:
+- rfi_payload_1_its
+- rfi_payload_2_matter
+- rfi_payload_3_even
+- rfi_payload_4_draw
+- rfi_payload_5_same
+severity: critical
+type: rfi

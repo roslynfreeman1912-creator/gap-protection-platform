@@ -1,0 +1,9 @@
+name: Re-contextualized disintermediate hardware
+payloads:
+- file-upload_payload_1_article
+- file-upload_payload_2_drop
+- file-upload_payload_3_key
+- file-upload_payload_4_sell
+- file-upload_payload_5_human
+severity: high
+type: file-upload

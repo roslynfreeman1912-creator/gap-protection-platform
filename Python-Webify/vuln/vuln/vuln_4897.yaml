@@ -1,0 +1,9 @@
+name: Synchronized responsive interface
+payloads:
+- tabnabbing_payload_1_student
+- tabnabbing_payload_2_usually
+- tabnabbing_payload_3_speech
+- tabnabbing_payload_4_save
+- tabnabbing_payload_5_chance
+severity: medium
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Team-oriented executive matrices
+payloads:
+- frame-injection_payload_1_great
+- frame-injection_payload_2_civil
+- frame-injection_payload_3_discover
+- frame-injection_payload_4_be
+- frame-injection_payload_5_this
+severity: critical
+type: frame-injection

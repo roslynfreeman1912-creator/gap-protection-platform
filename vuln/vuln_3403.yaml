@@ -1,0 +1,9 @@
+name: Enterprise-wide value-added extranet
+payloads:
+- lfi_payload_1_interesting
+- lfi_payload_2_task
+- lfi_payload_3_language
+- lfi_payload_4_meet
+- lfi_payload_5_mention
+severity: high
+type: lfi

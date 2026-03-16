@@ -1,0 +1,9 @@
+name: Cross-group multi-state toolset
+payloads:
+- ldap-injection_payload_1_skill
+- ldap-injection_payload_2_pattern
+- ldap-injection_payload_3_offer
+- ldap-injection_payload_4_sound
+- ldap-injection_payload_5_community
+severity: low
+type: ldap-injection

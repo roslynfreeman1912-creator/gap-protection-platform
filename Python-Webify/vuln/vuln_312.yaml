@@ -1,0 +1,9 @@
+name: Re-engineered uniform framework
+payloads:
+- ldap-injection_payload_1_start
+- ldap-injection_payload_2_term
+- ldap-injection_payload_3_car
+- ldap-injection_payload_4_current
+- ldap-injection_payload_5_reach
+severity: medium
+type: ldap-injection

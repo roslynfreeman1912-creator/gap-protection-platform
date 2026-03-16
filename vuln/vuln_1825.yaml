@@ -1,0 +1,9 @@
+name: Pre-emptive impactful orchestration
+payloads:
+- frame-injection_payload_1_include
+- frame-injection_payload_2_environment
+- frame-injection_payload_3_together
+- frame-injection_payload_4_resource
+- frame-injection_payload_5_responsibility
+severity: critical
+type: frame-injection

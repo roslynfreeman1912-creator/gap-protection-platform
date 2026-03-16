@@ -1,0 +1,9 @@
+name: Multi-tiered intangible paradigm
+payloads:
+- subdomain-takeover_payload_1_like
+- subdomain-takeover_payload_2_travel
+- subdomain-takeover_payload_3_old
+- subdomain-takeover_payload_4_account
+- subdomain-takeover_payload_5_writer
+severity: high
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Networked holistic conglomeration
+payloads:
+- command-injection_payload_1_have
+- command-injection_payload_2_single
+- command-injection_payload_3_law
+- command-injection_payload_4_compare
+- command-injection_payload_5_up
+severity: high
+type: command-injection

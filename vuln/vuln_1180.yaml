@@ -1,0 +1,9 @@
+name: Triple-buffered national projection
+payloads:
+- ssrf_payload_1_continue
+- ssrf_payload_2_message
+- ssrf_payload_3_chair
+- ssrf_payload_4_chair
+- ssrf_payload_5_door
+severity: critical
+type: ssrf

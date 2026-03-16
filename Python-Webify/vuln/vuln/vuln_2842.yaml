@@ -1,0 +1,9 @@
+name: Visionary static ability
+payloads:
+- host-header-injection_payload_1_through
+- host-header-injection_payload_2_purpose
+- host-header-injection_payload_3_whether
+- host-header-injection_payload_4_community
+- host-header-injection_payload_5_billion
+severity: critical
+type: host-header-injection

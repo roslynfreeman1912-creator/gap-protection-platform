@@ -1,0 +1,9 @@
+name: Multi-channeled zero administration solution
+payloads:
+- clickjacking_payload_1_attention
+- clickjacking_payload_2_force
+- clickjacking_payload_3_table
+- clickjacking_payload_4_blue
+- clickjacking_payload_5_girl
+severity: medium
+type: clickjacking

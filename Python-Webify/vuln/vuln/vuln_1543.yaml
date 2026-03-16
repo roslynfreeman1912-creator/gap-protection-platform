@@ -1,0 +1,9 @@
+name: Distributed executive moderator
+payloads:
+- subdomain-takeover_payload_1_trade
+- subdomain-takeover_payload_2_piece
+- subdomain-takeover_payload_3_similar
+- subdomain-takeover_payload_4_what
+- subdomain-takeover_payload_5_account
+severity: low
+type: subdomain-takeover

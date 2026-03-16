@@ -1,0 +1,9 @@
+name: Progressive systematic pricing structure
+payloads:
+- rfi_payload_1_many
+- rfi_payload_2_serious
+- rfi_payload_3_ago
+- rfi_payload_4_country
+- rfi_payload_5_pressure
+severity: medium
+type: rfi

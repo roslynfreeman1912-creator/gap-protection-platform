@@ -1,0 +1,9 @@
+name: Implemented bi-directional intranet
+payloads:
+- jsonp-injection_payload_1_future
+- jsonp-injection_payload_2_culture
+- jsonp-injection_payload_3_fly
+- jsonp-injection_payload_4_sing
+- jsonp-injection_payload_5_nearly
+severity: medium
+type: jsonp-injection

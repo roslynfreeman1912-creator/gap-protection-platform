@@ -1,0 +1,9 @@
+name: Synergistic local parallelism
+payloads:
+- subdomain-takeover_payload_1_before
+- subdomain-takeover_payload_2_usually
+- subdomain-takeover_payload_3_natural
+- subdomain-takeover_payload_4_run
+- subdomain-takeover_payload_5_cut
+severity: critical
+type: subdomain-takeover

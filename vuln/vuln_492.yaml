@@ -1,0 +1,9 @@
+name: Fundamental human-resource process improvement
+payloads:
+- host-header-injection_payload_1_day
+- host-header-injection_payload_2_explain
+- host-header-injection_payload_3_challenge
+- host-header-injection_payload_4_fund
+- host-header-injection_payload_5_model
+severity: medium
+type: host-header-injection

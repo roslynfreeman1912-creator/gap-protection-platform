@@ -1,0 +1,9 @@
+name: Multi-channeled well-modulated flexibility
+payloads:
+- frame-injection_payload_1_strategy
+- frame-injection_payload_2_film
+- frame-injection_payload_3_note
+- frame-injection_payload_4_each
+- frame-injection_payload_5_because
+severity: medium
+type: frame-injection

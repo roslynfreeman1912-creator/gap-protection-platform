@@ -1,0 +1,9 @@
+name: Automated incremental artificial intelligence
+payloads:
+- jsonp-injection_payload_1_away
+- jsonp-injection_payload_2_human
+- jsonp-injection_payload_3_right
+- jsonp-injection_payload_4_recognize
+- jsonp-injection_payload_5_treat
+severity: critical
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Horizontal exuding extranet
+payloads:
+- jsonp-injection_payload_1_involve
+- jsonp-injection_payload_2_yard
+- jsonp-injection_payload_3_against
+- jsonp-injection_payload_4_investment
+- jsonp-injection_payload_5_believe
+severity: medium
+type: jsonp-injection

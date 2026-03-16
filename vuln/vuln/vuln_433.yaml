@@ -1,0 +1,9 @@
+name: Grass-roots grid-enabled moderator
+payloads:
+- command-injection_payload_1_church
+- command-injection_payload_2_call
+- command-injection_payload_3_Republican
+- command-injection_payload_4_decade
+- command-injection_payload_5_myself
+severity: low
+type: command-injection

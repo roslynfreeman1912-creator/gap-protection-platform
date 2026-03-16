@@ -1,0 +1,9 @@
+name: Monitored grid-enabled attitude
+payloads:
+- open-redirect_payload_1_person
+- open-redirect_payload_2_method
+- open-redirect_payload_3_however
+- open-redirect_payload_4_everyone
+- open-redirect_payload_5_treat
+severity: high
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Fully-configurable bi-directional project
+payloads:
+- hsts-misconfig_payload_1_perform
+- hsts-misconfig_payload_2_market
+- hsts-misconfig_payload_3_realize
+- hsts-misconfig_payload_4_hope
+- hsts-misconfig_payload_5_total
+severity: medium
+type: hsts-misconfig

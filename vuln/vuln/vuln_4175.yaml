@@ -1,0 +1,9 @@
+name: Multi-layered bandwidth-monitored data-warehouse
+payloads:
+- frame-injection_payload_1_year
+- frame-injection_payload_2_pressure
+- frame-injection_payload_3_others
+- frame-injection_payload_4_rest
+- frame-injection_payload_5_law
+severity: low
+type: frame-injection

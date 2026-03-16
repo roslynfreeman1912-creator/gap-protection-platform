@@ -1,0 +1,9 @@
+name: Intuitive static model
+payloads:
+- csrf_payload_1_push
+- csrf_payload_2_have
+- csrf_payload_3_now
+- csrf_payload_4_whom
+- csrf_payload_5_issue
+severity: critical
+type: csrf

@@ -1,0 +1,9 @@
+name: Triple-buffered even-keeled complexity
+payloads:
+- hsts-misconfig_payload_1_heart
+- hsts-misconfig_payload_2_identify
+- hsts-misconfig_payload_3_become
+- hsts-misconfig_payload_4_list
+- hsts-misconfig_payload_5_state
+severity: critical
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Cloned incremental encoding
+payloads:
+- tabnabbing_payload_1_expert
+- tabnabbing_payload_2_the
+- tabnabbing_payload_3_keep
+- tabnabbing_payload_4_during
+- tabnabbing_payload_5_consumer
+severity: high
+type: tabnabbing

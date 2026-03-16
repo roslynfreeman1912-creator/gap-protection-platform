@@ -1,0 +1,9 @@
+name: Synchronized local ability
+payloads:
+- hsts-misconfig_payload_1_city
+- hsts-misconfig_payload_2_meet
+- hsts-misconfig_payload_3_any
+- hsts-misconfig_payload_4_son
+- hsts-misconfig_payload_5_decision
+severity: medium
+type: hsts-misconfig

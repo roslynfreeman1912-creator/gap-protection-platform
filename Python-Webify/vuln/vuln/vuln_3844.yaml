@@ -1,0 +1,9 @@
+name: Multi-layered maximized complexity
+payloads:
+- javascript-injection_payload_1_computer
+- javascript-injection_payload_2_tell
+- javascript-injection_payload_3_job
+- javascript-injection_payload_4_to
+- javascript-injection_payload_5_road
+severity: high
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Team-oriented systemic portal
+payloads:
+- clickjacking_payload_1_man
+- clickjacking_payload_2_trip
+- clickjacking_payload_3_wife
+- clickjacking_payload_4_situation
+- clickjacking_payload_5_join
+severity: medium
+type: clickjacking

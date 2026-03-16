@@ -1,0 +1,9 @@
+name: Triple-buffered zero-defect algorithm
+payloads:
+- open-redirect_payload_1_economy
+- open-redirect_payload_2_create
+- open-redirect_payload_3_else
+- open-redirect_payload_4_heart
+- open-redirect_payload_5_I
+severity: high
+type: open-redirect

@@ -1,0 +1,9 @@
+name: User-friendly coherent algorithm
+payloads:
+- csrf_payload_1_field
+- csrf_payload_2_return
+- csrf_payload_3_nice
+- csrf_payload_4_certain
+- csrf_payload_5_car
+severity: medium
+type: csrf

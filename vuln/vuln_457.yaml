@@ -1,0 +1,9 @@
+name: User-centric foreground Local Area Network
+payloads:
+- ssti_payload_1_consider
+- ssti_payload_2_light
+- ssti_payload_3_activity
+- ssti_payload_4_only
+- ssti_payload_5_its
+severity: high
+type: ssti

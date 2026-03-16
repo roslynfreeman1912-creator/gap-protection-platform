@@ -1,0 +1,9 @@
+name: Balanced incremental forecast
+payloads:
+- mime-sniffing_payload_1_east
+- mime-sniffing_payload_2_drop
+- mime-sniffing_payload_3_street
+- mime-sniffing_payload_4_individual
+- mime-sniffing_payload_5_during
+severity: low
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Multi-channeled intermediate database
+payloads:
+- rfi_payload_1_someone
+- rfi_payload_2_arm
+- rfi_payload_3_grow
+- rfi_payload_4_shoulder
+- rfi_payload_5_center
+severity: high
+type: rfi

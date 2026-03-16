@@ -1,0 +1,9 @@
+name: Distributed multimedia strategy
+payloads:
+- host-header-injection_payload_1_laugh
+- host-header-injection_payload_2_wonder
+- host-header-injection_payload_3_federal
+- host-header-injection_payload_4_model
+- host-header-injection_payload_5_whose
+severity: critical
+type: host-header-injection

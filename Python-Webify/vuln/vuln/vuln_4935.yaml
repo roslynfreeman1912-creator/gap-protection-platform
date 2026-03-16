@@ -1,0 +1,9 @@
+name: User-friendly object-oriented flexibility
+payloads:
+- open-redirect_payload_1_available
+- open-redirect_payload_2_let
+- open-redirect_payload_3_again
+- open-redirect_payload_4_without
+- open-redirect_payload_5_word
+severity: low
+type: open-redirect

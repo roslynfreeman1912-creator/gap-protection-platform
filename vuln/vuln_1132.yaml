@@ -1,0 +1,9 @@
+name: Stand-alone actuating forecast
+payloads:
+- ssti_payload_1_recognize
+- ssti_payload_2_apply
+- ssti_payload_3_less
+- ssti_payload_4_always
+- ssti_payload_5_road
+severity: critical
+type: ssti

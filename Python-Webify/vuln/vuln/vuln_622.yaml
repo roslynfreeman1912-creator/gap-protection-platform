@@ -1,0 +1,9 @@
+name: Synergistic neutral moratorium
+payloads:
+- tabnabbing_payload_1_word
+- tabnabbing_payload_2_suggest
+- tabnabbing_payload_3_no
+- tabnabbing_payload_4_wife
+- tabnabbing_payload_5_high
+severity: low
+type: tabnabbing

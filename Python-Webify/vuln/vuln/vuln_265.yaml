@@ -1,0 +1,9 @@
+name: Proactive logistical policy
+payloads:
+- jsonp-injection_payload_1_large
+- jsonp-injection_payload_2_yeah
+- jsonp-injection_payload_3_pull
+- jsonp-injection_payload_4_like
+- jsonp-injection_payload_5_trouble
+severity: low
+type: jsonp-injection

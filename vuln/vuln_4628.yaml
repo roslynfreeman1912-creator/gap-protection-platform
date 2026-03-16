@@ -1,0 +1,9 @@
+name: Progressive value-added info-mediaries
+payloads:
+- lfi_payload_1_out
+- lfi_payload_2_call
+- lfi_payload_3_quite
+- lfi_payload_4_too
+- lfi_payload_5_try
+severity: low
+type: lfi

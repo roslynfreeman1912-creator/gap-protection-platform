@@ -1,0 +1,9 @@
+name: Exclusive disintermediate portal
+payloads:
+- host-header-injection_payload_1_project
+- host-header-injection_payload_2_relate
+- host-header-injection_payload_3_us
+- host-header-injection_payload_4_maintain
+- host-header-injection_payload_5_compare
+severity: high
+type: host-header-injection

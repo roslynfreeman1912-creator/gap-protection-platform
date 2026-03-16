@@ -1,0 +1,9 @@
+name: Innovative multi-tasking artificial intelligence
+payloads:
+- clickjacking_payload_1_final
+- clickjacking_payload_2_around
+- clickjacking_payload_3_safe
+- clickjacking_payload_4_development
+- clickjacking_payload_5_career
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Total client-driven firmware
+payloads:
+- crlf-injection_payload_1_machine
+- crlf-injection_payload_2_central
+- crlf-injection_payload_3_science
+- crlf-injection_payload_4_third
+- crlf-injection_payload_5_strategy
+severity: low
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Integrated multimedia benchmark
+payloads:
+- javascript-injection_payload_1_military
+- javascript-injection_payload_2_child
+- javascript-injection_payload_3_military
+- javascript-injection_payload_4_marriage
+- javascript-injection_payload_5_democratic
+severity: low
+type: javascript-injection

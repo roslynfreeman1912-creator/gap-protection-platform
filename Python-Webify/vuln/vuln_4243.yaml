@@ -1,0 +1,9 @@
+name: Total secondary model
+payloads:
+- subdomain-takeover_payload_1_type
+- subdomain-takeover_payload_2_bed
+- subdomain-takeover_payload_3_professor
+- subdomain-takeover_payload_4_personal
+- subdomain-takeover_payload_5_adult
+severity: low
+type: subdomain-takeover

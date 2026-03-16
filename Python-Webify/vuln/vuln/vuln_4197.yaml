@@ -1,0 +1,9 @@
+name: Progressive zero tolerance instruction set
+payloads:
+- tabnabbing_payload_1_interesting
+- tabnabbing_payload_2_quality
+- tabnabbing_payload_3_gas
+- tabnabbing_payload_4_fire
+- tabnabbing_payload_5_stuff
+severity: high
+type: tabnabbing

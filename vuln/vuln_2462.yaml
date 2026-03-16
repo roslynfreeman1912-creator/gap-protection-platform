@@ -1,0 +1,9 @@
+name: Multi-layered next generation instruction set
+payloads:
+- ldap-injection_payload_1_grow
+- ldap-injection_payload_2_rock
+- ldap-injection_payload_3_occur
+- ldap-injection_payload_4_because
+- ldap-injection_payload_5_step
+severity: low
+type: ldap-injection

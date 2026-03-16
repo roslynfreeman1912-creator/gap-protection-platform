@@ -1,0 +1,9 @@
+name: Stand-alone hybrid info-mediaries
+payloads:
+- nosql-injection_payload_1_they
+- nosql-injection_payload_2_tough
+- nosql-injection_payload_3_view
+- nosql-injection_payload_4_management
+- nosql-injection_payload_5_you
+severity: low
+type: nosql-injection

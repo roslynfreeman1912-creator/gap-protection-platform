@@ -1,0 +1,9 @@
+name: Assimilated asymmetric frame
+payloads:
+- nosql-injection_payload_1_morning
+- nosql-injection_payload_2_type
+- nosql-injection_payload_3_go
+- nosql-injection_payload_4_official
+- nosql-injection_payload_5_well
+severity: medium
+type: nosql-injection

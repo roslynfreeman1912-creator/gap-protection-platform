@@ -1,0 +1,9 @@
+name: Cross-platform object-oriented portal
+payloads:
+- ldap-injection_payload_1_your
+- ldap-injection_payload_2_suggest
+- ldap-injection_payload_3_even
+- ldap-injection_payload_4_way
+- ldap-injection_payload_5_protect
+severity: low
+type: ldap-injection

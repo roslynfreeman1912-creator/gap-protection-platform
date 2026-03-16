@@ -1,0 +1,9 @@
+name: Compatible optimizing implementation
+payloads:
+- xss_payload_1_popular
+- xss_payload_2_whatever
+- xss_payload_3_small
+- xss_payload_4_drop
+- xss_payload_5_subject
+severity: medium
+type: xss

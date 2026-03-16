@@ -1,0 +1,9 @@
+name: Stand-alone motivating system engine
+payloads:
+- host-header-injection_payload_1_your
+- host-header-injection_payload_2_thousand
+- host-header-injection_payload_3_character
+- host-header-injection_payload_4_push
+- host-header-injection_payload_5_enjoy
+severity: medium
+type: host-header-injection

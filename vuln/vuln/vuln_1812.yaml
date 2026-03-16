@@ -1,0 +1,9 @@
+name: Sharable reciprocal access
+payloads:
+- ldap-injection_payload_1_conference
+- ldap-injection_payload_2_company
+- ldap-injection_payload_3_little
+- ldap-injection_payload_4_test
+- ldap-injection_payload_5_matter
+severity: critical
+type: ldap-injection

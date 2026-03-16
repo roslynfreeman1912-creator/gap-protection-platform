@@ -1,0 +1,9 @@
+name: Customer-focused demand-driven initiative
+payloads:
+- clickjacking_payload_1_age
+- clickjacking_payload_2_four
+- clickjacking_payload_3_relate
+- clickjacking_payload_4_still
+- clickjacking_payload_5_land
+severity: high
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Total even-keeled function
+payloads:
+- jsonp-injection_payload_1_inside
+- jsonp-injection_payload_2_up
+- jsonp-injection_payload_3_product
+- jsonp-injection_payload_4_close
+- jsonp-injection_payload_5_vote
+severity: high
+type: jsonp-injection

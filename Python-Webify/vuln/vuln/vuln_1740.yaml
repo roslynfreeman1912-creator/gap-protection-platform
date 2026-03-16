@@ -1,0 +1,9 @@
+name: Sharable upward-trending open system
+payloads:
+- jsonp-injection_payload_1_himself
+- jsonp-injection_payload_2_adult
+- jsonp-injection_payload_3_person
+- jsonp-injection_payload_4_example
+- jsonp-injection_payload_5_buy
+severity: medium
+type: jsonp-injection

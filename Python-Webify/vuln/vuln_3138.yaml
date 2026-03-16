@@ -1,0 +1,9 @@
+name: Managed holistic process improvement
+payloads:
+- nosql-injection_payload_1_sport
+- nosql-injection_payload_2_thus
+- nosql-injection_payload_3_evidence
+- nosql-injection_payload_4_federal
+- nosql-injection_payload_5_crime
+severity: high
+type: nosql-injection

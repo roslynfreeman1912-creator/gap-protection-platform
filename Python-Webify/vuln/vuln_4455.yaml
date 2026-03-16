@@ -1,0 +1,9 @@
+name: Automated directional instruction set
+payloads:
+- ssrf_payload_1_national
+- ssrf_payload_2_tell
+- ssrf_payload_3_address
+- ssrf_payload_4_author
+- ssrf_payload_5_half
+severity: high
+type: ssrf

@@ -1,0 +1,9 @@
+name: Programmable static analyzer
+payloads:
+- crlf-injection_payload_1_well
+- crlf-injection_payload_2_window
+- crlf-injection_payload_3_live
+- crlf-injection_payload_4_major
+- crlf-injection_payload_5_standard
+severity: medium
+type: crlf-injection

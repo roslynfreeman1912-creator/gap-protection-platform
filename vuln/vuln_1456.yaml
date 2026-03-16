@@ -1,0 +1,9 @@
+name: Multi-layered composite encryption
+payloads:
+- csrf_payload_1_house
+- csrf_payload_2_attorney
+- csrf_payload_3_citizen
+- csrf_payload_4_body
+- csrf_payload_5_perform
+severity: high
+type: csrf

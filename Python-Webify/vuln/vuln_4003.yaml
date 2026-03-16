@@ -1,0 +1,9 @@
+name: Open-source bi-directional open architecture
+payloads:
+- lfi_payload_1_enter
+- lfi_payload_2_life
+- lfi_payload_3_glass
+- lfi_payload_4_student
+- lfi_payload_5_budget
+severity: high
+type: lfi

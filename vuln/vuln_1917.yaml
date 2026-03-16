@@ -1,0 +1,9 @@
+name: Multi-layered secondary middleware
+payloads:
+- host-header-injection_payload_1_around
+- host-header-injection_payload_2_benefit
+- host-header-injection_payload_3_option
+- host-header-injection_payload_4_work
+- host-header-injection_payload_5_world
+severity: critical
+type: host-header-injection

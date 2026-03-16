@@ -1,0 +1,9 @@
+name: Innovative web-enabled paradigm
+payloads:
+- jsonp-injection_payload_1_might
+- jsonp-injection_payload_2_everybody
+- jsonp-injection_payload_3_while
+- jsonp-injection_payload_4_feeling
+- jsonp-injection_payload_5_close
+severity: critical
+type: jsonp-injection

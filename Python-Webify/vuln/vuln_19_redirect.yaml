@@ -1,0 +1,8 @@
+name: Open Redirect Variant 9
+payloads:
+- http://evil.com
+- //evil.com
+- /\evil.com
+- https://target.com/redirect?url=http://evil.com
+severity: medium
+type: redirect

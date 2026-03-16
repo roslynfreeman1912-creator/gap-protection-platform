@@ -1,0 +1,9 @@
+name: Visionary system-worthy service-desk
+payloads:
+- hsts-misconfig_payload_1_among
+- hsts-misconfig_payload_2_eat
+- hsts-misconfig_payload_3_general
+- hsts-misconfig_payload_4_contain
+- hsts-misconfig_payload_5_prepare
+severity: low
+type: hsts-misconfig

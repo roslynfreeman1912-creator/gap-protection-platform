@@ -1,0 +1,9 @@
+name: Inverse clear-thinking success
+payloads:
+- open-redirect_payload_1_shake
+- open-redirect_payload_2_better
+- open-redirect_payload_3_chance
+- open-redirect_payload_4_hard
+- open-redirect_payload_5_fly
+severity: medium
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Pre-emptive mission-critical synergy
+payloads:
+- nosql-injection_payload_1_wall
+- nosql-injection_payload_2_catch
+- nosql-injection_payload_3_yeah
+- nosql-injection_payload_4_stock
+- nosql-injection_payload_5_majority
+severity: high
+type: nosql-injection

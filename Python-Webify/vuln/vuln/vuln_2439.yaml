@@ -1,0 +1,9 @@
+name: User-friendly foreground infrastructure
+payloads:
+- clickjacking_payload_1_determine
+- clickjacking_payload_2_very
+- clickjacking_payload_3_campaign
+- clickjacking_payload_4_listen
+- clickjacking_payload_5_upon
+severity: high
+type: clickjacking

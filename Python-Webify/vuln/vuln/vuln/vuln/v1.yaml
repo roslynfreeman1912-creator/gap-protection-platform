@@ -1,0 +1,10 @@
+name: "Server-Side Template Injection"
+type: "ssti1"
+severity: "critical"
+payloads:
+  - "{{7*7}}"
+  - "<%= 7*7 %>"
+  - "${7*7}"
+  - "#{7*7}"
+  - "{% for item in seq %}{{item}}{% endfor %}"
+engine: "php"  

@@ -1,0 +1,9 @@
+name: Stand-alone tangible attitude
+payloads:
+- file-upload_payload_1_edge
+- file-upload_payload_2_front
+- file-upload_payload_3_discover
+- file-upload_payload_4_few
+- file-upload_payload_5_hear
+severity: medium
+type: file-upload

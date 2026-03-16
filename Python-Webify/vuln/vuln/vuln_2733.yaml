@@ -1,0 +1,9 @@
+name: Expanded tangible array
+payloads:
+- command-injection_payload_1_me
+- command-injection_payload_2_direction
+- command-injection_payload_3_mind
+- command-injection_payload_4_alone
+- command-injection_payload_5_tend
+severity: medium
+type: command-injection

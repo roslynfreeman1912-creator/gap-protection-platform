@@ -1,0 +1,9 @@
+name: Re-contextualized web-enabled open system
+payloads:
+- tabnabbing_payload_1_method
+- tabnabbing_payload_2_customer
+- tabnabbing_payload_3_recognize
+- tabnabbing_payload_4_necessary
+- tabnabbing_payload_5_friend
+severity: medium
+type: tabnabbing

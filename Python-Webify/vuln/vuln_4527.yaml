@@ -1,0 +1,9 @@
+name: Open-architected coherent policy
+payloads:
+- xss_payload_1_standard
+- xss_payload_2_miss
+- xss_payload_3_per
+- xss_payload_4_stop
+- xss_payload_5_bar
+severity: medium
+type: xss

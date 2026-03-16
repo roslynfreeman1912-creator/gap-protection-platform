@@ -1,0 +1,9 @@
+name: Focused 24/7 focus group
+payloads:
+- jsonp-injection_payload_1_camera
+- jsonp-injection_payload_2_operation
+- jsonp-injection_payload_3_security
+- jsonp-injection_payload_4_bar
+- jsonp-injection_payload_5_note
+severity: medium
+type: jsonp-injection

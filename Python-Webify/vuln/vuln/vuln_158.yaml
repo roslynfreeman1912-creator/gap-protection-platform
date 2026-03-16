@@ -1,0 +1,9 @@
+name: Phased didactic toolset
+payloads:
+- command-injection_payload_1_modern
+- command-injection_payload_2_strategy
+- command-injection_payload_3_ask
+- command-injection_payload_4_process
+- command-injection_payload_5_director
+severity: high
+type: command-injection

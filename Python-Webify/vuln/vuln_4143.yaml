@@ -1,0 +1,9 @@
+name: Up-sized asymmetric hardware
+payloads:
+- subdomain-takeover_payload_1_skill
+- subdomain-takeover_payload_2_me
+- subdomain-takeover_payload_3_visit
+- subdomain-takeover_payload_4_mother
+- subdomain-takeover_payload_5_brother
+severity: critical
+type: subdomain-takeover

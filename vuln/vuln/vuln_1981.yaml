@@ -1,0 +1,9 @@
+name: Grass-roots 24/7 intranet
+payloads:
+- csrf_payload_1_away
+- csrf_payload_2_this
+- csrf_payload_3_Congress
+- csrf_payload_4_garden
+- csrf_payload_5_resource
+severity: high
+type: csrf

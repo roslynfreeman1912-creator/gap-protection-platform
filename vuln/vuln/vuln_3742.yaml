@@ -1,0 +1,9 @@
+name: Progressive radical circuit
+payloads:
+- host-header-injection_payload_1_huge
+- host-header-injection_payload_2_wide
+- host-header-injection_payload_3_step
+- host-header-injection_payload_4_case
+- host-header-injection_payload_5_commercial
+severity: low
+type: host-header-injection

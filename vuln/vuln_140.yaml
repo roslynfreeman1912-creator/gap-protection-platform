@@ -1,0 +1,9 @@
+name: Cross-group content-based orchestration
+payloads:
+- jsonp-injection_payload_1_look
+- jsonp-injection_payload_2_fund
+- jsonp-injection_payload_3_large
+- jsonp-injection_payload_4_accept
+- jsonp-injection_payload_5_floor
+severity: critical
+type: jsonp-injection

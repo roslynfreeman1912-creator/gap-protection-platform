@@ -1,0 +1,9 @@
+name: Optional asymmetric intranet
+payloads:
+- tabnabbing_payload_1_its
+- tabnabbing_payload_2_strategy
+- tabnabbing_payload_3_me
+- tabnabbing_payload_4_record
+- tabnabbing_payload_5_only
+severity: critical
+type: tabnabbing

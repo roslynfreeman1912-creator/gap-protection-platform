@@ -1,0 +1,9 @@
+name: Configurable upward-trending hierarchy
+payloads:
+- file-upload_payload_1_whole
+- file-upload_payload_2_by
+- file-upload_payload_3_strategy
+- file-upload_payload_4_final
+- file-upload_payload_5_military
+severity: critical
+type: file-upload

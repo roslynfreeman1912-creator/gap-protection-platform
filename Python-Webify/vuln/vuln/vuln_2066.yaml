@@ -1,0 +1,9 @@
+name: Programmable zero-defect migration
+payloads:
+- crlf-injection_payload_1_actually
+- crlf-injection_payload_2_who
+- crlf-injection_payload_3_allow
+- crlf-injection_payload_4_PM
+- crlf-injection_payload_5_issue
+severity: critical
+type: crlf-injection

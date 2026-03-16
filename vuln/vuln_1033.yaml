@@ -1,0 +1,9 @@
+name: Advanced zero-defect moratorium
+payloads:
+- command-injection_payload_1_prepare
+- command-injection_payload_2_fish
+- command-injection_payload_3_look
+- command-injection_payload_4_thought
+- command-injection_payload_5_wait
+severity: medium
+type: command-injection

@@ -1,0 +1,9 @@
+name: Customizable coherent moderator
+payloads:
+- sql_payload_1_feeling
+- sql_payload_2_everybody
+- sql_payload_3_hospital
+- sql_payload_4_after
+- sql_payload_5_believe
+severity: high
+type: sql

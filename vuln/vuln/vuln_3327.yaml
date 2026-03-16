@@ -1,0 +1,9 @@
+name: Self-enabling intermediate instruction set
+payloads:
+- xss_payload_1_two
+- xss_payload_2_tend
+- xss_payload_3_minute
+- xss_payload_4_blood
+- xss_payload_5_defense
+severity: low
+type: xss

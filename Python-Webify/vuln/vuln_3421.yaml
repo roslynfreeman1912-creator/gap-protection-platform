@@ -1,0 +1,9 @@
+name: Inverse 4thgeneration core
+payloads:
+- mime-sniffing_payload_1_place
+- mime-sniffing_payload_2_feel
+- mime-sniffing_payload_3_civil
+- mime-sniffing_payload_4_no
+- mime-sniffing_payload_5_chance
+severity: high
+type: mime-sniffing

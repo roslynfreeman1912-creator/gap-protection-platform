@@ -1,0 +1,9 @@
+name: Organic optimizing throughput
+payloads:
+- subdomain-takeover_payload_1_watch
+- subdomain-takeover_payload_2_sometimes
+- subdomain-takeover_payload_3_character
+- subdomain-takeover_payload_4_attack
+- subdomain-takeover_payload_5_any
+severity: high
+type: subdomain-takeover

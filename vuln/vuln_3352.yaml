@@ -1,0 +1,9 @@
+name: Programmable even-keeled circuit
+payloads:
+- xss_payload_1_social
+- xss_payload_2_card
+- xss_payload_3_entire
+- xss_payload_4_cell
+- xss_payload_5_color
+severity: low
+type: xss

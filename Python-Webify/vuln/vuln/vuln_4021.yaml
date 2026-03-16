@@ -1,0 +1,9 @@
+name: Diverse motivating strategy
+payloads:
+- mime-sniffing_payload_1_realize
+- mime-sniffing_payload_2_address
+- mime-sniffing_payload_3_nature
+- mime-sniffing_payload_4_let
+- mime-sniffing_payload_5_plant
+severity: low
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Fundamental upward-trending utilization
+payloads:
+- command-injection_payload_1_we
+- command-injection_payload_2_pick
+- command-injection_payload_3_social
+- command-injection_payload_4_lot
+- command-injection_payload_5_miss
+severity: critical
+type: command-injection

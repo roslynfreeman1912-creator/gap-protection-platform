@@ -1,0 +1,9 @@
+name: Integrated demand-driven service-desk
+payloads:
+- path-traversal_payload_1_stage
+- path-traversal_payload_2_care
+- path-traversal_payload_3_former
+- path-traversal_payload_4_statement
+- path-traversal_payload_5_table
+severity: high
+type: path-traversal

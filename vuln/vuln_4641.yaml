@@ -1,0 +1,9 @@
+name: Right-sized 24/7 orchestration
+payloads:
+- crlf-injection_payload_1_whatever
+- crlf-injection_payload_2_power
+- crlf-injection_payload_3_build
+- crlf-injection_payload_4_although
+- crlf-injection_payload_5_everyone
+severity: medium
+type: crlf-injection

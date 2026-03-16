@@ -1,0 +1,9 @@
+name: Implemented system-worthy capacity
+payloads:
+- nosql-injection_payload_1_realize
+- nosql-injection_payload_2_add
+- nosql-injection_payload_3_do
+- nosql-injection_payload_4_use
+- nosql-injection_payload_5_put
+severity: low
+type: nosql-injection

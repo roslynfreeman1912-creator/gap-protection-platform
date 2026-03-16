@@ -1,0 +1,9 @@
+name: Networked holistic benchmark
+payloads:
+- host-header-injection_payload_1_service
+- host-header-injection_payload_2_theory
+- host-header-injection_payload_3_stand
+- host-header-injection_payload_4_direction
+- host-header-injection_payload_5_anyone
+severity: high
+type: host-header-injection

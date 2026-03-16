@@ -1,0 +1,9 @@
+name: Quality-focused logistical leverage
+payloads:
+- xxe_payload_1_campaign
+- xxe_payload_2_attention
+- xxe_payload_3_yard
+- xxe_payload_4_hold
+- xxe_payload_5_maintain
+severity: medium
+type: xxe

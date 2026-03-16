@@ -1,0 +1,9 @@
+name: Automated analyzing hub
+payloads:
+- csrf_payload_1_decision
+- csrf_payload_2_perform
+- csrf_payload_3_safe
+- csrf_payload_4_market
+- csrf_payload_5_program
+severity: critical
+type: csrf

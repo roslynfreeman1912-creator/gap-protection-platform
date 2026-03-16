@@ -1,0 +1,9 @@
+name: Assimilated bandwidth-monitored portal
+payloads:
+- ldap-injection_payload_1_debate
+- ldap-injection_payload_2_since
+- ldap-injection_payload_3_best
+- ldap-injection_payload_4_scientist
+- ldap-injection_payload_5_seem
+severity: medium
+type: ldap-injection

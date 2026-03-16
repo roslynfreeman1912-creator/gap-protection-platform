@@ -1,0 +1,9 @@
+name: Inverse non-volatile hardware
+payloads:
+- frame-injection_payload_1_quickly
+- frame-injection_payload_2_old
+- frame-injection_payload_3_produce
+- frame-injection_payload_4_everybody
+- frame-injection_payload_5_subject
+severity: high
+type: frame-injection

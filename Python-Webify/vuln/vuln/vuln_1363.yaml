@@ -1,0 +1,9 @@
+name: Versatile tertiary data-warehouse
+payloads:
+- nosql-injection_payload_1_herself
+- nosql-injection_payload_2_country
+- nosql-injection_payload_3_PM
+- nosql-injection_payload_4_local
+- nosql-injection_payload_5_property
+severity: high
+type: nosql-injection

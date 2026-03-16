@@ -1,0 +1,9 @@
+name: Optional eco-centric hardware
+payloads:
+- hsts-misconfig_payload_1_yourself
+- hsts-misconfig_payload_2_investment
+- hsts-misconfig_payload_3_respond
+- hsts-misconfig_payload_4_sit
+- hsts-misconfig_payload_5_officer
+severity: medium
+type: hsts-misconfig

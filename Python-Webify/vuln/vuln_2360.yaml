@@ -1,0 +1,9 @@
+name: Managed stable Graphical User Interface
+payloads:
+- open-redirect_payload_1_remain
+- open-redirect_payload_2_these
+- open-redirect_payload_3_cultural
+- open-redirect_payload_4_personal
+- open-redirect_payload_5_former
+severity: low
+type: open-redirect

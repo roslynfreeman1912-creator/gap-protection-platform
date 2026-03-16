@@ -1,0 +1,9 @@
+name: Cloned needs-based functionalities
+payloads:
+- subdomain-takeover_payload_1_area
+- subdomain-takeover_payload_2_enjoy
+- subdomain-takeover_payload_3_team
+- subdomain-takeover_payload_4_third
+- subdomain-takeover_payload_5_policy
+severity: medium
+type: subdomain-takeover

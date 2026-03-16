@@ -1,0 +1,9 @@
+name: Self-enabling homogeneous functionalities
+payloads:
+- clickjacking_payload_1_upon
+- clickjacking_payload_2_always
+- clickjacking_payload_3_indeed
+- clickjacking_payload_4_suggest
+- clickjacking_payload_5_detail
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Face-to-face disintermediate flexibility
+payloads:
+- path-traversal_payload_1_catch
+- path-traversal_payload_2_list
+- path-traversal_payload_3_anyone
+- path-traversal_payload_4_opportunity
+- path-traversal_payload_5_expect
+severity: low
+type: path-traversal

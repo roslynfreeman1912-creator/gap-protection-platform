@@ -1,0 +1,9 @@
+name: Open-source content-based neural-net
+payloads:
+- jsonp-injection_payload_1_per
+- jsonp-injection_payload_2_may
+- jsonp-injection_payload_3_pass
+- jsonp-injection_payload_4_mention
+- jsonp-injection_payload_5_everybody
+severity: high
+type: jsonp-injection

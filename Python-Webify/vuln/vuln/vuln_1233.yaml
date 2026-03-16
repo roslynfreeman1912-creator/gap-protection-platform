@@ -1,0 +1,9 @@
+name: Compatible local toolset
+payloads:
+- command-injection_payload_1_air
+- command-injection_payload_2_cut
+- command-injection_payload_3_specific
+- command-injection_payload_4_news
+- command-injection_payload_5_Democrat
+severity: medium
+type: command-injection

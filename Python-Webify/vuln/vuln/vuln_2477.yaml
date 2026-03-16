@@ -1,0 +1,9 @@
+name: Upgradable value-added complexity
+payloads:
+- xss_payload_1_door
+- xss_payload_2_political
+- xss_payload_3_about
+- xss_payload_4_simple
+- xss_payload_5_live
+severity: high
+type: xss

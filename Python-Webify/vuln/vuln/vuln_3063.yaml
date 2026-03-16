@@ -1,0 +1,9 @@
+name: Distributed asynchronous leverage
+payloads:
+- nosql-injection_payload_1_it
+- nosql-injection_payload_2_receive
+- nosql-injection_payload_3_maintain
+- nosql-injection_payload_4_board
+- nosql-injection_payload_5_write
+severity: critical
+type: nosql-injection

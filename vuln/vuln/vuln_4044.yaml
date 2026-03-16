@@ -1,0 +1,9 @@
+name: Business-focused intermediate Local Area Network
+payloads:
+- javascript-injection_payload_1_this
+- javascript-injection_payload_2_capital
+- javascript-injection_payload_3_whether
+- javascript-injection_payload_4_three
+- javascript-injection_payload_5_effort
+severity: critical
+type: javascript-injection

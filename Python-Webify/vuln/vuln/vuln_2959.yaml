@@ -1,0 +1,9 @@
+name: Ergonomic multi-tasking toolset
+payloads:
+- path-traversal_payload_1_return
+- path-traversal_payload_2_may
+- path-traversal_payload_3_thank
+- path-traversal_payload_4_while
+- path-traversal_payload_5_arm
+severity: critical
+type: path-traversal

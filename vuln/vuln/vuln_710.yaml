@@ -1,0 +1,9 @@
+name: Profit-focused fresh-thinking interface
+payloads:
+- open-redirect_payload_1_sound
+- open-redirect_payload_2_personal
+- open-redirect_payload_3_party
+- open-redirect_payload_4_wind
+- open-redirect_payload_5_both
+severity: high
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Distributed radical toolset
+payloads:
+- ssti_payload_1_international
+- ssti_payload_2_step
+- ssti_payload_3_situation
+- ssti_payload_4_mission
+- ssti_payload_5_several
+severity: critical
+type: ssti

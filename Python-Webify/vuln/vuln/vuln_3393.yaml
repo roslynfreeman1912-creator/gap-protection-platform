@@ -1,0 +1,9 @@
+name: Inverse leadingedge structure
+payloads:
+- subdomain-takeover_payload_1_oil
+- subdomain-takeover_payload_2_wall
+- subdomain-takeover_payload_3_north
+- subdomain-takeover_payload_4_instead
+- subdomain-takeover_payload_5_window
+severity: medium
+type: subdomain-takeover

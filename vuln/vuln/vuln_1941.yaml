@@ -1,0 +1,9 @@
+name: Distributed asynchronous contingency
+payloads:
+- crlf-injection_payload_1_edge
+- crlf-injection_payload_2_mission
+- crlf-injection_payload_3_American
+- crlf-injection_payload_4_right
+- crlf-injection_payload_5_include
+severity: medium
+type: crlf-injection

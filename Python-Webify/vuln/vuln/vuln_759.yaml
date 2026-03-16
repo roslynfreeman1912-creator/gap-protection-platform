@@ -1,0 +1,9 @@
+name: Organic secondary groupware
+payloads:
+- path-traversal_payload_1_another
+- path-traversal_payload_2_there
+- path-traversal_payload_3_food
+- path-traversal_payload_4_bill
+- path-traversal_payload_5_store
+severity: critical
+type: path-traversal

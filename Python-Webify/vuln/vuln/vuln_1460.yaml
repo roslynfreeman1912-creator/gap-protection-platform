@@ -1,0 +1,9 @@
+name: Enhanced stable extranet
+payloads:
+- open-redirect_payload_1_defense
+- open-redirect_payload_2_like
+- open-redirect_payload_3_some
+- open-redirect_payload_4_professional
+- open-redirect_payload_5_trial
+severity: high
+type: open-redirect

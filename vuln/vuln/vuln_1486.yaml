@@ -1,0 +1,9 @@
+name: Total actuating workforce
+payloads:
+- xxe_payload_1_drug
+- xxe_payload_2_where
+- xxe_payload_3_chance
+- xxe_payload_4_major
+- xxe_payload_5_organization
+severity: high
+type: xxe

@@ -1,0 +1,9 @@
+name: Mandatory multi-tasking firmware
+payloads:
+- xss_payload_1_born
+- xss_payload_2_probably
+- xss_payload_3_what
+- xss_payload_4_center
+- xss_payload_5_lay
+severity: medium
+type: xss

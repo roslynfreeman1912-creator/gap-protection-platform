@@ -1,0 +1,9 @@
+name: Polarized neutral Local Area Network
+payloads:
+- lfi_payload_1_establish
+- lfi_payload_2_money
+- lfi_payload_3_choice
+- lfi_payload_4_build
+- lfi_payload_5_fish
+severity: low
+type: lfi

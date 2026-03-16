@@ -1,0 +1,9 @@
+name: Grass-roots discrete help-desk
+payloads:
+- hsts-misconfig_payload_1_people
+- hsts-misconfig_payload_2_analysis
+- hsts-misconfig_payload_3_operation
+- hsts-misconfig_payload_4_step
+- hsts-misconfig_payload_5_if
+severity: low
+type: hsts-misconfig

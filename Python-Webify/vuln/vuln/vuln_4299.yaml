@@ -1,0 +1,9 @@
+name: Versatile real-time concept
+payloads:
+- csp-bypass_payload_1_and
+- csp-bypass_payload_2_per
+- csp-bypass_payload_3_church
+- csp-bypass_payload_4_research
+- csp-bypass_payload_5_either
+severity: low
+type: csp-bypass

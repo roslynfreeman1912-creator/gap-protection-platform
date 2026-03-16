@@ -1,0 +1,9 @@
+name: Pre-emptive full-range circuit
+payloads:
+- frame-injection_payload_1_more
+- frame-injection_payload_2_surface
+- frame-injection_payload_3_official
+- frame-injection_payload_4_name
+- frame-injection_payload_5_so
+severity: low
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Monitored zero tolerance attitude
+payloads:
+- mime-sniffing_payload_1_public
+- mime-sniffing_payload_2_large
+- mime-sniffing_payload_3_happy
+- mime-sniffing_payload_4_back
+- mime-sniffing_payload_5_white
+severity: high
+type: mime-sniffing

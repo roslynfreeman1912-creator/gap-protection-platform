@@ -1,0 +1,9 @@
+name: Triple-buffered mission-critical data-warehouse
+payloads:
+- crlf-injection_payload_1_care
+- crlf-injection_payload_2_improve
+- crlf-injection_payload_3_themselves
+- crlf-injection_payload_4_assume
+- crlf-injection_payload_5_floor
+severity: critical
+type: crlf-injection

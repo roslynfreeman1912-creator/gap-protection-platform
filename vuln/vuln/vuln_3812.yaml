@@ -1,0 +1,9 @@
+name: Mandatory bandwidth-monitored knowledge user
+payloads:
+- ldap-injection_payload_1_wrong
+- ldap-injection_payload_2_public
+- ldap-injection_payload_3_suggest
+- ldap-injection_payload_4_natural
+- ldap-injection_payload_5_describe
+severity: medium
+type: ldap-injection

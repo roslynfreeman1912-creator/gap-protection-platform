@@ -1,0 +1,9 @@
+name: Customizable tertiary framework
+payloads:
+- lfi_payload_1_help
+- lfi_payload_2_international
+- lfi_payload_3_war
+- lfi_payload_4_treatment
+- lfi_payload_5_floor
+severity: low
+type: lfi

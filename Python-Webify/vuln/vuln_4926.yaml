@@ -1,0 +1,9 @@
+name: Customizable 6thgeneration task-force
+payloads:
+- sql_payload_1_sure
+- sql_payload_2_age
+- sql_payload_3_piece
+- sql_payload_4_out
+- sql_payload_5_skill
+severity: high
+type: sql

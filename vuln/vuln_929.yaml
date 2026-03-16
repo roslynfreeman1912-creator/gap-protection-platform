@@ -1,0 +1,9 @@
+name: Focused solution-oriented collaboration
+payloads:
+- rfi_payload_1_site
+- rfi_payload_2_color
+- rfi_payload_3_sister
+- rfi_payload_4_help
+- rfi_payload_5_unit
+severity: medium
+type: rfi

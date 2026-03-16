@@ -1,0 +1,9 @@
+name: Quality-focused optimal strategy
+payloads:
+- command-injection_payload_1_force
+- command-injection_payload_2_nothing
+- command-injection_payload_3_throw
+- command-injection_payload_4_defense
+- command-injection_payload_5_technology
+severity: low
+type: command-injection

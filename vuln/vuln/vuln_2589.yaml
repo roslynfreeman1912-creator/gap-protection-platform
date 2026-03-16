@@ -1,0 +1,9 @@
+name: Compatible intangible interface
+payloads:
+- clickjacking_payload_1_buy
+- clickjacking_payload_2_television
+- clickjacking_payload_3_tax
+- clickjacking_payload_4_lead
+- clickjacking_payload_5_us
+severity: medium
+type: clickjacking

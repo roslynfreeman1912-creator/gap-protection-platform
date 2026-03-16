@@ -1,0 +1,9 @@
+name: Decentralized 5thgeneration service-desk
+payloads:
+- crlf-injection_payload_1_commercial
+- crlf-injection_payload_2_of
+- crlf-injection_payload_3_current
+- crlf-injection_payload_4_new
+- crlf-injection_payload_5_theory
+severity: low
+type: crlf-injection

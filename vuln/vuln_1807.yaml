@@ -1,0 +1,9 @@
+name: Cross-group tangible monitoring
+payloads:
+- ssti_payload_1_president
+- ssti_payload_2_so
+- ssti_payload_3_station
+- ssti_payload_4_animal
+- ssti_payload_5_argue
+severity: low
+type: ssti

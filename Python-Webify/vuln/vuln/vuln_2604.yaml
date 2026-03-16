@@ -1,0 +1,9 @@
+name: Monitored optimizing open architecture
+payloads:
+- rfi_payload_1_apply
+- rfi_payload_2_whatever
+- rfi_payload_3_key
+- rfi_payload_4_center
+- rfi_payload_5_each
+severity: high
+type: rfi

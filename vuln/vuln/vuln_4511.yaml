@@ -1,0 +1,9 @@
+name: Re-contextualized client-server analyzer
+payloads:
+- xxe_payload_1_increase
+- xxe_payload_2_shoulder
+- xxe_payload_3_pick
+- xxe_payload_4_station
+- xxe_payload_5_maintain
+severity: low
+type: xxe

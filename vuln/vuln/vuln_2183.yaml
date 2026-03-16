@@ -1,0 +1,9 @@
+name: Adaptive interactive pricing structure
+payloads:
+- command-injection_payload_1_protect
+- command-injection_payload_2_available
+- command-injection_payload_3_big
+- command-injection_payload_4_a
+- command-injection_payload_5_people
+severity: critical
+type: command-injection

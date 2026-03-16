@@ -1,0 +1,9 @@
+name: Cross-group solution-oriented monitoring
+payloads:
+- javascript-injection_payload_1_job
+- javascript-injection_payload_2_answer
+- javascript-injection_payload_3_public
+- javascript-injection_payload_4_career
+- javascript-injection_payload_5_issue
+severity: high
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Reverse-engineered secondary data-warehouse
+payloads:
+- tabnabbing_payload_1_community
+- tabnabbing_payload_2_great
+- tabnabbing_payload_3_member
+- tabnabbing_payload_4_enough
+- tabnabbing_payload_5_follow
+severity: medium
+type: tabnabbing

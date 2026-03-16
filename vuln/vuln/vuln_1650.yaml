@@ -1,0 +1,9 @@
+name: Compatible solution-oriented parallelism
+payloads:
+- frame-injection_payload_1_recognize
+- frame-injection_payload_2_issue
+- frame-injection_payload_3_lot
+- frame-injection_payload_4_girl
+- frame-injection_payload_5_few
+severity: medium
+type: frame-injection

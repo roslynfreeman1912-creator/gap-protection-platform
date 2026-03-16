@@ -1,0 +1,9 @@
+name: Integrated national matrix
+payloads:
+- xxe_payload_1_stage
+- xxe_payload_2_than
+- xxe_payload_3_defense
+- xxe_payload_4_off
+- xxe_payload_5_true
+severity: critical
+type: xxe

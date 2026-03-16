@@ -1,0 +1,9 @@
+name: Up-sized impactful firmware
+payloads:
+- clickjacking_payload_1_career
+- clickjacking_payload_2_others
+- clickjacking_payload_3_edge
+- clickjacking_payload_4_man
+- clickjacking_payload_5_new
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Profit-focused 3rdgeneration function
+payloads:
+- hsts-misconfig_payload_1_term
+- hsts-misconfig_payload_2_those
+- hsts-misconfig_payload_3_model
+- hsts-misconfig_payload_4_along
+- hsts-misconfig_payload_5_second
+severity: medium
+type: hsts-misconfig

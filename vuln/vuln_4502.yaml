@@ -1,0 +1,9 @@
+name: Switchable cohesive analyzer
+payloads:
+- xss_payload_1_best
+- xss_payload_2_need
+- xss_payload_3_growth
+- xss_payload_4_specific
+- xss_payload_5_concern
+severity: high
+type: xss

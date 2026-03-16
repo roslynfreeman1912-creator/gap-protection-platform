@@ -1,0 +1,9 @@
+name: Re-contextualized methodical ability
+payloads:
+- host-header-injection_payload_1_central
+- host-header-injection_payload_2_necessary
+- host-header-injection_payload_3_including
+- host-header-injection_payload_4_end
+- host-header-injection_payload_5_each
+severity: medium
+type: host-header-injection

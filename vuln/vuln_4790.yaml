@@ -1,0 +1,9 @@
+name: Triple-buffered high-level adapter
+payloads:
+- jsonp-injection_payload_1_blue
+- jsonp-injection_payload_2_president
+- jsonp-injection_payload_3_institution
+- jsonp-injection_payload_4_add
+- jsonp-injection_payload_5_pretty
+severity: high
+type: jsonp-injection

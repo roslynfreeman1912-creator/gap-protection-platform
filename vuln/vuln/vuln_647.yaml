@@ -1,0 +1,9 @@
+name: Face-to-face exuding time-frame
+payloads:
+- tabnabbing_payload_1_pull
+- tabnabbing_payload_2_hospital
+- tabnabbing_payload_3_example
+- tabnabbing_payload_4_garden
+- tabnabbing_payload_5_everyone
+severity: medium
+type: tabnabbing

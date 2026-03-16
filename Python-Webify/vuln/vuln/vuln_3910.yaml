@@ -1,0 +1,9 @@
+name: Down-sized empowering encoding
+payloads:
+- open-redirect_payload_1_knowledge
+- open-redirect_payload_2_professional
+- open-redirect_payload_3_discuss
+- open-redirect_payload_4_example
+- open-redirect_payload_5_recognize
+severity: high
+type: open-redirect

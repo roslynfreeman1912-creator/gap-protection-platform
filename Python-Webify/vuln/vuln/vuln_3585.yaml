@@ -1,0 +1,9 @@
+name: Distributed web-enabled knowledgebase
+payloads:
+- open-redirect_payload_1_condition
+- open-redirect_payload_2_day
+- open-redirect_payload_3_true
+- open-redirect_payload_4_edge
+- open-redirect_payload_5_lawyer
+severity: medium
+type: open-redirect

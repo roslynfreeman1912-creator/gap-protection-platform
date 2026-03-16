@@ -1,0 +1,9 @@
+name: Total mission-critical customer loyalty
+payloads:
+- sql_payload_1_effect
+- sql_payload_2_above
+- sql_payload_3_center
+- sql_payload_4_person
+- sql_payload_5_forget
+severity: high
+type: sql

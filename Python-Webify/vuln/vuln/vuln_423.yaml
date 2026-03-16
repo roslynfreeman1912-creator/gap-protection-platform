@@ -1,0 +1,9 @@
+name: Assimilated bottom-line archive
+payloads:
+- hsts-misconfig_payload_1_across
+- hsts-misconfig_payload_2_president
+- hsts-misconfig_payload_3_concern
+- hsts-misconfig_payload_4_example
+- hsts-misconfig_payload_5_this
+severity: high
+type: hsts-misconfig

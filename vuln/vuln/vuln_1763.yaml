@@ -1,0 +1,9 @@
+name: Advanced maximized access
+payloads:
+- nosql-injection_payload_1_speak
+- nosql-injection_payload_2_cultural
+- nosql-injection_payload_3_director
+- nosql-injection_payload_4_medical
+- nosql-injection_payload_5_positive
+severity: low
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Horizontal transitional software
+payloads:
+- hsts-misconfig_payload_1_smile
+- hsts-misconfig_payload_2_near
+- hsts-misconfig_payload_3_less
+- hsts-misconfig_payload_4_operation
+- hsts-misconfig_payload_5_they
+severity: critical
+type: hsts-misconfig

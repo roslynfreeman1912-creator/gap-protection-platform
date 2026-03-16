@@ -1,0 +1,9 @@
+name: Virtual non-volatile instruction set
+payloads:
+- frame-injection_payload_1_east
+- frame-injection_payload_2_begin
+- frame-injection_payload_3_Mr
+- frame-injection_payload_4_really
+- frame-injection_payload_5_free
+severity: medium
+type: frame-injection

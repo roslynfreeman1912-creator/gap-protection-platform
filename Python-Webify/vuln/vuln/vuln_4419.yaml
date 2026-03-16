@@ -1,0 +1,9 @@
+name: Organic client-driven capacity
+payloads:
+- javascript-injection_payload_1_century
+- javascript-injection_payload_2_base
+- javascript-injection_payload_3_data
+- javascript-injection_payload_4_usually
+- javascript-injection_payload_5_resource
+severity: low
+type: javascript-injection

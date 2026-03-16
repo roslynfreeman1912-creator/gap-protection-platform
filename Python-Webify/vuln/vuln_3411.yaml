@@ -1,0 +1,9 @@
+name: Cross-platform responsive neural-net
+payloads:
+- xxe_payload_1_thank
+- xxe_payload_2_foot
+- xxe_payload_3_candidate
+- xxe_payload_4_long
+- xxe_payload_5_participant
+severity: low
+type: xxe

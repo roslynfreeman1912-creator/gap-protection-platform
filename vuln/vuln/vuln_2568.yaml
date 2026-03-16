@@ -1,0 +1,9 @@
+name: Fundamental bandwidth-monitored model
+payloads:
+- subdomain-takeover_payload_1_live
+- subdomain-takeover_payload_2_amount
+- subdomain-takeover_payload_3_task
+- subdomain-takeover_payload_4_news
+- subdomain-takeover_payload_5_young
+severity: critical
+type: subdomain-takeover

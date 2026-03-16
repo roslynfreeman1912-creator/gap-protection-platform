@@ -1,0 +1,9 @@
+name: Team-oriented logistical challenge
+payloads:
+- path-traversal_payload_1_newspaper
+- path-traversal_payload_2_deal
+- path-traversal_payload_3_generation
+- path-traversal_payload_4_yard
+- path-traversal_payload_5_protect
+severity: low
+type: path-traversal

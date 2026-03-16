@@ -1,0 +1,9 @@
+name: Quality-focused executive policy
+payloads:
+- javascript-injection_payload_1_down
+- javascript-injection_payload_2_himself
+- javascript-injection_payload_3_suffer
+- javascript-injection_payload_4_take
+- javascript-injection_payload_5_up
+severity: medium
+type: javascript-injection

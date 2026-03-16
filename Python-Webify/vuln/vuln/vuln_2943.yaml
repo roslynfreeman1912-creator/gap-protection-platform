@@ -1,0 +1,9 @@
+name: Mandatory scalable software
+payloads:
+- subdomain-takeover_payload_1_fight
+- subdomain-takeover_payload_2_drop
+- subdomain-takeover_payload_3_forget
+- subdomain-takeover_payload_4_occur
+- subdomain-takeover_payload_5_gas
+severity: medium
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Cross-group 24/7 superstructure
+payloads:
+- path-traversal_payload_1_half
+- path-traversal_payload_2_yard
+- path-traversal_payload_3_statement
+- path-traversal_payload_4_area
+- path-traversal_payload_5_market
+severity: medium
+type: path-traversal

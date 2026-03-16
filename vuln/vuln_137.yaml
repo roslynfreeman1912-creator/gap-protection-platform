@@ -1,0 +1,9 @@
+name: Open-source encompassing installation
+payloads:
+- ldap-injection_payload_1_discussion
+- ldap-injection_payload_2_miss
+- ldap-injection_payload_3_because
+- ldap-injection_payload_4_some
+- ldap-injection_payload_5_store
+severity: low
+type: ldap-injection

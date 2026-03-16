@@ -1,0 +1,9 @@
+name: Balanced mission-critical knowledgebase
+payloads:
+- jsonp-injection_payload_1_front
+- jsonp-injection_payload_2_leave
+- jsonp-injection_payload_3_responsibility
+- jsonp-injection_payload_4_physical
+- jsonp-injection_payload_5_wide
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Diverse coherent pricing structure
+payloads:
+- hsts-misconfig_payload_1_near
+- hsts-misconfig_payload_2_cup
+- hsts-misconfig_payload_3_past
+- hsts-misconfig_payload_4_run
+- hsts-misconfig_payload_5_material
+severity: high
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Enterprise-wide impactful help-desk
+payloads:
+- subdomain-takeover_payload_1_program
+- subdomain-takeover_payload_2_mind
+- subdomain-takeover_payload_3_wind
+- subdomain-takeover_payload_4_turn
+- subdomain-takeover_payload_5_although
+severity: low
+type: subdomain-takeover

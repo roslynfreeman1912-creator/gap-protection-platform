@@ -1,0 +1,9 @@
+name: Polarized bottom-line benchmark
+payloads:
+- nosql-injection_payload_1_support
+- nosql-injection_payload_2_field
+- nosql-injection_payload_3_think
+- nosql-injection_payload_4_pass
+- nosql-injection_payload_5_claim
+severity: high
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Robust asymmetric task-force
+payloads:
+- crlf-injection_payload_1_take
+- crlf-injection_payload_2_sort
+- crlf-injection_payload_3_unit
+- crlf-injection_payload_4_number
+- crlf-injection_payload_5_central
+severity: medium
+type: crlf-injection

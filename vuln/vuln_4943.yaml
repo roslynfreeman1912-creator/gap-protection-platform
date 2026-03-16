@@ -1,0 +1,9 @@
+name: Innovative scalable hierarchy
+payloads:
+- subdomain-takeover_payload_1_mission
+- subdomain-takeover_payload_2_third
+- subdomain-takeover_payload_3_much
+- subdomain-takeover_payload_4_walk
+- subdomain-takeover_payload_5_western
+severity: medium
+type: subdomain-takeover

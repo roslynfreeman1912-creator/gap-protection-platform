@@ -1,0 +1,9 @@
+name: Profit-focused optimal challenge
+payloads:
+- subdomain-takeover_payload_1_executive
+- subdomain-takeover_payload_2_identify
+- subdomain-takeover_payload_3_fill
+- subdomain-takeover_payload_4_green
+- subdomain-takeover_payload_5_student
+severity: high
+type: subdomain-takeover

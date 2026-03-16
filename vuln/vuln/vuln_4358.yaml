@@ -1,0 +1,9 @@
+name: Profound homogeneous Internet solution
+payloads:
+- command-injection_payload_1_difference
+- command-injection_payload_2_prepare
+- command-injection_payload_3_during
+- command-injection_payload_4_walk
+- command-injection_payload_5_long
+severity: high
+type: command-injection

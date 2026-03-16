@@ -1,0 +1,9 @@
+name: Total high-level knowledgebase
+payloads:
+- subdomain-takeover_payload_1_discuss
+- subdomain-takeover_payload_2_resource
+- subdomain-takeover_payload_3_site
+- subdomain-takeover_payload_4_job
+- subdomain-takeover_payload_5_wear
+severity: critical
+type: subdomain-takeover

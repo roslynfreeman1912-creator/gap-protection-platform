@@ -1,0 +1,9 @@
+name: Ameliorated actuating framework
+payloads:
+- csp-bypass_payload_1_again
+- csp-bypass_payload_2_range
+- csp-bypass_payload_3_appear
+- csp-bypass_payload_4_decision
+- csp-bypass_payload_5_occur
+severity: critical
+type: csp-bypass

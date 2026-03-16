@@ -1,0 +1,9 @@
+name: Digitized zero administration paradigm
+payloads:
+- file-upload_payload_1_above
+- file-upload_payload_2_seat
+- file-upload_payload_3_heart
+- file-upload_payload_4_deep
+- file-upload_payload_5_market
+severity: low
+type: file-upload

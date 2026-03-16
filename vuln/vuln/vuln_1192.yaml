@@ -1,0 +1,9 @@
+name: Grass-roots stable concept
+payloads:
+- host-header-injection_payload_1_thousand
+- host-header-injection_payload_2_leader
+- host-header-injection_payload_3_late
+- host-header-injection_payload_4_behavior
+- host-header-injection_payload_5_through
+severity: low
+type: host-header-injection

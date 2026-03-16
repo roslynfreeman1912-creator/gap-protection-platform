@@ -1,0 +1,9 @@
+name: Streamlined responsive migration
+payloads:
+- ldap-injection_payload_1_someone
+- ldap-injection_payload_2_possible
+- ldap-injection_payload_3_government
+- ldap-injection_payload_4_possible
+- ldap-injection_payload_5_be
+severity: low
+type: ldap-injection

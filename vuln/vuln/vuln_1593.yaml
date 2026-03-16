@@ -1,0 +1,9 @@
+name: De-engineered scalable strategy
+payloads:
+- subdomain-takeover_payload_1_represent
+- subdomain-takeover_payload_2_conference
+- subdomain-takeover_payload_3_person
+- subdomain-takeover_payload_4_mind
+- subdomain-takeover_payload_5_soldier
+severity: high
+type: subdomain-takeover

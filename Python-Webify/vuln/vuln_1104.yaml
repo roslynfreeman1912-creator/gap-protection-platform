@@ -1,0 +1,9 @@
+name: Automated asynchronous attitude
+payloads:
+- rfi_payload_1_but
+- rfi_payload_2_no
+- rfi_payload_3_goal
+- rfi_payload_4_sea
+- rfi_payload_5_treatment
+severity: low
+type: rfi

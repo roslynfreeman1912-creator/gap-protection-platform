@@ -1,0 +1,9 @@
+name: Reactive system-worthy installation
+payloads:
+- clickjacking_payload_1_most
+- clickjacking_payload_2_fine
+- clickjacking_payload_3_quickly
+- clickjacking_payload_4_executive
+- clickjacking_payload_5_view
+severity: medium
+type: clickjacking

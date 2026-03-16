@@ -1,0 +1,9 @@
+name: Cloned non-volatile help-desk
+payloads:
+- ssti_payload_1_star
+- ssti_payload_2_similar
+- ssti_payload_3_suddenly
+- ssti_payload_4_close
+- ssti_payload_5_store
+severity: high
+type: ssti

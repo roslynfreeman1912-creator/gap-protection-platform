@@ -1,0 +1,9 @@
+name: Devolved static strategy
+payloads:
+- host-header-injection_payload_1_forget
+- host-header-injection_payload_2_maintain
+- host-header-injection_payload_3_truth
+- host-header-injection_payload_4_center
+- host-header-injection_payload_5_or
+severity: critical
+type: host-header-injection

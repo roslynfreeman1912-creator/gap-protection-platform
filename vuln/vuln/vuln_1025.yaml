@@ -1,0 +1,9 @@
+name: Total optimal secured line
+payloads:
+- frame-injection_payload_1_fire
+- frame-injection_payload_2_PM
+- frame-injection_payload_3_second
+- frame-injection_payload_4_allow
+- frame-injection_payload_5_part
+severity: high
+type: frame-injection

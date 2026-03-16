@@ -1,0 +1,9 @@
+name: Enhanced bi-directional contingency
+payloads:
+- command-injection_payload_1_call
+- command-injection_payload_2_once
+- command-injection_payload_3_century
+- command-injection_payload_4_wait
+- command-injection_payload_5_great
+severity: medium
+type: command-injection

@@ -1,0 +1,9 @@
+name: Cross-platform incremental database
+payloads:
+- javascript-injection_payload_1_approach
+- javascript-injection_payload_2_central
+- javascript-injection_payload_3_finish
+- javascript-injection_payload_4_today
+- javascript-injection_payload_5_similar
+severity: critical
+type: javascript-injection

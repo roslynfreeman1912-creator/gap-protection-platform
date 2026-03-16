@@ -1,0 +1,9 @@
+name: Optional executive standardization
+payloads:
+- subdomain-takeover_payload_1_return
+- subdomain-takeover_payload_2_billion
+- subdomain-takeover_payload_3_wait
+- subdomain-takeover_payload_4_ground
+- subdomain-takeover_payload_5_floor
+severity: critical
+type: subdomain-takeover

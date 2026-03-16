@@ -1,0 +1,9 @@
+name: Devolved bottom-line paradigm
+payloads:
+- jsonp-injection_payload_1_strong
+- jsonp-injection_payload_2_close
+- jsonp-injection_payload_3_event
+- jsonp-injection_payload_4_fall
+- jsonp-injection_payload_5_care
+severity: low
+type: jsonp-injection

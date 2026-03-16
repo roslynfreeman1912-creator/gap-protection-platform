@@ -1,0 +1,9 @@
+name: Integrated executive hierarchy
+payloads:
+- open-redirect_payload_1_do
+- open-redirect_payload_2_artist
+- open-redirect_payload_3_suggest
+- open-redirect_payload_4_bag
+- open-redirect_payload_5_represent
+severity: medium
+type: open-redirect

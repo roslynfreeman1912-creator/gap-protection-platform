@@ -1,0 +1,9 @@
+name: Customizable bi-directional encoding
+payloads:
+- jsonp-injection_payload_1_dog
+- jsonp-injection_payload_2_look
+- jsonp-injection_payload_3_car
+- jsonp-injection_payload_4_section
+- jsonp-injection_payload_5_keep
+severity: high
+type: jsonp-injection

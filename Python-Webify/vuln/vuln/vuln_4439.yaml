@@ -1,0 +1,9 @@
+name: Total context-sensitive intranet
+payloads:
+- clickjacking_payload_1_event
+- clickjacking_payload_2_visit
+- clickjacking_payload_3_agent
+- clickjacking_payload_4_raise
+- clickjacking_payload_5_crime
+severity: medium
+type: clickjacking

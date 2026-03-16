@@ -1,0 +1,9 @@
+name: Configurable interactive extranet
+payloads:
+- csp-bypass_payload_1_data
+- csp-bypass_payload_2_here
+- csp-bypass_payload_3_quite
+- csp-bypass_payload_4_early
+- csp-bypass_payload_5_around
+severity: critical
+type: csp-bypass

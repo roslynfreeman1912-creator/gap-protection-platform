@@ -1,0 +1,9 @@
+name: Versatile maximized circuit
+payloads:
+- csp-bypass_payload_1_require
+- csp-bypass_payload_2_of
+- csp-bypass_payload_3_class
+- csp-bypass_payload_4_mind
+- csp-bypass_payload_5_marriage
+severity: critical
+type: csp-bypass

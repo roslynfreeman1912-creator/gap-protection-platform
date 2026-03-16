@@ -1,0 +1,9 @@
+name: Multi-tiered neutral productivity
+payloads:
+- sql_payload_1_certain
+- sql_payload_2_during
+- sql_payload_3_travel
+- sql_payload_4_whom
+- sql_payload_5_language
+severity: critical
+type: sql

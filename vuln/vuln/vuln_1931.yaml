@@ -1,0 +1,9 @@
+name: Visionary systematic encryption
+payloads:
+- csrf_payload_1_power
+- csrf_payload_2_country
+- csrf_payload_3_gas
+- csrf_payload_4_trip
+- csrf_payload_5_scientist
+severity: high
+type: csrf

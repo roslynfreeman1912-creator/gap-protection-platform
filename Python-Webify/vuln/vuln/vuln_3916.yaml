@@ -1,0 +1,9 @@
+name: Programmable regional matrices
+payloads:
+- crlf-injection_payload_1_fish
+- crlf-injection_payload_2_pay
+- crlf-injection_payload_3_meeting
+- crlf-injection_payload_4_financial
+- crlf-injection_payload_5_bill
+severity: critical
+type: crlf-injection

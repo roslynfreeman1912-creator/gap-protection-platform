@@ -1,0 +1,9 @@
+name: Triple-buffered heuristic parallelism
+payloads:
+- xxe_payload_1_really
+- xxe_payload_2_would
+- xxe_payload_3_throughout
+- xxe_payload_4_these
+- xxe_payload_5_buy
+severity: low
+type: xxe

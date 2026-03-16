@@ -1,0 +1,9 @@
+name: Down-sized systematic open architecture
+payloads:
+- file-upload_payload_1_history
+- file-upload_payload_2_just
+- file-upload_payload_3_social
+- file-upload_payload_4_already
+- file-upload_payload_5_land
+severity: low
+type: file-upload

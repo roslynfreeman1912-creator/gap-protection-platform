@@ -1,0 +1,9 @@
+name: Customizable eco-centric attitude
+payloads:
+- xxe_payload_1_need
+- xxe_payload_2_quality
+- xxe_payload_3_difference
+- xxe_payload_4_low
+- xxe_payload_5_letter
+severity: high
+type: xxe

@@ -1,0 +1,9 @@
+name: Business-focused encompassing challenge
+payloads:
+- csp-bypass_payload_1_age
+- csp-bypass_payload_2_animal
+- csp-bypass_payload_3_husband
+- csp-bypass_payload_4_political
+- csp-bypass_payload_5_government
+severity: high
+type: csp-bypass

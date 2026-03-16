@@ -1,0 +1,9 @@
+name: Implemented incremental hub
+payloads:
+- open-redirect_payload_1_us
+- open-redirect_payload_2_network
+- open-redirect_payload_3_general
+- open-redirect_payload_4_accept
+- open-redirect_payload_5_sort
+severity: high
+type: open-redirect

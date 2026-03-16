@@ -1,0 +1,9 @@
+name: Proactive user-facing flexibility
+payloads:
+- sql_payload_1_local
+- sql_payload_2_television
+- sql_payload_3_firm
+- sql_payload_4_plant
+- sql_payload_5_author
+severity: medium
+type: sql

@@ -1,0 +1,9 @@
+name: Persistent incremental info-mediaries
+payloads:
+- csp-bypass_payload_1_movement
+- csp-bypass_payload_2_our
+- csp-bypass_payload_3_young
+- csp-bypass_payload_4_such
+- csp-bypass_payload_5_memory
+severity: critical
+type: csp-bypass

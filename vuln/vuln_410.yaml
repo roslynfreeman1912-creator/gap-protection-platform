@@ -1,0 +1,9 @@
+name: Open-architected composite Graphic Interface
+payloads:
+- open-redirect_payload_1_certain
+- open-redirect_payload_2_including
+- open-redirect_payload_3_thousand
+- open-redirect_payload_4_dark
+- open-redirect_payload_5_mission
+severity: low
+type: open-redirect

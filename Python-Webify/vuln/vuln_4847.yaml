@@ -1,0 +1,9 @@
+name: Persistent optimizing core
+payloads:
+- tabnabbing_payload_1_speak
+- tabnabbing_payload_2_call
+- tabnabbing_payload_3_point
+- tabnabbing_payload_4_continue
+- tabnabbing_payload_5_remember
+severity: high
+type: tabnabbing

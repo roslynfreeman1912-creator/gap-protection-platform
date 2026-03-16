@@ -1,0 +1,9 @@
+name: Quality-focused even-keeled conglomeration
+payloads:
+- file-upload_payload_1_half
+- file-upload_payload_2_discussion
+- file-upload_payload_3_fight
+- file-upload_payload_4_already
+- file-upload_payload_5_music
+severity: critical
+type: file-upload

@@ -1,0 +1,9 @@
+name: Multi-lateral asynchronous matrix
+payloads:
+- hsts-misconfig_payload_1_cost
+- hsts-misconfig_payload_2_guy
+- hsts-misconfig_payload_3_open
+- hsts-misconfig_payload_4_environment
+- hsts-misconfig_payload_5_scientist
+severity: high
+type: hsts-misconfig

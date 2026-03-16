@@ -1,0 +1,9 @@
+name: Balanced demand-driven installation
+payloads:
+- jsonp-injection_payload_1_base
+- jsonp-injection_payload_2_energy
+- jsonp-injection_payload_3_perform
+- jsonp-injection_payload_4_family
+- jsonp-injection_payload_5_right
+severity: critical
+type: jsonp-injection

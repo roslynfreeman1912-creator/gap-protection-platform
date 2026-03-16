@@ -1,0 +1,9 @@
+name: Horizontal eco-centric hardware
+payloads:
+- csrf_payload_1_about
+- csrf_payload_2_perhaps
+- csrf_payload_3_doctor
+- csrf_payload_4_party
+- csrf_payload_5_brother
+severity: critical
+type: csrf

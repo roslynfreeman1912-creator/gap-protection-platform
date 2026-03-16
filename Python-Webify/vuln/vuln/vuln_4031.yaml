@@ -1,0 +1,9 @@
+name: Operative mobile system engine
+payloads:
+- csrf_payload_1_other
+- csrf_payload_2_one
+- csrf_payload_3_partner
+- csrf_payload_4_forget
+- csrf_payload_5_action
+severity: low
+type: csrf

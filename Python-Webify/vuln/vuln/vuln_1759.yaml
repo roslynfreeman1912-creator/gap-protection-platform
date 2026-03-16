@@ -1,0 +1,9 @@
+name: Universal fault-tolerant capability
+payloads:
+- path-traversal_payload_1_front
+- path-traversal_payload_2_bring
+- path-traversal_payload_3_skill
+- path-traversal_payload_4_trial
+- path-traversal_payload_5_water
+severity: medium
+type: path-traversal

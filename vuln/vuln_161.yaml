@@ -1,0 +1,9 @@
+name: Adaptive leadingedge productivity
+payloads:
+- xxe_payload_1_history
+- xxe_payload_2_myself
+- xxe_payload_3_phone
+- xxe_payload_4_yard
+- xxe_payload_5_everyone
+severity: high
+type: xxe

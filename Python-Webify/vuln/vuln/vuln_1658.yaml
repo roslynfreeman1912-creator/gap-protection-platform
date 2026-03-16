@@ -1,0 +1,9 @@
+name: Decentralized hybrid knowledgebase
+payloads:
+- command-injection_payload_1_option
+- command-injection_payload_2_notice
+- command-injection_payload_3_election
+- command-injection_payload_4_hot
+- command-injection_payload_5_generation
+severity: low
+type: command-injection

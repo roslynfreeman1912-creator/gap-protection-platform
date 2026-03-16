@@ -1,0 +1,9 @@
+name: Quality-focused full-range archive
+payloads:
+- sql_payload_1_institution
+- sql_payload_2_that
+- sql_payload_3_activity
+- sql_payload_4_environmental
+- sql_payload_5_rule
+severity: low
+type: sql

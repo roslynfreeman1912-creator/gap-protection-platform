@@ -1,0 +1,9 @@
+name: Switchable 24/7 capability
+payloads:
+- lfi_payload_1_of
+- lfi_payload_2_of
+- lfi_payload_3_watch
+- lfi_payload_4_family
+- lfi_payload_5_big
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Phased human-resource core
+payloads:
+- tabnabbing_payload_1_short
+- tabnabbing_payload_2_hotel
+- tabnabbing_payload_3_energy
+- tabnabbing_payload_4_political
+- tabnabbing_payload_5_this
+severity: high
+type: tabnabbing

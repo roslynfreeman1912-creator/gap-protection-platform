@@ -1,0 +1,9 @@
+name: Compatible responsive neural-net
+payloads:
+- file-upload_payload_1_own
+- file-upload_payload_2_ten
+- file-upload_payload_3_charge
+- file-upload_payload_4_yes
+- file-upload_payload_5_president
+severity: high
+type: file-upload

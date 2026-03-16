@@ -1,0 +1,9 @@
+name: Right-sized heuristic approach
+payloads:
+- javascript-injection_payload_1_often
+- javascript-injection_payload_2_report
+- javascript-injection_payload_3_sense
+- javascript-injection_payload_4_hospital
+- javascript-injection_payload_5_job
+severity: high
+type: javascript-injection

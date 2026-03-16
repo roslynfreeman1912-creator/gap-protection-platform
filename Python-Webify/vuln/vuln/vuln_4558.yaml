@@ -1,0 +1,9 @@
+name: Centralized global success
+payloads:
+- command-injection_payload_1_ahead
+- command-injection_payload_2_result
+- command-injection_payload_3_money
+- command-injection_payload_4_line
+- command-injection_payload_5_low
+severity: critical
+type: command-injection

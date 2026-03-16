@@ -1,0 +1,9 @@
+name: Innovative 24/7 algorithm
+payloads:
+- command-injection_payload_1_change
+- command-injection_payload_2_improve
+- command-injection_payload_3_we
+- command-injection_payload_4_mother
+- command-injection_payload_5_whether
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Distributed next generation Graphic Interface
+payloads:
+- jsonp-injection_payload_1_real
+- jsonp-injection_payload_2_receive
+- jsonp-injection_payload_3_forget
+- jsonp-injection_payload_4_especially
+- jsonp-injection_payload_5_affect
+severity: medium
+type: jsonp-injection

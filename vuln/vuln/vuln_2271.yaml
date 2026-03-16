@@ -1,0 +1,9 @@
+name: Secured cohesive moratorium
+payloads:
+- mime-sniffing_payload_1_everything
+- mime-sniffing_payload_2_notice
+- mime-sniffing_payload_3_run
+- mime-sniffing_payload_4_others
+- mime-sniffing_payload_5_local
+severity: low
+type: mime-sniffing

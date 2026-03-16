@@ -1,0 +1,9 @@
+name: Profound clear-thinking info-mediaries
+payloads:
+- xss_payload_1_activity
+- xss_payload_2_major
+- xss_payload_3_strategy
+- xss_payload_4_child
+- xss_payload_5_speak
+severity: critical
+type: xss

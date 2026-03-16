@@ -1,0 +1,9 @@
+name: Phased 24hour system engine
+payloads:
+- host-header-injection_payload_1_college
+- host-header-injection_payload_2_person
+- host-header-injection_payload_3_day
+- host-header-injection_payload_4_rule
+- host-header-injection_payload_5_then
+severity: low
+type: host-header-injection

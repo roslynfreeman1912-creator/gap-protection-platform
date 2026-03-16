@@ -1,0 +1,9 @@
+name: Function-based mobile projection
+payloads:
+- nosql-injection_payload_1_it
+- nosql-injection_payload_2_kitchen
+- nosql-injection_payload_3_government
+- nosql-injection_payload_4_camera
+- nosql-injection_payload_5_education
+severity: high
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Multi-layered explicit artificial intelligence
+payloads:
+- command-injection_payload_1_business
+- command-injection_payload_2_position
+- command-injection_payload_3_adult
+- command-injection_payload_4_perform
+- command-injection_payload_5_participant
+severity: critical
+type: command-injection

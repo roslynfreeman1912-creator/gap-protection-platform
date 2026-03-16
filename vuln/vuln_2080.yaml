@@ -1,0 +1,9 @@
+name: De-engineered 4thgeneration superstructure
+payloads:
+- ssrf_payload_1_little
+- ssrf_payload_2_simply
+- ssrf_payload_3_throughout
+- ssrf_payload_4_analysis
+- ssrf_payload_5_debate
+severity: high
+type: ssrf

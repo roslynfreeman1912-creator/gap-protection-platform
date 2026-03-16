@@ -1,0 +1,9 @@
+name: Right-sized demand-driven initiative
+payloads:
+- mime-sniffing_payload_1_risk
+- mime-sniffing_payload_2_what
+- mime-sniffing_payload_3_even
+- mime-sniffing_payload_4_significant
+- mime-sniffing_payload_5_PM
+severity: low
+type: mime-sniffing

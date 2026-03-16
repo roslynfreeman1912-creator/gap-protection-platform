@@ -1,0 +1,9 @@
+name: Reduced homogeneous task-force
+payloads:
+- open-redirect_payload_1_in
+- open-redirect_payload_2_daughter
+- open-redirect_payload_3_effort
+- open-redirect_payload_4_guess
+- open-redirect_payload_5_right
+severity: low
+type: open-redirect

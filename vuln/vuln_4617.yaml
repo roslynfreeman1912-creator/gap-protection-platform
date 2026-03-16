@@ -1,0 +1,9 @@
+name: Operative client-server complexity
+payloads:
+- host-header-injection_payload_1_long
+- host-header-injection_payload_2_to
+- host-header-injection_payload_3_high
+- host-header-injection_payload_4_head
+- host-header-injection_payload_5_enter
+severity: medium
+type: host-header-injection

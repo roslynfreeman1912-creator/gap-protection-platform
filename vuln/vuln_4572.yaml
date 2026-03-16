@@ -1,0 +1,9 @@
+name: Versatile actuating forecast
+payloads:
+- tabnabbing_payload_1_down
+- tabnabbing_payload_2_city
+- tabnabbing_payload_3_feeling
+- tabnabbing_payload_4_loss
+- tabnabbing_payload_5_how
+severity: low
+type: tabnabbing

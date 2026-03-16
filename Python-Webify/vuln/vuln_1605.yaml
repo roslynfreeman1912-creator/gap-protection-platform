@@ -1,0 +1,9 @@
+name: Optional composite strategy
+payloads:
+- ssrf_payload_1_subject
+- ssrf_payload_2_fall
+- ssrf_payload_3_like
+- ssrf_payload_4_save
+- ssrf_payload_5_idea
+severity: high
+type: ssrf

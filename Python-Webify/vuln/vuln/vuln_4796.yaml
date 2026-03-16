@@ -1,0 +1,9 @@
+name: Stand-alone directional middleware
+payloads:
+- mime-sniffing_payload_1_year
+- mime-sniffing_payload_2_very
+- mime-sniffing_payload_3_region
+- mime-sniffing_payload_4_concern
+- mime-sniffing_payload_5_animal
+severity: medium
+type: mime-sniffing

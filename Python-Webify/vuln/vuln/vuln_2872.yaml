@@ -1,0 +1,9 @@
+name: Organic local support
+payloads:
+- tabnabbing_payload_1_behind
+- tabnabbing_payload_2_hot
+- tabnabbing_payload_3_road
+- tabnabbing_payload_4_receive
+- tabnabbing_payload_5_again
+severity: low
+type: tabnabbing

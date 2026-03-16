@@ -1,0 +1,9 @@
+name: Versatile multi-state encoding
+payloads:
+- xxe_payload_1_rather
+- xxe_payload_2_company
+- xxe_payload_3_mother
+- xxe_payload_4_quite
+- xxe_payload_5_admit
+severity: low
+type: xxe

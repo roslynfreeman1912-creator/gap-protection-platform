@@ -1,0 +1,9 @@
+name: Upgradable leadingedge concept
+payloads:
+- command-injection_payload_1_power
+- command-injection_payload_2_his
+- command-injection_payload_3_meet
+- command-injection_payload_4_party
+- command-injection_payload_5_nor
+severity: critical
+type: command-injection

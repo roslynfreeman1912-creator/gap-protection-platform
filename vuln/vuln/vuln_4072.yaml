@@ -1,0 +1,9 @@
+name: Open-source exuding synergy
+payloads:
+- tabnabbing_payload_1_station
+- tabnabbing_payload_2_trade
+- tabnabbing_payload_3_year
+- tabnabbing_payload_4_option
+- tabnabbing_payload_5_force
+severity: medium
+type: tabnabbing

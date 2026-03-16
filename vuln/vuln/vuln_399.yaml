@@ -1,0 +1,9 @@
+name: Optional national paradigm
+payloads:
+- csp-bypass_payload_1_garden
+- csp-bypass_payload_2_author
+- csp-bypass_payload_3_simple
+- csp-bypass_payload_4_walk
+- csp-bypass_payload_5_mouth
+severity: high
+type: csp-bypass

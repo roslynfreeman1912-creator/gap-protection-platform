@@ -1,0 +1,9 @@
+name: Re-engineered homogeneous matrix
+payloads:
+- crlf-injection_payload_1_wish
+- crlf-injection_payload_2_body
+- crlf-injection_payload_3_television
+- crlf-injection_payload_4_particular
+- crlf-injection_payload_5_less
+severity: medium
+type: crlf-injection

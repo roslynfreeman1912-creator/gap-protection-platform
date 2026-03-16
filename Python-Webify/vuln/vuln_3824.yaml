@@ -1,0 +1,9 @@
+name: Down-sized web-enabled architecture
+payloads:
+- csp-bypass_payload_1_marriage
+- csp-bypass_payload_2_worry
+- csp-bypass_payload_3_low
+- csp-bypass_payload_4_cold
+- csp-bypass_payload_5_sell
+severity: low
+type: csp-bypass

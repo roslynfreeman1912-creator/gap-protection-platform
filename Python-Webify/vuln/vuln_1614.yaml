@@ -1,0 +1,9 @@
+name: Vision-oriented bi-directional utilization
+payloads:
+- clickjacking_payload_1_in
+- clickjacking_payload_2_return
+- clickjacking_payload_3_keep
+- clickjacking_payload_4_class
+- clickjacking_payload_5_structure
+severity: medium
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Innovative didactic service-desk
+payloads:
+- open-redirect_payload_1_difference
+- open-redirect_payload_2_explain
+- open-redirect_payload_3_not
+- open-redirect_payload_4_treat
+- open-redirect_payload_5_show
+severity: high
+type: open-redirect

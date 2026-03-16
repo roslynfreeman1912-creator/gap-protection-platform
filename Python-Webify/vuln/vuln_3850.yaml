@@ -1,0 +1,9 @@
+name: Programmable client-server matrix
+payloads:
+- frame-injection_payload_1_fear
+- frame-injection_payload_2_visit
+- frame-injection_payload_3_today
+- frame-injection_payload_4_process
+- frame-injection_payload_5_during
+severity: high
+type: frame-injection

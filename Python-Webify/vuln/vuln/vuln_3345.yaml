@@ -1,0 +1,9 @@
+name: Exclusive even-keeled attitude
+payloads:
+- file-upload_payload_1_any
+- file-upload_payload_2_fast
+- file-upload_payload_3_response
+- file-upload_payload_4_vote
+- file-upload_payload_5_rule
+severity: high
+type: file-upload

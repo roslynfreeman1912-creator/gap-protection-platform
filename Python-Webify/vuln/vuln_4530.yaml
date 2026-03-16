@@ -1,0 +1,9 @@
+name: Vision-oriented bottom-line concept
+payloads:
+- ssrf_payload_1_adult
+- ssrf_payload_2_beautiful
+- ssrf_payload_3_physical
+- ssrf_payload_4_eight
+- ssrf_payload_5_ask
+severity: high
+type: ssrf

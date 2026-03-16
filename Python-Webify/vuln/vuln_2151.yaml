@@ -1,0 +1,9 @@
+name: Cloned 3rdgeneration matrix
+payloads:
+- sql_payload_1_top
+- sql_payload_2_style
+- sql_payload_3_garden
+- sql_payload_4_arm
+- sql_payload_5_pull
+severity: high
+type: sql

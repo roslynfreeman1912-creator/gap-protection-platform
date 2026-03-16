@@ -1,0 +1,9 @@
+name: Integrated secondary complexity
+payloads:
+- clickjacking_payload_1_long
+- clickjacking_payload_2_instead
+- clickjacking_payload_3_population
+- clickjacking_payload_4_coach
+- clickjacking_payload_5_attention
+severity: high
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Re-contextualized 24hour throughput
+payloads:
+- ssrf_payload_1_attack
+- ssrf_payload_2_unit
+- ssrf_payload_3_good
+- ssrf_payload_4_until
+- ssrf_payload_5_choice
+severity: critical
+type: ssrf

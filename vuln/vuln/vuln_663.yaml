@@ -1,0 +1,9 @@
+name: Open-source hybrid website
+payloads:
+- nosql-injection_payload_1_mind
+- nosql-injection_payload_2_two
+- nosql-injection_payload_3_out
+- nosql-injection_payload_4_something
+- nosql-injection_payload_5_positive
+severity: high
+type: nosql-injection

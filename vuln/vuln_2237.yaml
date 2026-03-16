@@ -1,0 +1,9 @@
+name: Versatile next generation website
+payloads:
+- ldap-injection_payload_1_list
+- ldap-injection_payload_2_wrong
+- ldap-injection_payload_3_lawyer
+- ldap-injection_payload_4_do
+- ldap-injection_payload_5_on
+severity: medium
+type: ldap-injection

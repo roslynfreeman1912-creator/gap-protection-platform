@@ -1,0 +1,9 @@
+name: Persevering context-sensitive throughput
+payloads:
+- open-redirect_payload_1_box
+- open-redirect_payload_2_wrong
+- open-redirect_payload_3_cultural
+- open-redirect_payload_4_authority
+- open-redirect_payload_5_beat
+severity: low
+type: open-redirect

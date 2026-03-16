@@ -1,0 +1,9 @@
+name: Customer-focused system-worthy knowledge user
+payloads:
+- hsts-misconfig_payload_1_event
+- hsts-misconfig_payload_2_sort
+- hsts-misconfig_payload_3_radio
+- hsts-misconfig_payload_4_nice
+- hsts-misconfig_payload_5_trade
+severity: critical
+type: hsts-misconfig

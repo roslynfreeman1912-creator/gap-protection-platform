@@ -1,0 +1,9 @@
+name: Re-engineered next generation moratorium
+payloads:
+- crlf-injection_payload_1_officer
+- crlf-injection_payload_2_news
+- crlf-injection_payload_3_store
+- crlf-injection_payload_4_young
+- crlf-injection_payload_5_quite
+severity: medium
+type: crlf-injection

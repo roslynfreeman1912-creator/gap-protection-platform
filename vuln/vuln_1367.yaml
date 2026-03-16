@@ -1,0 +1,9 @@
+name: Exclusive radical parallelism
+payloads:
+- host-header-injection_payload_1_city
+- host-header-injection_payload_2_trip
+- host-header-injection_payload_3_shoulder
+- host-header-injection_payload_4_article
+- host-header-injection_payload_5_Mrs
+severity: medium
+type: host-header-injection

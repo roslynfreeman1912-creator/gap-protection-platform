@@ -1,0 +1,9 @@
+name: Customizable human-resource artificial intelligence
+payloads:
+- xss_payload_1_worker
+- xss_payload_2_area
+- xss_payload_3_region
+- xss_payload_4_light
+- xss_payload_5_lay
+severity: low
+type: xss

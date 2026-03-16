@@ -1,0 +1,9 @@
+name: Cloned discrete product
+payloads:
+- clickjacking_payload_1_once
+- clickjacking_payload_2_media
+- clickjacking_payload_3_floor
+- clickjacking_payload_4_bank
+- clickjacking_payload_5_physical
+severity: low
+type: clickjacking

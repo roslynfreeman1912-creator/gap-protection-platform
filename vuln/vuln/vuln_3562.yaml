@@ -1,0 +1,9 @@
+name: Multi-lateral motivating product
+payloads:
+- ldap-injection_payload_1_until
+- ldap-injection_payload_2_car
+- ldap-injection_payload_3_somebody
+- ldap-injection_payload_4_property
+- ldap-injection_payload_5_learn
+severity: high
+type: ldap-injection

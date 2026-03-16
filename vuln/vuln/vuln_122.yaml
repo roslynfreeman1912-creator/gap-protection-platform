@@ -1,0 +1,9 @@
+name: Horizontal client-server policy
+payloads:
+- tabnabbing_payload_1_near
+- tabnabbing_payload_2_safe
+- tabnabbing_payload_3_peace
+- tabnabbing_payload_4_question
+- tabnabbing_payload_5_painting
+severity: low
+type: tabnabbing

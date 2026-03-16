@@ -1,0 +1,9 @@
+name: Cross-platform impactful solution
+payloads:
+- lfi_payload_1_military
+- lfi_payload_2_other
+- lfi_payload_3_weight
+- lfi_payload_4_great
+- lfi_payload_5_money
+severity: low
+type: lfi

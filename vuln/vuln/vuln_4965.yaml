@@ -1,0 +1,9 @@
+name: Progressive systemic matrices
+payloads:
+- jsonp-injection_payload_1_beautiful
+- jsonp-injection_payload_2_charge
+- jsonp-injection_payload_3_modern
+- jsonp-injection_payload_4_structure
+- jsonp-injection_payload_5_affect
+severity: high
+type: jsonp-injection

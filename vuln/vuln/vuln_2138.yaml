@@ -1,0 +1,9 @@
+name: Fully-configurable eco-centric hierarchy
+payloads:
+- nosql-injection_payload_1_various
+- nosql-injection_payload_2_type
+- nosql-injection_payload_3_try
+- nosql-injection_payload_4_himself
+- nosql-injection_payload_5_theory
+severity: low
+type: nosql-injection

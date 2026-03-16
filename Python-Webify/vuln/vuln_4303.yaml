@@ -1,0 +1,9 @@
+name: Monitored foreground toolset
+payloads:
+- lfi_payload_1_store
+- lfi_payload_2_strategy
+- lfi_payload_3_already
+- lfi_payload_4_final
+- lfi_payload_5_ok
+severity: medium
+type: lfi

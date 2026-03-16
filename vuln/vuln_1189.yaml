@@ -1,0 +1,9 @@
+name: Function-based object-oriented service-desk
+payloads:
+- clickjacking_payload_1_onto
+- clickjacking_payload_2_glass
+- clickjacking_payload_3_end
+- clickjacking_payload_4_work
+- clickjacking_payload_5_charge
+severity: low
+type: clickjacking

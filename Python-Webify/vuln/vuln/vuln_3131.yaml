@@ -1,0 +1,9 @@
+name: Diverse exuding circuit
+payloads:
+- csrf_payload_1_real
+- csrf_payload_2_citizen
+- csrf_payload_3_race
+- csrf_payload_4_shake
+- csrf_payload_5_skin
+severity: medium
+type: csrf

@@ -1,0 +1,9 @@
+name: Cross-platform local toolset
+payloads:
+- lfi_payload_1_clear
+- lfi_payload_2_market
+- lfi_payload_3_success
+- lfi_payload_4_I
+- lfi_payload_5_dog
+severity: critical
+type: lfi

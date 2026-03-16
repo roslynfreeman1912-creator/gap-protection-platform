@@ -1,0 +1,9 @@
+name: Diverse global time-frame
+payloads:
+- xxe_payload_1_sure
+- xxe_payload_2_end
+- xxe_payload_3_often
+- xxe_payload_4_debate
+- xxe_payload_5_different
+severity: medium
+type: xxe

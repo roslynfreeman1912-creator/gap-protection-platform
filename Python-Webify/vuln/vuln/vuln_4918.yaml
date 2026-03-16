@@ -1,0 +1,9 @@
+name: Object-based upward-trending matrices
+payloads:
+- subdomain-takeover_payload_1_let
+- subdomain-takeover_payload_2_realize
+- subdomain-takeover_payload_3_cup
+- subdomain-takeover_payload_4_other
+- subdomain-takeover_payload_5_up
+severity: medium
+type: subdomain-takeover

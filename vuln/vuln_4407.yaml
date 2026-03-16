@@ -1,0 +1,9 @@
+name: Reverse-engineered cohesive approach
+payloads:
+- ssti_payload_1_draw
+- ssti_payload_2_sell
+- ssti_payload_3_later
+- ssti_payload_4_face
+- ssti_payload_5_necessary
+severity: low
+type: ssti

@@ -1,0 +1,9 @@
+name: Cross-platform local knowledge user
+payloads:
+- host-header-injection_payload_1_though
+- host-header-injection_payload_2_finish
+- host-header-injection_payload_3_task
+- host-header-injection_payload_4_kitchen
+- host-header-injection_payload_5_child
+severity: low
+type: host-header-injection

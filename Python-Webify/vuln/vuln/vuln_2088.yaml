@@ -1,0 +1,9 @@
+name: Operative web-enabled moratorium
+payloads:
+- nosql-injection_payload_1_nor
+- nosql-injection_payload_2_wonder
+- nosql-injection_payload_3_culture
+- nosql-injection_payload_4_modern
+- nosql-injection_payload_5_carry
+severity: critical
+type: nosql-injection

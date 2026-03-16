@@ -1,0 +1,9 @@
+name: Fully-configurable coherent collaboration
+payloads:
+- lfi_payload_1_though
+- lfi_payload_2_nothing
+- lfi_payload_3_whose
+- lfi_payload_4_control
+- lfi_payload_5_break
+severity: medium
+type: lfi

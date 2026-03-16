@@ -1,0 +1,9 @@
+name: Function-based national infrastructure
+payloads:
+- ssrf_payload_1_because
+- ssrf_payload_2_wide
+- ssrf_payload_3_school
+- ssrf_payload_4_front
+- ssrf_payload_5_your
+severity: medium
+type: ssrf

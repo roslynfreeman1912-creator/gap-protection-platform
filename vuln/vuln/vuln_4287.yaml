@@ -1,0 +1,9 @@
+name: Mandatory dynamic adapter
+payloads:
+- ldap-injection_payload_1_black
+- ldap-injection_payload_2_be
+- ldap-injection_payload_3_able
+- ldap-injection_payload_4_safe
+- ldap-injection_payload_5_approach
+severity: medium
+type: ldap-injection

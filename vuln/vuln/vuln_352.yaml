@@ -1,0 +1,9 @@
+name: Enhanced tangible focus group
+payloads:
+- xss_payload_1_hundred
+- xss_payload_2_base
+- xss_payload_3_size
+- xss_payload_4_young
+- xss_payload_5_then
+severity: low
+type: xss

@@ -1,0 +1,9 @@
+name: Focused attitude-oriented policy
+payloads:
+- crlf-injection_payload_1_space
+- crlf-injection_payload_2_pay
+- crlf-injection_payload_3_build
+- crlf-injection_payload_4_professional
+- crlf-injection_payload_5_eight
+severity: high
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Mandatory needs-based structure
+payloads:
+- subdomain-takeover_payload_1_near
+- subdomain-takeover_payload_2_toward
+- subdomain-takeover_payload_3_choice
+- subdomain-takeover_payload_4_toward
+- subdomain-takeover_payload_5_question
+severity: medium
+type: subdomain-takeover

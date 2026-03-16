@@ -1,0 +1,9 @@
+name: Advanced empowering moderator
+payloads:
+- file-upload_payload_1_free
+- file-upload_payload_2_decade
+- file-upload_payload_3_idea
+- file-upload_payload_4_a
+- file-upload_payload_5_model
+severity: medium
+type: file-upload

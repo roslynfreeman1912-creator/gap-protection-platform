@@ -1,0 +1,9 @@
+name: De-engineered modular archive
+payloads:
+- xxe_payload_1_society
+- xxe_payload_2_write
+- xxe_payload_3_offer
+- xxe_payload_4_must
+- xxe_payload_5_reflect
+severity: critical
+type: xxe

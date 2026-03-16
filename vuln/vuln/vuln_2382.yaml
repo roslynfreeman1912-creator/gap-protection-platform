@@ -1,0 +1,9 @@
+name: Self-enabling systemic task-force
+payloads:
+- ssti_payload_1_sister
+- ssti_payload_2_meeting
+- ssti_payload_3_head
+- ssti_payload_4_east
+- ssti_payload_5_hold
+severity: low
+type: ssti

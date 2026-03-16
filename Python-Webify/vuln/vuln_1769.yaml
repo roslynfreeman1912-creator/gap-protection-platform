@@ -1,0 +1,9 @@
+name: Expanded systematic open architecture
+payloads:
+- javascript-injection_payload_1_decade
+- javascript-injection_payload_2_responsibility
+- javascript-injection_payload_3_billion
+- javascript-injection_payload_4_indicate
+- javascript-injection_payload_5_case
+severity: critical
+type: javascript-injection

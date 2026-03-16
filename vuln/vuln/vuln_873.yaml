@@ -1,0 +1,9 @@
+name: Secured uniform task-force
+payloads:
+- hsts-misconfig_payload_1_stage
+- hsts-misconfig_payload_2_eight
+- hsts-misconfig_payload_3_actually
+- hsts-misconfig_payload_4_memory
+- hsts-misconfig_payload_5_senior
+severity: critical
+type: hsts-misconfig

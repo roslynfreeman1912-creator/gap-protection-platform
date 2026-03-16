@@ -1,0 +1,9 @@
+name: Exclusive attitude-oriented hardware
+payloads:
+- ldap-injection_payload_1_return
+- ldap-injection_payload_2_model
+- ldap-injection_payload_3_left
+- ldap-injection_payload_4_stand
+- ldap-injection_payload_5_up
+severity: medium
+type: ldap-injection

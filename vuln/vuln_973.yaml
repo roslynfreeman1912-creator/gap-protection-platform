@@ -1,0 +1,9 @@
+name: Re-engineered neutral implementation
+payloads:
+- hsts-misconfig_payload_1_personal
+- hsts-misconfig_payload_2_best
+- hsts-misconfig_payload_3_seek
+- hsts-misconfig_payload_4_claim
+- hsts-misconfig_payload_5_approach
+severity: medium
+type: hsts-misconfig

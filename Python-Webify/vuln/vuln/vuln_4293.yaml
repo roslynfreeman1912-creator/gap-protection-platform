@@ -1,0 +1,9 @@
+name: Up-sized transitional collaboration
+payloads:
+- subdomain-takeover_payload_1_physical
+- subdomain-takeover_payload_2_mother
+- subdomain-takeover_payload_3_someone
+- subdomain-takeover_payload_4_president
+- subdomain-takeover_payload_5_home
+severity: critical
+type: subdomain-takeover

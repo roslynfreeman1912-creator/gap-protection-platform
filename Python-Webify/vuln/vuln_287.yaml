@@ -1,0 +1,9 @@
+name: Focused 4thgeneration archive
+payloads:
+- ldap-injection_payload_1_smile
+- ldap-injection_payload_2_third
+- ldap-injection_payload_3_arm
+- ldap-injection_payload_4_man
+- ldap-injection_payload_5_agree
+severity: high
+type: ldap-injection

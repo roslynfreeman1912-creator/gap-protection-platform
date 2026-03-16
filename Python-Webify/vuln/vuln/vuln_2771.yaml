@@ -1,0 +1,9 @@
+name: Universal exuding complexity
+payloads:
+- mime-sniffing_payload_1_since
+- mime-sniffing_payload_2_senior
+- mime-sniffing_payload_3_trip
+- mime-sniffing_payload_4_together
+- mime-sniffing_payload_5_hour
+severity: high
+type: mime-sniffing

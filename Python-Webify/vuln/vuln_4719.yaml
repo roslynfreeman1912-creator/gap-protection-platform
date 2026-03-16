@@ -1,0 +1,9 @@
+name: Mandatory asymmetric function
+payloads:
+- javascript-injection_payload_1_beautiful
+- javascript-injection_payload_2_people
+- javascript-injection_payload_3_discover
+- javascript-injection_payload_4_appear
+- javascript-injection_payload_5_able
+severity: low
+type: javascript-injection

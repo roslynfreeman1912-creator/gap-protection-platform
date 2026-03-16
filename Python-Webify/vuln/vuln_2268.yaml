@@ -1,0 +1,9 @@
+name: Cross-platform radical support
+payloads:
+- subdomain-takeover_payload_1_bad
+- subdomain-takeover_payload_2_less
+- subdomain-takeover_payload_3_room
+- subdomain-takeover_payload_4_whose
+- subdomain-takeover_payload_5_region
+severity: medium
+type: subdomain-takeover

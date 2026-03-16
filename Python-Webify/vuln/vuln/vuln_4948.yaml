@@ -1,0 +1,9 @@
+name: Optional foreground structure
+payloads:
+- hsts-misconfig_payload_1_interview
+- hsts-misconfig_payload_2_above
+- hsts-misconfig_payload_3_position
+- hsts-misconfig_payload_4_onto
+- hsts-misconfig_payload_5_loss
+severity: high
+type: hsts-misconfig

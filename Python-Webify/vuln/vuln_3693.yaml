@@ -1,0 +1,9 @@
+name: Managed systemic budgetary management
+payloads:
+- subdomain-takeover_payload_1_usually
+- subdomain-takeover_payload_2_serve
+- subdomain-takeover_payload_3_control
+- subdomain-takeover_payload_4_space
+- subdomain-takeover_payload_5_media
+severity: low
+type: subdomain-takeover

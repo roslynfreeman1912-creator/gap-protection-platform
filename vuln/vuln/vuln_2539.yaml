@@ -1,0 +1,9 @@
+name: Reactive neutral Internet solution
+payloads:
+- clickjacking_payload_1_director
+- clickjacking_payload_2_ball
+- clickjacking_payload_3_sort
+- clickjacking_payload_4_mean
+- clickjacking_payload_5_news
+severity: low
+type: clickjacking

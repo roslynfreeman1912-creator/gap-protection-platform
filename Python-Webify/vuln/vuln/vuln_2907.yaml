@@ -1,0 +1,9 @@
+name: Synergized fresh-thinking support
+payloads:
+- ssti_payload_1_nor
+- ssti_payload_2_discuss
+- ssti_payload_3_computer
+- ssti_payload_4_move
+- ssti_payload_5_why
+severity: low
+type: ssti

@@ -1,0 +1,9 @@
+name: Cloned dedicated alliance
+payloads:
+- lfi_payload_1_five
+- lfi_payload_2_toward
+- lfi_payload_3_city
+- lfi_payload_4_outside
+- lfi_payload_5_radio
+severity: high
+type: lfi

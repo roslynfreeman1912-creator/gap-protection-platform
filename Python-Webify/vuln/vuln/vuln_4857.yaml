@@ -1,0 +1,9 @@
+name: Exclusive hybrid hierarchy
+payloads:
+- ssti_payload_1_popular
+- ssti_payload_2_on
+- ssti_payload_3_she
+- ssti_payload_4_need
+- ssti_payload_5_whom
+severity: high
+type: ssti

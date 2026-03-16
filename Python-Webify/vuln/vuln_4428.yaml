@@ -1,0 +1,9 @@
+name: Universal 24hour function
+payloads:
+- lfi_payload_1_police
+- lfi_payload_2_speech
+- lfi_payload_3_imagine
+- lfi_payload_4_truth
+- lfi_payload_5_share
+severity: critical
+type: lfi

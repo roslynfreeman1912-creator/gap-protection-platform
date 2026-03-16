@@ -1,0 +1,9 @@
+name: Synergized upward-trending hub
+payloads:
+- command-injection_payload_1_example
+- command-injection_payload_2_care
+- command-injection_payload_3_former
+- command-injection_payload_4_away
+- command-injection_payload_5_quite
+severity: high
+type: command-injection

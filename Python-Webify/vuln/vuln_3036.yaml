@@ -1,0 +1,9 @@
+name: Progressive next generation model
+payloads:
+- xxe_payload_1_ten
+- xxe_payload_2_nature
+- xxe_payload_3_weight
+- xxe_payload_4_tell
+- xxe_payload_5_street
+severity: high
+type: xxe

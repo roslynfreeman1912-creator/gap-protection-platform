@@ -1,0 +1,9 @@
+name: Extended stable access
+payloads:
+- hsts-misconfig_payload_1_much
+- hsts-misconfig_payload_2_him
+- hsts-misconfig_payload_3_street
+- hsts-misconfig_payload_4_beyond
+- hsts-misconfig_payload_5_happy
+severity: low
+type: hsts-misconfig

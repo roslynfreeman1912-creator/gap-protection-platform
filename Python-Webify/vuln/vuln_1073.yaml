@@ -1,0 +1,9 @@
+name: Inverse client-server success
+payloads:
+- hsts-misconfig_payload_1_within
+- hsts-misconfig_payload_2_way
+- hsts-misconfig_payload_3_model
+- hsts-misconfig_payload_4_writer
+- hsts-misconfig_payload_5_key
+severity: medium
+type: hsts-misconfig

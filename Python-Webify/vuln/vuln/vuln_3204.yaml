@@ -1,0 +1,9 @@
+name: Versatile 3rdgeneration success
+payloads:
+- rfi_payload_1_source
+- rfi_payload_2_natural
+- rfi_payload_3_value
+- rfi_payload_4_them
+- rfi_payload_5_there
+severity: high
+type: rfi

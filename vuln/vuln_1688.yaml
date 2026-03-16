@@ -1,0 +1,9 @@
+name: Object-based attitude-oriented Graphical User Interface
+payloads:
+- nosql-injection_payload_1_their
+- nosql-injection_payload_2_plan
+- nosql-injection_payload_3_sort
+- nosql-injection_payload_4_be
+- nosql-injection_payload_5_suddenly
+severity: high
+type: nosql-injection

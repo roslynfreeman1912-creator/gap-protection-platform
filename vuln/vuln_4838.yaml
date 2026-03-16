@@ -1,0 +1,9 @@
+name: Configurable content-based leverage
+payloads:
+- nosql-injection_payload_1_suddenly
+- nosql-injection_payload_2_over
+- nosql-injection_payload_3_truth
+- nosql-injection_payload_4_anyone
+- nosql-injection_payload_5_you
+severity: critical
+type: nosql-injection

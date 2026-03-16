@@ -1,0 +1,9 @@
+name: Stand-alone mission-critical installation
+payloads:
+- rfi_payload_1_entire
+- rfi_payload_2_chance
+- rfi_payload_3_center
+- rfi_payload_4_hand
+- rfi_payload_5_not
+severity: critical
+type: rfi

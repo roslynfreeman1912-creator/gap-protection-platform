@@ -1,0 +1,9 @@
+name: Managed national policy
+payloads:
+- mime-sniffing_payload_1_method
+- mime-sniffing_payload_2_never
+- mime-sniffing_payload_3_way
+- mime-sniffing_payload_4_choose
+- mime-sniffing_payload_5_long
+severity: high
+type: mime-sniffing

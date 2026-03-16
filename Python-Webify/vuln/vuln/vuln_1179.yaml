@@ -1,0 +1,9 @@
+name: Automated national Graphic Interface
+payloads:
+- rfi_payload_1_finish
+- rfi_payload_2_lay
+- rfi_payload_3_rock
+- rfi_payload_4_year
+- rfi_payload_5_never
+severity: high
+type: rfi

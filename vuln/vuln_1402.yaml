@@ -1,0 +1,9 @@
+name: Focused upward-trending initiative
+payloads:
+- xss_payload_1_simple
+- xss_payload_2_tree
+- xss_payload_3_set
+- xss_payload_4_board
+- xss_payload_5_agreement
+severity: medium
+type: xss

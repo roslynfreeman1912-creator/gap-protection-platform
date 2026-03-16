@@ -1,0 +1,9 @@
+name: Enterprise-wide high-level encryption
+payloads:
+- rfi_payload_1_win
+- rfi_payload_2_wear
+- rfi_payload_3_important
+- rfi_payload_4_some
+- rfi_payload_5_fund
+severity: high
+type: rfi

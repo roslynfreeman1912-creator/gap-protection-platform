@@ -1,0 +1,9 @@
+name: Re-contextualized didactic synergy
+payloads:
+- csrf_payload_1_since
+- csrf_payload_2_serve
+- csrf_payload_3_laugh
+- csrf_payload_4_send
+- csrf_payload_5_find
+severity: high
+type: csrf

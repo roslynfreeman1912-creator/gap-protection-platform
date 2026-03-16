@@ -1,0 +1,9 @@
+name: Inverse methodical success
+payloads:
+- clickjacking_payload_1_dream
+- clickjacking_payload_2_pick
+- clickjacking_payload_3_wall
+- clickjacking_payload_4_sign
+- clickjacking_payload_5_among
+severity: medium
+type: clickjacking

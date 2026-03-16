@@ -1,0 +1,9 @@
+name: Monitored non-volatile encryption
+payloads:
+- path-traversal_payload_1_many
+- path-traversal_payload_2_shoulder
+- path-traversal_payload_3_trial
+- path-traversal_payload_4_dinner
+- path-traversal_payload_5_me
+severity: medium
+type: path-traversal

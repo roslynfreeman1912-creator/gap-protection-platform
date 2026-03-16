@@ -1,0 +1,9 @@
+name: Extended client-server Internet solution
+payloads:
+- hsts-misconfig_payload_1_food
+- hsts-misconfig_payload_2_father
+- hsts-misconfig_payload_3_growth
+- hsts-misconfig_payload_4_bank
+- hsts-misconfig_payload_5_say
+severity: high
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Organic system-worthy array
+payloads:
+- xxe_payload_1_million
+- xxe_payload_2_suddenly
+- xxe_payload_3_stay
+- xxe_payload_4_score
+- xxe_payload_5_huge
+severity: critical
+type: xxe

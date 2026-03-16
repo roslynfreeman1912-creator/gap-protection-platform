@@ -1,0 +1,9 @@
+name: Secured context-sensitive emulation
+payloads:
+- ssti_payload_1_maintain
+- ssti_payload_2_radio
+- ssti_payload_3_staff
+- ssti_payload_4_relationship
+- ssti_payload_5_nothing
+severity: high
+type: ssti

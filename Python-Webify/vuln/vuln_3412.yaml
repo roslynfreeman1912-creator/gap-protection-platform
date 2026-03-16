@@ -1,0 +1,9 @@
+name: Innovative web-enabled matrices
+payloads:
+- ldap-injection_payload_1_ground
+- ldap-injection_payload_2_support
+- ldap-injection_payload_3_walk
+- ldap-injection_payload_4_health
+- ldap-injection_payload_5_budget
+severity: high
+type: ldap-injection

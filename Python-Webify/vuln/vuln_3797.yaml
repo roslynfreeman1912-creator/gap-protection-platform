@@ -1,0 +1,9 @@
+name: Devolved fault-tolerant artificial intelligence
+payloads:
+- tabnabbing_payload_1_when
+- tabnabbing_payload_2_defense
+- tabnabbing_payload_3_up
+- tabnabbing_payload_4_report
+- tabnabbing_payload_5_born
+severity: low
+type: tabnabbing

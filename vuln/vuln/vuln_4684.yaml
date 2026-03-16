@@ -1,0 +1,9 @@
+name: Realigned impactful matrices
+payloads:
+- path-traversal_payload_1_director
+- path-traversal_payload_2_east
+- path-traversal_payload_3_my
+- path-traversal_payload_4_rise
+- path-traversal_payload_5_trip
+severity: medium
+type: path-traversal

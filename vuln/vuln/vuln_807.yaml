@@ -1,0 +1,9 @@
+name: Re-engineered systematic workforce
+payloads:
+- ssti_payload_1_maintain
+- ssti_payload_2_start
+- ssti_payload_3_thousand
+- ssti_payload_4_production
+- ssti_payload_5_staff
+severity: medium
+type: ssti

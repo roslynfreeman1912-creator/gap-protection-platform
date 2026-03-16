@@ -1,0 +1,9 @@
+name: Adaptive multi-tasking artificial intelligence
+payloads:
+- ldap-injection_payload_1_change
+- ldap-injection_payload_2_reach
+- ldap-injection_payload_3_health
+- ldap-injection_payload_4_able
+- ldap-injection_payload_5_statement
+severity: low
+type: ldap-injection

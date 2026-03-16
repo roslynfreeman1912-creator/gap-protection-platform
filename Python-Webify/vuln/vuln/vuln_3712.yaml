@@ -1,0 +1,9 @@
+name: Pre-emptive modular infrastructure
+payloads:
+- ldap-injection_payload_1_season
+- ldap-injection_payload_2_close
+- ldap-injection_payload_3_defense
+- ldap-injection_payload_4_plant
+- ldap-injection_payload_5_story
+severity: medium
+type: ldap-injection

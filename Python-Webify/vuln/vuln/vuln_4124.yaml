@@ -1,0 +1,9 @@
+name: Optional empowering throughput
+payloads:
+- csp-bypass_payload_1_customer
+- csp-bypass_payload_2_appear
+- csp-bypass_payload_3_conference
+- csp-bypass_payload_4_push
+- csp-bypass_payload_5_west
+severity: critical
+type: csp-bypass

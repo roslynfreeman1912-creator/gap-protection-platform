@@ -1,0 +1,9 @@
+name: Phased dynamic structure
+payloads:
+- lfi_payload_1_per
+- lfi_payload_2_newspaper
+- lfi_payload_3_than
+- lfi_payload_4_south
+- lfi_payload_5_need
+severity: low
+type: lfi

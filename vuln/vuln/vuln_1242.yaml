@@ -1,0 +1,9 @@
+name: Total bi-directional moratorium
+payloads:
+- host-header-injection_payload_1_hundred
+- host-header-injection_payload_2_during
+- host-header-injection_payload_3_while
+- host-header-injection_payload_4_mission
+- host-header-injection_payload_5_health
+severity: high
+type: host-header-injection

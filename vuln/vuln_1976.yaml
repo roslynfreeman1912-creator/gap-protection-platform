@@ -1,0 +1,9 @@
+name: Public-key logistical instruction set
+payloads:
+- sql_payload_1_beautiful
+- sql_payload_2_important
+- sql_payload_3_of
+- sql_payload_4_send
+- sql_payload_5_check
+severity: low
+type: sql

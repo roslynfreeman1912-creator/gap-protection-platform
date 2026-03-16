@@ -1,0 +1,9 @@
+name: Visionary upward-trending alliance
+payloads:
+- file-upload_payload_1_simple
+- file-upload_payload_2_performance
+- file-upload_payload_3_necessary
+- file-upload_payload_4_soon
+- file-upload_payload_5_fund
+severity: medium
+type: file-upload

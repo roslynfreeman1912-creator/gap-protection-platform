@@ -1,0 +1,9 @@
+name: Enterprise-wide impactful function
+payloads:
+- javascript-injection_payload_1_weight
+- javascript-injection_payload_2_compare
+- javascript-injection_payload_3_project
+- javascript-injection_payload_4_idea
+- javascript-injection_payload_5_use
+severity: low
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: De-engineered 24/7 installation
+payloads:
+- tabnabbing_payload_1_arm
+- tabnabbing_payload_2_woman
+- tabnabbing_payload_3_huge
+- tabnabbing_payload_4_mother
+- tabnabbing_payload_5_course
+severity: critical
+type: tabnabbing

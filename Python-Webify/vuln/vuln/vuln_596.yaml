@@ -1,0 +1,9 @@
+name: Decentralized bi-directional circuit
+payloads:
+- mime-sniffing_payload_1_image
+- mime-sniffing_payload_2_ball
+- mime-sniffing_payload_3_police
+- mime-sniffing_payload_4_choose
+- mime-sniffing_payload_5_window
+severity: critical
+type: mime-sniffing

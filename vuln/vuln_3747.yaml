@@ -1,0 +1,9 @@
+name: Assimilated modular adapter
+payloads:
+- tabnabbing_payload_1_soon
+- tabnabbing_payload_2_energy
+- tabnabbing_payload_3_have
+- tabnabbing_payload_4_look
+- tabnabbing_payload_5_week
+severity: medium
+type: tabnabbing

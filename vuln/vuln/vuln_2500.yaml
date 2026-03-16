@@ -1,0 +1,9 @@
+name: Intuitive solution-oriented definition
+payloads:
+- frame-injection_payload_1_participant
+- frame-injection_payload_2_social
+- frame-injection_payload_3_set
+- frame-injection_payload_4_each
+- frame-injection_payload_5_like
+severity: high
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Phased even-keeled secured line
+payloads:
+- file-upload_payload_1_public
+- file-upload_payload_2_save
+- file-upload_payload_3_seek
+- file-upload_payload_4_type
+- file-upload_payload_5_offer
+severity: medium
+type: file-upload

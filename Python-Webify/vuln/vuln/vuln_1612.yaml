@@ -1,0 +1,9 @@
+name: Profound content-based adapter
+payloads:
+- ldap-injection_payload_1_media
+- ldap-injection_payload_2_between
+- ldap-injection_payload_3_back
+- ldap-injection_payload_4_ten
+- ldap-injection_payload_5_provide
+severity: high
+type: ldap-injection

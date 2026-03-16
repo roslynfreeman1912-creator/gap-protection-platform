@@ -1,0 +1,9 @@
+name: Self-enabling uniform throughput
+payloads:
+- ssrf_payload_1_rise
+- ssrf_payload_2_answer
+- ssrf_payload_3_section
+- ssrf_payload_4_purpose
+- ssrf_payload_5_range
+severity: medium
+type: ssrf

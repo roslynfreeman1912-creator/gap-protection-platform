@@ -1,0 +1,9 @@
+name: Vision-oriented mobile framework
+payloads:
+- ssti_payload_1_director
+- ssti_payload_2_away
+- ssti_payload_3_war
+- ssti_payload_4_important
+- ssti_payload_5_travel
+severity: critical
+type: ssti

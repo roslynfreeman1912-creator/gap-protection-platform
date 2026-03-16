@@ -1,0 +1,9 @@
+name: Synergized mission-critical array
+payloads:
+- xxe_payload_1_all
+- xxe_payload_2_part
+- xxe_payload_3_water
+- xxe_payload_4_out
+- xxe_payload_5_school
+severity: critical
+type: xxe

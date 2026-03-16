@@ -1,0 +1,9 @@
+name: Vision-oriented 5thgeneration workforce
+payloads:
+- path-traversal_payload_1_participant
+- path-traversal_payload_2_father
+- path-traversal_payload_3_cause
+- path-traversal_payload_4_street
+- path-traversal_payload_5_discuss
+severity: low
+type: path-traversal

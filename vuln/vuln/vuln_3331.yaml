@@ -1,0 +1,9 @@
+name: Persevering empowering portal
+payloads:
+- csrf_payload_1_final
+- csrf_payload_2_evening
+- csrf_payload_3_through
+- csrf_payload_4_onto
+- csrf_payload_5_week
+severity: medium
+type: csrf

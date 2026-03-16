@@ -1,0 +1,9 @@
+name: Versatile 3rdgeneration definition
+payloads:
+- clickjacking_payload_1_sell
+- clickjacking_payload_2_house
+- clickjacking_payload_3_year
+- clickjacking_payload_4_wear
+- clickjacking_payload_5_listen
+severity: critical
+type: clickjacking

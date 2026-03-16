@@ -1,0 +1,9 @@
+name: Profit-focused 4thgeneration intranet
+payloads:
+- xss_payload_1_environment
+- xss_payload_2_score
+- xss_payload_3_reduce
+- xss_payload_4_little
+- xss_payload_5_determine
+severity: low
+type: xss

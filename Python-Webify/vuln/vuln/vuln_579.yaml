@@ -1,0 +1,9 @@
+name: Virtual grid-enabled implementation
+payloads:
+- rfi_payload_1_American
+- rfi_payload_2_measure
+- rfi_payload_3_he
+- rfi_payload_4_respond
+- rfi_payload_5_girl
+severity: low
+type: rfi

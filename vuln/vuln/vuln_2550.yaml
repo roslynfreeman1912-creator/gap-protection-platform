@@ -1,0 +1,9 @@
+name: Reduced impactful moratorium
+payloads:
+- frame-injection_payload_1_lay
+- frame-injection_payload_2_character
+- frame-injection_payload_3_week
+- frame-injection_payload_4_the
+- frame-injection_payload_5_or
+severity: low
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Diverse bifurcated emulation
+payloads:
+- nosql-injection_payload_1_artist
+- nosql-injection_payload_2_site
+- nosql-injection_payload_3_drop
+- nosql-injection_payload_4_free
+- nosql-injection_payload_5_task
+severity: high
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Devolved content-based approach
+payloads:
+- path-traversal_payload_1_season
+- path-traversal_payload_2_leave
+- path-traversal_payload_3_reality
+- path-traversal_payload_4_couple
+- path-traversal_payload_5_news
+severity: high
+type: path-traversal

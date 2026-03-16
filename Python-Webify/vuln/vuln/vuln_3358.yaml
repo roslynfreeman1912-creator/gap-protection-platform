@@ -1,0 +1,9 @@
+name: Function-based solution-oriented strategy
+payloads:
+- command-injection_payload_1_sit
+- command-injection_payload_2_anyone
+- command-injection_payload_3_boy
+- command-injection_payload_4_lose
+- command-injection_payload_5_west
+severity: medium
+type: command-injection

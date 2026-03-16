@@ -1,0 +1,9 @@
+name: Function-based disintermediate encoding
+payloads:
+- nosql-injection_payload_1_effort
+- nosql-injection_payload_2_themselves
+- nosql-injection_payload_3_head
+- nosql-injection_payload_4_practice
+- nosql-injection_payload_5_lead
+severity: high
+type: nosql-injection

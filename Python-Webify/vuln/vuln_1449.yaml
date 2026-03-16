@@ -1,0 +1,9 @@
+name: Grass-roots content-based archive
+payloads:
+- csp-bypass_payload_1_prevent
+- csp-bypass_payload_2_tend
+- csp-bypass_payload_3_seat
+- csp-bypass_payload_4_identify
+- csp-bypass_payload_5_face
+severity: high
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Focused homogeneous website
+payloads:
+- path-traversal_payload_1_move
+- path-traversal_payload_2_fly
+- path-traversal_payload_3_character
+- path-traversal_payload_4_short
+- path-traversal_payload_5_question
+severity: high
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Synchronized discrete capability
+payloads:
+- nosql-injection_payload_1_act
+- nosql-injection_payload_2_deal
+- nosql-injection_payload_3_once
+- nosql-injection_payload_4_maybe
+- nosql-injection_payload_5_involve
+severity: medium
+type: nosql-injection

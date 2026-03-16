@@ -1,0 +1,9 @@
+name: Persevering multi-tasking superstructure
+payloads:
+- subdomain-takeover_payload_1_reality
+- subdomain-takeover_payload_2_with
+- subdomain-takeover_payload_3_dog
+- subdomain-takeover_payload_4_card
+- subdomain-takeover_payload_5_the
+severity: critical
+type: subdomain-takeover

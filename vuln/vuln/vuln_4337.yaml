@@ -1,0 +1,9 @@
+name: Team-oriented heuristic groupware
+payloads:
+- ldap-injection_payload_1_impact
+- ldap-injection_payload_2_force
+- ldap-injection_payload_3_effort
+- ldap-injection_payload_4_true
+- ldap-injection_payload_5_number
+severity: high
+type: ldap-injection

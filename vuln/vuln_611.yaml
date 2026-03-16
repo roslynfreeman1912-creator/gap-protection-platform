@@ -1,0 +1,9 @@
+name: Adaptive clear-thinking knowledge user
+payloads:
+- xxe_payload_1_yard
+- xxe_payload_2_between
+- xxe_payload_3_chance
+- xxe_payload_4_trial
+- xxe_payload_5_partner
+severity: low
+type: xxe

@@ -1,0 +1,9 @@
+name: Function-based 4thgeneration instruction set
+payloads:
+- ldap-injection_payload_1_thank
+- ldap-injection_payload_2_office
+- ldap-injection_payload_3_meeting
+- ldap-injection_payload_4_brother
+- ldap-injection_payload_5_main
+severity: low
+type: ldap-injection

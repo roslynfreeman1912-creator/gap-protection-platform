@@ -1,0 +1,9 @@
+name: Compatible explicit encoding
+payloads:
+- ssti_payload_1_today
+- ssti_payload_2_pretty
+- ssti_payload_3_my
+- ssti_payload_4_get
+- ssti_payload_5_but
+severity: medium
+type: ssti

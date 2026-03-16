@@ -1,0 +1,9 @@
+name: Polarized multimedia capability
+payloads:
+- host-header-injection_payload_1_car
+- host-header-injection_payload_2_cultural
+- host-header-injection_payload_3_to
+- host-header-injection_payload_4_option
+- host-header-injection_payload_5_short
+severity: low
+type: host-header-injection

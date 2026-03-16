@@ -1,0 +1,9 @@
+name: Multi-tiered client-server neural-net
+payloads:
+- nosql-injection_payload_1_interview
+- nosql-injection_payload_2_shake
+- nosql-injection_payload_3_activity
+- nosql-injection_payload_4_tend
+- nosql-injection_payload_5_skill
+severity: medium
+type: nosql-injection

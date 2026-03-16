@@ -1,0 +1,12 @@
+name: "Open Redirect"
+type: "open_redirect"
+severity: "medium"
+payloads:
+  - "http://evil.com"
+  - "https://malicious-site.com"
+  - "javascript:alert(1)"
+  - "http://attacker.com/redirect?url=http://example.com"
+  - "http://localhost:8080"
+  - "https://attacker.com/?redirect=http://victim.com"
+  - "https://google.com?redirect=http://malicious.com"
+  - "http://example.com?redirect=http://evil.com"

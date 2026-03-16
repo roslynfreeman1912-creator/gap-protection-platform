@@ -1,0 +1,9 @@
+name: Multi-layered contextually-based solution
+payloads:
+- lfi_payload_1_choose
+- lfi_payload_2_contain
+- lfi_payload_3_let
+- lfi_payload_4_ready
+- lfi_payload_5_through
+severity: medium
+type: lfi

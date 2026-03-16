@@ -1,0 +1,9 @@
+name: Re-engineered content-based circuit
+payloads:
+- mime-sniffing_payload_1_occur
+- mime-sniffing_payload_2_different
+- mime-sniffing_payload_3_firm
+- mime-sniffing_payload_4_us
+- mime-sniffing_payload_5_pressure
+severity: medium
+type: mime-sniffing

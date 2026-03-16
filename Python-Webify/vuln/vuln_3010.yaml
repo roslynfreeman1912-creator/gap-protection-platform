@@ -1,0 +1,9 @@
+name: Persevering background instruction set
+payloads:
+- open-redirect_payload_1_science
+- open-redirect_payload_2_while
+- open-redirect_payload_3_thought
+- open-redirect_payload_4_right
+- open-redirect_payload_5_center
+severity: high
+type: open-redirect

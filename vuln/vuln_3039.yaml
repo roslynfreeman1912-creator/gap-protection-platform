@@ -1,0 +1,9 @@
+name: Decentralized explicit info-mediaries
+payloads:
+- clickjacking_payload_1_give
+- clickjacking_payload_2_according
+- clickjacking_payload_3_resource
+- clickjacking_payload_4_first
+- clickjacking_payload_5_guy
+severity: high
+type: clickjacking

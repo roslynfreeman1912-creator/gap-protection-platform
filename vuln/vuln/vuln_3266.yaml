@@ -1,0 +1,9 @@
+name: Multi-layered fault-tolerant knowledge user
+payloads:
+- crlf-injection_payload_1_west
+- crlf-injection_payload_2_peace
+- crlf-injection_payload_3_two
+- crlf-injection_payload_4_describe
+- crlf-injection_payload_5_successful
+severity: low
+type: crlf-injection

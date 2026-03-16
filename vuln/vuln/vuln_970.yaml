@@ -1,0 +1,9 @@
+name: Monitored modular extranet
+payloads:
+- file-upload_payload_1_purpose
+- file-upload_payload_2_ever
+- file-upload_payload_3_range
+- file-upload_payload_4_room
+- file-upload_payload_5_bed
+severity: low
+type: file-upload

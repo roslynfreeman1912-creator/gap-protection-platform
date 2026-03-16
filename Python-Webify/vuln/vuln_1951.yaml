@@ -1,0 +1,9 @@
+name: Phased multi-state data-warehouse
+payloads:
+- sql_payload_1_certainly
+- sql_payload_2_painting
+- sql_payload_3_skin
+- sql_payload_4_listen
+- sql_payload_5_that
+severity: low
+type: sql

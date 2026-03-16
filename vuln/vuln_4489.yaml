@@ -1,0 +1,9 @@
+name: De-engineered mobile website
+payloads:
+- clickjacking_payload_1_itself
+- clickjacking_payload_2_human
+- clickjacking_payload_3_author
+- clickjacking_payload_4_leave
+- clickjacking_payload_5_on
+severity: high
+type: clickjacking

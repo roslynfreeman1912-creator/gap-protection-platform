@@ -1,0 +1,9 @@
+name: De-engineered heuristic benchmark
+payloads:
+- xxe_payload_1_technology
+- xxe_payload_2_sometimes
+- xxe_payload_3_sing
+- xxe_payload_4_mouth
+- xxe_payload_5_involve
+severity: low
+type: xxe

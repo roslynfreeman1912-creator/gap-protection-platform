@@ -1,0 +1,9 @@
+name: Virtual human-resource groupware
+payloads:
+- command-injection_payload_1_bit
+- command-injection_payload_2_recently
+- command-injection_payload_3_ever
+- command-injection_payload_4_war
+- command-injection_payload_5_kitchen
+severity: low
+type: command-injection

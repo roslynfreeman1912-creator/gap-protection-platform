@@ -1,0 +1,9 @@
+name: Reactive incremental interface
+payloads:
+- path-traversal_payload_1_population
+- path-traversal_payload_2_cost
+- path-traversal_payload_3_yard
+- path-traversal_payload_4_player
+- path-traversal_payload_5_film
+severity: low
+type: path-traversal

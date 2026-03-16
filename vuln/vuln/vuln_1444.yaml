@@ -1,0 +1,9 @@
+name: Customizable regional attitude
+payloads:
+- javascript-injection_payload_1_quickly
+- javascript-injection_payload_2_executive
+- javascript-injection_payload_3_wide
+- javascript-injection_payload_4_trial
+- javascript-injection_payload_5_air
+severity: low
+type: javascript-injection

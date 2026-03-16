@@ -1,0 +1,9 @@
+name: Reverse-engineered 24hour Local Area Network
+payloads:
+- tabnabbing_payload_1_black
+- tabnabbing_payload_2_foreign
+- tabnabbing_payload_3_no
+- tabnabbing_payload_4_section
+- tabnabbing_payload_5_ability
+severity: critical
+type: tabnabbing

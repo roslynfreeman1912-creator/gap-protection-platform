@@ -1,0 +1,9 @@
+name: Organic asymmetric task-force
+payloads:
+- command-injection_payload_1_cause
+- command-injection_payload_2_key
+- command-injection_payload_3_prevent
+- command-injection_payload_4_yes
+- command-injection_payload_5_free
+severity: high
+type: command-injection

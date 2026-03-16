@@ -1,0 +1,9 @@
+name: Re-contextualized asymmetric hub
+payloads:
+- command-injection_payload_1_pull
+- command-injection_payload_2_general
+- command-injection_payload_3_three
+- command-injection_payload_4_general
+- command-injection_payload_5_no
+severity: medium
+type: command-injection

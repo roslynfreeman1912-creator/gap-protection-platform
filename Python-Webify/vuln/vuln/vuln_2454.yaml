@@ -1,0 +1,9 @@
+name: Re-contextualized systemic core
+payloads:
+- rfi_payload_1_gas
+- rfi_payload_2_lose
+- rfi_payload_3_stuff
+- rfi_payload_4_send
+- rfi_payload_5_rock
+severity: low
+type: rfi

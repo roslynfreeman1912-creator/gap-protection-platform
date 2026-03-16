@@ -1,0 +1,9 @@
+name: Programmable global orchestration
+payloads:
+- subdomain-takeover_payload_1_dream
+- subdomain-takeover_payload_2_ever
+- subdomain-takeover_payload_3_any
+- subdomain-takeover_payload_4_alone
+- subdomain-takeover_payload_5_view
+severity: medium
+type: subdomain-takeover

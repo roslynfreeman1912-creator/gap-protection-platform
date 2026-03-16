@@ -1,0 +1,9 @@
+name: Managed zero tolerance installation
+payloads:
+- command-injection_payload_1_film
+- command-injection_payload_2_well
+- command-injection_payload_3_group
+- command-injection_payload_4_whether
+- command-injection_payload_5_determine
+severity: low
+type: command-injection

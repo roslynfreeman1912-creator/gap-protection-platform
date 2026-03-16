@@ -1,0 +1,9 @@
+name: Integrated global paradigm
+payloads:
+- open-redirect_payload_1_dream
+- open-redirect_payload_2_control
+- open-redirect_payload_3_increase
+- open-redirect_payload_4_determine
+- open-redirect_payload_5_how
+severity: critical
+type: open-redirect

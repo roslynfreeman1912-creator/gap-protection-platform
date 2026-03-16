@@ -1,0 +1,9 @@
+name: Switchable heuristic architecture
+payloads:
+- open-redirect_payload_1_often
+- open-redirect_payload_2_suggest
+- open-redirect_payload_3_establish
+- open-redirect_payload_4_camera
+- open-redirect_payload_5_everyone
+severity: critical
+type: open-redirect

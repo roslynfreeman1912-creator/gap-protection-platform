@@ -1,0 +1,9 @@
+name: Universal systemic standardization
+payloads:
+- path-traversal_payload_1_conference
+- path-traversal_payload_2_business
+- path-traversal_payload_3_goal
+- path-traversal_payload_4_campaign
+- path-traversal_payload_5_live
+severity: medium
+type: path-traversal

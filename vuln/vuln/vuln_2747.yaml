@@ -1,0 +1,9 @@
+name: Triple-buffered leadingedge orchestration
+payloads:
+- tabnabbing_payload_1_everybody
+- tabnabbing_payload_2_up
+- tabnabbing_payload_3_son
+- tabnabbing_payload_4_range
+- tabnabbing_payload_5_mission
+severity: critical
+type: tabnabbing

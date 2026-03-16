@@ -1,0 +1,9 @@
+name: Grass-roots next generation utilization
+payloads:
+- rfi_payload_1_market
+- rfi_payload_2_range
+- rfi_payload_3_hard
+- rfi_payload_4_such
+- rfi_payload_5_argue
+severity: low
+type: rfi

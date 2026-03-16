@@ -1,0 +1,9 @@
+name: User-friendly needs-based analyzer
+payloads:
+- path-traversal_payload_1_throw
+- path-traversal_payload_2_memory
+- path-traversal_payload_3_per
+- path-traversal_payload_4_weight
+- path-traversal_payload_5_rate
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Profound context-sensitive encryption
+payloads:
+- open-redirect_payload_1_which
+- open-redirect_payload_2_study
+- open-redirect_payload_3_institution
+- open-redirect_payload_4_explain
+- open-redirect_payload_5_spend
+severity: critical
+type: open-redirect

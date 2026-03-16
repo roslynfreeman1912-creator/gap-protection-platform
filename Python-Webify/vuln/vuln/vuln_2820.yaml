@@ -1,0 +1,9 @@
+name: Reduced optimal data-warehouse
+payloads:
+- file-upload_payload_1_choose
+- file-upload_payload_2_himself
+- file-upload_payload_3_process
+- file-upload_payload_4_relate
+- file-upload_payload_5_gun
+severity: medium
+type: file-upload

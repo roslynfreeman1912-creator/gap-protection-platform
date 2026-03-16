@@ -1,0 +1,9 @@
+name: Synchronized empowering methodology
+payloads:
+- path-traversal_payload_1_outside
+- path-traversal_payload_2_as
+- path-traversal_payload_3_near
+- path-traversal_payload_4_can
+- path-traversal_payload_5_discover
+severity: critical
+type: path-traversal

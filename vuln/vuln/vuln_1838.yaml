@@ -1,0 +1,9 @@
+name: Object-based systemic capacity
+payloads:
+- nosql-injection_payload_1_knowledge
+- nosql-injection_payload_2_try
+- nosql-injection_payload_3_page
+- nosql-injection_payload_4_continue
+- nosql-injection_payload_5_movement
+severity: critical
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Customer-focused client-server encoding
+payloads:
+- nosql-injection_payload_1_whether
+- nosql-injection_payload_2_wind
+- nosql-injection_payload_3_car
+- nosql-injection_payload_4_every
+- nosql-injection_payload_5_both
+severity: medium
+type: nosql-injection

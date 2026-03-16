@@ -1,0 +1,9 @@
+name: Fundamental value-added collaboration
+payloads:
+- csrf_payload_1_compare
+- csrf_payload_2_air
+- csrf_payload_3_either
+- csrf_payload_4_whether
+- csrf_payload_5_agreement
+severity: critical
+type: csrf

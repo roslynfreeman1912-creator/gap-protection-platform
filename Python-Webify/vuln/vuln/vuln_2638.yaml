@@ -1,0 +1,9 @@
+name: Reactive bottom-line instruction set
+payloads:
+- nosql-injection_payload_1_different
+- nosql-injection_payload_2_beat
+- nosql-injection_payload_3_shake
+- nosql-injection_payload_4_knowledge
+- nosql-injection_payload_5_certain
+severity: medium
+type: nosql-injection

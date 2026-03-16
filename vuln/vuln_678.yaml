@@ -1,0 +1,9 @@
+name: Ergonomic tertiary portal
+payloads:
+- lfi_payload_1_partner
+- lfi_payload_2_act
+- lfi_payload_3_imagine
+- lfi_payload_4_determine
+- lfi_payload_5_time
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: De-engineered human-resource installation
+payloads:
+- ssrf_payload_1_budget
+- ssrf_payload_2_firm
+- ssrf_payload_3_beautiful
+- ssrf_payload_4_less
+- ssrf_payload_5_leg
+severity: high
+type: ssrf

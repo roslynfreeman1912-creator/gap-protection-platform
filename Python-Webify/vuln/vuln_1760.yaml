@@ -1,0 +1,9 @@
+name: Synchronized interactive Internet solution
+payloads:
+- open-redirect_payload_1_left
+- open-redirect_payload_2_meet
+- open-redirect_payload_3_view
+- open-redirect_payload_4_possible
+- open-redirect_payload_5_population
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Open-architected national open architecture
+payloads:
+- path-traversal_payload_1_entire
+- path-traversal_payload_2_win
+- path-traversal_payload_3_best
+- path-traversal_payload_4_spend
+- path-traversal_payload_5_trip
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Organized 5thgeneration matrices
+payloads:
+- sql_payload_1_else
+- sql_payload_2_over
+- sql_payload_3_throughout
+- sql_payload_4_available
+- sql_payload_5_four
+severity: high
+type: sql

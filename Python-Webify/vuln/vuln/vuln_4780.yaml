@@ -1,0 +1,9 @@
+name: Intuitive 4thgeneration protocol
+payloads:
+- ssrf_payload_1_tough
+- ssrf_payload_2_nearly
+- ssrf_payload_3_stay
+- ssrf_payload_4_simple
+- ssrf_payload_5_age
+severity: low
+type: ssrf

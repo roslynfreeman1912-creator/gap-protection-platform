@@ -1,0 +1,9 @@
+name: Programmable upward-trending encryption
+payloads:
+- command-injection_payload_1_before
+- command-injection_payload_2_sometimes
+- command-injection_payload_3_civil
+- command-injection_payload_4_despite
+- command-injection_payload_5_easy
+severity: low
+type: command-injection

@@ -1,0 +1,9 @@
+name: Profit-focused 5thgeneration solution
+payloads:
+- frame-injection_payload_1_huge
+- frame-injection_payload_2_agent
+- frame-injection_payload_3_industry
+- frame-injection_payload_4_over
+- frame-injection_payload_5_probably
+severity: medium
+type: frame-injection

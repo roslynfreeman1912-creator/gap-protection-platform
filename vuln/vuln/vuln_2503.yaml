@@ -1,0 +1,9 @@
+name: Synergized multi-tasking knowledge user
+payloads:
+- lfi_payload_1_man
+- lfi_payload_2_today
+- lfi_payload_3_lawyer
+- lfi_payload_4_entire
+- lfi_payload_5_ready
+severity: low
+type: lfi

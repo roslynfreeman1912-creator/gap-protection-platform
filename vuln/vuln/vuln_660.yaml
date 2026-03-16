@@ -1,0 +1,9 @@
+name: Ergonomic actuating forecast
+payloads:
+- open-redirect_payload_1_draw
+- open-redirect_payload_2_ever
+- open-redirect_payload_3_child
+- open-redirect_payload_4_later
+- open-redirect_payload_5_this
+severity: critical
+type: open-redirect

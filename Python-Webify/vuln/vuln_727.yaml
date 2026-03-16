@@ -1,0 +1,9 @@
+name: Cross-platform neutral forecast
+payloads:
+- xss_payload_1_article
+- xss_payload_2_who
+- xss_payload_3_stay
+- xss_payload_4_whose
+- xss_payload_5_both
+severity: critical
+type: xss

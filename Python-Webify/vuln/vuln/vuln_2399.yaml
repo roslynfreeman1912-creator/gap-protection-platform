@@ -1,0 +1,9 @@
+name: Up-sized background firmware
+payloads:
+- csp-bypass_payload_1_in
+- csp-bypass_payload_2_me
+- csp-bypass_payload_3_law
+- csp-bypass_payload_4_control
+- csp-bypass_payload_5_lot
+severity: critical
+type: csp-bypass

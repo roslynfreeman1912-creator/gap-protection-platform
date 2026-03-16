@@ -1,0 +1,9 @@
+name: Ergonomic exuding open system
+payloads:
+- subdomain-takeover_payload_1_put
+- subdomain-takeover_payload_2_never
+- subdomain-takeover_payload_3_into
+- subdomain-takeover_payload_4_choice
+- subdomain-takeover_payload_5_argue
+severity: medium
+type: subdomain-takeover

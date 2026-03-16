@@ -1,0 +1,9 @@
+name: Versatile bifurcated support
+payloads:
+- host-header-injection_payload_1_painting
+- host-header-injection_payload_2_approach
+- host-header-injection_payload_3_real
+- host-header-injection_payload_4_for
+- host-header-injection_payload_5_gas
+severity: medium
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Polarized 24/7 flexibility
+payloads:
+- mime-sniffing_payload_1_practice
+- mime-sniffing_payload_2_end
+- mime-sniffing_payload_3_agreement
+- mime-sniffing_payload_4_defense
+- mime-sniffing_payload_5_government
+severity: high
+type: mime-sniffing

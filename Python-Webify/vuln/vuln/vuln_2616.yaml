@@ -1,0 +1,9 @@
+name: Fundamental system-worthy groupware
+payloads:
+- crlf-injection_payload_1_relationship
+- crlf-injection_payload_2_attack
+- crlf-injection_payload_3_over
+- crlf-injection_payload_4_story
+- crlf-injection_payload_5_provide
+severity: critical
+type: crlf-injection

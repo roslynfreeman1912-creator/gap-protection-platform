@@ -1,0 +1,9 @@
+name: Polarized system-worthy circuit
+payloads:
+- file-upload_payload_1_across
+- file-upload_payload_2_include
+- file-upload_payload_3_save
+- file-upload_payload_4_question
+- file-upload_payload_5_section
+severity: low
+type: file-upload

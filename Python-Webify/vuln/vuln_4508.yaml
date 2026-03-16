@@ -1,0 +1,9 @@
+name: Monitored didactic circuit
+payloads:
+- command-injection_payload_1_nothing
+- command-injection_payload_2_lose
+- command-injection_payload_3_production
+- command-injection_payload_4_stay
+- command-injection_payload_5_couple
+severity: low
+type: command-injection

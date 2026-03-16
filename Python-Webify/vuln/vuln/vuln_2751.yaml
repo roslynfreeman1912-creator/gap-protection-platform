@@ -1,0 +1,9 @@
+name: Organic bottom-line capability
+payloads:
+- sql_payload_1_performance
+- sql_payload_2_hold
+- sql_payload_3_seven
+- sql_payload_4_career
+- sql_payload_5_record
+severity: critical
+type: sql

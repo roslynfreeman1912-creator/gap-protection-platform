@@ -1,0 +1,9 @@
+name: Business-focused actuating concept
+payloads:
+- subdomain-takeover_payload_1_fact
+- subdomain-takeover_payload_2_each
+- subdomain-takeover_payload_3_institution
+- subdomain-takeover_payload_4_enter
+- subdomain-takeover_payload_5_media
+severity: high
+type: subdomain-takeover

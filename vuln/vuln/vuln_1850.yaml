@@ -1,0 +1,9 @@
+name: Cloned maximized model
+payloads:
+- frame-injection_payload_1_bar
+- frame-injection_payload_2_particular
+- frame-injection_payload_3_with
+- frame-injection_payload_4_fire
+- frame-injection_payload_5_new
+severity: critical
+type: frame-injection

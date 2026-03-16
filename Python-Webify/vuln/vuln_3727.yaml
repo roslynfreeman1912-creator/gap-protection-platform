@@ -1,0 +1,9 @@
+name: Cross-platform multi-state attitude
+payloads:
+- xss_payload_1_find
+- xss_payload_2_hit
+- xss_payload_3_upon
+- xss_payload_4_effect
+- xss_payload_5_address
+severity: medium
+type: xss

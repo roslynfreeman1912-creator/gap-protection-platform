@@ -1,0 +1,9 @@
+name: Function-based 24/7 infrastructure
+payloads:
+- lfi_payload_1_back
+- lfi_payload_2_appear
+- lfi_payload_3_ahead
+- lfi_payload_4_former
+- lfi_payload_5_surface
+severity: low
+type: lfi

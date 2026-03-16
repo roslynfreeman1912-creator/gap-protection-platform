@@ -1,0 +1,9 @@
+name: Reactive modular flexibility
+payloads:
+- file-upload_payload_1_change
+- file-upload_payload_2_while
+- file-upload_payload_3_environmental
+- file-upload_payload_4_set
+- file-upload_payload_5_never
+severity: medium
+type: file-upload

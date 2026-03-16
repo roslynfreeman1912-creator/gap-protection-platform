@@ -1,0 +1,9 @@
+name: Robust responsive paradigm
+payloads:
+- xxe_payload_1_fund
+- xxe_payload_2_huge
+- xxe_payload_3_man
+- xxe_payload_4_space
+- xxe_payload_5_day
+severity: critical
+type: xxe

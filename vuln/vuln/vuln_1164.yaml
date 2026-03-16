@@ -1,0 +1,9 @@
+name: Reverse-engineered intangible paradigm
+payloads:
+- clickjacking_payload_1_large
+- clickjacking_payload_2_doctor
+- clickjacking_payload_3_without
+- clickjacking_payload_4_land
+- clickjacking_payload_5_indeed
+severity: high
+type: clickjacking

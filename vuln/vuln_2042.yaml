@@ -1,0 +1,9 @@
+name: Visionary methodical standardization
+payloads:
+- host-header-injection_payload_1_guy
+- host-header-injection_payload_2_different
+- host-header-injection_payload_3_yourself
+- host-header-injection_payload_4_together
+- host-header-injection_payload_5_half
+severity: critical
+type: host-header-injection

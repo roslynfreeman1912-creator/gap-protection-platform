@@ -1,0 +1,9 @@
+name: Customizable upward-trending structure
+payloads:
+- tabnabbing_payload_1_clear
+- tabnabbing_payload_2_his
+- tabnabbing_payload_3_fill
+- tabnabbing_payload_4_fly
+- tabnabbing_payload_5_subject
+severity: medium
+type: tabnabbing

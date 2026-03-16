@@ -1,0 +1,9 @@
+name: Ergonomic zero-defect framework
+payloads:
+- hsts-misconfig_payload_1_ground
+- hsts-misconfig_payload_2_one
+- hsts-misconfig_payload_3_same
+- hsts-misconfig_payload_4_simply
+- hsts-misconfig_payload_5_main
+severity: critical
+type: hsts-misconfig

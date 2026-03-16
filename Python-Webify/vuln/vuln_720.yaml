@@ -1,0 +1,9 @@
+name: Team-oriented transitional middleware
+payloads:
+- file-upload_payload_1_growth
+- file-upload_payload_2_vote
+- file-upload_payload_3_same
+- file-upload_payload_4_job
+- file-upload_payload_5_light
+severity: critical
+type: file-upload

@@ -1,0 +1,9 @@
+name: Distributed foreground secured line
+payloads:
+- clickjacking_payload_1_job
+- clickjacking_payload_2_door
+- clickjacking_payload_3_couple
+- clickjacking_payload_4_employee
+- clickjacking_payload_5_letter
+severity: medium
+type: clickjacking

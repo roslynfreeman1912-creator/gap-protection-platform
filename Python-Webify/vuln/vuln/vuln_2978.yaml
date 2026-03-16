@@ -1,0 +1,9 @@
+name: User-friendly incremental hierarchy
+payloads:
+- lfi_payload_1_probably
+- lfi_payload_2_believe
+- lfi_payload_3_million
+- lfi_payload_4_ahead
+- lfi_payload_5_member
+severity: high
+type: lfi

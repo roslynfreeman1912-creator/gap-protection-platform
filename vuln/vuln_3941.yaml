@@ -1,0 +1,9 @@
+name: Synergized web-enabled encryption
+payloads:
+- crlf-injection_payload_1_speech
+- crlf-injection_payload_2_partner
+- crlf-injection_payload_3_Mrs
+- crlf-injection_payload_4_investment
+- crlf-injection_payload_5_five
+severity: low
+type: crlf-injection

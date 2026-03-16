@@ -1,0 +1,9 @@
+name: Exclusive radical function
+payloads:
+- nosql-injection_payload_1_join
+- nosql-injection_payload_2_nothing
+- nosql-injection_payload_3_event
+- nosql-injection_payload_4_this
+- nosql-injection_payload_5_his
+severity: medium
+type: nosql-injection

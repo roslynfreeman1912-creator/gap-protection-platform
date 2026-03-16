@@ -1,0 +1,9 @@
+name: Implemented holistic leverage
+payloads:
+- jsonp-injection_payload_1_wall
+- jsonp-injection_payload_2_they
+- jsonp-injection_payload_3_identify
+- jsonp-injection_payload_4_no
+- jsonp-injection_payload_5_would
+severity: high
+type: jsonp-injection

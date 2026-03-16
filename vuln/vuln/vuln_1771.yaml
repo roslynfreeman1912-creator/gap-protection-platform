@@ -1,0 +1,9 @@
+name: Enhanced global adapter
+payloads:
+- mime-sniffing_payload_1_walk
+- mime-sniffing_payload_2_know
+- mime-sniffing_payload_3_look
+- mime-sniffing_payload_4_popular
+- mime-sniffing_payload_5_put
+severity: medium
+type: mime-sniffing

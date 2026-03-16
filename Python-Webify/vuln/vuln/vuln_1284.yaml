@@ -1,0 +1,9 @@
+name: Re-engineered discrete emulation
+payloads:
+- path-traversal_payload_1_operation
+- path-traversal_payload_2_middle
+- path-traversal_payload_3_student
+- path-traversal_payload_4_here
+- path-traversal_payload_5_travel
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Enterprise-wide bottom-line access
+payloads:
+- host-header-injection_payload_1_seek
+- host-header-injection_payload_2_support
+- host-header-injection_payload_3_five
+- host-header-injection_payload_4_worry
+- host-header-injection_payload_5_new
+severity: low
+type: host-header-injection

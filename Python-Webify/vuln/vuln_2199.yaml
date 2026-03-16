@@ -1,0 +1,9 @@
+name: Innovative actuating matrices
+payloads:
+- csp-bypass_payload_1_we
+- csp-bypass_payload_2_those
+- csp-bypass_payload_3_difference
+- csp-bypass_payload_4_service
+- csp-bypass_payload_5_kind
+severity: medium
+type: csp-bypass

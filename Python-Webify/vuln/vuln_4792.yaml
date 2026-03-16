@@ -1,0 +1,9 @@
+name: Front-line optimizing projection
+payloads:
+- host-header-injection_payload_1_site
+- host-header-injection_payload_2_challenge
+- host-header-injection_payload_3_responsibility
+- host-header-injection_payload_4_alone
+- host-header-injection_payload_5_particular
+severity: low
+type: host-header-injection

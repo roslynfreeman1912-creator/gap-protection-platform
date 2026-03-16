@@ -1,0 +1,9 @@
+name: Right-sized methodical installation
+payloads:
+- command-injection_payload_1_difference
+- command-injection_payload_2_structure
+- command-injection_payload_3_citizen
+- command-injection_payload_4_across
+- command-injection_payload_5_new
+severity: critical
+type: command-injection

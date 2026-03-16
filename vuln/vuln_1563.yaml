@@ -1,0 +1,9 @@
+name: Proactive composite groupware
+payloads:
+- nosql-injection_payload_1_its
+- nosql-injection_payload_2_mind
+- nosql-injection_payload_3_course
+- nosql-injection_payload_4_author
+- nosql-injection_payload_5_Mr
+severity: low
+type: nosql-injection

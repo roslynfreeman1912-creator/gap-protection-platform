@@ -1,0 +1,9 @@
+name: Innovative real-time flexibility
+payloads:
+- lfi_payload_1_particularly
+- lfi_payload_2_white
+- lfi_payload_3_thought
+- lfi_payload_4_Democrat
+- lfi_payload_5_space
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: Focused background strategy
+payloads:
+- csp-bypass_payload_1_responsibility
+- csp-bypass_payload_2_charge
+- csp-bypass_payload_3_herself
+- csp-bypass_payload_4_what
+- csp-bypass_payload_5_box
+severity: low
+type: csp-bypass

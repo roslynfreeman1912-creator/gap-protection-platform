@@ -1,0 +1,9 @@
+name: Up-sized value-added conglomeration
+payloads:
+- lfi_payload_1_piece
+- lfi_payload_2_understand
+- lfi_payload_3_model
+- lfi_payload_4_fish
+- lfi_payload_5_style
+severity: critical
+type: lfi

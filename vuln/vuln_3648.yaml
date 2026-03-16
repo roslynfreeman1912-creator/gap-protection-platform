@@ -1,0 +1,9 @@
+name: Enterprise-wide 5thgeneration info-mediaries
+payloads:
+- hsts-misconfig_payload_1_common
+- hsts-misconfig_payload_2_usually
+- hsts-misconfig_payload_3_radio
+- hsts-misconfig_payload_4_parent
+- hsts-misconfig_payload_5_result
+severity: high
+type: hsts-misconfig

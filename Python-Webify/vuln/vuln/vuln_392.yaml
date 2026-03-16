@@ -1,0 +1,9 @@
+name: Reverse-engineered foreground artificial intelligence
+payloads:
+- host-header-injection_payload_1_plan
+- host-header-injection_payload_2_tell
+- host-header-injection_payload_3_use
+- host-header-injection_payload_4_rather
+- host-header-injection_payload_5_soldier
+severity: high
+type: host-header-injection

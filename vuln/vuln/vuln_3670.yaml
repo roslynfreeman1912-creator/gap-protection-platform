@@ -1,0 +1,9 @@
+name: Reduced well-modulated extranet
+payloads:
+- file-upload_payload_1_within
+- file-upload_payload_2_western
+- file-upload_payload_3_number
+- file-upload_payload_4_argue
+- file-upload_payload_5_something
+severity: medium
+type: file-upload

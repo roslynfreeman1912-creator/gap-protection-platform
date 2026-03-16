@@ -1,0 +1,9 @@
+name: Pre-emptive cohesive capacity
+payloads:
+- file-upload_payload_1_detail
+- file-upload_payload_2_must
+- file-upload_payload_3_here
+- file-upload_payload_4_at
+- file-upload_payload_5_something
+severity: low
+type: file-upload

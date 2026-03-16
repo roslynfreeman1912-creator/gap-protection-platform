@@ -1,0 +1,9 @@
+name: Advanced dedicated function
+payloads:
+- file-upload_payload_1_reveal
+- file-upload_payload_2_whatever
+- file-upload_payload_3_evidence
+- file-upload_payload_4_sound
+- file-upload_payload_5_now
+severity: low
+type: file-upload

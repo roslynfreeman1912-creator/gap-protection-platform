@@ -1,0 +1,9 @@
+name: Visionary composite throughput
+payloads:
+- nosql-injection_payload_1_thus
+- nosql-injection_payload_2_responsibility
+- nosql-injection_payload_3_arm
+- nosql-injection_payload_4_seven
+- nosql-injection_payload_5_short
+severity: high
+type: nosql-injection

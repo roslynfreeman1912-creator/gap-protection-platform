@@ -1,0 +1,9 @@
+name: Multi-tiered system-worthy flexibility
+payloads:
+- path-traversal_payload_1_culture
+- path-traversal_payload_2_organization
+- path-traversal_payload_3_deep
+- path-traversal_payload_4_outside
+- path-traversal_payload_5_who
+severity: high
+type: path-traversal

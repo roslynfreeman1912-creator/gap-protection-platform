@@ -1,0 +1,9 @@
+name: Versatile bottom-line structure
+payloads:
+- subdomain-takeover_payload_1_other
+- subdomain-takeover_payload_2_worker
+- subdomain-takeover_payload_3_player
+- subdomain-takeover_payload_4_prepare
+- subdomain-takeover_payload_5_west
+severity: medium
+type: subdomain-takeover

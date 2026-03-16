@@ -1,0 +1,9 @@
+name: Cross-group stable website
+payloads:
+- crlf-injection_payload_1_political
+- crlf-injection_payload_2_language
+- crlf-injection_payload_3_fall
+- crlf-injection_payload_4_forward
+- crlf-injection_payload_5_letter
+severity: low
+type: crlf-injection

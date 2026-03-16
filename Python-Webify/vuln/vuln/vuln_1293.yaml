@@ -1,0 +1,9 @@
+name: User-centric stable implementation
+payloads:
+- subdomain-takeover_payload_1_send
+- subdomain-takeover_payload_2_step
+- subdomain-takeover_payload_3_teacher
+- subdomain-takeover_payload_4_crime
+- subdomain-takeover_payload_5_much
+severity: medium
+type: subdomain-takeover

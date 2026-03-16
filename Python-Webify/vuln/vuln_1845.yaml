@@ -1,0 +1,9 @@
+name: Integrated maximized database
+payloads:
+- file-upload_payload_1_purpose
+- file-upload_payload_2_listen
+- file-upload_payload_3_service
+- file-upload_payload_4_education
+- file-upload_payload_5_interview
+severity: low
+type: file-upload

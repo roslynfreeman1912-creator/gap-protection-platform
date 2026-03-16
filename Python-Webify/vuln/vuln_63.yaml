@@ -1,0 +1,9 @@
+name: Multi-channeled 3rdgeneration concept
+payloads:
+- nosql-injection_payload_1_remain
+- nosql-injection_payload_2_try
+- nosql-injection_payload_3_edge
+- nosql-injection_payload_4_ago
+- nosql-injection_payload_5_lose
+severity: critical
+type: nosql-injection

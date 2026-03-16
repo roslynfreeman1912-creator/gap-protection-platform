@@ -1,0 +1,9 @@
+name: Multi-tiered real-time support
+payloads:
+- clickjacking_payload_1_natural
+- clickjacking_payload_2_buy
+- clickjacking_payload_3_up
+- clickjacking_payload_4_quality
+- clickjacking_payload_5_organization
+severity: low
+type: clickjacking

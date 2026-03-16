@@ -1,0 +1,9 @@
+name: Universal local customer loyalty
+payloads:
+- nosql-injection_payload_1_event
+- nosql-injection_payload_2_bar
+- nosql-injection_payload_3_inside
+- nosql-injection_payload_4_also
+- nosql-injection_payload_5_relationship
+severity: medium
+type: nosql-injection

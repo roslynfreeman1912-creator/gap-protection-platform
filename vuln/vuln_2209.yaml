@@ -1,0 +1,9 @@
+name: Sharable composite paradigm
+payloads:
+- path-traversal_payload_1_middle
+- path-traversal_payload_2_four
+- path-traversal_payload_3_decide
+- path-traversal_payload_4_somebody
+- path-traversal_payload_5_book
+severity: high
+type: path-traversal

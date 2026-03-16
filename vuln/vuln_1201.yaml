@@ -1,0 +1,9 @@
+name: Multi-channeled leadingedge collaboration
+payloads:
+- sql_payload_1_a
+- sql_payload_2_should
+- sql_payload_3_cultural
+- sql_payload_4_increase
+- sql_payload_5_science
+severity: critical
+type: sql

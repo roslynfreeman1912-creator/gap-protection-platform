@@ -1,0 +1,9 @@
+name: Inverse local process improvement
+payloads:
+- crlf-injection_payload_1_sit
+- crlf-injection_payload_2_act
+- crlf-injection_payload_3_build
+- crlf-injection_payload_4_tree
+- crlf-injection_payload_5_appear
+severity: medium
+type: crlf-injection

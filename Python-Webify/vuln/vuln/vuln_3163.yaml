@@ -1,0 +1,9 @@
+name: Quality-focused asymmetric intranet
+payloads:
+- nosql-injection_payload_1_clearly
+- nosql-injection_payload_2_majority
+- nosql-injection_payload_3_against
+- nosql-injection_payload_4_month
+- nosql-injection_payload_5_reality
+severity: medium
+type: nosql-injection

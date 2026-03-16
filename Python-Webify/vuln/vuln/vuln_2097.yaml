@@ -1,0 +1,9 @@
+name: Expanded scalable database
+payloads:
+- tabnabbing_payload_1_kitchen
+- tabnabbing_payload_2_affect
+- tabnabbing_payload_3_form
+- tabnabbing_payload_4_newspaper
+- tabnabbing_payload_5_three
+severity: critical
+type: tabnabbing

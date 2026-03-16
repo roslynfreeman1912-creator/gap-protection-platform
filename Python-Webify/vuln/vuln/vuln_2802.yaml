@@ -1,0 +1,9 @@
+name: Ergonomic holistic access
+payloads:
+- xss_payload_1_source
+- xss_payload_2_example
+- xss_payload_3_else
+- xss_payload_4_key
+- xss_payload_5_must
+severity: low
+type: xss

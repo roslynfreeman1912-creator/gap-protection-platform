@@ -1,0 +1,9 @@
+name: Secured exuding methodology
+payloads:
+- path-traversal_payload_1_firm
+- path-traversal_payload_2_interesting
+- path-traversal_payload_3_appear
+- path-traversal_payload_4_marriage
+- path-traversal_payload_5_he
+severity: low
+type: path-traversal

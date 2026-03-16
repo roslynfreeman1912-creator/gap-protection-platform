@@ -1,0 +1,9 @@
+name: Streamlined full-range analyzer
+payloads:
+- subdomain-takeover_payload_1_action
+- subdomain-takeover_payload_2_large
+- subdomain-takeover_payload_3_my
+- subdomain-takeover_payload_4_good
+- subdomain-takeover_payload_5_right
+severity: high
+type: subdomain-takeover

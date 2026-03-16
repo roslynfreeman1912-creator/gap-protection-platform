@@ -1,0 +1,9 @@
+name: Robust exuding artificial intelligence
+payloads:
+- crlf-injection_payload_1_difficult
+- crlf-injection_payload_2_chance
+- crlf-injection_payload_3_account
+- crlf-injection_payload_4_Mrs
+- crlf-injection_payload_5_page
+severity: critical
+type: crlf-injection

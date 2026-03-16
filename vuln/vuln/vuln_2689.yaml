@@ -1,0 +1,9 @@
+name: Persevering systemic frame
+payloads:
+- clickjacking_payload_1_seat
+- clickjacking_payload_2_development
+- clickjacking_payload_3_future
+- clickjacking_payload_4_blood
+- clickjacking_payload_5_seek
+severity: critical
+type: clickjacking

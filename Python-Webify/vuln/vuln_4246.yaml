@@ -1,0 +1,9 @@
+name: Exclusive encompassing open architecture
+payloads:
+- mime-sniffing_payload_1_fire
+- mime-sniffing_payload_2_today
+- mime-sniffing_payload_3_kind
+- mime-sniffing_payload_4_foreign
+- mime-sniffing_payload_5_risk
+severity: high
+type: mime-sniffing

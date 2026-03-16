@@ -1,0 +1,9 @@
+name: Face-to-face multimedia parallelism
+payloads:
+- clickjacking_payload_1_word
+- clickjacking_payload_2_me
+- clickjacking_payload_3_the
+- clickjacking_payload_4_what
+- clickjacking_payload_5_attack
+severity: critical
+type: clickjacking

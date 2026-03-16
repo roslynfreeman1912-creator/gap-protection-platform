@@ -1,0 +1,9 @@
+name: Polarized heuristic complexity
+payloads:
+- rfi_payload_1_gas
+- rfi_payload_2_allow
+- rfi_payload_3_great
+- rfi_payload_4_control
+- rfi_payload_5_around
+severity: high
+type: rfi

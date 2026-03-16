@@ -1,0 +1,9 @@
+name: Integrated coherent data-warehouse
+payloads:
+- clickjacking_payload_1_any
+- clickjacking_payload_2_until
+- clickjacking_payload_3_mean
+- clickjacking_payload_4_act
+- clickjacking_payload_5_individual
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Face-to-face disintermediate archive
+payloads:
+- host-header-injection_payload_1_consumer
+- host-header-injection_payload_2_decision
+- host-header-injection_payload_3_son
+- host-header-injection_payload_4_me
+- host-header-injection_payload_5_news
+severity: low
+type: host-header-injection

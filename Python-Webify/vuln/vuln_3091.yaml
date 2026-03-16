@@ -1,0 +1,9 @@
+name: Open-architected dynamic product
+payloads:
+- crlf-injection_payload_1_avoid
+- crlf-injection_payload_2_beat
+- crlf-injection_payload_3_election
+- crlf-injection_payload_4_hour
+- crlf-injection_payload_5_career
+severity: medium
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Exclusive executive infrastructure
+payloads:
+- path-traversal_payload_1_wind
+- path-traversal_payload_2_unit
+- path-traversal_payload_3_deal
+- path-traversal_payload_4_guess
+- path-traversal_payload_5_tonight
+severity: high
+type: path-traversal

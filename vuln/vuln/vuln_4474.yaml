@@ -1,0 +1,9 @@
+name: Cross-group background monitoring
+payloads:
+- csp-bypass_payload_1_school
+- csp-bypass_payload_2_economic
+- csp-bypass_payload_3_at
+- csp-bypass_payload_4_rest
+- csp-bypass_payload_5_area
+severity: critical
+type: csp-bypass

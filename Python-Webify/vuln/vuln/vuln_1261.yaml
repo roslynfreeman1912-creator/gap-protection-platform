@@ -1,0 +1,9 @@
+name: Polarized actuating alliance
+payloads:
+- xxe_payload_1_trip
+- xxe_payload_2_employee
+- xxe_payload_3_must
+- xxe_payload_4_first
+- xxe_payload_5_show
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Reduced transitional circuit
+payloads:
+- xss_payload_1_create
+- xss_payload_2_sell
+- xss_payload_3_little
+- xss_payload_4_people
+- xss_payload_5_own
+severity: critical
+type: xss

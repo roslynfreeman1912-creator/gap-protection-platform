@@ -1,0 +1,9 @@
+name: Secured local solution
+payloads:
+- lfi_payload_1_wear
+- lfi_payload_2_miss
+- lfi_payload_3_describe
+- lfi_payload_4_decade
+- lfi_payload_5_build
+severity: critical
+type: lfi

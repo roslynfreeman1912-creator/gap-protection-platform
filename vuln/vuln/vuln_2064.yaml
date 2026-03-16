@@ -1,0 +1,9 @@
+name: Cross-platform reciprocal algorithm
+payloads:
+- clickjacking_payload_1_base
+- clickjacking_payload_2_happy
+- clickjacking_payload_3_coach
+- clickjacking_payload_4_represent
+- clickjacking_payload_5_detail
+severity: high
+type: clickjacking

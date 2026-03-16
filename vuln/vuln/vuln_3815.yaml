@@ -1,0 +1,9 @@
+name: Vision-oriented empowering leverage
+payloads:
+- jsonp-injection_payload_1_performance
+- jsonp-injection_payload_2_include
+- jsonp-injection_payload_3_almost
+- jsonp-injection_payload_4_according
+- jsonp-injection_payload_5_to
+severity: critical
+type: jsonp-injection

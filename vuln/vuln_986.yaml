@@ -1,0 +1,9 @@
+name: Operative empowering methodology
+payloads:
+- xxe_payload_1_yet
+- xxe_payload_2_often
+- xxe_payload_3_church
+- xxe_payload_4_cause
+- xxe_payload_5_challenge
+severity: critical
+type: xxe

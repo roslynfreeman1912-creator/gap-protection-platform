@@ -1,0 +1,9 @@
+name: Enterprise-wide dedicated array
+payloads:
+- frame-injection_payload_1_view
+- frame-injection_payload_2_challenge
+- frame-injection_payload_3_to
+- frame-injection_payload_4_individual
+- frame-injection_payload_5_firm
+severity: medium
+type: frame-injection

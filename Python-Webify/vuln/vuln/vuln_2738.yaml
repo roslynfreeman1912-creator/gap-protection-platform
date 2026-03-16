@@ -1,0 +1,9 @@
+name: Proactive mobile strategy
+payloads:
+- nosql-injection_payload_1_indicate
+- nosql-injection_payload_2_deal
+- nosql-injection_payload_3_whom
+- nosql-injection_payload_4_act
+- nosql-injection_payload_5_visit
+severity: critical
+type: nosql-injection

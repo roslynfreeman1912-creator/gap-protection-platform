@@ -1,0 +1,9 @@
+name: Realigned real-time contingency
+payloads:
+- javascript-injection_payload_1_her
+- javascript-injection_payload_2_spring
+- javascript-injection_payload_3_smile
+- javascript-injection_payload_4_return
+- javascript-injection_payload_5_believe
+severity: low
+type: javascript-injection

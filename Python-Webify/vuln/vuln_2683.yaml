@@ -1,0 +1,9 @@
+name: Synergized web-enabled core
+payloads:
+- command-injection_payload_1_education
+- command-injection_payload_2_traditional
+- command-injection_payload_3_deal
+- command-injection_payload_4_national
+- command-injection_payload_5_economic
+severity: critical
+type: command-injection

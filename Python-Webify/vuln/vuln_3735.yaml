@@ -1,0 +1,9 @@
+name: Enhanced exuding matrices
+payloads:
+- open-redirect_payload_1_experience
+- open-redirect_payload_2_number
+- open-redirect_payload_3_building
+- open-redirect_payload_4_including
+- open-redirect_payload_5_order
+severity: medium
+type: open-redirect

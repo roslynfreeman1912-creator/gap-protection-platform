@@ -1,0 +1,9 @@
+name: Centralized neutral ability
+payloads:
+- file-upload_payload_1_such
+- file-upload_payload_2_student
+- file-upload_payload_3_class
+- file-upload_payload_4_smile
+- file-upload_payload_5_idea
+severity: low
+type: file-upload

@@ -1,0 +1,9 @@
+name: Cross-group human-resource customer loyalty
+payloads:
+- path-traversal_payload_1_garden
+- path-traversal_payload_2_human
+- path-traversal_payload_3_cut
+- path-traversal_payload_4_morning
+- path-traversal_payload_5_born
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Ameliorated background firmware
+payloads:
+- tabnabbing_payload_1_history
+- tabnabbing_payload_2_sing
+- tabnabbing_payload_3_half
+- tabnabbing_payload_4_inside
+- tabnabbing_payload_5_across
+severity: low
+type: tabnabbing

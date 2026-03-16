@@ -1,0 +1,9 @@
+name: Optional needs-based utilization
+payloads:
+- host-header-injection_payload_1_his
+- host-header-injection_payload_2_clearly
+- host-header-injection_payload_3_particularly
+- host-header-injection_payload_4_matter
+- host-header-injection_payload_5_water
+severity: high
+type: host-header-injection

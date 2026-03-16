@@ -1,0 +1,9 @@
+name: Devolved multimedia neural-net
+payloads:
+- hsts-misconfig_payload_1_heavy
+- hsts-misconfig_payload_2_owner
+- hsts-misconfig_payload_3_course
+- hsts-misconfig_payload_4_know
+- hsts-misconfig_payload_5_employee
+severity: medium
+type: hsts-misconfig

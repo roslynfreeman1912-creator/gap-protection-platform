@@ -1,0 +1,9 @@
+name: Focused 3rdgeneration migration
+payloads:
+- lfi_payload_1_significant
+- lfi_payload_2_good
+- lfi_payload_3_table
+- lfi_payload_4_security
+- lfi_payload_5_gun
+severity: critical
+type: lfi

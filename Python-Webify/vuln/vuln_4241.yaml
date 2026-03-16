@@ -1,0 +1,9 @@
+name: Multi-channeled non-volatile success
+payloads:
+- crlf-injection_payload_1_process
+- crlf-injection_payload_2_meet
+- crlf-injection_payload_3_lay
+- crlf-injection_payload_4_win
+- crlf-injection_payload_5_final
+severity: critical
+type: crlf-injection

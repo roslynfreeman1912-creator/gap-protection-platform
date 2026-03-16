@@ -1,0 +1,9 @@
+name: Triple-buffered client-driven strategy
+payloads:
+- file-upload_payload_1_bar
+- file-upload_payload_2_when
+- file-upload_payload_3_since
+- file-upload_payload_4_institution
+- file-upload_payload_5_section
+severity: low
+type: file-upload

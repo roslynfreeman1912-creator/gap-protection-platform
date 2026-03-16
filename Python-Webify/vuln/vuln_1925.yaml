@@ -1,0 +1,9 @@
+name: Integrated upward-trending analyzer
+payloads:
+- frame-injection_payload_1_heart
+- frame-injection_payload_2_thus
+- frame-injection_payload_3_difficult
+- frame-injection_payload_4_represent
+- frame-injection_payload_5_what
+severity: medium
+type: frame-injection

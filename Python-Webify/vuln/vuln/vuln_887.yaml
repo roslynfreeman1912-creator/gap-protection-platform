@@ -1,0 +1,9 @@
+name: Up-sized encompassing customer loyalty
+payloads:
+- ldap-injection_payload_1_region
+- ldap-injection_payload_2_three
+- ldap-injection_payload_3_suddenly
+- ldap-injection_payload_4_fight
+- ldap-injection_payload_5_increase
+severity: low
+type: ldap-injection

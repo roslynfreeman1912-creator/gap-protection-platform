@@ -1,0 +1,9 @@
+name: Ergonomic modular firmware
+payloads:
+- clickjacking_payload_1_thousand
+- clickjacking_payload_2_nor
+- clickjacking_payload_3_difference
+- clickjacking_payload_4_know
+- clickjacking_payload_5_reality
+severity: high
+type: clickjacking

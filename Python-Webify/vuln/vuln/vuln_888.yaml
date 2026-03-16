@@ -1,0 +1,9 @@
+name: Adaptive client-driven interface
+payloads:
+- nosql-injection_payload_1_once
+- nosql-injection_payload_2_political
+- nosql-injection_payload_3_now
+- nosql-injection_payload_4_campaign
+- nosql-injection_payload_5_over
+severity: high
+type: nosql-injection

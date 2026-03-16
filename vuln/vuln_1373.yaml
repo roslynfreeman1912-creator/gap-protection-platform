@@ -1,0 +1,9 @@
+name: Proactive full-range help-desk
+payloads:
+- hsts-misconfig_payload_1_face
+- hsts-misconfig_payload_2_stand
+- hsts-misconfig_payload_3_same
+- hsts-misconfig_payload_4_service
+- hsts-misconfig_payload_5_behind
+severity: high
+type: hsts-misconfig

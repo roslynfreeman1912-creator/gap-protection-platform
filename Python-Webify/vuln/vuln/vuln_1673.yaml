@@ -1,0 +1,9 @@
+name: Function-based zero tolerance algorithm
+payloads:
+- hsts-misconfig_payload_1_current
+- hsts-misconfig_payload_2_government
+- hsts-misconfig_payload_3_high
+- hsts-misconfig_payload_4_son
+- hsts-misconfig_payload_5_race
+severity: low
+type: hsts-misconfig

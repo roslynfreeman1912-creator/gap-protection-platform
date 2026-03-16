@@ -1,0 +1,9 @@
+name: Quality-focused stable interface
+payloads:
+- frame-injection_payload_1_I
+- frame-injection_payload_2_trouble
+- frame-injection_payload_3_imagine
+- frame-injection_payload_4_statement
+- frame-injection_payload_5_statement
+severity: critical
+type: frame-injection

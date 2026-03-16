@@ -1,0 +1,9 @@
+name: Ergonomic secondary collaboration
+payloads:
+- nosql-injection_payload_1_important
+- nosql-injection_payload_2_center
+- nosql-injection_payload_3_class
+- nosql-injection_payload_4_technology
+- nosql-injection_payload_5_total
+severity: critical
+type: nosql-injection

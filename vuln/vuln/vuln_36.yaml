@@ -1,0 +1,9 @@
+name: Up-sized zero administration extranet
+payloads:
+- xxe_payload_1_single
+- xxe_payload_2_growth
+- xxe_payload_3_time
+- xxe_payload_4_like
+- xxe_payload_5_boy
+severity: low
+type: xxe

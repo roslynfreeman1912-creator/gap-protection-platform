@@ -1,0 +1,9 @@
+name: User-friendly directional installation
+payloads:
+- hsts-misconfig_payload_1_campaign
+- hsts-misconfig_payload_2_something
+- hsts-misconfig_payload_3_director
+- hsts-misconfig_payload_4_trip
+- hsts-misconfig_payload_5_resource
+severity: high
+type: hsts-misconfig

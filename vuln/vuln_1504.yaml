@@ -1,0 +1,9 @@
+name: Adaptive directional challenge
+payloads:
+- rfi_payload_1_find
+- rfi_payload_2_civil
+- rfi_payload_3_enter
+- rfi_payload_4_relate
+- rfi_payload_5_buy
+severity: high
+type: rfi

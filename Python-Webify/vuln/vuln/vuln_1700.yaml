@@ -1,0 +1,9 @@
+name: Decentralized methodical customer loyalty
+payloads:
+- frame-injection_payload_1_produce
+- frame-injection_payload_2_certain
+- frame-injection_payload_3_film
+- frame-injection_payload_4_value
+- frame-injection_payload_5_movement
+severity: low
+type: frame-injection

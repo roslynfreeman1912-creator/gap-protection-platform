@@ -1,0 +1,9 @@
+name: Profit-focused upward-trending extranet
+payloads:
+- crlf-injection_payload_1_describe
+- crlf-injection_payload_2_much
+- crlf-injection_payload_3_wide
+- crlf-injection_payload_4_spring
+- crlf-injection_payload_5_building
+severity: low
+type: crlf-injection

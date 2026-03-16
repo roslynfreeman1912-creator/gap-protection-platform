@@ -1,0 +1,9 @@
+name: Team-oriented executive methodology
+payloads:
+- mime-sniffing_payload_1_during
+- mime-sniffing_payload_2_own
+- mime-sniffing_payload_3_near
+- mime-sniffing_payload_4_performance
+- mime-sniffing_payload_5_again
+severity: medium
+type: mime-sniffing

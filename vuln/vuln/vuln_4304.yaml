@@ -1,0 +1,9 @@
+name: Visionary object-oriented forecast
+payloads:
+- rfi_payload_1_day
+- rfi_payload_2_beautiful
+- rfi_payload_3_bar
+- rfi_payload_4_spring
+- rfi_payload_5_girl
+severity: medium
+type: rfi

@@ -1,0 +1,9 @@
+name: Grass-roots non-volatile flexibility
+payloads:
+- subdomain-takeover_payload_1_section
+- subdomain-takeover_payload_2_PM
+- subdomain-takeover_payload_3_finish
+- subdomain-takeover_payload_4_today
+- subdomain-takeover_payload_5_look
+severity: medium
+type: subdomain-takeover

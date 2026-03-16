@@ -1,0 +1,9 @@
+name: Integrated incremental synergy
+payloads:
+- xxe_payload_1_executive
+- xxe_payload_2_two
+- xxe_payload_3_small
+- xxe_payload_4_agree
+- xxe_payload_5_speak
+severity: medium
+type: xxe

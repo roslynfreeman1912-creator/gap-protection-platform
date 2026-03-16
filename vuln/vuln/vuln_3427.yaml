@@ -1,0 +1,9 @@
+name: Polarized stable approach
+payloads:
+- xss_payload_1_foreign
+- xss_payload_2_sister
+- xss_payload_3_new
+- xss_payload_4_international
+- xss_payload_5_three
+severity: critical
+type: xss

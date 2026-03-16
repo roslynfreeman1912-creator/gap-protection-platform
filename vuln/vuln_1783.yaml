@@ -1,0 +1,9 @@
+name: Front-line mission-critical architecture
+payloads:
+- command-injection_payload_1_stuff
+- command-injection_payload_2_born
+- command-injection_payload_3_however
+- command-injection_payload_4_nice
+- command-injection_payload_5_against
+severity: low
+type: command-injection

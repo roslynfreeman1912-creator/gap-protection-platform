@@ -1,0 +1,9 @@
+name: Optional client-driven leverage
+payloads:
+- clickjacking_payload_1_ground
+- clickjacking_payload_2_and
+- clickjacking_payload_3_claim
+- clickjacking_payload_4_information
+- clickjacking_payload_5_floor
+severity: critical
+type: clickjacking

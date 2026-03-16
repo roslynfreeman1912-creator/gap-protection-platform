@@ -1,0 +1,9 @@
+name: Centralized bi-directional extranet
+payloads:
+- hsts-misconfig_payload_1_conference
+- hsts-misconfig_payload_2_history
+- hsts-misconfig_payload_3_miss
+- hsts-misconfig_payload_4_federal
+- hsts-misconfig_payload_5_relate
+severity: high
+type: hsts-misconfig

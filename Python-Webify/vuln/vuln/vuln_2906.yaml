@@ -1,0 +1,9 @@
+name: Inverse content-based policy
+payloads:
+- csrf_payload_1_rule
+- csrf_payload_2_expert
+- csrf_payload_3_whose
+- csrf_payload_4_agree
+- csrf_payload_5_card
+severity: critical
+type: csrf

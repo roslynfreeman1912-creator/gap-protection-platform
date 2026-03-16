@@ -1,0 +1,9 @@
+name: Proactive intangible moratorium
+payloads:
+- javascript-injection_payload_1_nature
+- javascript-injection_payload_2_learn
+- javascript-injection_payload_3_quite
+- javascript-injection_payload_4_gun
+- javascript-injection_payload_5_executive
+severity: medium
+type: javascript-injection

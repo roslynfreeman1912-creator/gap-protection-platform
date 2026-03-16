@@ -1,0 +1,9 @@
+name: Advanced interactive database
+payloads:
+- host-header-injection_payload_1_low
+- host-header-injection_payload_2_indicate
+- host-header-injection_payload_3_able
+- host-header-injection_payload_4_including
+- host-header-injection_payload_5_safe
+severity: medium
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Fully-configurable discrete capacity
+payloads:
+- crlf-injection_payload_1_thank
+- crlf-injection_payload_2_citizen
+- crlf-injection_payload_3_up
+- crlf-injection_payload_4_especially
+- crlf-injection_payload_5_could
+severity: high
+type: crlf-injection

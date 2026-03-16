@@ -1,0 +1,9 @@
+name: Face-to-face real-time info-mediaries
+payloads:
+- rfi_payload_1_partner
+- rfi_payload_2_no
+- rfi_payload_3_want
+- rfi_payload_4_mean
+- rfi_payload_5_her
+severity: low
+type: rfi

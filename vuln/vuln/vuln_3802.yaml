@@ -1,0 +1,9 @@
+name: Self-enabling responsive complexity
+payloads:
+- xss_payload_1_get
+- xss_payload_2_when
+- xss_payload_3_defense
+- xss_payload_4_wish
+- xss_payload_5_quite
+severity: high
+type: xss

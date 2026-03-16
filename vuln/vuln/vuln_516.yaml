@@ -1,0 +1,9 @@
+name: Implemented mobile framework
+payloads:
+- crlf-injection_payload_1_support
+- crlf-injection_payload_2_action
+- crlf-injection_payload_3_right
+- crlf-injection_payload_4_market
+- crlf-injection_payload_5_lay
+severity: low
+type: crlf-injection

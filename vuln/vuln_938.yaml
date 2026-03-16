@@ -1,0 +1,9 @@
+name: Centralized national benchmark
+payloads:
+- nosql-injection_payload_1_Democrat
+- nosql-injection_payload_2_subject
+- nosql-injection_payload_3_half
+- nosql-injection_payload_4_learn
+- nosql-injection_payload_5_left
+severity: high
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Profit-focused bi-directional productivity
+payloads:
+- tabnabbing_payload_1_say
+- tabnabbing_payload_2_must
+- tabnabbing_payload_3_family
+- tabnabbing_payload_4_recognize
+- tabnabbing_payload_5_past
+severity: medium
+type: tabnabbing

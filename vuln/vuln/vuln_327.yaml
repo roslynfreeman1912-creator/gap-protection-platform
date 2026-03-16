@@ -1,0 +1,9 @@
+name: Universal demand-driven function
+payloads:
+- xss_payload_1_no
+- xss_payload_2_also
+- xss_payload_3_drive
+- xss_payload_4_those
+- xss_payload_5_leader
+severity: critical
+type: xss

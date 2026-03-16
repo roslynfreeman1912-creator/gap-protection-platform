@@ -1,0 +1,9 @@
+name: Advanced explicit website
+payloads:
+- clickjacking_payload_1_responsibility
+- clickjacking_payload_2_meeting
+- clickjacking_payload_3_marriage
+- clickjacking_payload_4_win
+- clickjacking_payload_5_how
+severity: critical
+type: clickjacking

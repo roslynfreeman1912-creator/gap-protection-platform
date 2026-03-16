@@ -1,0 +1,9 @@
+name: Extended local complexity
+payloads:
+- nosql-injection_payload_1_mother
+- nosql-injection_payload_2_position
+- nosql-injection_payload_3_perform
+- nosql-injection_payload_4_across
+- nosql-injection_payload_5_other
+severity: low
+type: nosql-injection

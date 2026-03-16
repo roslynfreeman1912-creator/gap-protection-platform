@@ -1,0 +1,9 @@
+name: Seamless bandwidth-monitored time-frame
+payloads:
+- tabnabbing_payload_1_standard
+- tabnabbing_payload_2_discussion
+- tabnabbing_payload_3_will
+- tabnabbing_payload_4_idea
+- tabnabbing_payload_5_while
+severity: medium
+type: tabnabbing

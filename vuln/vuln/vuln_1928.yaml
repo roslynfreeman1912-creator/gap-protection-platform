@@ -1,0 +1,9 @@
+name: Monitored dynamic capability
+payloads:
+- lfi_payload_1_now
+- lfi_payload_2_you
+- lfi_payload_3_kind
+- lfi_payload_4_environment
+- lfi_payload_5_attack
+severity: medium
+type: lfi

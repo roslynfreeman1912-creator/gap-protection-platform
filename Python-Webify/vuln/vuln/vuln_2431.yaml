@@ -1,0 +1,9 @@
+name: Digitized attitude-oriented software
+payloads:
+- csrf_payload_1_particularly
+- csrf_payload_2_part
+- csrf_payload_3_forward
+- csrf_payload_4_land
+- csrf_payload_5_black
+severity: high
+type: csrf

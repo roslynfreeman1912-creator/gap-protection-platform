@@ -1,0 +1,9 @@
+name: Devolved responsive data-warehouse
+payloads:
+- ssti_payload_1_foreign
+- ssti_payload_2_else
+- ssti_payload_3_write
+- ssti_payload_4_main
+- ssti_payload_5_message
+severity: medium
+type: ssti

@@ -1,0 +1,9 @@
+name: Streamlined real-time process improvement
+payloads:
+- xxe_payload_1_outside
+- xxe_payload_2_become
+- xxe_payload_3_traditional
+- xxe_payload_4_wind
+- xxe_payload_5_less
+severity: low
+type: xxe

@@ -1,0 +1,9 @@
+name: Digitized 24/7 pricing structure
+payloads:
+- lfi_payload_1_court
+- lfi_payload_2_street
+- lfi_payload_3_accept
+- lfi_payload_4_position
+- lfi_payload_5_sign
+severity: critical
+type: lfi

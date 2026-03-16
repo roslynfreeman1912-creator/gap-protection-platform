@@ -1,0 +1,9 @@
+name: Diverse tangible contingency
+payloads:
+- javascript-injection_payload_1_best
+- javascript-injection_payload_2_eight
+- javascript-injection_payload_3_baby
+- javascript-injection_payload_4_forget
+- javascript-injection_payload_5_same
+severity: high
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Ameliorated tertiary protocol
+payloads:
+- lfi_payload_1_parent
+- lfi_payload_2_compare
+- lfi_payload_3_attention
+- lfi_payload_4_type
+- lfi_payload_5_onto
+severity: high
+type: lfi

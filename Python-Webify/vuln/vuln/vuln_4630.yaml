@@ -1,0 +1,9 @@
+name: Intuitive asynchronous projection
+payloads:
+- ssrf_payload_1_clearly
+- ssrf_payload_2_that
+- ssrf_payload_3_top
+- ssrf_payload_4_white
+- ssrf_payload_5_recently
+severity: critical
+type: ssrf

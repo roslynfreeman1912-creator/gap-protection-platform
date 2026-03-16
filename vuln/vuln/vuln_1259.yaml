@@ -1,0 +1,9 @@
+name: Business-focused responsive data-warehouse
+payloads:
+- path-traversal_payload_1_I
+- path-traversal_payload_2_unit
+- path-traversal_payload_3_trade
+- path-traversal_payload_4_lawyer
+- path-traversal_payload_5_how
+severity: medium
+type: path-traversal

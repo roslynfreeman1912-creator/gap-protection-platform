@@ -1,0 +1,9 @@
+name: User-centric reciprocal toolset
+payloads:
+- clickjacking_payload_1_now
+- clickjacking_payload_2_nation
+- clickjacking_payload_3_foreign
+- clickjacking_payload_4_bank
+- clickjacking_payload_5_impact
+severity: critical
+type: clickjacking

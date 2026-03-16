@@ -1,0 +1,9 @@
+name: Synergistic bottom-line Graphic Interface
+payloads:
+- csp-bypass_payload_1_drive
+- csp-bypass_payload_2_everybody
+- csp-bypass_payload_3_fill
+- csp-bypass_payload_4_personal
+- csp-bypass_payload_5_threat
+severity: high
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Organic 3rdgeneration matrix
+payloads:
+- hsts-misconfig_payload_1_eye
+- hsts-misconfig_payload_2_laugh
+- hsts-misconfig_payload_3_begin
+- hsts-misconfig_payload_4_only
+- hsts-misconfig_payload_5_beautiful
+severity: medium
+type: hsts-misconfig

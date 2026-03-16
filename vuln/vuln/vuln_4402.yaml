@@ -1,0 +1,9 @@
+name: Synergized zero-defect middleware
+payloads:
+- xss_payload_1_always
+- xss_payload_2_only
+- xss_payload_3_TV
+- xss_payload_4_black
+- xss_payload_5_base
+severity: critical
+type: xss

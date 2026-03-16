@@ -1,0 +1,9 @@
+name: Extended web-enabled Graphical User Interface
+payloads:
+- hsts-misconfig_payload_1_test
+- hsts-misconfig_payload_2_social
+- hsts-misconfig_payload_3_determine
+- hsts-misconfig_payload_4_contain
+- hsts-misconfig_payload_5_remember
+severity: low
+type: hsts-misconfig

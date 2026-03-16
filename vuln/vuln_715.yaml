@@ -1,0 +1,9 @@
+name: Diverse multi-tasking definition
+payloads:
+- jsonp-injection_payload_1_your
+- jsonp-injection_payload_2_couple
+- jsonp-injection_payload_3_identify
+- jsonp-injection_payload_4_strong
+- jsonp-injection_payload_5_accept
+severity: high
+type: jsonp-injection

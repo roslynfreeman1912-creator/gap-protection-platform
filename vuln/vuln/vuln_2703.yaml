@@ -1,0 +1,9 @@
+name: Pre-emptive systemic artificial intelligence
+payloads:
+- lfi_payload_1_if
+- lfi_payload_2_wrong
+- lfi_payload_3_night
+- lfi_payload_4_need
+- lfi_payload_5_card
+severity: critical
+type: lfi

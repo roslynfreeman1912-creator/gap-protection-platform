@@ -1,0 +1,9 @@
+name: Persevering 5thgeneration analyzer
+payloads:
+- sql_payload_1_commercial
+- sql_payload_2_service
+- sql_payload_3_hour
+- sql_payload_4_somebody
+- sql_payload_5_not
+severity: medium
+type: sql

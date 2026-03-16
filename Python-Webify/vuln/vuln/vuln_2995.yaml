@@ -1,0 +1,9 @@
+name: Expanded encompassing parallelism
+payloads:
+- file-upload_payload_1_pretty
+- file-upload_payload_2_how
+- file-upload_payload_3_increase
+- file-upload_payload_4_quickly
+- file-upload_payload_5_century
+severity: critical
+type: file-upload

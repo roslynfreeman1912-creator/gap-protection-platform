@@ -1,0 +1,9 @@
+name: Polarized real-time strategy
+payloads:
+- ldap-injection_payload_1_drop
+- ldap-injection_payload_2_speak
+- ldap-injection_payload_3_include
+- ldap-injection_payload_4_none
+- ldap-injection_payload_5_parent
+severity: critical
+type: ldap-injection

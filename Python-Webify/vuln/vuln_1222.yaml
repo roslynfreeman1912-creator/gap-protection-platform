@@ -1,0 +1,9 @@
+name: Enterprise-wide clear-thinking application
+payloads:
+- tabnabbing_payload_1_every
+- tabnabbing_payload_2_carry
+- tabnabbing_payload_3_first
+- tabnabbing_payload_4_out
+- tabnabbing_payload_5_age
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Inverse responsive throughput
+payloads:
+- crlf-injection_payload_1_similar
+- crlf-injection_payload_2_relationship
+- crlf-injection_payload_3_TV
+- crlf-injection_payload_4_trade
+- crlf-injection_payload_5_tree
+severity: medium
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Seamless scalable strategy
+payloads:
+- rfi_payload_1_hair
+- rfi_payload_2_rock
+- rfi_payload_3_factor
+- rfi_payload_4_hospital
+- rfi_payload_5_house
+severity: high
+type: rfi

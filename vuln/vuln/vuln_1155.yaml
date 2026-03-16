@@ -1,0 +1,9 @@
+name: Profit-focused stable parallelism
+payloads:
+- ssrf_payload_1_entire
+- ssrf_payload_2_charge
+- ssrf_payload_3_east
+- ssrf_payload_4_treat
+- ssrf_payload_5_know
+severity: low
+type: ssrf

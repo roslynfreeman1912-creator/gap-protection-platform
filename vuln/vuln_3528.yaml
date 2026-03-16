@@ -1,0 +1,9 @@
+name: Distributed executive Local Area Network
+payloads:
+- lfi_payload_1_whether
+- lfi_payload_2_scene
+- lfi_payload_3_respond
+- lfi_payload_4_surface
+- lfi_payload_5_through
+severity: high
+type: lfi

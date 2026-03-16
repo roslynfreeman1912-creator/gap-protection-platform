@@ -1,0 +1,9 @@
+name: Mandatory zero tolerance support
+payloads:
+- open-redirect_payload_1_soon
+- open-redirect_payload_2_dark
+- open-redirect_payload_3_cut
+- open-redirect_payload_4_rather
+- open-redirect_payload_5_become
+severity: critical
+type: open-redirect

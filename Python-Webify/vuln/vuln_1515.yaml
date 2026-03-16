@@ -1,0 +1,9 @@
+name: Multi-tiered dedicated Internet solution
+payloads:
+- jsonp-injection_payload_1_threat
+- jsonp-injection_payload_2_cause
+- jsonp-injection_payload_3_this
+- jsonp-injection_payload_4_man
+- jsonp-injection_payload_5_cultural
+severity: high
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Distributed scalable initiative
+payloads:
+- xss_payload_1_house
+- xss_payload_2_special
+- xss_payload_3_decide
+- xss_payload_4_a
+- xss_payload_5_traditional
+severity: medium
+type: xss

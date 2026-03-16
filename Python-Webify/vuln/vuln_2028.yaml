@@ -1,0 +1,9 @@
+name: Team-oriented logistical task-force
+payloads:
+- lfi_payload_1_human
+- lfi_payload_2_bank
+- lfi_payload_3_song
+- lfi_payload_4_church
+- lfi_payload_5_college
+severity: high
+type: lfi

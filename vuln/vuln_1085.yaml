@@ -1,0 +1,9 @@
+name: Ergonomic motivating solution
+payloads:
+- open-redirect_payload_1_phone
+- open-redirect_payload_2_into
+- open-redirect_payload_3_seat
+- open-redirect_payload_4_imagine
+- open-redirect_payload_5_perhaps
+severity: high
+type: open-redirect

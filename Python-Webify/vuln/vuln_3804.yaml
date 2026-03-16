@@ -1,0 +1,9 @@
+name: Organic bandwidth-monitored forecast
+payloads:
+- rfi_payload_1_figure
+- rfi_payload_2_with
+- rfi_payload_3_market
+- rfi_payload_4_serve
+- rfi_payload_5_other
+severity: critical
+type: rfi

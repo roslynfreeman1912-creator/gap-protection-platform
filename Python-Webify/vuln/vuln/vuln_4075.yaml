@@ -1,0 +1,9 @@
+name: Total zero tolerance time-frame
+payloads:
+- frame-injection_payload_1_wrong
+- frame-injection_payload_2_board
+- frame-injection_payload_3_resource
+- frame-injection_payload_4_table
+- frame-injection_payload_5_thus
+severity: low
+type: frame-injection

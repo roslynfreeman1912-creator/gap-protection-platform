@@ -1,0 +1,9 @@
+name: Up-sized static Graphical User Interface
+payloads:
+- frame-injection_payload_1_similar
+- frame-injection_payload_2_sort
+- frame-injection_payload_3_usually
+- frame-injection_payload_4_front
+- frame-injection_payload_5_bad
+severity: medium
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Focused interactive success
+payloads:
+- subdomain-takeover_payload_1_keep
+- subdomain-takeover_payload_2_performance
+- subdomain-takeover_payload_3_attorney
+- subdomain-takeover_payload_4_radio
+- subdomain-takeover_payload_5_people
+severity: critical
+type: subdomain-takeover

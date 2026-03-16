@@ -1,0 +1,9 @@
+name: Multi-channeled dynamic matrix
+payloads:
+- host-header-injection_payload_1_place
+- host-header-injection_payload_2_than
+- host-header-injection_payload_3_institution
+- host-header-injection_payload_4_report
+- host-header-injection_payload_5_rock
+severity: low
+type: host-header-injection

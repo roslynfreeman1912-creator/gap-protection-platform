@@ -1,0 +1,9 @@
+name: Monitored empowering groupware
+payloads:
+- hsts-misconfig_payload_1_to
+- hsts-misconfig_payload_2_civil
+- hsts-misconfig_payload_3_game
+- hsts-misconfig_payload_4_pick
+- hsts-misconfig_payload_5_identify
+severity: critical
+type: hsts-misconfig

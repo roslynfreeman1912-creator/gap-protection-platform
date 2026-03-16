@@ -1,0 +1,9 @@
+name: Proactive scalable Local Area Network
+payloads:
+- frame-injection_payload_1_practice
+- frame-injection_payload_2_very
+- frame-injection_payload_3_set
+- frame-injection_payload_4_difficult
+- frame-injection_payload_5_assume
+severity: high
+type: frame-injection

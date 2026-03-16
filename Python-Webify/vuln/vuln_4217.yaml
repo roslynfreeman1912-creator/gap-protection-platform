@@ -1,0 +1,9 @@
+name: Visionary intermediate open system
+payloads:
+- host-header-injection_payload_1_from
+- host-header-injection_payload_2_suggest
+- host-header-injection_payload_3_window
+- host-header-injection_payload_4_street
+- host-header-injection_payload_5_force
+severity: low
+type: host-header-injection

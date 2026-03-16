@@ -1,0 +1,9 @@
+name: Configurable multimedia implementation
+payloads:
+- nosql-injection_payload_1_fund
+- nosql-injection_payload_2_like
+- nosql-injection_payload_3_land
+- nosql-injection_payload_4_seem
+- nosql-injection_payload_5_nothing
+severity: critical
+type: nosql-injection

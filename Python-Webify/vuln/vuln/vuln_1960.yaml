@@ -1,0 +1,9 @@
+name: Realigned tertiary workforce
+payloads:
+- open-redirect_payload_1_history
+- open-redirect_payload_2_someone
+- open-redirect_payload_3_example
+- open-redirect_payload_4_age
+- open-redirect_payload_5_foot
+severity: low
+type: open-redirect

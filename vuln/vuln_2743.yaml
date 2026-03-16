@@ -1,0 +1,9 @@
+name: Sharable asynchronous definition
+payloads:
+- subdomain-takeover_payload_1_knowledge
+- subdomain-takeover_payload_2_billion
+- subdomain-takeover_payload_3_both
+- subdomain-takeover_payload_4_local
+- subdomain-takeover_payload_5_get
+severity: medium
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Grass-roots leadingedge knowledge user
+payloads:
+- lfi_payload_1_address
+- lfi_payload_2_simply
+- lfi_payload_3_protect
+- lfi_payload_4_nor
+- lfi_payload_5_between
+severity: critical
+type: lfi

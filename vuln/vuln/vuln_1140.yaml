@@ -1,0 +1,9 @@
+name: Monitored asymmetric moderator
+payloads:
+- jsonp-injection_payload_1_staff
+- jsonp-injection_payload_2_measure
+- jsonp-injection_payload_3_moment
+- jsonp-injection_payload_4_dream
+- jsonp-injection_payload_5_enjoy
+severity: high
+type: jsonp-injection

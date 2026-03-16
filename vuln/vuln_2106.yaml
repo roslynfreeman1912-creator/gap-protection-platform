@@ -1,0 +1,9 @@
+name: User-centric intangible knowledgebase
+payloads:
+- csrf_payload_1_culture
+- csrf_payload_2_leg
+- csrf_payload_3_argue
+- csrf_payload_4_power
+- csrf_payload_5_major
+severity: low
+type: csrf

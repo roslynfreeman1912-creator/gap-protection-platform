@@ -1,0 +1,9 @@
+name: Synchronized logistical infrastructure
+payloads:
+- csp-bypass_payload_1_relate
+- csp-bypass_payload_2_marriage
+- csp-bypass_payload_3_thank
+- csp-bypass_payload_4_lawyer
+- csp-bypass_payload_5_next
+severity: medium
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Monitored tangible service-desk
+payloads:
+- ssrf_payload_1_career
+- ssrf_payload_2_security
+- ssrf_payload_3_onto
+- ssrf_payload_4_certain
+- ssrf_payload_5_social
+severity: high
+type: ssrf

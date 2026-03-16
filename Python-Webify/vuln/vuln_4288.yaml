@@ -1,0 +1,9 @@
+name: Fully-configurable attitude-oriented superstructure
+payloads:
+- nosql-injection_payload_1_court
+- nosql-injection_payload_2_hope
+- nosql-injection_payload_3_peace
+- nosql-injection_payload_4_pretty
+- nosql-injection_payload_5_arm
+severity: critical
+type: nosql-injection

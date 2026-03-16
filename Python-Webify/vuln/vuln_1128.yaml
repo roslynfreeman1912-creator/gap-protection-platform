@@ -1,0 +1,9 @@
+name: Expanded zero tolerance strategy
+payloads:
+- lfi_payload_1_since
+- lfi_payload_2_able
+- lfi_payload_3_matter
+- lfi_payload_4_conference
+- lfi_payload_5_tend
+severity: critical
+type: lfi

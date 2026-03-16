@@ -1,0 +1,9 @@
+name: Sharable mobile approach
+payloads:
+- lfi_payload_1_spend
+- lfi_payload_2_difference
+- lfi_payload_3_president
+- lfi_payload_4_couple
+- lfi_payload_5_structure
+severity: critical
+type: lfi

@@ -1,0 +1,9 @@
+name: Cross-group holistic hardware
+payloads:
+- lfi_payload_1_begin
+- lfi_payload_2_chance
+- lfi_payload_3_just
+- lfi_payload_4_actually
+- lfi_payload_5_prepare
+severity: medium
+type: lfi

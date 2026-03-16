@@ -1,0 +1,9 @@
+name: Ameliorated disintermediate data-warehouse
+payloads:
+- clickjacking_payload_1_hour
+- clickjacking_payload_2_chance
+- clickjacking_payload_3_nothing
+- clickjacking_payload_4_leg
+- clickjacking_payload_5_shake
+severity: critical
+type: clickjacking

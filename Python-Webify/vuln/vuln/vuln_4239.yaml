@@ -1,0 +1,9 @@
+name: Synchronized logistical instruction set
+payloads:
+- clickjacking_payload_1_score
+- clickjacking_payload_2_land
+- clickjacking_payload_3_itself
+- clickjacking_payload_4_affect
+- clickjacking_payload_5_reality
+severity: low
+type: clickjacking

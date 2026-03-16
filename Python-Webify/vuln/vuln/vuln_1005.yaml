@@ -1,0 +1,9 @@
+name: Networked holistic monitoring
+payloads:
+- ssrf_payload_1_color
+- ssrf_payload_2_political
+- ssrf_payload_3_by
+- ssrf_payload_4_Mr
+- ssrf_payload_5_manager
+severity: medium
+type: ssrf

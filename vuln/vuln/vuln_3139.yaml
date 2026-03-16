@@ -1,0 +1,9 @@
+name: Diverse local structure
+payloads:
+- clickjacking_payload_1_budget
+- clickjacking_payload_2_trouble
+- clickjacking_payload_3_now
+- clickjacking_payload_4_more
+- clickjacking_payload_5_author
+severity: high
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Profit-focused coherent moderator
+payloads:
+- javascript-injection_payload_1_TV
+- javascript-injection_payload_2_run
+- javascript-injection_payload_3_within
+- javascript-injection_payload_4_over
+- javascript-injection_payload_5_difficult
+severity: low
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Decentralized exuding product
+payloads:
+- ssrf_payload_1_low
+- ssrf_payload_2_whatever
+- ssrf_payload_3_lawyer
+- ssrf_payload_4_foot
+- ssrf_payload_5_oil
+severity: critical
+type: ssrf

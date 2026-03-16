@@ -1,0 +1,9 @@
+name: Networked intangible database
+payloads:
+- rfi_payload_1_others
+- rfi_payload_2_to
+- rfi_payload_3_easy
+- rfi_payload_4_dog
+- rfi_payload_5_difficult
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Optional systemic application
+payloads:
+- clickjacking_payload_1_should
+- clickjacking_payload_2_your
+- clickjacking_payload_3_black
+- clickjacking_payload_4_arrive
+- clickjacking_payload_5_development
+severity: high
+type: clickjacking

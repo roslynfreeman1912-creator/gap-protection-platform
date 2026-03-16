@@ -1,0 +1,9 @@
+name: Optional bandwidth-monitored capability
+payloads:
+- csrf_payload_1_public
+- csrf_payload_2_argue
+- csrf_payload_3_north
+- csrf_payload_4_system
+- csrf_payload_5_present
+severity: medium
+type: csrf

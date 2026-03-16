@@ -1,0 +1,9 @@
+name: Universal dedicated middleware
+payloads:
+- xss_payload_1_author
+- xss_payload_2_girl
+- xss_payload_3_people
+- xss_payload_4_social
+- xss_payload_5_note
+severity: critical
+type: xss

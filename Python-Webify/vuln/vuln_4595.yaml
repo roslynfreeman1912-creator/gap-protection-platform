@@ -1,0 +1,9 @@
+name: Public-key exuding extranet
+payloads:
+- file-upload_payload_1_that
+- file-upload_payload_2_world
+- file-upload_payload_3_economy
+- file-upload_payload_4_goal
+- file-upload_payload_5_future
+severity: medium
+type: file-upload

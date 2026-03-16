@@ -1,0 +1,9 @@
+name: Right-sized interactive matrix
+payloads:
+- subdomain-takeover_payload_1_free
+- subdomain-takeover_payload_2_center
+- subdomain-takeover_payload_3_development
+- subdomain-takeover_payload_4_everything
+- subdomain-takeover_payload_5_tree
+severity: high
+type: subdomain-takeover

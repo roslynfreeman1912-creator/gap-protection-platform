@@ -1,0 +1,9 @@
+name: Fundamental national moratorium
+payloads:
+- rfi_payload_1_never
+- rfi_payload_2_medical
+- rfi_payload_3_food
+- rfi_payload_4_I
+- rfi_payload_5_result
+severity: low
+type: rfi

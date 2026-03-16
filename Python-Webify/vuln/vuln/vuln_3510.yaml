@@ -1,0 +1,9 @@
+name: Virtual 4thgeneration pricing structure
+payloads:
+- open-redirect_payload_1_pick
+- open-redirect_payload_2_class
+- open-redirect_payload_3_become
+- open-redirect_payload_4_over
+- open-redirect_payload_5_work
+severity: low
+type: open-redirect

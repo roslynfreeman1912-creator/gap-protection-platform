@@ -1,0 +1,9 @@
+name: Synergized multi-tasking service-desk
+payloads:
+- hsts-misconfig_payload_1_create
+- hsts-misconfig_payload_2_message
+- hsts-misconfig_payload_3_early
+- hsts-misconfig_payload_4_entire
+- hsts-misconfig_payload_5_simply
+severity: critical
+type: hsts-misconfig

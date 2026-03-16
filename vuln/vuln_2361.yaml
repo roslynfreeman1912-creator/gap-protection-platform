@@ -1,0 +1,9 @@
+name: Profit-focused leadingedge framework
+payloads:
+- xxe_payload_1_free
+- xxe_payload_2_run
+- xxe_payload_3_goal
+- xxe_payload_4_smile
+- xxe_payload_5_allow
+severity: low
+type: xxe

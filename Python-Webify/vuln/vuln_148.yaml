@@ -1,0 +1,9 @@
+name: Fundamental methodical intranet
+payloads:
+- hsts-misconfig_payload_1_agency
+- hsts-misconfig_payload_2_protect
+- hsts-misconfig_payload_3_do
+- hsts-misconfig_payload_4_pull
+- hsts-misconfig_payload_5_south
+severity: high
+type: hsts-misconfig

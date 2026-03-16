@@ -1,0 +1,9 @@
+name: Down-sized disintermediate projection
+payloads:
+- crlf-injection_payload_1_also
+- crlf-injection_payload_2_thing
+- crlf-injection_payload_3_national
+- crlf-injection_payload_4_brother
+- crlf-injection_payload_5_listen
+severity: low
+type: crlf-injection

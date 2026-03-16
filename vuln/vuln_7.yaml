@@ -1,0 +1,9 @@
+name: Quality-focused 5thgeneration synergy
+payloads:
+- ssti_payload_1_oil
+- ssti_payload_2_early
+- ssti_payload_3_chair
+- ssti_payload_4_trade
+- ssti_payload_5_child
+severity: low
+type: ssti

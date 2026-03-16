@@ -1,0 +1,9 @@
+name: Managed attitude-oriented access
+payloads:
+- host-header-injection_payload_1_like
+- host-header-injection_payload_2_main
+- host-header-injection_payload_3_where
+- host-header-injection_payload_4_already
+- host-header-injection_payload_5_color
+severity: critical
+type: host-header-injection

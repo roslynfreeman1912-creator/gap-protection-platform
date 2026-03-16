@@ -1,0 +1,9 @@
+name: Intuitive incremental policy
+payloads:
+- crlf-injection_payload_1_its
+- crlf-injection_payload_2_message
+- crlf-injection_payload_3_without
+- crlf-injection_payload_4_information
+- crlf-injection_payload_5_century
+severity: high
+type: crlf-injection

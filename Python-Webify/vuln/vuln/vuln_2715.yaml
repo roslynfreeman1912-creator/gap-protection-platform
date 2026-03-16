@@ -1,0 +1,9 @@
+name: Multi-channeled systemic artificial intelligence
+payloads:
+- jsonp-injection_payload_1_something
+- jsonp-injection_payload_2_hospital
+- jsonp-injection_payload_3_little
+- jsonp-injection_payload_4_become
+- jsonp-injection_payload_5_enter
+severity: critical
+type: jsonp-injection

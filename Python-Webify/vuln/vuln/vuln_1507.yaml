@@ -1,0 +1,9 @@
+name: Reverse-engineered tertiary secured line
+payloads:
+- ssti_payload_1_friend
+- ssti_payload_2_ever
+- ssti_payload_3_into
+- ssti_payload_4_market
+- ssti_payload_5_sea
+severity: medium
+type: ssti

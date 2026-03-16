@@ -1,0 +1,9 @@
+name: Devolved analyzing collaboration
+payloads:
+- tabnabbing_payload_1_time
+- tabnabbing_payload_2_across
+- tabnabbing_payload_3_senior
+- tabnabbing_payload_4_make
+- tabnabbing_payload_5_turn
+severity: critical
+type: tabnabbing

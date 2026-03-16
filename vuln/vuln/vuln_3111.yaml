@@ -1,0 +1,9 @@
+name: Digitized logistical help-desk
+payloads:
+- xxe_payload_1_say
+- xxe_payload_2_them
+- xxe_payload_3_teach
+- xxe_payload_4_sort
+- xxe_payload_5_something
+severity: low
+type: xxe

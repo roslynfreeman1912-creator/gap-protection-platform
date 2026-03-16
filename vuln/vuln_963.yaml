@@ -1,0 +1,9 @@
+name: Cloned logistical productivity
+payloads:
+- nosql-injection_payload_1_contain
+- nosql-injection_payload_2_another
+- nosql-injection_payload_3_building
+- nosql-injection_payload_4_five
+- nosql-injection_payload_5_report
+severity: high
+type: nosql-injection

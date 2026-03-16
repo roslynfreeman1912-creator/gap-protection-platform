@@ -1,0 +1,9 @@
+name: Switchable full-range frame
+payloads:
+- subdomain-takeover_payload_1_reality
+- subdomain-takeover_payload_2_control
+- subdomain-takeover_payload_3_best
+- subdomain-takeover_payload_4_mind
+- subdomain-takeover_payload_5_blue
+severity: low
+type: subdomain-takeover

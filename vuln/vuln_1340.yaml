@@ -1,0 +1,9 @@
+name: Triple-buffered optimal capacity
+payloads:
+- jsonp-injection_payload_1_plan
+- jsonp-injection_payload_2_increase
+- jsonp-injection_payload_3_hit
+- jsonp-injection_payload_4_case
+- jsonp-injection_payload_5_everybody
+severity: low
+type: jsonp-injection

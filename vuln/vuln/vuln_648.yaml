@@ -1,0 +1,9 @@
+name: Operative homogeneous conglomeration
+payloads:
+- hsts-misconfig_payload_1_accept
+- hsts-misconfig_payload_2_step
+- hsts-misconfig_payload_3_plan
+- hsts-misconfig_payload_4_put
+- hsts-misconfig_payload_5_their
+severity: critical
+type: hsts-misconfig

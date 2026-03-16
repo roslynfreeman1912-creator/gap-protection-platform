@@ -1,0 +1,9 @@
+name: Business-focused contextually-based paradigm
+payloads:
+- subdomain-takeover_payload_1_fall
+- subdomain-takeover_payload_2_staff
+- subdomain-takeover_payload_3_degree
+- subdomain-takeover_payload_4_east
+- subdomain-takeover_payload_5_physical
+severity: high
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Ameliorated value-added function
+payloads:
+- xxe_payload_1_course
+- xxe_payload_2_hotel
+- xxe_payload_3_age
+- xxe_payload_4_action
+- xxe_payload_5_police
+severity: low
+type: xxe

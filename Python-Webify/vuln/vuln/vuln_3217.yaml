@@ -1,0 +1,9 @@
+name: Ergonomic fault-tolerant policy
+payloads:
+- host-header-injection_payload_1_meet
+- host-header-injection_payload_2_he
+- host-header-injection_payload_3_federal
+- host-header-injection_payload_4_on
+- host-header-injection_payload_5_create
+severity: high
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Polarized intermediate process improvement
+payloads:
+- path-traversal_payload_1_cost
+- path-traversal_payload_2_out
+- path-traversal_payload_3_green
+- path-traversal_payload_4_sing
+- path-traversal_payload_5_there
+severity: high
+type: path-traversal

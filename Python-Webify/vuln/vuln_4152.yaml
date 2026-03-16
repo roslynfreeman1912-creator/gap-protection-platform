@@ -1,0 +1,9 @@
+name: Total didactic instruction set
+payloads:
+- xss_payload_1_family
+- xss_payload_2_all
+- xss_payload_3_executive
+- xss_payload_4_continue
+- xss_payload_5_chair
+severity: high
+type: xss

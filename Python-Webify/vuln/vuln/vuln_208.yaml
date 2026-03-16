@@ -1,0 +1,9 @@
+name: Cross-platform upward-trending strategy
+payloads:
+- command-injection_payload_1_activity
+- command-injection_payload_2_good
+- command-injection_payload_3_size
+- command-injection_payload_4_piece
+- command-injection_payload_5_its
+severity: medium
+type: command-injection

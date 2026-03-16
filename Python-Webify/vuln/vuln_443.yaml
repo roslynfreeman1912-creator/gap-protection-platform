@@ -1,0 +1,9 @@
+name: Visionary intermediate function
+payloads:
+- subdomain-takeover_payload_1_hot
+- subdomain-takeover_payload_2_many
+- subdomain-takeover_payload_3_other
+- subdomain-takeover_payload_4_up
+- subdomain-takeover_payload_5_movie
+severity: medium
+type: subdomain-takeover

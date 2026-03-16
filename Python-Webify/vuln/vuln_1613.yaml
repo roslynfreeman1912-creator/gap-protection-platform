@@ -1,0 +1,9 @@
+name: Open-source well-modulated neural-net
+payloads:
+- nosql-injection_payload_1_employee
+- nosql-injection_payload_2_mind
+- nosql-injection_payload_3_expect
+- nosql-injection_payload_4_a
+- nosql-injection_payload_5_political
+severity: medium
+type: nosql-injection

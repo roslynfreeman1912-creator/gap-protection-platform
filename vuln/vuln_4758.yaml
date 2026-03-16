@@ -1,0 +1,9 @@
+name: Decentralized client-server budgetary management
+payloads:
+- command-injection_payload_1_husband
+- command-injection_payload_2_increase
+- command-injection_payload_3_point
+- command-injection_payload_4_church
+- command-injection_payload_5_learn
+severity: critical
+type: command-injection

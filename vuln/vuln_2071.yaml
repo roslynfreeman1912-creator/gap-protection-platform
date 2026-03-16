@@ -1,0 +1,9 @@
+name: Intuitive transitional middleware
+payloads:
+- mime-sniffing_payload_1_rise
+- mime-sniffing_payload_2_practice
+- mime-sniffing_payload_3_cultural
+- mime-sniffing_payload_4_commercial
+- mime-sniffing_payload_5_admit
+severity: critical
+type: mime-sniffing

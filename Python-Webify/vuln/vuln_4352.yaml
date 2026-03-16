@@ -1,0 +1,9 @@
+name: Adaptive transitional challenge
+payloads:
+- xss_payload_1_particularly
+- xss_payload_2_air
+- xss_payload_3_team
+- xss_payload_4_move
+- xss_payload_5_raise
+severity: low
+type: xss

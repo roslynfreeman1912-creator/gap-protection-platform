@@ -1,0 +1,9 @@
+name: User-centric next generation conglomeration
+payloads:
+- mime-sniffing_payload_1_some
+- mime-sniffing_payload_2_site
+- mime-sniffing_payload_3_than
+- mime-sniffing_payload_4_adult
+- mime-sniffing_payload_5_television
+severity: critical
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Adaptive neutral benchmark
+payloads:
+- jsonp-injection_payload_1_candidate
+- jsonp-injection_payload_2_central
+- jsonp-injection_payload_3_just
+- jsonp-injection_payload_4_be
+- jsonp-injection_payload_5_treat
+severity: high
+type: jsonp-injection

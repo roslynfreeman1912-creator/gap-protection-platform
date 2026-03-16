@@ -1,0 +1,9 @@
+name: Fundamental fault-tolerant protocol
+payloads:
+- open-redirect_payload_1_politics
+- open-redirect_payload_2_trade
+- open-redirect_payload_3_of
+- open-redirect_payload_4_mouth
+- open-redirect_payload_5_check
+severity: critical
+type: open-redirect

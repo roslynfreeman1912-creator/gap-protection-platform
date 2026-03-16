@@ -1,0 +1,9 @@
+name: Profound scalable paradigm
+payloads:
+- path-traversal_payload_1_general
+- path-traversal_payload_2_win
+- path-traversal_payload_3_international
+- path-traversal_payload_4_compare
+- path-traversal_payload_5_American
+severity: high
+type: path-traversal

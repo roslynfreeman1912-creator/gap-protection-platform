@@ -1,0 +1,9 @@
+name: Profit-focused explicit time-frame
+payloads:
+- tabnabbing_payload_1_beat
+- tabnabbing_payload_2_eye
+- tabnabbing_payload_3_level
+- tabnabbing_payload_4_street
+- tabnabbing_payload_5_technology
+severity: critical
+type: tabnabbing

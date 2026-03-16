@@ -1,0 +1,9 @@
+name: Synergistic national focus group
+payloads:
+- host-header-injection_payload_1_green
+- host-header-injection_payload_2_bag
+- host-header-injection_payload_3_seem
+- host-header-injection_payload_4_deal
+- host-header-injection_payload_5_why
+severity: medium
+type: host-header-injection

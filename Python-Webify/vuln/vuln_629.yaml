@@ -1,0 +1,9 @@
+name: Robust impactful help-desk
+payloads:
+- rfi_payload_1_century
+- rfi_payload_2_six
+- rfi_payload_3_detail
+- rfi_payload_4_impact
+- rfi_payload_5_knowledge
+severity: critical
+type: rfi

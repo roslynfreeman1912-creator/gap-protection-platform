@@ -1,0 +1,9 @@
+name: Ameliorated executive structure
+payloads:
+- ldap-injection_payload_1_another
+- ldap-injection_payload_2_pattern
+- ldap-injection_payload_3_relate
+- ldap-injection_payload_4_race
+- ldap-injection_payload_5_today
+severity: low
+type: ldap-injection

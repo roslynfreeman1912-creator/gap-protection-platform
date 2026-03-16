@@ -1,0 +1,9 @@
+name: Managed directional project
+payloads:
+- path-traversal_payload_1_art
+- path-traversal_payload_2_husband
+- path-traversal_payload_3_international
+- path-traversal_payload_4_treat
+- path-traversal_payload_5_experience
+severity: low
+type: path-traversal

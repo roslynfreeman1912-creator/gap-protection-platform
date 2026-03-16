@@ -1,0 +1,9 @@
+name: User-friendly impactful hierarchy
+payloads:
+- xss_payload_1_threat
+- xss_payload_2_fact
+- xss_payload_3_seem
+- xss_payload_4_half
+- xss_payload_5_make
+severity: low
+type: xss

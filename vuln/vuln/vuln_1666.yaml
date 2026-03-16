@@ -1,0 +1,9 @@
+name: Proactive local attitude
+payloads:
+- crlf-injection_payload_1_program
+- crlf-injection_payload_2_company
+- crlf-injection_payload_3_born
+- crlf-injection_payload_4_interview
+- crlf-injection_payload_5_western
+severity: critical
+type: crlf-injection

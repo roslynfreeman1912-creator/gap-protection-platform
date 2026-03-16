@@ -1,0 +1,9 @@
+name: Up-sized actuating artificial intelligence
+payloads:
+- subdomain-takeover_payload_1_note
+- subdomain-takeover_payload_2_discussion
+- subdomain-takeover_payload_3_choice
+- subdomain-takeover_payload_4_benefit
+- subdomain-takeover_payload_5_sign
+severity: critical
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Switchable value-added Graphic Interface
+payloads:
+- file-upload_payload_1_lead
+- file-upload_payload_2_head
+- file-upload_payload_3_although
+- file-upload_payload_4_class
+- file-upload_payload_5_pull
+severity: high
+type: file-upload

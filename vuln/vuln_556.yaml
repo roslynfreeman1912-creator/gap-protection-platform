@@ -1,0 +1,9 @@
+name: Business-focused dynamic Local Area Network
+payloads:
+- csrf_payload_1_coach
+- csrf_payload_2_property
+- csrf_payload_3_certain
+- csrf_payload_4_staff
+- csrf_payload_5_example
+severity: medium
+type: csrf

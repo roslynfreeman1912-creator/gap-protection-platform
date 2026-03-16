@@ -1,0 +1,9 @@
+name: Virtual fault-tolerant model
+payloads:
+- file-upload_payload_1_especially
+- file-upload_payload_2_quite
+- file-upload_payload_3_door
+- file-upload_payload_4_attorney
+- file-upload_payload_5_film
+severity: low
+type: file-upload

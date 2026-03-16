@@ -1,0 +1,9 @@
+name: Down-sized mobile matrix
+payloads:
+- xss_payload_1_real
+- xss_payload_2_before
+- xss_payload_3_ground
+- xss_payload_4_research
+- xss_payload_5_say
+severity: low
+type: xss

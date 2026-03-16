@@ -1,0 +1,9 @@
+name: Ergonomic maximized hierarchy
+payloads:
+- path-traversal_payload_1_enjoy
+- path-traversal_payload_2_with
+- path-traversal_payload_3_common
+- path-traversal_payload_4_beautiful
+- path-traversal_payload_5_make
+severity: critical
+type: path-traversal

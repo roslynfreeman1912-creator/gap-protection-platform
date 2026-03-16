@@ -1,0 +1,9 @@
+name: Phased transitional core
+payloads:
+- ldap-injection_payload_1_money
+- ldap-injection_payload_2_lead
+- ldap-injection_payload_3_thousand
+- ldap-injection_payload_4_movie
+- ldap-injection_payload_5_baby
+severity: critical
+type: ldap-injection

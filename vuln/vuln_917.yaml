@@ -1,0 +1,9 @@
+name: Multi-lateral context-sensitive structure
+payloads:
+- host-header-injection_payload_1_partner
+- host-header-injection_payload_2_million
+- host-header-injection_payload_3_return
+- host-header-injection_payload_4_administration
+- host-header-injection_payload_5_director
+severity: low
+type: host-header-injection

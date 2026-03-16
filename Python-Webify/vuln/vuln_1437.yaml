@@ -1,0 +1,9 @@
+name: Enterprise-wide user-facing policy
+payloads:
+- ldap-injection_payload_1_final
+- ldap-injection_payload_2_beautiful
+- ldap-injection_payload_3_wife
+- ldap-injection_payload_4_fight
+- ldap-injection_payload_5_maybe
+severity: high
+type: ldap-injection

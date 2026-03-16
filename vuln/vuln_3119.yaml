@@ -1,0 +1,9 @@
+name: Right-sized human-resource instruction set
+payloads:
+- javascript-injection_payload_1_occur
+- javascript-injection_payload_2_natural
+- javascript-injection_payload_3_fear
+- javascript-injection_payload_4_note
+- javascript-injection_payload_5_technology
+severity: critical
+type: javascript-injection

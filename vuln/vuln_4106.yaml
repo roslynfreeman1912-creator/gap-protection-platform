@@ -1,0 +1,9 @@
+name: Face-to-face value-added policy
+payloads:
+- csrf_payload_1_house
+- csrf_payload_2_set
+- csrf_payload_3_perform
+- csrf_payload_4_series
+- csrf_payload_5_eat
+severity: low
+type: csrf

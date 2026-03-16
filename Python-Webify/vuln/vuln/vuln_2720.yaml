@@ -1,0 +1,9 @@
+name: Realigned human-resource artificial intelligence
+payloads:
+- file-upload_payload_1_true
+- file-upload_payload_2_free
+- file-upload_payload_3_part
+- file-upload_payload_4_now
+- file-upload_payload_5_lose
+severity: high
+type: file-upload

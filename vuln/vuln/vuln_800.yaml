@@ -1,0 +1,9 @@
+name: Automated actuating archive
+payloads:
+- frame-injection_payload_1_stop
+- frame-injection_payload_2_accept
+- frame-injection_payload_3_still
+- frame-injection_payload_4_experience
+- frame-injection_payload_5_hear
+severity: medium
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Right-sized asynchronous adapter
+payloads:
+- mime-sniffing_payload_1_full
+- mime-sniffing_payload_2_instead
+- mime-sniffing_payload_3_vote
+- mime-sniffing_payload_4_candidate
+- mime-sniffing_payload_5_once
+severity: low
+type: mime-sniffing

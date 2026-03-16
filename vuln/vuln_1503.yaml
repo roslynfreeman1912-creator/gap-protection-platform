@@ -1,0 +1,9 @@
+name: Fully-configurable motivating definition
+payloads:
+- lfi_payload_1_rather
+- lfi_payload_2_whole
+- lfi_payload_3_matter
+- lfi_payload_4_anyone
+- lfi_payload_5_once
+severity: low
+type: lfi

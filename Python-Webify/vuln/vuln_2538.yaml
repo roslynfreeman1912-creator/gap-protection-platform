@@ -1,0 +1,9 @@
+name: Re-engineered context-sensitive complexity
+payloads:
+- nosql-injection_payload_1_factor
+- nosql-injection_payload_2_father
+- nosql-injection_payload_3_group
+- nosql-injection_payload_4_operation
+- nosql-injection_payload_5_international
+severity: medium
+type: nosql-injection

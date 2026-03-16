@@ -1,0 +1,9 @@
+name: Automated mission-critical hub
+payloads:
+- file-upload_payload_1_he
+- file-upload_payload_2_art
+- file-upload_payload_3_return
+- file-upload_payload_4_must
+- file-upload_payload_5_drop
+severity: low
+type: file-upload

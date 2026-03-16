@@ -1,0 +1,9 @@
+name: Grass-roots clear-thinking website
+payloads:
+- ssrf_payload_1_ball
+- ssrf_payload_2_individual
+- ssrf_payload_3_girl
+- ssrf_payload_4_not
+- ssrf_payload_5_event
+severity: critical
+type: ssrf

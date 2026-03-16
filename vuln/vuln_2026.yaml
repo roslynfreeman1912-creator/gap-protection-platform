@@ -1,0 +1,9 @@
+name: Diverse scalable structure
+payloads:
+- sql_payload_1_doctor
+- sql_payload_2_start
+- sql_payload_3_ask
+- sql_payload_4_kid
+- sql_payload_5_boy
+severity: critical
+type: sql

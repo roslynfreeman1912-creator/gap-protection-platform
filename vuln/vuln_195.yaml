@@ -1,0 +1,9 @@
+name: Enterprise-wide bifurcated algorithm
+payloads:
+- file-upload_payload_1_material
+- file-upload_payload_2_car
+- file-upload_payload_3_energy
+- file-upload_payload_4_effort
+- file-upload_payload_5_amount
+severity: critical
+type: file-upload

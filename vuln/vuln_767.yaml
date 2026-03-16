@@ -1,0 +1,9 @@
+name: Integrated radical challenge
+payloads:
+- host-header-injection_payload_1_all
+- host-header-injection_payload_2_business
+- host-header-injection_payload_3_mind
+- host-header-injection_payload_4_or
+- host-header-injection_payload_5_hotel
+severity: medium
+type: host-header-injection

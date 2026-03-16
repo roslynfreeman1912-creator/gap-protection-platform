@@ -1,0 +1,9 @@
+name: Front-line empowering neural-net
+payloads:
+- open-redirect_payload_1_or
+- open-redirect_payload_2_understand
+- open-redirect_payload_3_entire
+- open-redirect_payload_4_month
+- open-redirect_payload_5_federal
+severity: medium
+type: open-redirect

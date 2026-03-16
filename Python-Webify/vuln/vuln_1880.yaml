@@ -1,0 +1,9 @@
+name: Profit-focused methodical hub
+payloads:
+- ssrf_payload_1_sport
+- ssrf_payload_2_myself
+- ssrf_payload_3_single
+- ssrf_payload_4_month
+- ssrf_payload_5_administration
+severity: low
+type: ssrf

@@ -1,0 +1,9 @@
+name: Expanded analyzing data-warehouse
+payloads:
+- mime-sniffing_payload_1_figure
+- mime-sniffing_payload_2_pick
+- mime-sniffing_payload_3_hotel
+- mime-sniffing_payload_4_professor
+- mime-sniffing_payload_5_sound
+severity: low
+type: mime-sniffing

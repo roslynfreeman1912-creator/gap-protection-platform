@@ -1,0 +1,9 @@
+name: Visionary coherent benchmark
+payloads:
+- open-redirect_payload_1_consumer
+- open-redirect_payload_2_mission
+- open-redirect_payload_3_hour
+- open-redirect_payload_4_wife
+- open-redirect_payload_5_nice
+severity: critical
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Enhanced content-based encryption
+payloads:
+- xss_payload_1_medical
+- xss_payload_2_argue
+- xss_payload_3_while
+- xss_payload_4_course
+- xss_payload_5_left
+severity: medium
+type: xss

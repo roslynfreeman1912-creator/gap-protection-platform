@@ -1,0 +1,9 @@
+name: Open-source cohesive collaboration
+payloads:
+- xxe_payload_1_enjoy
+- xxe_payload_2_apply
+- xxe_payload_3_popular
+- xxe_payload_4_mean
+- xxe_payload_5_good
+severity: low
+type: xxe

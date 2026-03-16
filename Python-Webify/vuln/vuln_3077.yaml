@@ -1,0 +1,9 @@
+name: Re-engineered neutral secured line
+payloads:
+- xss_payload_1_tough
+- xss_payload_2_marriage
+- xss_payload_3_year
+- xss_payload_4_arm
+- xss_payload_5_follow
+severity: low
+type: xss

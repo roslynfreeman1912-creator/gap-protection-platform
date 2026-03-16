@@ -1,0 +1,9 @@
+name: Managed well-modulated algorithm
+payloads:
+- file-upload_payload_1_road
+- file-upload_payload_2_how
+- file-upload_payload_3_however
+- file-upload_payload_4_suffer
+- file-upload_payload_5_clear
+severity: critical
+type: file-upload

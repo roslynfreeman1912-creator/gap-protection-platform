@@ -1,0 +1,9 @@
+name: Re-engineered scalable solution
+payloads:
+- host-header-injection_payload_1_sort
+- host-header-injection_payload_2_green
+- host-header-injection_payload_3_between
+- host-header-injection_payload_4_inside
+- host-header-injection_payload_5_big
+severity: critical
+type: host-header-injection

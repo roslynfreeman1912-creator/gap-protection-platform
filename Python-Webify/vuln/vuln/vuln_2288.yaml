@@ -1,0 +1,9 @@
+name: Reduced disintermediate policy
+payloads:
+- nosql-injection_payload_1_drive
+- nosql-injection_payload_2_traditional
+- nosql-injection_payload_3_low
+- nosql-injection_payload_4_remain
+- nosql-injection_payload_5_black
+severity: medium
+type: nosql-injection

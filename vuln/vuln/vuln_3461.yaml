@@ -1,0 +1,9 @@
+name: Fully-configurable empowering structure
+payloads:
+- xxe_payload_1_all
+- xxe_payload_2_bar
+- xxe_payload_3_star
+- xxe_payload_4_compare
+- xxe_payload_5_political
+severity: high
+type: xxe

@@ -1,0 +1,9 @@
+name: Organized eco-centric forecast
+payloads:
+- hsts-misconfig_payload_1_politics
+- hsts-misconfig_payload_2_grow
+- hsts-misconfig_payload_3_Democrat
+- hsts-misconfig_payload_4_sing
+- hsts-misconfig_payload_5_beyond
+severity: critical
+type: hsts-misconfig

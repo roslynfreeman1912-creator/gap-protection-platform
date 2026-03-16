@@ -1,0 +1,9 @@
+name: Phased analyzing matrices
+payloads:
+- xxe_payload_1_spring
+- xxe_payload_2_our
+- xxe_payload_3_use
+- xxe_payload_4_experience
+- xxe_payload_5_admit
+severity: low
+type: xxe

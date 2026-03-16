@@ -1,0 +1,9 @@
+name: Down-sized upward-trending core
+payloads:
+- open-redirect_payload_1_up
+- open-redirect_payload_2_will
+- open-redirect_payload_3_use
+- open-redirect_payload_4_best
+- open-redirect_payload_5_should
+severity: high
+type: open-redirect

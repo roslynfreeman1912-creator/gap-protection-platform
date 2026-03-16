@@ -1,0 +1,9 @@
+name: Devolved cohesive instruction set
+payloads:
+- host-header-injection_payload_1_might
+- host-header-injection_payload_2_actually
+- host-header-injection_payload_3_himself
+- host-header-injection_payload_4_realize
+- host-header-injection_payload_5_after
+severity: high
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Progressive grid-enabled protocol
+payloads:
+- command-injection_payload_1_brother
+- command-injection_payload_2_become
+- command-injection_payload_3_town
+- command-injection_payload_4_will
+- command-injection_payload_5_so
+severity: high
+type: command-injection

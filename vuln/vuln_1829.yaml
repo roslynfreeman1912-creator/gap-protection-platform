@@ -1,0 +1,9 @@
+name: Quality-focused 5thgeneration software
+payloads:
+- rfi_payload_1_tonight
+- rfi_payload_2_significant
+- rfi_payload_3_value
+- rfi_payload_4_generation
+- rfi_payload_5_claim
+severity: high
+type: rfi

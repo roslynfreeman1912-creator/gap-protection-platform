@@ -1,0 +1,9 @@
+name: Sharable stable projection
+payloads:
+- jsonp-injection_payload_1_necessary
+- jsonp-injection_payload_2_time
+- jsonp-injection_payload_3_type
+- jsonp-injection_payload_4_region
+- jsonp-injection_payload_5_speak
+severity: low
+type: jsonp-injection

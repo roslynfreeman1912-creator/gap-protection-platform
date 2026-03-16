@@ -1,0 +1,9 @@
+name: Adaptive system-worthy migration
+payloads:
+- tabnabbing_payload_1_professional
+- tabnabbing_payload_2_other
+- tabnabbing_payload_3_herself
+- tabnabbing_payload_4_wear
+- tabnabbing_payload_5_a
+severity: high
+type: tabnabbing

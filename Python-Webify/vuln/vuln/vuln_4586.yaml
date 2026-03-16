@@ -1,0 +1,9 @@
+name: Synergized neutral core
+payloads:
+- xxe_payload_1_concern
+- xxe_payload_2_account
+- xxe_payload_3_argue
+- xxe_payload_4_voice
+- xxe_payload_5_line
+severity: low
+type: xxe

@@ -1,0 +1,9 @@
+name: Object-based zero administration protocol
+payloads:
+- path-traversal_payload_1_business
+- path-traversal_payload_2_training
+- path-traversal_payload_3_can
+- path-traversal_payload_4_adult
+- path-traversal_payload_5_clearly
+severity: high
+type: path-traversal

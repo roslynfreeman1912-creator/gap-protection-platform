@@ -1,0 +1,9 @@
+name: Multi-lateral dedicated application
+payloads:
+- open-redirect_payload_1_deal
+- open-redirect_payload_2_trip
+- open-redirect_payload_3_kitchen
+- open-redirect_payload_4_perhaps
+- open-redirect_payload_5_off
+severity: critical
+type: open-redirect

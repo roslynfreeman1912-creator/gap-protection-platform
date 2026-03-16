@@ -1,0 +1,9 @@
+name: Polarized motivating Internet solution
+payloads:
+- host-header-injection_payload_1_develop
+- host-header-injection_payload_2_TV
+- host-header-injection_payload_3_economy
+- host-header-injection_payload_4_senior
+- host-header-injection_payload_5_media
+severity: low
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: De-engineered content-based knowledgebase
+payloads:
+- path-traversal_payload_1_kitchen
+- path-traversal_payload_2_season
+- path-traversal_payload_3_over
+- path-traversal_payload_4_growth
+- path-traversal_payload_5_training
+severity: low
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Profit-focused national pricing structure
+payloads:
+- mime-sniffing_payload_1_exactly
+- mime-sniffing_payload_2_lot
+- mime-sniffing_payload_3_history
+- mime-sniffing_payload_4_act
+- mime-sniffing_payload_5_nice
+severity: medium
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Adaptive discrete leverage
+payloads:
+- command-injection_payload_1_project
+- command-injection_payload_2_voice
+- command-injection_payload_3_resource
+- command-injection_payload_4_arm
+- command-injection_payload_5_remember
+severity: high
+type: command-injection

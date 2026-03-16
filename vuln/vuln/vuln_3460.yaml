@@ -1,0 +1,9 @@
+name: Cross-platform homogeneous architecture
+payloads:
+- open-redirect_payload_1_with
+- open-redirect_payload_2_create
+- open-redirect_payload_3_property
+- open-redirect_payload_4_soldier
+- open-redirect_payload_5_war
+severity: critical
+type: open-redirect

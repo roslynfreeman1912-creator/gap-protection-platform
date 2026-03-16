@@ -1,0 +1,9 @@
+name: Synergized 4thgeneration function
+payloads:
+- mime-sniffing_payload_1_pressure
+- mime-sniffing_payload_2_hair
+- mime-sniffing_payload_3_because
+- mime-sniffing_payload_4_question
+- mime-sniffing_payload_5_voice
+severity: low
+type: mime-sniffing

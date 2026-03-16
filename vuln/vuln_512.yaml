@@ -1,0 +1,9 @@
+name: Grass-roots systemic Graphic Interface
+payloads:
+- ldap-injection_payload_1_that
+- ldap-injection_payload_2_stock
+- ldap-injection_payload_3_own
+- ldap-injection_payload_4_strategy
+- ldap-injection_payload_5_everybody
+severity: high
+type: ldap-injection

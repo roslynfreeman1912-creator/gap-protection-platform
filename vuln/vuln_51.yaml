@@ -1,0 +1,9 @@
+name: User-friendly composite capability
+payloads:
+- sql_payload_1_picture
+- sql_payload_2_family
+- sql_payload_3_them
+- sql_payload_4_man
+- sql_payload_5_last
+severity: high
+type: sql

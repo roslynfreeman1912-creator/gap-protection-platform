@@ -1,0 +1,9 @@
+name: Ergonomic composite open system
+payloads:
+- javascript-injection_payload_1_around
+- javascript-injection_payload_2_career
+- javascript-injection_payload_3_wind
+- javascript-injection_payload_4_bar
+- javascript-injection_payload_5_improve
+severity: high
+type: javascript-injection

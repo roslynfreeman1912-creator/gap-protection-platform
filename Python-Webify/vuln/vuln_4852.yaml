@@ -1,0 +1,9 @@
+name: Triple-buffered client-driven artificial intelligence
+payloads:
+- xss_payload_1_cover
+- xss_payload_2_run
+- xss_payload_3_manager
+- xss_payload_4_act
+- xss_payload_5_room
+severity: low
+type: xss

@@ -1,0 +1,9 @@
+name: Devolved object-oriented process improvement
+payloads:
+- rfi_payload_1_reality
+- rfi_payload_2_serve
+- rfi_payload_3_safe
+- rfi_payload_4_bank
+- rfi_payload_5_maybe
+severity: critical
+type: rfi

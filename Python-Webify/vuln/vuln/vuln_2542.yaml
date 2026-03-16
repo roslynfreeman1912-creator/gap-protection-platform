@@ -1,0 +1,9 @@
+name: Grass-roots explicit architecture
+payloads:
+- host-header-injection_payload_1_our
+- host-header-injection_payload_2_board
+- host-header-injection_payload_3_worker
+- host-header-injection_payload_4_situation
+- host-header-injection_payload_5_ground
+severity: critical
+type: host-header-injection

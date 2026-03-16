@@ -1,0 +1,9 @@
+name: Fully-configurable zero administration collaboration
+payloads:
+- command-injection_payload_1_common
+- command-injection_payload_2_walk
+- command-injection_payload_3_turn
+- command-injection_payload_4_run
+- command-injection_payload_5_loss
+severity: low
+type: command-injection

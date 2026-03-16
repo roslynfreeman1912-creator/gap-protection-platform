@@ -1,0 +1,9 @@
+name: Vision-oriented asymmetric Graphical User Interface
+payloads:
+- csp-bypass_payload_1_rate
+- csp-bypass_payload_2_animal
+- csp-bypass_payload_3_beautiful
+- csp-bypass_payload_4_eight
+- csp-bypass_payload_5_establish
+severity: high
+type: csp-bypass

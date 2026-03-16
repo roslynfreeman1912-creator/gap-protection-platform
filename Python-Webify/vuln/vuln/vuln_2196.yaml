@@ -1,0 +1,9 @@
+name: Persevering holistic interface
+payloads:
+- mime-sniffing_payload_1_late
+- mime-sniffing_payload_2_every
+- mime-sniffing_payload_3_concern
+- mime-sniffing_payload_4_list
+- mime-sniffing_payload_5_sport
+severity: high
+type: mime-sniffing

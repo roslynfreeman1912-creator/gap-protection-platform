@@ -1,0 +1,9 @@
+name: Cloned executive framework
+payloads:
+- javascript-injection_payload_1_relationship
+- javascript-injection_payload_2_politics
+- javascript-injection_payload_3_seek
+- javascript-injection_payload_4_worry
+- javascript-injection_payload_5_pull
+severity: low
+type: javascript-injection

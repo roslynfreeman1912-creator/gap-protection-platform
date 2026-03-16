@@ -1,0 +1,9 @@
+name: Secured 24/7 artificial intelligence
+payloads:
+- csrf_payload_1_thus
+- csrf_payload_2_tonight
+- csrf_payload_3_old
+- csrf_payload_4_development
+- csrf_payload_5_check
+severity: critical
+type: csrf

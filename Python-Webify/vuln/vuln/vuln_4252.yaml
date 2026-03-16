@@ -1,0 +1,9 @@
+name: Networked multimedia standardization
+payloads:
+- xss_payload_1_two
+- xss_payload_2_our
+- xss_payload_3_source
+- xss_payload_4_hotel
+- xss_payload_5_live
+severity: low
+type: xss

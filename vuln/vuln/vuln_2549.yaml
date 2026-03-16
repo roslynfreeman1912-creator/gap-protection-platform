@@ -1,0 +1,9 @@
+name: Ergonomic client-driven circuit
+payloads:
+- csp-bypass_payload_1_business
+- csp-bypass_payload_2_safe
+- csp-bypass_payload_3_could
+- csp-bypass_payload_4_fine
+- csp-bypass_payload_5_source
+severity: low
+type: csp-bypass

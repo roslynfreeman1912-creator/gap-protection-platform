@@ -1,0 +1,9 @@
+name: De-engineered regional help-desk
+payloads:
+- frame-injection_payload_1_new
+- frame-injection_payload_2_life
+- frame-injection_payload_3_draw
+- frame-injection_payload_4_save
+- frame-injection_payload_5_today
+severity: medium
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Synchronized content-based artificial intelligence
+payloads:
+- mime-sniffing_payload_1_difference
+- mime-sniffing_payload_2_president
+- mime-sniffing_payload_3_rule
+- mime-sniffing_payload_4_religious
+- mime-sniffing_payload_5_crime
+severity: medium
+type: mime-sniffing

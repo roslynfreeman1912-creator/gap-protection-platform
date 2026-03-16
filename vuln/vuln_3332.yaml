@@ -1,0 +1,9 @@
+name: Multi-tiered uniform productivity
+payloads:
+- ssti_payload_1_popular
+- ssti_payload_2_name
+- ssti_payload_3_same
+- ssti_payload_4_compare
+- ssti_payload_5_run
+severity: high
+type: ssti

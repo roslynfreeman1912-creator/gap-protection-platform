@@ -1,0 +1,9 @@
+name: Vision-oriented national alliance
+payloads:
+- frame-injection_payload_1_soldier
+- frame-injection_payload_2_evening
+- frame-injection_payload_3_student
+- frame-injection_payload_4_indicate
+- frame-injection_payload_5_difficult
+severity: medium
+type: frame-injection

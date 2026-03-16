@@ -1,0 +1,9 @@
+name: Down-sized hybrid contingency
+payloads:
+- hsts-misconfig_payload_1_never
+- hsts-misconfig_payload_2_around
+- hsts-misconfig_payload_3_activity
+- hsts-misconfig_payload_4_discuss
+- hsts-misconfig_payload_5_set
+severity: low
+type: hsts-misconfig

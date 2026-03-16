@@ -1,0 +1,9 @@
+name: Operative directional time-frame
+payloads:
+- frame-injection_payload_1_bank
+- frame-injection_payload_2_into
+- frame-injection_payload_3_issue
+- frame-injection_payload_4_plant
+- frame-injection_payload_5_everyone
+severity: critical
+type: frame-injection

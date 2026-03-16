@@ -1,0 +1,9 @@
+name: Programmable bandwidth-monitored hierarchy
+payloads:
+- command-injection_payload_1_surface
+- command-injection_payload_2_book
+- command-injection_payload_3_shake
+- command-injection_payload_4_natural
+- command-injection_payload_5_able
+severity: high
+type: command-injection

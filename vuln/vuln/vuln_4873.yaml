@@ -1,0 +1,9 @@
+name: Persistent 24/7 knowledge user
+payloads:
+- hsts-misconfig_payload_1_financial
+- hsts-misconfig_payload_2_rich
+- hsts-misconfig_payload_3_establish
+- hsts-misconfig_payload_4_data
+- hsts-misconfig_payload_5_that
+severity: critical
+type: hsts-misconfig

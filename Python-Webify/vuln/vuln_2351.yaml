@@ -1,0 +1,9 @@
+name: Organized background secured line
+payloads:
+- sql_payload_1_worry
+- sql_payload_2_develop
+- sql_payload_3_common
+- sql_payload_4_safe
+- sql_payload_5_special
+severity: medium
+type: sql

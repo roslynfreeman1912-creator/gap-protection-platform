@@ -1,0 +1,9 @@
+name: Focused human-resource service-desk
+payloads:
+- rfi_payload_1_politics
+- rfi_payload_2_character
+- rfi_payload_3_score
+- rfi_payload_4_catch
+- rfi_payload_5_recognize
+severity: high
+type: rfi

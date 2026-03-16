@@ -1,0 +1,9 @@
+name: Reactive dynamic Internet solution
+payloads:
+- sql_payload_1_voice
+- sql_payload_2_action
+- sql_payload_3_painting
+- sql_payload_4_rise
+- sql_payload_5_live
+severity: low
+type: sql

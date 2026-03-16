@@ -1,0 +1,9 @@
+name: Exclusive background methodology
+payloads:
+- jsonp-injection_payload_1_ahead
+- jsonp-injection_payload_2_country
+- jsonp-injection_payload_3_behavior
+- jsonp-injection_payload_4_trouble
+- jsonp-injection_payload_5_guess
+severity: low
+type: jsonp-injection

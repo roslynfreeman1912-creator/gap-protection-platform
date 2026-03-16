@@ -1,0 +1,9 @@
+name: Balanced discrete circuit
+payloads:
+- clickjacking_payload_1_often
+- clickjacking_payload_2_capital
+- clickjacking_payload_3_outside
+- clickjacking_payload_4_power
+- clickjacking_payload_5_listen
+severity: low
+type: clickjacking

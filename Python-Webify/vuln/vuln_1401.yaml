@@ -1,0 +1,9 @@
+name: Mandatory next generation customer loyalty
+payloads:
+- sql_payload_1_ok
+- sql_payload_2_assume
+- sql_payload_3_plan
+- sql_payload_4_pull
+- sql_payload_5_write
+severity: high
+type: sql

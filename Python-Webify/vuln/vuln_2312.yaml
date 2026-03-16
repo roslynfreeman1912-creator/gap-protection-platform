@@ -1,0 +1,9 @@
+name: Upgradable modular flexibility
+payloads:
+- ldap-injection_payload_1_act
+- ldap-injection_payload_2_learn
+- ldap-injection_payload_3_popular
+- ldap-injection_payload_4_still
+- ldap-injection_payload_5_community
+severity: low
+type: ldap-injection

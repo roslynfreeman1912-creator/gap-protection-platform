@@ -1,0 +1,9 @@
+name: Reactive homogeneous forecast
+payloads:
+- frame-injection_payload_1_physical
+- frame-injection_payload_2_he
+- frame-injection_payload_3_make
+- frame-injection_payload_4_build
+- frame-injection_payload_5_describe
+severity: high
+type: frame-injection

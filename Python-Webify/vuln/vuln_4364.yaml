@@ -1,0 +1,9 @@
+name: Implemented zero tolerance circuit
+payloads:
+- clickjacking_payload_1_identify
+- clickjacking_payload_2_level
+- clickjacking_payload_3_those
+- clickjacking_payload_4_move
+- clickjacking_payload_5_than
+severity: low
+type: clickjacking

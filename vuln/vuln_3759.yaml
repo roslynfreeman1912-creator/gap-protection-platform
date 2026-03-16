@@ -1,0 +1,9 @@
+name: Devolved eco-centric matrices
+payloads:
+- path-traversal_payload_1_though
+- path-traversal_payload_2_few
+- path-traversal_payload_3_difference
+- path-traversal_payload_4_thousand
+- path-traversal_payload_5_board
+severity: medium
+type: path-traversal

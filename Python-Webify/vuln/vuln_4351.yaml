@@ -1,0 +1,9 @@
+name: Grass-roots contextually-based leverage
+payloads:
+- sql_payload_1_than
+- sql_payload_2_account
+- sql_payload_3_them
+- sql_payload_4_loss
+- sql_payload_5_give
+severity: critical
+type: sql

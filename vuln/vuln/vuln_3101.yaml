@@ -1,0 +1,9 @@
+name: Business-focused client-server Graphic Interface
+payloads:
+- sql_payload_1_data
+- sql_payload_2_watch
+- sql_payload_3_understand
+- sql_payload_4_sign
+- sql_payload_5_game
+severity: critical
+type: sql

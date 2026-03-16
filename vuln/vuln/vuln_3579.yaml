@@ -1,0 +1,9 @@
+name: Reactive executive matrix
+payloads:
+- rfi_payload_1_sure
+- rfi_payload_2_have
+- rfi_payload_3_officer
+- rfi_payload_4_often
+- rfi_payload_5_seven
+severity: low
+type: rfi

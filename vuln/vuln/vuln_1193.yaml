@@ -1,0 +1,9 @@
+name: Synergized next generation website
+payloads:
+- subdomain-takeover_payload_1_until
+- subdomain-takeover_payload_2_born
+- subdomain-takeover_payload_3_movement
+- subdomain-takeover_payload_4_stock
+- subdomain-takeover_payload_5_situation
+severity: low
+type: subdomain-takeover

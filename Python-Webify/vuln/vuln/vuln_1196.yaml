@@ -1,0 +1,9 @@
+name: Persevering solution-oriented orchestration
+payloads:
+- mime-sniffing_payload_1_material
+- mime-sniffing_payload_2_least
+- mime-sniffing_payload_3_class
+- mime-sniffing_payload_4_staff
+- mime-sniffing_payload_5_fast
+severity: critical
+type: mime-sniffing

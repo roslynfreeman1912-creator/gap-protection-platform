@@ -1,0 +1,9 @@
+name: Extended motivating strategy
+payloads:
+- nosql-injection_payload_1_do
+- nosql-injection_payload_2_clearly
+- nosql-injection_payload_3_condition
+- nosql-injection_payload_4_large
+- nosql-injection_payload_5_ten
+severity: medium
+type: nosql-injection

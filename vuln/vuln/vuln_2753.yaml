@@ -1,0 +1,9 @@
+name: Fundamental 4thgeneration hierarchy
+payloads:
+- lfi_payload_1_old
+- lfi_payload_2_ever
+- lfi_payload_3_rather
+- lfi_payload_4_present
+- lfi_payload_5_fact
+severity: high
+type: lfi

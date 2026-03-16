@@ -1,0 +1,9 @@
+name: Total intermediate product
+payloads:
+- tabnabbing_payload_1_evening
+- tabnabbing_payload_2_visit
+- tabnabbing_payload_3_agent
+- tabnabbing_payload_4_take
+- tabnabbing_payload_5_but
+severity: high
+type: tabnabbing

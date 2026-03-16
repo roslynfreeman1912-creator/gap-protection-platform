@@ -1,0 +1,9 @@
+name: Up-sized regional middleware
+payloads:
+- csrf_payload_1_see
+- csrf_payload_2_rate
+- csrf_payload_3_show
+- csrf_payload_4_hear
+- csrf_payload_5_from
+severity: medium
+type: csrf

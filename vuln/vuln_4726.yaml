@@ -1,0 +1,9 @@
+name: Down-sized content-based leverage
+payloads:
+- sql_payload_1_wind
+- sql_payload_2_end
+- sql_payload_3_deal
+- sql_payload_4_or
+- sql_payload_5_political
+severity: high
+type: sql

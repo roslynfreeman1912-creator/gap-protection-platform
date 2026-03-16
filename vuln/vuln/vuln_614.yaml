@@ -1,0 +1,9 @@
+name: Vision-oriented zero administration superstructure
+payloads:
+- clickjacking_payload_1_foreign
+- clickjacking_payload_2_safe
+- clickjacking_payload_3_type
+- clickjacking_payload_4_including
+- clickjacking_payload_5_discussion
+severity: low
+type: clickjacking

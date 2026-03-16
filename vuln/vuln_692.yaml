@@ -1,0 +1,9 @@
+name: Phased non-volatile moratorium
+payloads:
+- host-header-injection_payload_1_common
+- host-header-injection_payload_2_population
+- host-header-injection_payload_3_let
+- host-header-injection_payload_4_carry
+- host-header-injection_payload_5_management
+severity: low
+type: host-header-injection

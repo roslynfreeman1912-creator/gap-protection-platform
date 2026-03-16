@@ -1,0 +1,9 @@
+name: Balanced modular Local Area Network
+payloads:
+- path-traversal_payload_1_by
+- path-traversal_payload_2_why
+- path-traversal_payload_3_particular
+- path-traversal_payload_4_include
+- path-traversal_payload_5_plant
+severity: high
+type: path-traversal

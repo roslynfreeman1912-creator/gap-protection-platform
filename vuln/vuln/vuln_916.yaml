@@ -1,0 +1,9 @@
+name: Seamless intermediate capability
+payloads:
+- crlf-injection_payload_1_vote
+- crlf-injection_payload_2_certain
+- crlf-injection_payload_3_push
+- crlf-injection_payload_4_develop
+- crlf-injection_payload_5_forward
+severity: low
+type: crlf-injection

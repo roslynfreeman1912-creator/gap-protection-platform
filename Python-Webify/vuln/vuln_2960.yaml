@@ -1,0 +1,9 @@
+name: Persistent user-facing synergy
+payloads:
+- open-redirect_payload_1_TV
+- open-redirect_payload_2_day
+- open-redirect_payload_3_young
+- open-redirect_payload_4_most
+- open-redirect_payload_5_husband
+severity: medium
+type: open-redirect

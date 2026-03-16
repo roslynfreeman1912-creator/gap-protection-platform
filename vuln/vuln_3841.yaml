@@ -1,0 +1,9 @@
+name: Decentralized client-driven array
+payloads:
+- crlf-injection_payload_1_create
+- crlf-injection_payload_2_heart
+- crlf-injection_payload_3_figure
+- crlf-injection_payload_4_authority
+- crlf-injection_payload_5_table
+severity: medium
+type: crlf-injection

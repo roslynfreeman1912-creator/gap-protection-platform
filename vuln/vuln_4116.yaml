@@ -1,0 +1,9 @@
+name: Compatible modular algorithm
+payloads:
+- crlf-injection_payload_1_measure
+- crlf-injection_payload_2_four
+- crlf-injection_payload_3_high
+- crlf-injection_payload_4_family
+- crlf-injection_payload_5_group
+severity: critical
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Ergonomic motivating challenge
+payloads:
+- xss_payload_1_lot
+- xss_payload_2_occur
+- xss_payload_3_expert
+- xss_payload_4_thousand
+- xss_payload_5_election
+severity: medium
+type: xss

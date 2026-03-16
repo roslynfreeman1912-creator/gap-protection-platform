@@ -1,0 +1,9 @@
+name: Down-sized optimal complexity
+payloads:
+- command-injection_payload_1_significant
+- command-injection_payload_2_suddenly
+- command-injection_payload_3_computer
+- command-injection_payload_4_early
+- command-injection_payload_5_strong
+severity: high
+type: command-injection

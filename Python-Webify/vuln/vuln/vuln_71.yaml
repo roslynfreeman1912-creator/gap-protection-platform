@@ -1,0 +1,9 @@
+name: Versatile foreground portal
+payloads:
+- mime-sniffing_payload_1_analysis
+- mime-sniffing_payload_2_over
+- mime-sniffing_payload_3_capital
+- mime-sniffing_payload_4_remain
+- mime-sniffing_payload_5_international
+severity: low
+type: mime-sniffing

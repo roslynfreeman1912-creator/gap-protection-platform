@@ -1,0 +1,9 @@
+name: Expanded homogeneous budgetary management
+payloads:
+- open-redirect_payload_1_know
+- open-redirect_payload_2_provide
+- open-redirect_payload_3_this
+- open-redirect_payload_4_most
+- open-redirect_payload_5_enough
+severity: high
+type: open-redirect

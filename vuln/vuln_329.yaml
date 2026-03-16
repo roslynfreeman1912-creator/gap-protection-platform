@@ -1,0 +1,9 @@
+name: Total methodical Internet solution
+payloads:
+- rfi_payload_1_into
+- rfi_payload_2_one
+- rfi_payload_3_impact
+- rfi_payload_4_as
+- rfi_payload_5_thing
+severity: medium
+type: rfi

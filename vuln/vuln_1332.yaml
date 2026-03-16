@@ -1,0 +1,9 @@
+name: Managed asynchronous product
+payloads:
+- ssti_payload_1_safe
+- ssti_payload_2_these
+- ssti_payload_3_how
+- ssti_payload_4_both
+- ssti_payload_5_ask
+severity: medium
+type: ssti

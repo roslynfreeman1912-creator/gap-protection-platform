@@ -1,0 +1,9 @@
+name: Secured zero tolerance methodology
+payloads:
+- frame-injection_payload_1_dark
+- frame-injection_payload_2_consumer
+- frame-injection_payload_3_visit
+- frame-injection_payload_4_need
+- frame-injection_payload_5_care
+severity: high
+type: frame-injection

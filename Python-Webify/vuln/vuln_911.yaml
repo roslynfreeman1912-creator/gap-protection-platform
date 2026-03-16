@@ -1,0 +1,9 @@
+name: Team-oriented foreground concept
+payloads:
+- xxe_payload_1_worker
+- xxe_payload_2_leg
+- xxe_payload_3_growth
+- xxe_payload_4_want
+- xxe_payload_5_west
+severity: critical
+type: xxe

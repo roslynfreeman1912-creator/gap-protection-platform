@@ -1,0 +1,9 @@
+name: Front-line even-keeled array
+payloads:
+- xxe_payload_1_while
+- xxe_payload_2_interesting
+- xxe_payload_3_walk
+- xxe_payload_4_popular
+- xxe_payload_5_attention
+severity: high
+type: xxe

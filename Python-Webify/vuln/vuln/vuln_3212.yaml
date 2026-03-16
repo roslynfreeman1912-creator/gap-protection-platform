@@ -1,0 +1,9 @@
+name: Cross-group optimal focus group
+payloads:
+- ldap-injection_payload_1_owner
+- ldap-injection_payload_2_mention
+- ldap-injection_payload_3_would
+- ldap-injection_payload_4_word
+- ldap-injection_payload_5_us
+severity: high
+type: ldap-injection

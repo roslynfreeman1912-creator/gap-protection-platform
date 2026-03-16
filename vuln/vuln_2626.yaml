@@ -1,0 +1,9 @@
+name: Multi-layered regional throughput
+payloads:
+- sql_payload_1_those
+- sql_payload_2_while
+- sql_payload_3_pay
+- sql_payload_4_their
+- sql_payload_5_position
+severity: high
+type: sql

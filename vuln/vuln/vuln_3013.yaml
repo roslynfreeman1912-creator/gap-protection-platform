@@ -1,0 +1,9 @@
+name: Ameliorated value-added support
+payloads:
+- nosql-injection_payload_1_lot
+- nosql-injection_payload_2_cold
+- nosql-injection_payload_3_agency
+- nosql-injection_payload_4_scientist
+- nosql-injection_payload_5_detail
+severity: medium
+type: nosql-injection

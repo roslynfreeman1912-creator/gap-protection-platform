@@ -1,0 +1,9 @@
+name: Open-source exuding matrix
+payloads:
+- file-upload_payload_1_budget
+- file-upload_payload_2_but
+- file-upload_payload_3_upon
+- file-upload_payload_4_catch
+- file-upload_payload_5_management
+severity: high
+type: file-upload

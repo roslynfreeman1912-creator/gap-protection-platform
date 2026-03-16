@@ -1,0 +1,9 @@
+name: De-engineered multi-state encryption
+payloads:
+- nosql-injection_payload_1_forward
+- nosql-injection_payload_2_TV
+- nosql-injection_payload_3_word
+- nosql-injection_payload_4_hope
+- nosql-injection_payload_5_training
+severity: medium
+type: nosql-injection

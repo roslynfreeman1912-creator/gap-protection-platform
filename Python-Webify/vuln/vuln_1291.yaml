@@ -1,0 +1,9 @@
+name: Integrated tangible intranet
+payloads:
+- crlf-injection_payload_1_friend
+- crlf-injection_payload_2_free
+- crlf-injection_payload_3_few
+- crlf-injection_payload_4_effect
+- crlf-injection_payload_5_year
+severity: low
+type: crlf-injection

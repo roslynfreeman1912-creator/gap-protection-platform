@@ -1,0 +1,9 @@
+name: Fundamental client-driven intranet
+payloads:
+- mime-sniffing_payload_1_behind
+- mime-sniffing_payload_2_treat
+- mime-sniffing_payload_3_return
+- mime-sniffing_payload_4_factor
+- mime-sniffing_payload_5_already
+severity: medium
+type: mime-sniffing

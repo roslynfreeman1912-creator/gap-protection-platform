@@ -1,0 +1,9 @@
+name: Multi-channeled impactful middleware
+payloads:
+- path-traversal_payload_1_head
+- path-traversal_payload_2_society
+- path-traversal_payload_3_meeting
+- path-traversal_payload_4_important
+- path-traversal_payload_5_than
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Secured uniform throughput
+payloads:
+- frame-injection_payload_1_face
+- frame-injection_payload_2_what
+- frame-injection_payload_3_crime
+- frame-injection_payload_4_hair
+- frame-injection_payload_5_remain
+severity: high
+type: frame-injection

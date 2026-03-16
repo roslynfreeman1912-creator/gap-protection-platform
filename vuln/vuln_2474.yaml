@@ -1,0 +1,9 @@
+name: Managed systemic initiative
+payloads:
+- csp-bypass_payload_1_this
+- csp-bypass_payload_2_apply
+- csp-bypass_payload_3_to
+- csp-bypass_payload_4_send
+- csp-bypass_payload_5_mention
+severity: low
+type: csp-bypass

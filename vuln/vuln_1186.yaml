@@ -1,0 +1,9 @@
+name: Robust transitional paradigm
+payloads:
+- xxe_payload_1_a
+- xxe_payload_2_card
+- xxe_payload_3_tough
+- xxe_payload_4_like
+- xxe_payload_5_wind
+severity: medium
+type: xxe

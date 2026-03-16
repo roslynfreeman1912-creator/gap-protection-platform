@@ -1,0 +1,9 @@
+name: Up-sized web-enabled standardization
+payloads:
+- xss_payload_1_end
+- xss_payload_2_plan
+- xss_payload_3_education
+- xss_payload_4_these
+- xss_payload_5_whom
+severity: high
+type: xss

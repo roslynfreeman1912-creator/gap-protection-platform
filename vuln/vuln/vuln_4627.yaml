@@ -1,0 +1,9 @@
+name: Monitored interactive strategy
+payloads:
+- xss_payload_1_central
+- xss_payload_2_there
+- xss_payload_3_collection
+- xss_payload_4_speak
+- xss_payload_5_start
+severity: medium
+type: xss

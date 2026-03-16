@@ -1,0 +1,9 @@
+name: Re-engineered methodical hardware
+payloads:
+- tabnabbing_payload_1_material
+- tabnabbing_payload_2_likely
+- tabnabbing_payload_3_central
+- tabnabbing_payload_4_into
+- tabnabbing_payload_5_skill
+severity: low
+type: tabnabbing

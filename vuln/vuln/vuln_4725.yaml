@@ -1,0 +1,9 @@
+name: Operative neutral initiative
+payloads:
+- frame-injection_payload_1_site
+- frame-injection_payload_2_consider
+- frame-injection_payload_3_rich
+- frame-injection_payload_4_support
+- frame-injection_payload_5_better
+severity: low
+type: frame-injection

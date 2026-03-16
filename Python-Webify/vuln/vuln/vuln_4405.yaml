@@ -1,0 +1,9 @@
+name: Fully-configurable tangible system engine
+payloads:
+- ssrf_payload_1_require
+- ssrf_payload_2_seat
+- ssrf_payload_3_artist
+- ssrf_payload_4_according
+- ssrf_payload_5_teacher
+severity: medium
+type: ssrf

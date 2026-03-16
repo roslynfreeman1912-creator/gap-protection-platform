@@ -1,0 +1,9 @@
+name: Compatible asynchronous challenge
+payloads:
+- jsonp-injection_payload_1_begin
+- jsonp-injection_payload_2_might
+- jsonp-injection_payload_3_of
+- jsonp-injection_payload_4_design
+- jsonp-injection_payload_5_suddenly
+severity: critical
+type: jsonp-injection

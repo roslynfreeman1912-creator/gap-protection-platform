@@ -1,0 +1,9 @@
+name: Digitized secondary framework
+payloads:
+- mime-sniffing_payload_1_probably
+- mime-sniffing_payload_2_tend
+- mime-sniffing_payload_3_another
+- mime-sniffing_payload_4_civil
+- mime-sniffing_payload_5_usually
+severity: critical
+type: mime-sniffing

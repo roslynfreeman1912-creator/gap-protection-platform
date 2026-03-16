@@ -1,0 +1,9 @@
+name: Distributed zero administration capability
+payloads:
+- subdomain-takeover_payload_1_prevent
+- subdomain-takeover_payload_2_the
+- subdomain-takeover_payload_3_go
+- subdomain-takeover_payload_4_fish
+- subdomain-takeover_payload_5_trade
+severity: medium
+type: subdomain-takeover

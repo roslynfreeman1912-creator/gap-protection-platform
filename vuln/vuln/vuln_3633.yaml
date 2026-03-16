@@ -1,0 +1,9 @@
+name: Total intermediate moderator
+payloads:
+- command-injection_payload_1_though
+- command-injection_payload_2_maintain
+- command-injection_payload_3_unit
+- command-injection_payload_4_all
+- command-injection_payload_5_others
+severity: medium
+type: command-injection

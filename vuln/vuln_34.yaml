@@ -1,0 +1,9 @@
+name: Polarized zero-defect forecast
+payloads:
+- path-traversal_payload_1_simple
+- path-traversal_payload_2_factor
+- path-traversal_payload_3_everybody
+- path-traversal_payload_4_ready
+- path-traversal_payload_5_group
+severity: low
+type: path-traversal

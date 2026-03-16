@@ -1,0 +1,9 @@
+name: Configurable methodical database
+payloads:
+- path-traversal_payload_1_watch
+- path-traversal_payload_2_amount
+- path-traversal_payload_3_tree
+- path-traversal_payload_4_majority
+- path-traversal_payload_5_option
+severity: critical
+type: path-traversal

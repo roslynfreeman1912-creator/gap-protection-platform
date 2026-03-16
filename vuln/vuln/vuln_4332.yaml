@@ -1,0 +1,9 @@
+name: Monitored secondary productivity
+payloads:
+- ssti_payload_1_page
+- ssti_payload_2_different
+- ssti_payload_3_responsibility
+- ssti_payload_4_attack
+- ssti_payload_5_rock
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Operative content-based software
+payloads:
+- tabnabbing_payload_1_free
+- tabnabbing_payload_2_inside
+- tabnabbing_payload_3_money
+- tabnabbing_payload_4_reason
+- tabnabbing_payload_5_performance
+severity: critical
+type: tabnabbing

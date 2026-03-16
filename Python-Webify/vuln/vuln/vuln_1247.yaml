@@ -1,0 +1,9 @@
+name: Adaptive static projection
+payloads:
+- tabnabbing_payload_1_approach
+- tabnabbing_payload_2_mean
+- tabnabbing_payload_3_check
+- tabnabbing_payload_4_manage
+- tabnabbing_payload_5_prepare
+severity: medium
+type: tabnabbing

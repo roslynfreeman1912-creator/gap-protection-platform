@@ -1,0 +1,9 @@
+name: Re-engineered global moderator
+payloads:
+- ssrf_payload_1_appear
+- ssrf_payload_2_itself
+- ssrf_payload_3_allow
+- ssrf_payload_4_growth
+- ssrf_payload_5_citizen
+severity: critical
+type: ssrf

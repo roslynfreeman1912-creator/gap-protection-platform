@@ -1,0 +1,9 @@
+name: Programmable context-sensitive application
+payloads:
+- csp-bypass_payload_1_matter
+- csp-bypass_payload_2_production
+- csp-bypass_payload_3_stop
+- csp-bypass_payload_4_friend
+- csp-bypass_payload_5_subject
+severity: high
+type: csp-bypass

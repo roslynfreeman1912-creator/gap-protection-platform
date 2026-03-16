@@ -1,0 +1,9 @@
+name: Reactive dedicated encoding
+payloads:
+- hsts-misconfig_payload_1_mission
+- hsts-misconfig_payload_2_of
+- hsts-misconfig_payload_3_beautiful
+- hsts-misconfig_payload_4_movement
+- hsts-misconfig_payload_5_available
+severity: high
+type: hsts-misconfig

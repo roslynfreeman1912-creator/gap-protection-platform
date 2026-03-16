@@ -1,0 +1,9 @@
+name: Proactive explicit standardization
+payloads:
+- path-traversal_payload_1_teach
+- path-traversal_payload_2_teach
+- path-traversal_payload_3_magazine
+- path-traversal_payload_4_politics
+- path-traversal_payload_5_article
+severity: medium
+type: path-traversal

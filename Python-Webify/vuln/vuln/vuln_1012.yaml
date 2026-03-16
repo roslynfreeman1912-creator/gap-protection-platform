@@ -1,0 +1,9 @@
+name: User-centric static circuit
+payloads:
+- ldap-injection_payload_1_wait
+- ldap-injection_payload_2_half
+- ldap-injection_payload_3_suffer
+- ldap-injection_payload_4_allow
+- ldap-injection_payload_5_represent
+severity: medium
+type: ldap-injection

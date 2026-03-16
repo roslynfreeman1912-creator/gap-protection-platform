@@ -1,0 +1,9 @@
+name: Visionary regional function
+payloads:
+- jsonp-injection_payload_1_great
+- jsonp-injection_payload_2_enjoy
+- jsonp-injection_payload_3_relate
+- jsonp-injection_payload_4_guy
+- jsonp-injection_payload_5_head
+severity: high
+type: jsonp-injection

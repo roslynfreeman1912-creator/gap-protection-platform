@@ -1,0 +1,9 @@
+name: Function-based bottom-line process improvement
+payloads:
+- javascript-injection_payload_1_wrong
+- javascript-injection_payload_2_art
+- javascript-injection_payload_3_three
+- javascript-injection_payload_4_environmental
+- javascript-injection_payload_5_feeling
+severity: low
+type: javascript-injection

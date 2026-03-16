@@ -1,0 +1,9 @@
+name: Organic optimizing flexibility
+payloads:
+- mime-sniffing_payload_1_he
+- mime-sniffing_payload_2_social
+- mime-sniffing_payload_3_social
+- mime-sniffing_payload_4_recently
+- mime-sniffing_payload_5_prove
+severity: medium
+type: mime-sniffing

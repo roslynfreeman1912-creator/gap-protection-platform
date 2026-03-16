@@ -1,0 +1,9 @@
+name: Multi-tiered discrete task-force
+payloads:
+- csp-bypass_payload_1_majority
+- csp-bypass_payload_2_heavy
+- csp-bypass_payload_3_model
+- csp-bypass_payload_4_we
+- csp-bypass_payload_5_middle
+severity: medium
+type: csp-bypass

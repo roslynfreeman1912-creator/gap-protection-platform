@@ -1,0 +1,9 @@
+name: Organized explicit archive
+payloads:
+- javascript-injection_payload_1_series
+- javascript-injection_payload_2_street
+- javascript-injection_payload_3_much
+- javascript-injection_payload_4_design
+- javascript-injection_payload_5_attention
+severity: low
+type: javascript-injection

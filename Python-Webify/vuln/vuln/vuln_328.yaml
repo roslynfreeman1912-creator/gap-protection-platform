@@ -1,0 +1,9 @@
+name: Visionary bi-directional adapter
+payloads:
+- lfi_payload_1_religious
+- lfi_payload_2_economic
+- lfi_payload_3_high
+- lfi_payload_4_officer
+- lfi_payload_5_child
+severity: low
+type: lfi

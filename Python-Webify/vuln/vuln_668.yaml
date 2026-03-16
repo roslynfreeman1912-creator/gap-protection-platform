@@ -1,0 +1,9 @@
+name: User-friendly well-modulated definition
+payloads:
+- subdomain-takeover_payload_1_course
+- subdomain-takeover_payload_2_defense
+- subdomain-takeover_payload_3_value
+- subdomain-takeover_payload_4_society
+- subdomain-takeover_payload_5_five
+severity: medium
+type: subdomain-takeover

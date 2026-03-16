@@ -1,0 +1,9 @@
+name: Integrated explicit Graphic Interface
+payloads:
+- sql_payload_1_rule
+- sql_payload_2_red
+- sql_payload_3_cup
+- sql_payload_4_trip
+- sql_payload_5_start
+severity: high
+type: sql

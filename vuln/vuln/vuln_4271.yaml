@@ -1,0 +1,9 @@
+name: Streamlined actuating strategy
+payloads:
+- mime-sniffing_payload_1_deal
+- mime-sniffing_payload_2_smile
+- mime-sniffing_payload_3_recent
+- mime-sniffing_payload_4_television
+- mime-sniffing_payload_5_car
+severity: critical
+type: mime-sniffing

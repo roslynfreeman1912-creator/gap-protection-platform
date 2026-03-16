@@ -1,0 +1,9 @@
+name: Persistent executive success
+payloads:
+- tabnabbing_payload_1_among
+- tabnabbing_payload_2_magazine
+- tabnabbing_payload_3_sea
+- tabnabbing_payload_4_since
+- tabnabbing_payload_5_street
+severity: medium
+type: tabnabbing

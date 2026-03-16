@@ -1,0 +1,9 @@
+name: Enterprise-wide transitional data-warehouse
+payloads:
+- hsts-misconfig_payload_1_movie
+- hsts-misconfig_payload_2_once
+- hsts-misconfig_payload_3_him
+- hsts-misconfig_payload_4_per
+- hsts-misconfig_payload_5_appear
+severity: critical
+type: hsts-misconfig

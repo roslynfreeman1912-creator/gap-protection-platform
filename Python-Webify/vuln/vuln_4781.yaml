@@ -1,0 +1,9 @@
+name: Function-based 6thgeneration database
+payloads:
+- csrf_payload_1_street
+- csrf_payload_2_ever
+- csrf_payload_3_run
+- csrf_payload_4_manager
+- csrf_payload_5_need
+severity: low
+type: csrf

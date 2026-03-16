@@ -1,0 +1,9 @@
+name: Profit-focused systematic knowledge user
+payloads:
+- tabnabbing_payload_1_still
+- tabnabbing_payload_2_type
+- tabnabbing_payload_3_edge
+- tabnabbing_payload_4_dark
+- tabnabbing_payload_5_force
+severity: low
+type: tabnabbing

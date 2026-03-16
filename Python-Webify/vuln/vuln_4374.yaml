@@ -1,0 +1,9 @@
+name: Programmable fault-tolerant interface
+payloads:
+- csp-bypass_payload_1_general
+- csp-bypass_payload_2_last
+- csp-bypass_payload_3_movie
+- csp-bypass_payload_4_strong
+- csp-bypass_payload_5_cause
+severity: medium
+type: csp-bypass

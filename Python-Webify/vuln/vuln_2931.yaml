@@ -1,0 +1,9 @@
+name: Ameliorated 24/7 synergy
+payloads:
+- csrf_payload_1_sea
+- csrf_payload_2_show
+- csrf_payload_3_record
+- csrf_payload_4_receive
+- csrf_payload_5_song
+severity: critical
+type: csrf

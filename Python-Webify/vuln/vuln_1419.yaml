@@ -1,0 +1,9 @@
+name: Horizontal upward-trending benchmark
+payloads:
+- javascript-injection_payload_1_daughter
+- javascript-injection_payload_2_head
+- javascript-injection_payload_3_rise
+- javascript-injection_payload_4_cold
+- javascript-injection_payload_5_street
+severity: low
+type: javascript-injection

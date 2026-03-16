@@ -1,0 +1,9 @@
+name: Horizontal human-resource ability
+payloads:
+- mime-sniffing_payload_1_parent
+- mime-sniffing_payload_2_military
+- mime-sniffing_payload_3_nice
+- mime-sniffing_payload_4_left
+- mime-sniffing_payload_5_growth
+severity: critical
+type: mime-sniffing

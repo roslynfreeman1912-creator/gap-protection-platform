@@ -1,0 +1,9 @@
+name: Cloned stable open architecture
+payloads:
+- frame-injection_payload_1_public
+- frame-injection_payload_2_stage
+- frame-injection_payload_3_owner
+- frame-injection_payload_4_nation
+- frame-injection_payload_5_nearly
+severity: critical
+type: frame-injection

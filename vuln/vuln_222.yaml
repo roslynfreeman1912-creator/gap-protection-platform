@@ -1,0 +1,9 @@
+name: Synergized non-volatile website
+payloads:
+- tabnabbing_payload_1_year
+- tabnabbing_payload_2_eight
+- tabnabbing_payload_3_his
+- tabnabbing_payload_4_bill
+- tabnabbing_payload_5_open
+severity: critical
+type: tabnabbing

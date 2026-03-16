@@ -1,0 +1,9 @@
+name: Multi-layered intermediate flexibility
+payloads:
+- mime-sniffing_payload_1_officer
+- mime-sniffing_payload_2_economy
+- mime-sniffing_payload_3_little
+- mime-sniffing_payload_4_help
+- mime-sniffing_payload_5_would
+severity: medium
+type: mime-sniffing

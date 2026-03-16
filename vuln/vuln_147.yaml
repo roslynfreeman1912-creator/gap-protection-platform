@@ -1,0 +1,9 @@
+name: Right-sized intangible encoding
+payloads:
+- tabnabbing_payload_1_plan
+- tabnabbing_payload_2_wife
+- tabnabbing_payload_3_owner
+- tabnabbing_payload_4_partner
+- tabnabbing_payload_5_grow
+severity: critical
+type: tabnabbing

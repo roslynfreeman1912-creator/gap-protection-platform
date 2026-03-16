@@ -1,0 +1,9 @@
+name: Vision-oriented 3rdgeneration data-warehouse
+payloads:
+- xxe_payload_1_financial
+- xxe_payload_2_set
+- xxe_payload_3_land
+- xxe_payload_4_among
+- xxe_payload_5_despite
+severity: critical
+type: xxe

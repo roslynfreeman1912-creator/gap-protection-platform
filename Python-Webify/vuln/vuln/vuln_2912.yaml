@@ -1,0 +1,9 @@
+name: Multi-lateral directional core
+payloads:
+- ldap-injection_payload_1_occur
+- ldap-injection_payload_2_certainly
+- ldap-injection_payload_3_result
+- ldap-injection_payload_4_population
+- ldap-injection_payload_5_picture
+severity: critical
+type: ldap-injection

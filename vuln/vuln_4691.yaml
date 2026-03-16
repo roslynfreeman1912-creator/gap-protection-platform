@@ -1,0 +1,9 @@
+name: Reverse-engineered actuating firmware
+payloads:
+- crlf-injection_payload_1_reason
+- crlf-injection_payload_2_smile
+- crlf-injection_payload_3_either
+- crlf-injection_payload_4_foreign
+- crlf-injection_payload_5_today
+severity: high
+type: crlf-injection

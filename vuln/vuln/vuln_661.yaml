@@ -1,0 +1,9 @@
+name: Networked optimal parallelism
+payloads:
+- xxe_payload_1_above
+- xxe_payload_2_father
+- xxe_payload_3_effect
+- xxe_payload_4_red
+- xxe_payload_5_various
+severity: low
+type: xxe

@@ -1,0 +1,9 @@
+name: Public-key foreground system engine
+payloads:
+- xxe_payload_1_friend
+- xxe_payload_2_apply
+- xxe_payload_3_choose
+- xxe_payload_4_approach
+- xxe_payload_5_often
+severity: high
+type: xxe

@@ -1,0 +1,9 @@
+name: Innovative optimizing secured line
+payloads:
+- lfi_payload_1_lot
+- lfi_payload_2_if
+- lfi_payload_3_challenge
+- lfi_payload_4_kind
+- lfi_payload_5_measure
+severity: medium
+type: lfi

@@ -1,0 +1,9 @@
+name: Organic radical adapter
+payloads:
+- csp-bypass_payload_1_team
+- csp-bypass_payload_2_challenge
+- csp-bypass_payload_3_finally
+- csp-bypass_payload_4_music
+- csp-bypass_payload_5_less
+severity: high
+type: csp-bypass

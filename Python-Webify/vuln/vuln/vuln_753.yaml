@@ -1,0 +1,9 @@
+name: Reactive solution-oriented migration
+payloads:
+- lfi_payload_1_financial
+- lfi_payload_2_defense
+- lfi_payload_3_somebody
+- lfi_payload_4_article
+- lfi_payload_5_too
+severity: high
+type: lfi

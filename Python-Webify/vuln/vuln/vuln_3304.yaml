@@ -1,0 +1,9 @@
+name: Ameliorated coherent customer loyalty
+payloads:
+- rfi_payload_1_modern
+- rfi_payload_2_involve
+- rfi_payload_3_during
+- rfi_payload_4_ready
+- rfi_payload_5_particular
+severity: low
+type: rfi

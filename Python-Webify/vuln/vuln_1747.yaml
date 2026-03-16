@@ -1,0 +1,9 @@
+name: Operative even-keeled project
+payloads:
+- tabnabbing_payload_1_action
+- tabnabbing_payload_2_us
+- tabnabbing_payload_3_people
+- tabnabbing_payload_4_trial
+- tabnabbing_payload_5_conference
+severity: low
+type: tabnabbing

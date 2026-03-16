@@ -1,0 +1,9 @@
+name: Monitored reciprocal open architecture
+payloads:
+- path-traversal_payload_1_dog
+- path-traversal_payload_2_them
+- path-traversal_payload_3_have
+- path-traversal_payload_4_add
+- path-traversal_payload_5_these
+severity: critical
+type: path-traversal

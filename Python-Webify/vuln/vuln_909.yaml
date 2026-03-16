@@ -1,0 +1,9 @@
+name: Reverse-engineered tangible contingency
+payloads:
+- path-traversal_payload_1_high
+- path-traversal_payload_2_once
+- path-traversal_payload_3_market
+- path-traversal_payload_4_leg
+- path-traversal_payload_5_writer
+severity: low
+type: path-traversal

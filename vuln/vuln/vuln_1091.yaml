@@ -1,0 +1,9 @@
+name: Face-to-face leadingedge monitoring
+payloads:
+- crlf-injection_payload_1_western
+- crlf-injection_payload_2_night
+- crlf-injection_payload_3_hospital
+- crlf-injection_payload_4_just
+- crlf-injection_payload_5_behavior
+severity: medium
+type: crlf-injection

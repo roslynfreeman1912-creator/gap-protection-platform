@@ -1,0 +1,9 @@
+name: Face-to-face 4thgeneration focus group
+payloads:
+- csp-bypass_payload_1_animal
+- csp-bypass_payload_2_worry
+- csp-bypass_payload_3_kid
+- csp-bypass_payload_4_involve
+- csp-bypass_payload_5_level
+severity: medium
+type: csp-bypass

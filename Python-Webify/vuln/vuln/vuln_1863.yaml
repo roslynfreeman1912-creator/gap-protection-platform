@@ -1,0 +1,9 @@
+name: Re-contextualized systematic conglomeration
+payloads:
+- nosql-injection_payload_1_ball
+- nosql-injection_payload_2_cost
+- nosql-injection_payload_3_short
+- nosql-injection_payload_4_plan
+- nosql-injection_payload_5_environment
+severity: low
+type: nosql-injection

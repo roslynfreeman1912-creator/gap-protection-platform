@@ -1,0 +1,9 @@
+name: Seamless multimedia superstructure
+payloads:
+- mime-sniffing_payload_1_travel
+- mime-sniffing_payload_2_yeah
+- mime-sniffing_payload_3_single
+- mime-sniffing_payload_4_teacher
+- mime-sniffing_payload_5_whose
+severity: high
+type: mime-sniffing

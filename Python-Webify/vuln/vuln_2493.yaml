@@ -1,0 +1,9 @@
+name: Profound holistic help-desk
+payloads:
+- subdomain-takeover_payload_1_budget
+- subdomain-takeover_payload_2_involve
+- subdomain-takeover_payload_3_over
+- subdomain-takeover_payload_4_mention
+- subdomain-takeover_payload_5_decide
+severity: high
+type: subdomain-takeover

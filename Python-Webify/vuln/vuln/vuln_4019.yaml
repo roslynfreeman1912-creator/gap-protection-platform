@@ -1,0 +1,9 @@
+name: Proactive intangible data-warehouse
+payloads:
+- javascript-injection_payload_1_movie
+- javascript-injection_payload_2_course
+- javascript-injection_payload_3_face
+- javascript-injection_payload_4_it
+- javascript-injection_payload_5_if
+severity: critical
+type: javascript-injection

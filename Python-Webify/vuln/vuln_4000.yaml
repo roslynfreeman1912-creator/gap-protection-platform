@@ -1,0 +1,9 @@
+name: Synergistic empowering alliance
+payloads:
+- frame-injection_payload_1_value
+- frame-injection_payload_2_star
+- frame-injection_payload_3_find
+- frame-injection_payload_4_best
+- frame-injection_payload_5_program
+severity: critical
+type: frame-injection

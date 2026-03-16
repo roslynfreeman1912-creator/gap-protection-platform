@@ -1,0 +1,9 @@
+name: Proactive neutral circuit
+payloads:
+- hsts-misconfig_payload_1_actually
+- hsts-misconfig_payload_2_term
+- hsts-misconfig_payload_3_lawyer
+- hsts-misconfig_payload_4_everyone
+- hsts-misconfig_payload_5_central
+severity: critical
+type: hsts-misconfig

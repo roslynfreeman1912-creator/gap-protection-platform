@@ -1,0 +1,9 @@
+name: Mandatory 6thgeneration analyzer
+payloads:
+- sql_payload_1_indeed
+- sql_payload_2_suggest
+- sql_payload_3_at
+- sql_payload_4_able
+- sql_payload_5_others
+severity: critical
+type: sql

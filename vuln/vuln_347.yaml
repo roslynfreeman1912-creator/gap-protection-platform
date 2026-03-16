@@ -1,0 +1,9 @@
+name: Open-architected national success
+payloads:
+- tabnabbing_payload_1_hope
+- tabnabbing_payload_2_develop
+- tabnabbing_payload_3_approach
+- tabnabbing_payload_4_common
+- tabnabbing_payload_5_pattern
+severity: low
+type: tabnabbing

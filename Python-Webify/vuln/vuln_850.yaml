@@ -1,0 +1,9 @@
+name: Reactive tertiary attitude
+payloads:
+- frame-injection_payload_1_clearly
+- frame-injection_payload_2_figure
+- frame-injection_payload_3_try
+- frame-injection_payload_4_law
+- frame-injection_payload_5_ever
+severity: medium
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Progressive maximized functionalities
+payloads:
+- sql_payload_1_need
+- sql_payload_2_anyone
+- sql_payload_3_interesting
+- sql_payload_4_certainly
+- sql_payload_5_computer
+severity: high
+type: sql

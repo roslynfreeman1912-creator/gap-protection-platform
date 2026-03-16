@@ -1,0 +1,9 @@
+name: Devolved web-enabled leverage
+payloads:
+- open-redirect_payload_1_rate
+- open-redirect_payload_2_already
+- open-redirect_payload_3_why
+- open-redirect_payload_4_east
+- open-redirect_payload_5_she
+severity: critical
+type: open-redirect

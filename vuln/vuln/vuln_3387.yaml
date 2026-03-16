@@ -1,0 +1,9 @@
+name: Digitized disintermediate strategy
+payloads:
+- ldap-injection_payload_1_PM
+- ldap-injection_payload_2_sure
+- ldap-injection_payload_3_other
+- ldap-injection_payload_4_wrong
+- ldap-injection_payload_5_lot
+severity: low
+type: ldap-injection

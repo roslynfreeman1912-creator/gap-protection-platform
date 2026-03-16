@@ -1,0 +1,9 @@
+name: Programmable zero tolerance standardization
+payloads:
+- nosql-injection_payload_1_site
+- nosql-injection_payload_2_thousand
+- nosql-injection_payload_3_medical
+- nosql-injection_payload_4_toward
+- nosql-injection_payload_5_factor
+severity: medium
+type: nosql-injection

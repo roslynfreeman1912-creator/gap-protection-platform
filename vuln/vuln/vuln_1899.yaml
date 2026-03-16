@@ -1,0 +1,9 @@
+name: Assimilated eco-centric adapter
+payloads:
+- csp-bypass_payload_1_center
+- csp-bypass_payload_2_green
+- csp-bypass_payload_3_third
+- csp-bypass_payload_4_just
+- csp-bypass_payload_5_arm
+severity: critical
+type: csp-bypass

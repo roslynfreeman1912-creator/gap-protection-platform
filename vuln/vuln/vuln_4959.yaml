@@ -1,0 +1,9 @@
+name: Sharable fault-tolerant approach
+payloads:
+- path-traversal_payload_1_inside
+- path-traversal_payload_2_people
+- path-traversal_payload_3_name
+- path-traversal_payload_4_right
+- path-traversal_payload_5_great
+severity: high
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Re-engineered holistic archive
+payloads:
+- frame-injection_payload_1_develop
+- frame-injection_payload_2_imagine
+- frame-injection_payload_3_actually
+- frame-injection_payload_4_especially
+- frame-injection_payload_5_a
+severity: high
+type: frame-injection

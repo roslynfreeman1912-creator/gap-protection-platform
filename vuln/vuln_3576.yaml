@@ -1,0 +1,9 @@
+name: Enhanced background orchestration
+payloads:
+- sql_payload_1_stock
+- sql_payload_2_ask
+- sql_payload_3_third
+- sql_payload_4_summer
+- sql_payload_5_material
+severity: low
+type: sql

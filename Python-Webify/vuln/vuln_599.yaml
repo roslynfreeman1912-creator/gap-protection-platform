@@ -1,0 +1,9 @@
+name: Cross-platform heuristic knowledgebase
+payloads:
+- csp-bypass_payload_1_worry
+- csp-bypass_payload_2_TV
+- csp-bypass_payload_3_wish
+- csp-bypass_payload_4_organization
+- csp-bypass_payload_5_she
+severity: low
+type: csp-bypass

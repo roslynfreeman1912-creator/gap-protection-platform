@@ -1,0 +1,9 @@
+name: Focused next generation moderator
+payloads:
+- frame-injection_payload_1_work
+- frame-injection_payload_2_relationship
+- frame-injection_payload_3_company
+- frame-injection_payload_4_product
+- frame-injection_payload_5_happy
+severity: critical
+type: frame-injection

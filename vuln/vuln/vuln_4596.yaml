@@ -1,0 +1,9 @@
+name: Digitized multi-tasking budgetary management
+payloads:
+- mime-sniffing_payload_1_last
+- mime-sniffing_payload_2_effort
+- mime-sniffing_payload_3_level
+- mime-sniffing_payload_4_seem
+- mime-sniffing_payload_5_although
+severity: high
+type: mime-sniffing

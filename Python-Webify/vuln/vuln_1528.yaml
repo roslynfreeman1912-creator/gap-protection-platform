@@ -1,0 +1,9 @@
+name: Diverse scalable ability
+payloads:
+- lfi_payload_1_hot
+- lfi_payload_2_last
+- lfi_payload_3_speak
+- lfi_payload_4_government
+- lfi_payload_5_computer
+severity: low
+type: lfi

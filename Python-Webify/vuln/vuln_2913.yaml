@@ -1,0 +1,9 @@
+name: Reduced empowering system engine
+payloads:
+- nosql-injection_payload_1_quickly
+- nosql-injection_payload_2_such
+- nosql-injection_payload_3_keep
+- nosql-injection_payload_4_more
+- nosql-injection_payload_5_team
+severity: medium
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Profit-focused empowering methodology
+payloads:
+- host-header-injection_payload_1_plant
+- host-header-injection_payload_2_traditional
+- host-header-injection_payload_3_style
+- host-header-injection_payload_4_well
+- host-header-injection_payload_5_exactly
+severity: medium
+type: host-header-injection

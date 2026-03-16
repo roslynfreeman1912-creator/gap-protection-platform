@@ -1,0 +1,9 @@
+name: Team-oriented clear-thinking architecture
+payloads:
+- xxe_payload_1_free
+- xxe_payload_2_movie
+- xxe_payload_3_fish
+- xxe_payload_4_huge
+- xxe_payload_5_sit
+severity: high
+type: xxe

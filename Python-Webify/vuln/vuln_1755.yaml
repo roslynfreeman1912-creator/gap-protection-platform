@@ -1,0 +1,9 @@
+name: Organic zero administration infrastructure
+payloads:
+- ssrf_payload_1_up
+- ssrf_payload_2_this
+- ssrf_payload_3_relate
+- ssrf_payload_4_again
+- ssrf_payload_5_young
+severity: low
+type: ssrf

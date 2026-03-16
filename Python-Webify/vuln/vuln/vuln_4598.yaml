@@ -1,0 +1,9 @@
+name: Secured clear-thinking complexity
+payloads:
+- hsts-misconfig_payload_1_ten
+- hsts-misconfig_payload_2_send
+- hsts-misconfig_payload_3_within
+- hsts-misconfig_payload_4_stock
+- hsts-misconfig_payload_5_president
+severity: critical
+type: hsts-misconfig

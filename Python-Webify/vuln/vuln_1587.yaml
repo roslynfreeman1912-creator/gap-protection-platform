@@ -1,0 +1,9 @@
+name: Switchable leadingedge protocol
+payloads:
+- ldap-injection_payload_1_safe
+- ldap-injection_payload_2_interview
+- ldap-injection_payload_3_hand
+- ldap-injection_payload_4_because
+- ldap-injection_payload_5_project
+severity: low
+type: ldap-injection

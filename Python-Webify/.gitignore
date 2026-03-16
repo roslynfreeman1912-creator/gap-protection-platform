@@ -1,0 +1,89 @@
+# Dependencies
+node_modules/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Reports
+reports/
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.DS_Store
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# Local state
+.local/
+
+# Aider
+.aider*
+
+# Attached assets (user uploads)
+attached_assets/
+
+# Git disabled
+.git_disabled/
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Docker
+.dockerignore
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Scan results
+security_report_*.json
+security_report_*.txt
+sicherheitsbericht_*.json
+sicherheitsbericht_*.txt
+scan_results_*.json
+scan_output.txt
+
+# Archives
+archive/
+
+# Deployment packages
+deploy-scanner.*

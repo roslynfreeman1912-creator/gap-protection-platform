@@ -1,0 +1,9 @@
+name: Team-oriented foreground extranet
+payloads:
+- csp-bypass_payload_1_financial
+- csp-bypass_payload_2_state
+- csp-bypass_payload_3_enough
+- csp-bypass_payload_4_close
+- csp-bypass_payload_5_report
+severity: critical
+type: csp-bypass

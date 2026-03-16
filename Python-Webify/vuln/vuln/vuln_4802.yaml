@@ -1,0 +1,9 @@
+name: Networked discrete support
+payloads:
+- xss_payload_1_spring
+- xss_payload_2_smile
+- xss_payload_3_deal
+- xss_payload_4_turn
+- xss_payload_5_term
+severity: low
+type: xss

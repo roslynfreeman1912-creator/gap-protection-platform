@@ -1,0 +1,9 @@
+name: Seamless transitional application
+payloads:
+- javascript-injection_payload_1_blood
+- javascript-injection_payload_2_write
+- javascript-injection_payload_3_class
+- javascript-injection_payload_4_wish
+- javascript-injection_payload_5_eat
+severity: critical
+type: javascript-injection

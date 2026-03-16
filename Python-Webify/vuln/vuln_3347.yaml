@@ -1,0 +1,9 @@
+name: Polarized upward-trending paradigm
+payloads:
+- tabnabbing_payload_1_example
+- tabnabbing_payload_2_stand
+- tabnabbing_payload_3_of
+- tabnabbing_payload_4_chair
+- tabnabbing_payload_5_trip
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Progressive stable initiative
+payloads:
+- frame-injection_payload_1_really
+- frame-injection_payload_2_without
+- frame-injection_payload_3_sound
+- frame-injection_payload_4_day
+- frame-injection_payload_5_buy
+severity: critical
+type: frame-injection

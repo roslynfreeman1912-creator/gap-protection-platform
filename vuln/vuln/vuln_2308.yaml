@@ -1,0 +1,9 @@
+name: Sharable 24hour artificial intelligence
+payloads:
+- command-injection_payload_1_for
+- command-injection_payload_2_tough
+- command-injection_payload_3_both
+- command-injection_payload_4_hold
+- command-injection_payload_5_job
+severity: low
+type: command-injection

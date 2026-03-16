@@ -1,0 +1,9 @@
+name: Adaptive bandwidth-monitored concept
+payloads:
+- file-upload_payload_1_everyone
+- file-upload_payload_2_science
+- file-upload_payload_3_happy
+- file-upload_payload_4_above
+- file-upload_payload_5_allow
+severity: low
+type: file-upload

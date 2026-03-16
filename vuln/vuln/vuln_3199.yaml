@@ -1,0 +1,9 @@
+name: Reduced systematic moderator
+payloads:
+- csp-bypass_payload_1_management
+- csp-bypass_payload_2_image
+- csp-bypass_payload_3_generation
+- csp-bypass_payload_4_current
+- csp-bypass_payload_5_stage
+severity: low
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Streamlined systemic encryption
+payloads:
+- open-redirect_payload_1_similar
+- open-redirect_payload_2_probably
+- open-redirect_payload_3_too
+- open-redirect_payload_4_adult
+- open-redirect_payload_5_unit
+severity: high
+type: open-redirect

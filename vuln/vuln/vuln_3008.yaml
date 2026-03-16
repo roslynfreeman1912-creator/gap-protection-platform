@@ -1,0 +1,9 @@
+name: Multi-lateral bottom-line firmware
+payloads:
+- command-injection_payload_1_kitchen
+- command-injection_payload_2_marriage
+- command-injection_payload_3_claim
+- command-injection_payload_4_specific
+- command-injection_payload_5_change
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Decentralized uniform database
+payloads:
+- xxe_payload_1_edge
+- xxe_payload_2_child
+- xxe_payload_3_within
+- xxe_payload_4_many
+- xxe_payload_5_degree
+severity: high
+type: xxe

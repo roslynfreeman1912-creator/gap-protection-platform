@@ -1,0 +1,9 @@
+name: De-engineered multimedia emulation
+payloads:
+- file-upload_payload_1_do
+- file-upload_payload_2_everybody
+- file-upload_payload_3_about
+- file-upload_payload_4_hold
+- file-upload_payload_5_language
+severity: medium
+type: file-upload

@@ -1,0 +1,9 @@
+name: Persistent maximized database
+payloads:
+- xxe_payload_1_race
+- xxe_payload_2_already
+- xxe_payload_3_rest
+- xxe_payload_4_traditional
+- xxe_payload_5_condition
+severity: critical
+type: xxe

@@ -1,0 +1,9 @@
+name: Monitored global archive
+payloads:
+- csrf_payload_1_else
+- csrf_payload_2_network
+- csrf_payload_3_project
+- csrf_payload_4_table
+- csrf_payload_5_necessary
+severity: medium
+type: csrf

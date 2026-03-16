@@ -1,0 +1,9 @@
+name: Re-contextualized executive definition
+payloads:
+- jsonp-injection_payload_1_why
+- jsonp-injection_payload_2_prove
+- jsonp-injection_payload_3_go
+- jsonp-injection_payload_4_house
+- jsonp-injection_payload_5_art
+severity: high
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Reactive system-worthy info-mediaries
+payloads:
+- open-redirect_payload_1_side
+- open-redirect_payload_2_large
+- open-redirect_payload_3_beautiful
+- open-redirect_payload_4_table
+- open-redirect_payload_5_huge
+severity: high
+type: open-redirect

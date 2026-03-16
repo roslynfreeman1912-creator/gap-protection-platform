@@ -1,0 +1,9 @@
+name: Grass-roots responsive contingency
+payloads:
+- jsonp-injection_payload_1_career
+- jsonp-injection_payload_2_Mrs
+- jsonp-injection_payload_3_direction
+- jsonp-injection_payload_4_reach
+- jsonp-injection_payload_5_learn
+severity: medium
+type: jsonp-injection

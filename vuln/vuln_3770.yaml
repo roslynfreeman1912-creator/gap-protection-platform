@@ -1,0 +1,9 @@
+name: Secured composite projection
+payloads:
+- file-upload_payload_1_none
+- file-upload_payload_2_see
+- file-upload_payload_3_since
+- file-upload_payload_4_public
+- file-upload_payload_5_alone
+severity: high
+type: file-upload

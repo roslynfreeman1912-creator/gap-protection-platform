@@ -1,0 +1,9 @@
+name: Automated global monitoring
+payloads:
+- host-header-injection_payload_1_simple
+- host-header-injection_payload_2_quickly
+- host-header-injection_payload_3_opportunity
+- host-header-injection_payload_4_rock
+- host-header-injection_payload_5_carry
+severity: low
+type: host-header-injection

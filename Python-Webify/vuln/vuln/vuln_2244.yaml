@@ -1,0 +1,9 @@
+name: Re-contextualized national emulation
+payloads:
+- javascript-injection_payload_1_its
+- javascript-injection_payload_2_each
+- javascript-injection_payload_3_base
+- javascript-injection_payload_4_describe
+- javascript-injection_payload_5_wrong
+severity: medium
+type: javascript-injection

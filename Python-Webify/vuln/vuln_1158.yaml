@@ -1,0 +1,9 @@
+name: Virtual next generation knowledge user
+payloads:
+- command-injection_payload_1_me
+- command-injection_payload_2_way
+- command-injection_payload_3_reflect
+- command-injection_payload_4_them
+- command-injection_payload_5_production
+severity: medium
+type: command-injection

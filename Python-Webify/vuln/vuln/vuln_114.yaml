@@ -1,0 +1,9 @@
+name: Down-sized empowering info-mediaries
+payloads:
+- clickjacking_payload_1_financial
+- clickjacking_payload_2_present
+- clickjacking_payload_3_tend
+- clickjacking_payload_4_main
+- clickjacking_payload_5_college
+severity: high
+type: clickjacking

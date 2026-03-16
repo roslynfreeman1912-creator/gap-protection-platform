@@ -1,0 +1,9 @@
+name: Multi-layered uniform application
+payloads:
+- hsts-misconfig_payload_1_way
+- hsts-misconfig_payload_2_life
+- hsts-misconfig_payload_3_administration
+- hsts-misconfig_payload_4_growth
+- hsts-misconfig_payload_5_win
+severity: medium
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Advanced secondary info-mediaries
+payloads:
+- xxe_payload_1_explain
+- xxe_payload_2_rather
+- xxe_payload_3_environment
+- xxe_payload_4_positive
+- xxe_payload_5_use
+severity: high
+type: xxe

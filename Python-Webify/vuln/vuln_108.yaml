@@ -1,0 +1,9 @@
+name: Virtual next generation archive
+payloads:
+- command-injection_payload_1_half
+- command-injection_payload_2_one
+- command-injection_payload_3_guess
+- command-injection_payload_4_door
+- command-injection_payload_5_none
+severity: critical
+type: command-injection

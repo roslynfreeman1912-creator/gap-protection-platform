@@ -1,0 +1,9 @@
+name: Implemented attitude-oriented architecture
+payloads:
+- hsts-misconfig_payload_1_body
+- hsts-misconfig_payload_2_they
+- hsts-misconfig_payload_3_they
+- hsts-misconfig_payload_4_some
+- hsts-misconfig_payload_5_risk
+severity: low
+type: hsts-misconfig

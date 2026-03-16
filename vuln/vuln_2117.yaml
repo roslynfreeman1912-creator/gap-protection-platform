@@ -1,0 +1,9 @@
+name: Operative composite conglomeration
+payloads:
+- host-header-injection_payload_1_computer
+- host-header-injection_payload_2_least
+- host-header-injection_payload_3_professor
+- host-header-injection_payload_4_evidence
+- host-header-injection_payload_5_others
+severity: critical
+type: host-header-injection

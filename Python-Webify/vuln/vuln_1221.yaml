@@ -1,0 +1,9 @@
+name: Operative non-volatile capacity
+payloads:
+- mime-sniffing_payload_1_while
+- mime-sniffing_payload_2_area
+- mime-sniffing_payload_3_think
+- mime-sniffing_payload_4_seek
+- mime-sniffing_payload_5_nor
+severity: critical
+type: mime-sniffing

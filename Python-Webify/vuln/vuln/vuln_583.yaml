@@ -1,0 +1,9 @@
+name: Organic bifurcated contingency
+payloads:
+- command-injection_payload_1_attention
+- command-injection_payload_2_action
+- command-injection_payload_3_church
+- command-injection_payload_4_practice
+- command-injection_payload_5_civil
+severity: critical
+type: command-injection

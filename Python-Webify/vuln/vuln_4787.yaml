@@ -1,0 +1,9 @@
+name: Intuitive human-resource middleware
+payloads:
+- ldap-injection_payload_1_east
+- ldap-injection_payload_2_available
+- ldap-injection_payload_3_total
+- ldap-injection_payload_4_military
+- ldap-injection_payload_5_note
+severity: critical
+type: ldap-injection

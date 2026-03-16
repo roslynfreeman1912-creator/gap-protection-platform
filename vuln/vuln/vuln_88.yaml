@@ -1,0 +1,9 @@
+name: Networked national migration
+payloads:
+- nosql-injection_payload_1_case
+- nosql-injection_payload_2_scene
+- nosql-injection_payload_3_people
+- nosql-injection_payload_4_from
+- nosql-injection_payload_5_national
+severity: high
+type: nosql-injection

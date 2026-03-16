@@ -1,0 +1,9 @@
+name: Synchronized impactful knowledgebase
+payloads:
+- csp-bypass_payload_1_if
+- csp-bypass_payload_2_character
+- csp-bypass_payload_3_present
+- csp-bypass_payload_4_reflect
+- csp-bypass_payload_5_support
+severity: medium
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Realigned mission-critical time-frame
+payloads:
+- javascript-injection_payload_1_once
+- javascript-injection_payload_2_involve
+- javascript-injection_payload_3_some
+- javascript-injection_payload_4_establish
+- javascript-injection_payload_5_reach
+severity: high
+type: javascript-injection

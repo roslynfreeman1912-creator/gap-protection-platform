@@ -1,0 +1,9 @@
+name: Virtual 24hour orchestration
+payloads:
+- ssrf_payload_1_policy
+- ssrf_payload_2_respond
+- ssrf_payload_3_room
+- ssrf_payload_4_center
+- ssrf_payload_5_human
+severity: critical
+type: ssrf

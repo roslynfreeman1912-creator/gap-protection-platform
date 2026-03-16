@@ -1,0 +1,9 @@
+name: Business-focused multimedia archive
+payloads:
+- subdomain-takeover_payload_1_seem
+- subdomain-takeover_payload_2_participant
+- subdomain-takeover_payload_3_body
+- subdomain-takeover_payload_4_hotel
+- subdomain-takeover_payload_5_economy
+severity: critical
+type: subdomain-takeover

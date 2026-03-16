@@ -1,0 +1,9 @@
+name: Total national matrices
+payloads:
+- xxe_payload_1_clearly
+- xxe_payload_2_leave
+- xxe_payload_3_reflect
+- xxe_payload_4_city
+- xxe_payload_5_step
+severity: critical
+type: xxe

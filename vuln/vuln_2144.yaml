@@ -1,0 +1,9 @@
+name: Reverse-engineered 24hour hierarchy
+payloads:
+- javascript-injection_payload_1_see
+- javascript-injection_payload_2_parent
+- javascript-injection_payload_3_beat
+- javascript-injection_payload_4_machine
+- javascript-injection_payload_5_structure
+severity: critical
+type: javascript-injection

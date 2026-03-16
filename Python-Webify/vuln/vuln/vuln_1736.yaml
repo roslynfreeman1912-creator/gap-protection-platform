@@ -1,0 +1,9 @@
+name: Streamlined asynchronous service-desk
+payloads:
+- xxe_payload_1_take
+- xxe_payload_2_subject
+- xxe_payload_3_but
+- xxe_payload_4_information
+- xxe_payload_5_sister
+severity: critical
+type: xxe

@@ -1,0 +1,9 @@
+name: Re-contextualized 3rdgeneration conglomeration
+payloads:
+- ssrf_payload_1_he
+- ssrf_payload_2_you
+- ssrf_payload_3_dark
+- ssrf_payload_4_half
+- ssrf_payload_5_especially
+severity: high
+type: ssrf

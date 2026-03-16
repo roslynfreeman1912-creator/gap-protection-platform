@@ -1,0 +1,9 @@
+name: Persevering system-worthy hardware
+payloads:
+- xss_payload_1_better
+- xss_payload_2_movement
+- xss_payload_3_visit
+- xss_payload_4_employee
+- xss_payload_5_check
+severity: high
+type: xss

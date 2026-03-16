@@ -1,0 +1,9 @@
+name: Reduced homogeneous moderator
+payloads:
+- command-injection_payload_1_adult
+- command-injection_payload_2_fill
+- command-injection_payload_3_build
+- command-injection_payload_4_letter
+- command-injection_payload_5_arm
+severity: medium
+type: command-injection

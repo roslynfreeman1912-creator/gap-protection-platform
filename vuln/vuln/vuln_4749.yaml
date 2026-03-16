@@ -1,0 +1,9 @@
+name: Cross-platform 6thgeneration forecast
+payloads:
+- csp-bypass_payload_1_somebody
+- csp-bypass_payload_2_these
+- csp-bypass_payload_3_beautiful
+- csp-bypass_payload_4_them
+- csp-bypass_payload_5_site
+severity: critical
+type: csp-bypass

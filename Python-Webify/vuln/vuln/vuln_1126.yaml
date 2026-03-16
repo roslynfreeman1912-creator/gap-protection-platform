@@ -1,0 +1,9 @@
+name: Triple-buffered mobile core
+payloads:
+- sql_payload_1_member
+- sql_payload_2_just
+- sql_payload_3_note
+- sql_payload_4_letter
+- sql_payload_5_song
+severity: medium
+type: sql

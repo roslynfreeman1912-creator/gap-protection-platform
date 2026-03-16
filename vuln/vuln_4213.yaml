@@ -1,0 +1,9 @@
+name: Open-architected context-sensitive productivity
+payloads:
+- nosql-injection_payload_1_of
+- nosql-injection_payload_2_chair
+- nosql-injection_payload_3_third
+- nosql-injection_payload_4_nice
+- nosql-injection_payload_5_score
+severity: critical
+type: nosql-injection

@@ -1,0 +1,9 @@
+name: Open-source value-added adapter
+payloads:
+- javascript-injection_payload_1_report
+- javascript-injection_payload_2_laugh
+- javascript-injection_payload_3_question
+- javascript-injection_payload_4_future
+- javascript-injection_payload_5_ability
+severity: low
+type: javascript-injection

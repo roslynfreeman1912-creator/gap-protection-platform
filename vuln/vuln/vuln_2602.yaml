@@ -1,0 +1,9 @@
+name: Multi-channeled systemic leverage
+payloads:
+- xss_payload_1_west
+- xss_payload_2_seven
+- xss_payload_3_off
+- xss_payload_4_decide
+- xss_payload_5_new
+severity: critical
+type: xss

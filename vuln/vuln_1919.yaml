@@ -1,0 +1,9 @@
+name: Programmable uniform core
+payloads:
+- javascript-injection_payload_1_thank
+- javascript-injection_payload_2_Democrat
+- javascript-injection_payload_3_trip
+- javascript-injection_payload_4_development
+- javascript-injection_payload_5_blood
+severity: low
+type: javascript-injection

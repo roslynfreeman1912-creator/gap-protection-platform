@@ -1,0 +1,9 @@
+name: Reactive analyzing flexibility
+payloads:
+- jsonp-injection_payload_1_budget
+- jsonp-injection_payload_2_stop
+- jsonp-injection_payload_3_new
+- jsonp-injection_payload_4_major
+- jsonp-injection_payload_5_order
+severity: low
+type: jsonp-injection

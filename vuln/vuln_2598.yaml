@@ -1,0 +1,9 @@
+name: Face-to-face client-driven contingency
+payloads:
+- hsts-misconfig_payload_1_particular
+- hsts-misconfig_payload_2_high
+- hsts-misconfig_payload_3_ago
+- hsts-misconfig_payload_4_feel
+- hsts-misconfig_payload_5_fine
+severity: critical
+type: hsts-misconfig

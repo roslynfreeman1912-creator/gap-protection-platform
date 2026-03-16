@@ -1,0 +1,9 @@
+name: Reverse-engineered neutral website
+payloads:
+- xxe_payload_1_collection
+- xxe_payload_2_account
+- xxe_payload_3_theory
+- xxe_payload_4_ready
+- xxe_payload_5_store
+severity: low
+type: xxe

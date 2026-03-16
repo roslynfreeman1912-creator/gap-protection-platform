@@ -1,0 +1,9 @@
+name: Centralized fault-tolerant capacity
+payloads:
+- csp-bypass_payload_1_evidence
+- csp-bypass_payload_2_dream
+- csp-bypass_payload_3_to
+- csp-bypass_payload_4_interesting
+- csp-bypass_payload_5_none
+severity: medium
+type: csp-bypass

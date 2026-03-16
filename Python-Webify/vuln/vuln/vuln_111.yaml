@@ -1,0 +1,9 @@
+name: Operative full-range attitude
+payloads:
+- xxe_payload_1_year
+- xxe_payload_2_reflect
+- xxe_payload_3_play
+- xxe_payload_4_eye
+- xxe_payload_5_subject
+severity: high
+type: xxe

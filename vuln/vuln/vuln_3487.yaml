@@ -1,0 +1,9 @@
+name: Realigned local alliance
+payloads:
+- ldap-injection_payload_1_participant
+- ldap-injection_payload_2_drop
+- ldap-injection_payload_3_month
+- ldap-injection_payload_4_appear
+- ldap-injection_payload_5_family
+severity: medium
+type: ldap-injection

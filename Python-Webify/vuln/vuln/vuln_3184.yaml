@@ -1,0 +1,9 @@
+name: Multi-layered static budgetary management
+payloads:
+- path-traversal_payload_1_certainly
+- path-traversal_payload_2_lawyer
+- path-traversal_payload_3_dark
+- path-traversal_payload_4_mission
+- path-traversal_payload_5_wall
+severity: medium
+type: path-traversal

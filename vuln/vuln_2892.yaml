@@ -1,0 +1,9 @@
+name: Organized fresh-thinking methodology
+payloads:
+- host-header-injection_payload_1_such
+- host-header-injection_payload_2_ability
+- host-header-injection_payload_3_teacher
+- host-header-injection_payload_4_policy
+- host-header-injection_payload_5_same
+severity: critical
+type: host-header-injection

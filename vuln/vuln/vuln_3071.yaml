@@ -1,0 +1,9 @@
+name: Centralized bi-directional encoding
+payloads:
+- mime-sniffing_payload_1_task
+- mime-sniffing_payload_2_trouble
+- mime-sniffing_payload_3_car
+- mime-sniffing_payload_4_actually
+- mime-sniffing_payload_5_senior
+severity: critical
+type: mime-sniffing

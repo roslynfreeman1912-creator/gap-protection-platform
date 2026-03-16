@@ -1,0 +1,9 @@
+name: Managed local hub
+payloads:
+- tabnabbing_payload_1_clearly
+- tabnabbing_payload_2_item
+- tabnabbing_payload_3_have
+- tabnabbing_payload_4_police
+- tabnabbing_payload_5_organization
+severity: medium
+type: tabnabbing

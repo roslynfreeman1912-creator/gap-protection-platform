@@ -1,0 +1,9 @@
+name: Reactive solution-oriented toolset
+payloads:
+- xxe_payload_1_analysis
+- xxe_payload_2_blood
+- xxe_payload_3_that
+- xxe_payload_4_national
+- xxe_payload_5_face
+severity: low
+type: xxe

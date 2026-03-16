@@ -1,0 +1,9 @@
+name: Customer-focused human-resource protocol
+payloads:
+- frame-injection_payload_1_impact
+- frame-injection_payload_2_represent
+- frame-injection_payload_3_exactly
+- frame-injection_payload_4_among
+- frame-injection_payload_5_discussion
+severity: high
+type: frame-injection

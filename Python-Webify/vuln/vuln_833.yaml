@@ -1,0 +1,9 @@
+name: Ergonomic interactive focus group
+payloads:
+- command-injection_payload_1_on
+- command-injection_payload_2_a
+- command-injection_payload_3_everything
+- command-injection_payload_4_clear
+- command-injection_payload_5_what
+severity: low
+type: command-injection

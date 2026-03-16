@@ -1,0 +1,9 @@
+name: Profound scalable task-force
+payloads:
+- clickjacking_payload_1_time
+- clickjacking_payload_2_put
+- clickjacking_payload_3_pay
+- clickjacking_payload_4_and
+- clickjacking_payload_5_threat
+severity: high
+type: clickjacking

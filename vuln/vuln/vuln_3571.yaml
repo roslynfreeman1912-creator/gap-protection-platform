@@ -1,0 +1,9 @@
+name: Exclusive analyzing knowledge user
+payloads:
+- mime-sniffing_payload_1_development
+- mime-sniffing_payload_2_spend
+- mime-sniffing_payload_3_rule
+- mime-sniffing_payload_4_black
+- mime-sniffing_payload_5_rich
+severity: medium
+type: mime-sniffing

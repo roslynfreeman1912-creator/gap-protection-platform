@@ -1,0 +1,9 @@
+name: Down-sized neutral approach
+payloads:
+- ldap-injection_payload_1_sport
+- ldap-injection_payload_2_game
+- ldap-injection_payload_3_possible
+- ldap-injection_payload_4_with
+- ldap-injection_payload_5_decide
+severity: critical
+type: ldap-injection

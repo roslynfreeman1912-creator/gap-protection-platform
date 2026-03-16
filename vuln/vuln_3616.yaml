@@ -1,0 +1,9 @@
+name: Seamless multi-tasking paradigm
+payloads:
+- crlf-injection_payload_1_ball
+- crlf-injection_payload_2_possible
+- crlf-injection_payload_3_kind
+- crlf-injection_payload_4_medical
+- crlf-injection_payload_5_spring
+severity: low
+type: crlf-injection

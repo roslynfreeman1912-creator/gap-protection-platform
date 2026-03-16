@@ -1,0 +1,9 @@
+name: Progressive multi-tasking system engine
+payloads:
+- csrf_payload_1_better
+- csrf_payload_2_sea
+- csrf_payload_3_current
+- csrf_payload_4_wear
+- csrf_payload_5_ago
+severity: high
+type: csrf

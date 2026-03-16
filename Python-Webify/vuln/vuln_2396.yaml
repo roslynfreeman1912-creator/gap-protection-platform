@@ -1,0 +1,9 @@
+name: Vision-oriented stable neural-net
+payloads:
+- mime-sniffing_payload_1_cold
+- mime-sniffing_payload_2_economy
+- mime-sniffing_payload_3_among
+- mime-sniffing_payload_4_hot
+- mime-sniffing_payload_5_my
+severity: high
+type: mime-sniffing

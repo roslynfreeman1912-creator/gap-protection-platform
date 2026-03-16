@@ -1,0 +1,9 @@
+name: Streamlined logistical attitude
+payloads:
+- csp-bypass_payload_1_quickly
+- csp-bypass_payload_2_position
+- csp-bypass_payload_3_true
+- csp-bypass_payload_4_year
+- csp-bypass_payload_5_page
+severity: critical
+type: csp-bypass

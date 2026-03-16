@@ -1,0 +1,9 @@
+name: Synchronized regional help-desk
+payloads:
+- lfi_payload_1_history
+- lfi_payload_2_character
+- lfi_payload_3_soon
+- lfi_payload_4_few
+- lfi_payload_5_us
+severity: critical
+type: lfi

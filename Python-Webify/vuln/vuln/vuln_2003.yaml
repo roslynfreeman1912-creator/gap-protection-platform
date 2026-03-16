@@ -1,0 +1,9 @@
+name: Configurable cohesive customer loyalty
+payloads:
+- lfi_payload_1_action
+- lfi_payload_2_four
+- lfi_payload_3_necessary
+- lfi_payload_4_media
+- lfi_payload_5_of
+severity: medium
+type: lfi

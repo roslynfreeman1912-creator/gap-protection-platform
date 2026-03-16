@@ -1,0 +1,9 @@
+name: Progressive context-sensitive hierarchy
+payloads:
+- csp-bypass_payload_1_many
+- csp-bypass_payload_2_official
+- csp-bypass_payload_3_hospital
+- csp-bypass_payload_4_practice
+- csp-bypass_payload_5_minute
+severity: low
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Reactive next generation paradigm
+payloads:
+- subdomain-takeover_payload_1_capital
+- subdomain-takeover_payload_2_above
+- subdomain-takeover_payload_3_where
+- subdomain-takeover_payload_4_newspaper
+- subdomain-takeover_payload_5_child
+severity: medium
+type: subdomain-takeover

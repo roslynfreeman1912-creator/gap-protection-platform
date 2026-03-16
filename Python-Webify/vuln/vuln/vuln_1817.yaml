@@ -1,0 +1,9 @@
+name: Triple-buffered grid-enabled model
+payloads:
+- host-header-injection_payload_1_fly
+- host-header-injection_payload_2_painting
+- host-header-injection_payload_3_natural
+- host-header-injection_payload_4_why
+- host-header-injection_payload_5_finish
+severity: critical
+type: host-header-injection

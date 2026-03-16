@@ -1,0 +1,9 @@
+name: Polarized coherent service-desk
+payloads:
+- hsts-misconfig_payload_1_may
+- hsts-misconfig_payload_2_opportunity
+- hsts-misconfig_payload_3_there
+- hsts-misconfig_payload_4_true
+- hsts-misconfig_payload_5_because
+severity: low
+type: hsts-misconfig

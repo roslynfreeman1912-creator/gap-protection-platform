@@ -1,0 +1,9 @@
+name: Face-to-face eco-centric implementation
+payloads:
+- subdomain-takeover_payload_1_tree
+- subdomain-takeover_payload_2_subject
+- subdomain-takeover_payload_3_from
+- subdomain-takeover_payload_4_walk
+- subdomain-takeover_payload_5_floor
+severity: high
+type: subdomain-takeover

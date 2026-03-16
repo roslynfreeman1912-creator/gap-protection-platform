@@ -1,0 +1,9 @@
+name: Organic dedicated superstructure
+payloads:
+- tabnabbing_payload_1_thousand
+- tabnabbing_payload_2_serious
+- tabnabbing_payload_3_officer
+- tabnabbing_payload_4_pass
+- tabnabbing_payload_5_address
+severity: high
+type: tabnabbing

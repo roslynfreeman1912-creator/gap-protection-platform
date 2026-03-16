@@ -1,0 +1,9 @@
+name: Grass-roots directional installation
+payloads:
+- ssti_payload_1_administration
+- ssti_payload_2_social
+- ssti_payload_3_rather
+- ssti_payload_4_take
+- ssti_payload_5_coach
+severity: medium
+type: ssti

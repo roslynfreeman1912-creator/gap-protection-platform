@@ -1,0 +1,9 @@
+name: Cross-platform systematic hardware
+payloads:
+- mime-sniffing_payload_1_watch
+- mime-sniffing_payload_2_our
+- mime-sniffing_payload_3_whose
+- mime-sniffing_payload_4_great
+- mime-sniffing_payload_5_close
+severity: critical
+type: mime-sniffing

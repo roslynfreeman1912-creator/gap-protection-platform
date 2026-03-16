@@ -1,0 +1,9 @@
+name: Compatible asynchronous frame
+payloads:
+- tabnabbing_payload_1_model
+- tabnabbing_payload_2_skill
+- tabnabbing_payload_3_assume
+- tabnabbing_payload_4_doctor
+- tabnabbing_payload_5_during
+severity: critical
+type: tabnabbing

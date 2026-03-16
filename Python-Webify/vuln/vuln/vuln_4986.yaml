@@ -1,0 +1,9 @@
+name: Customizable 6thgeneration infrastructure
+payloads:
+- xxe_payload_1_building
+- xxe_payload_2_then
+- xxe_payload_3_through
+- xxe_payload_4_writer
+- xxe_payload_5_fill
+severity: low
+type: xxe

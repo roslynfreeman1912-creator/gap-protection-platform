@@ -1,0 +1,9 @@
+name: Reduced bottom-line initiative
+payloads:
+- hsts-misconfig_payload_1_themselves
+- hsts-misconfig_payload_2_eye
+- hsts-misconfig_payload_3_important
+- hsts-misconfig_payload_4_military
+- hsts-misconfig_payload_5_structure
+severity: high
+type: hsts-misconfig

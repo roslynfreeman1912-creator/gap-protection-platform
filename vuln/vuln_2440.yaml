@@ -1,0 +1,9 @@
+name: Multi-layered client-driven synergy
+payloads:
+- jsonp-injection_payload_1_Mrs
+- jsonp-injection_payload_2_personal
+- jsonp-injection_payload_3_its
+- jsonp-injection_payload_4_eight
+- jsonp-injection_payload_5_environment
+severity: high
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Centralized 3rdgeneration data-warehouse
+payloads:
+- tabnabbing_payload_1_art
+- tabnabbing_payload_2_no
+- tabnabbing_payload_3_money
+- tabnabbing_payload_4_play
+- tabnabbing_payload_5_key
+severity: critical
+type: tabnabbing

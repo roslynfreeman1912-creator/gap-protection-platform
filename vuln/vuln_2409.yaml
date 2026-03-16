@@ -1,0 +1,9 @@
+name: Operative responsive solution
+payloads:
+- path-traversal_payload_1_similar
+- path-traversal_payload_2_return
+- path-traversal_payload_3_listen
+- path-traversal_payload_4_over
+- path-traversal_payload_5_financial
+severity: critical
+type: path-traversal

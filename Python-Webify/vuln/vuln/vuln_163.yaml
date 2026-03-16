@@ -1,0 +1,9 @@
+name: Compatible intangible array
+payloads:
+- nosql-injection_payload_1_already
+- nosql-injection_payload_2_situation
+- nosql-injection_payload_3_development
+- nosql-injection_payload_4_which
+- nosql-injection_payload_5_teach
+severity: critical
+type: nosql-injection

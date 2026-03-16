@@ -1,0 +1,9 @@
+name: Cross-platform maximized architecture
+payloads:
+- path-traversal_payload_1_structure
+- path-traversal_payload_2_explain
+- path-traversal_payload_3_standard
+- path-traversal_payload_4_goal
+- path-traversal_payload_5_ever
+severity: low
+type: path-traversal

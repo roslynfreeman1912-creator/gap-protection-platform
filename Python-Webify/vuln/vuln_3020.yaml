@@ -1,0 +1,9 @@
+name: Triple-buffered fresh-thinking open architecture
+payloads:
+- file-upload_payload_1_many
+- file-upload_payload_2_thank
+- file-upload_payload_3_our
+- file-upload_payload_4_down
+- file-upload_payload_5_beyond
+severity: high
+type: file-upload

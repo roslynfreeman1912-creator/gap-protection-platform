@@ -1,0 +1,9 @@
+name: Seamless bandwidth-monitored attitude
+payloads:
+- open-redirect_payload_1_talk
+- open-redirect_payload_2_popular
+- open-redirect_payload_3_deep
+- open-redirect_payload_4_he
+- open-redirect_payload_5_opportunity
+severity: critical
+type: open-redirect

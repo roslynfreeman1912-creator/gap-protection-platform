@@ -1,0 +1,9 @@
+name: Object-based grid-enabled infrastructure
+payloads:
+- subdomain-takeover_payload_1_director
+- subdomain-takeover_payload_2_research
+- subdomain-takeover_payload_3_thought
+- subdomain-takeover_payload_4_firm
+- subdomain-takeover_payload_5_guess
+severity: medium
+type: subdomain-takeover

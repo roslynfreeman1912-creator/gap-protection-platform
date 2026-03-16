@@ -1,0 +1,9 @@
+name: Proactive bi-directional initiative
+payloads:
+- file-upload_payload_1_nor
+- file-upload_payload_2_out
+- file-upload_payload_3_effort
+- file-upload_payload_4_name
+- file-upload_payload_5_spend
+severity: medium
+type: file-upload

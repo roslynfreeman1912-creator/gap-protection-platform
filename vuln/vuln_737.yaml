@@ -1,0 +1,9 @@
+name: Streamlined static project
+payloads:
+- ldap-injection_payload_1_movie
+- ldap-injection_payload_2_moment
+- ldap-injection_payload_3_table
+- ldap-injection_payload_4_system
+- ldap-injection_payload_5_my
+severity: critical
+type: ldap-injection

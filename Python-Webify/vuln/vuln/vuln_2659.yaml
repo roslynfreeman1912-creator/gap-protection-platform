@@ -1,0 +1,9 @@
+name: Configurable dedicated hardware
+payloads:
+- path-traversal_payload_1_land
+- path-traversal_payload_2_still
+- path-traversal_payload_3_ready
+- path-traversal_payload_4_walk
+- path-traversal_payload_5_during
+severity: low
+type: path-traversal

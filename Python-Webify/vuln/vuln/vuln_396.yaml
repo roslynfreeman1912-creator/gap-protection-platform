@@ -1,0 +1,9 @@
+name: Devolved intermediate forecast
+payloads:
+- mime-sniffing_payload_1_subject
+- mime-sniffing_payload_2_certain
+- mime-sniffing_payload_3_during
+- mime-sniffing_payload_4_example
+- mime-sniffing_payload_5_same
+severity: high
+type: mime-sniffing

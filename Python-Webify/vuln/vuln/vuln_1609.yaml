@@ -1,0 +1,9 @@
+name: Robust multi-state function
+payloads:
+- path-traversal_payload_1_through
+- path-traversal_payload_2_question
+- path-traversal_payload_3_upon
+- path-traversal_payload_4_test
+- path-traversal_payload_5_deep
+severity: medium
+type: path-traversal

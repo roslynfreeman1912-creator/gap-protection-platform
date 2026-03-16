@@ -1,0 +1,9 @@
+name: Secured interactive neural-net
+payloads:
+- jsonp-injection_payload_1_control
+- jsonp-injection_payload_2_space
+- jsonp-injection_payload_3_then
+- jsonp-injection_payload_4_his
+- jsonp-injection_payload_5_cold
+severity: medium
+type: jsonp-injection

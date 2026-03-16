@@ -1,0 +1,9 @@
+name: Multi-lateral bifurcated help-desk
+payloads:
+- lfi_payload_1_cut
+- lfi_payload_2_report
+- lfi_payload_3_manager
+- lfi_payload_4_through
+- lfi_payload_5_company
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Switchable logistical Graphical User Interface
+payloads:
+- open-redirect_payload_1_but
+- open-redirect_payload_2_however
+- open-redirect_payload_3_feel
+- open-redirect_payload_4_produce
+- open-redirect_payload_5_imagine
+severity: low
+type: open-redirect

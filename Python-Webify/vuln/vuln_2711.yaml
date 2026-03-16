@@ -1,0 +1,9 @@
+name: Horizontal global benchmark
+payloads:
+- xxe_payload_1_risk
+- xxe_payload_2_live
+- xxe_payload_3_include
+- xxe_payload_4_get
+- xxe_payload_5_time
+severity: high
+type: xxe

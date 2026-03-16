@@ -1,0 +1,9 @@
+name: Reactive high-level approach
+payloads:
+- clickjacking_payload_1_scientist
+- clickjacking_payload_2_baby
+- clickjacking_payload_3_agency
+- clickjacking_payload_4_enter
+- clickjacking_payload_5_plan
+severity: medium
+type: clickjacking

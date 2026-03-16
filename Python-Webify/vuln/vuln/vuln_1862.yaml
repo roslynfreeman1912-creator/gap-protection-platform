@@ -1,0 +1,9 @@
+name: Customizable attitude-oriented matrix
+payloads:
+- ldap-injection_payload_1_yard
+- ldap-injection_payload_2_customer
+- ldap-injection_payload_3_actually
+- ldap-injection_payload_4_miss
+- ldap-injection_payload_5_near
+severity: high
+type: ldap-injection

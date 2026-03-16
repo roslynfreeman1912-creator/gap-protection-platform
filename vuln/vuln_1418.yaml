@@ -1,0 +1,9 @@
+name: Centralized bifurcated help-desk
+payloads:
+- subdomain-takeover_payload_1_choice
+- subdomain-takeover_payload_2_large
+- subdomain-takeover_payload_3_discover
+- subdomain-takeover_payload_4_person
+- subdomain-takeover_payload_5_get
+severity: medium
+type: subdomain-takeover

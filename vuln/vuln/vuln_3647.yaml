@@ -1,0 +1,9 @@
+name: Fundamental intangible capacity
+payloads:
+- tabnabbing_payload_1_candidate
+- tabnabbing_payload_2_glass
+- tabnabbing_payload_3_tax
+- tabnabbing_payload_4_bar
+- tabnabbing_payload_5_table
+severity: low
+type: tabnabbing

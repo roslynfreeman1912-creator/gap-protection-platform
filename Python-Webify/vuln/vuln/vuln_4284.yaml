@@ -1,0 +1,9 @@
+name: Networked value-added task-force
+payloads:
+- path-traversal_payload_1_article
+- path-traversal_payload_2_piece
+- path-traversal_payload_3_cultural
+- path-traversal_payload_4_write
+- path-traversal_payload_5_couple
+severity: low
+type: path-traversal

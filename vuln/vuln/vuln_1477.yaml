@@ -1,0 +1,9 @@
+name: Inverse neutral methodology
+payloads:
+- xss_payload_1_PM
+- xss_payload_2_help
+- xss_payload_3_technology
+- xss_payload_4_year
+- xss_payload_5_name
+severity: medium
+type: xss

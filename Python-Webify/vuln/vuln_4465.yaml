@@ -1,0 +1,9 @@
+name: Pre-emptive full-range alliance
+payloads:
+- jsonp-injection_payload_1_per
+- jsonp-injection_payload_2_treat
+- jsonp-injection_payload_3_himself
+- jsonp-injection_payload_4_expect
+- jsonp-injection_payload_5_arm
+severity: medium
+type: jsonp-injection

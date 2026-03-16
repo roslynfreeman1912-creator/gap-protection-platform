@@ -1,0 +1,9 @@
+name: Progressive multi-tasking focus group
+payloads:
+- lfi_payload_1_purpose
+- lfi_payload_2_catch
+- lfi_payload_3_save
+- lfi_payload_4_no
+- lfi_payload_5_reason
+severity: medium
+type: lfi

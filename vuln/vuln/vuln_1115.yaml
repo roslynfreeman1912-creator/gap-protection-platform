@@ -1,0 +1,9 @@
+name: Multi-tiered tangible hardware
+payloads:
+- jsonp-injection_payload_1_reveal
+- jsonp-injection_payload_2_bank
+- jsonp-injection_payload_3_car
+- jsonp-injection_payload_4_discussion
+- jsonp-injection_payload_5_compare
+severity: high
+type: jsonp-injection

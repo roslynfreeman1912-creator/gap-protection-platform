@@ -1,0 +1,9 @@
+name: Operative bottom-line collaboration
+payloads:
+- ssti_payload_1_good
+- ssti_payload_2_significant
+- ssti_payload_3_true
+- ssti_payload_4_benefit
+- ssti_payload_5_section
+severity: high
+type: ssti

@@ -1,0 +1,9 @@
+name: Cloned human-resource contingency
+payloads:
+- subdomain-takeover_payload_1_feeling
+- subdomain-takeover_payload_2_spend
+- subdomain-takeover_payload_3_evidence
+- subdomain-takeover_payload_4_most
+- subdomain-takeover_payload_5_would
+severity: medium
+type: subdomain-takeover

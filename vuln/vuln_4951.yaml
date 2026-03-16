@@ -1,0 +1,9 @@
+name: Phased national strategy
+payloads:
+- sql_payload_1_note
+- sql_payload_2_back
+- sql_payload_3_carry
+- sql_payload_4_choice
+- sql_payload_5_but
+severity: medium
+type: sql

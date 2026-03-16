@@ -1,0 +1,9 @@
+name: Enterprise-wide fault-tolerant flexibility
+payloads:
+- jsonp-injection_payload_1_certain
+- jsonp-injection_payload_2_force
+- jsonp-injection_payload_3_talk
+- jsonp-injection_payload_4_new
+- jsonp-injection_payload_5_as
+severity: medium
+type: jsonp-injection

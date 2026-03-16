@@ -1,0 +1,9 @@
+name: Switchable solution-oriented solution
+payloads:
+- hsts-misconfig_payload_1_personal
+- hsts-misconfig_payload_2_if
+- hsts-misconfig_payload_3_bar
+- hsts-misconfig_payload_4_generation
+- hsts-misconfig_payload_5_fly
+severity: high
+type: hsts-misconfig

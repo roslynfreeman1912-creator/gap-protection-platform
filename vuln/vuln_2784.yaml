@@ -1,0 +1,9 @@
+name: User-friendly non-volatile forecast
+payloads:
+- path-traversal_payload_1_member
+- path-traversal_payload_2_local
+- path-traversal_payload_3_role
+- path-traversal_payload_4_later
+- path-traversal_payload_5_democratic
+severity: medium
+type: path-traversal

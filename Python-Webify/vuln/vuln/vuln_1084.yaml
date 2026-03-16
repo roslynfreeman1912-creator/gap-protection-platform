@@ -1,0 +1,9 @@
+name: Pre-emptive neutral firmware
+payloads:
+- path-traversal_payload_1_responsibility
+- path-traversal_payload_2_week
+- path-traversal_payload_3_lay
+- path-traversal_payload_4_take
+- path-traversal_payload_5_born
+severity: high
+type: path-traversal

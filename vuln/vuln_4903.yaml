@@ -1,0 +1,9 @@
+name: Cross-group fresh-thinking customer loyalty
+payloads:
+- lfi_payload_1_here
+- lfi_payload_2_support
+- lfi_payload_3_religious
+- lfi_payload_4_people
+- lfi_payload_5_despite
+severity: low
+type: lfi

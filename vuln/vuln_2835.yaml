@@ -1,0 +1,9 @@
+name: Innovative contextually-based workforce
+payloads:
+- open-redirect_payload_1_power
+- open-redirect_payload_2_set
+- open-redirect_payload_3_medical
+- open-redirect_payload_4_fast
+- open-redirect_payload_5_beat
+severity: low
+type: open-redirect

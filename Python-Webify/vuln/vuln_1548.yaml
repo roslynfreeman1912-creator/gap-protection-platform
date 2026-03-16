@@ -1,0 +1,9 @@
+name: Visionary real-time capacity
+payloads:
+- hsts-misconfig_payload_1_should
+- hsts-misconfig_payload_2_upon
+- hsts-misconfig_payload_3_lose
+- hsts-misconfig_payload_4_nothing
+- hsts-misconfig_payload_5_car
+severity: critical
+type: hsts-misconfig

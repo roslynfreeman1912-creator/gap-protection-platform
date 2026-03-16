@@ -1,0 +1,9 @@
+name: Exclusive maximized artificial intelligence
+payloads:
+- frame-injection_payload_1_seem
+- frame-injection_payload_2_look
+- frame-injection_payload_3_list
+- frame-injection_payload_4_himself
+- frame-injection_payload_5_wish
+severity: low
+type: frame-injection

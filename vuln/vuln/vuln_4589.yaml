@@ -1,0 +1,9 @@
+name: Multi-tiered human-resource analyzer
+payloads:
+- clickjacking_payload_1_color
+- clickjacking_payload_2_world
+- clickjacking_payload_3_trouble
+- clickjacking_payload_4_never
+- clickjacking_payload_5_Mr
+severity: medium
+type: clickjacking

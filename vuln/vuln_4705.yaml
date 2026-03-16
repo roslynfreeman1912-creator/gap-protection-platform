@@ -1,0 +1,9 @@
+name: Profound client-driven portal
+payloads:
+- ssrf_payload_1_civil
+- ssrf_payload_2_skill
+- ssrf_payload_3_bill
+- ssrf_payload_4_financial
+- ssrf_payload_5_that
+severity: high
+type: ssrf

@@ -1,0 +1,9 @@
+name: Multi-channeled fresh-thinking data-warehouse
+payloads:
+- mime-sniffing_payload_1_make
+- mime-sniffing_payload_2_nation
+- mime-sniffing_payload_3_last
+- mime-sniffing_payload_4_senior
+- mime-sniffing_payload_5_individual
+severity: high
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Synchronized reciprocal orchestration
+payloads:
+- jsonp-injection_payload_1_occur
+- jsonp-injection_payload_2_democratic
+- jsonp-injection_payload_3_friend
+- jsonp-injection_payload_4_remember
+- jsonp-injection_payload_5_subject
+severity: critical
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Public-key 3rdgeneration process improvement
+payloads:
+- sql_payload_1_role
+- sql_payload_2_assume
+- sql_payload_3_if
+- sql_payload_4_necessary
+- sql_payload_5_have
+severity: medium
+type: sql

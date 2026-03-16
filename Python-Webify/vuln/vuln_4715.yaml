@@ -1,0 +1,9 @@
+name: Vision-oriented executive throughput
+payloads:
+- jsonp-injection_payload_1_attorney
+- jsonp-injection_payload_2_begin
+- jsonp-injection_payload_3_very
+- jsonp-injection_payload_4_model
+- jsonp-injection_payload_5_trial
+severity: low
+type: jsonp-injection

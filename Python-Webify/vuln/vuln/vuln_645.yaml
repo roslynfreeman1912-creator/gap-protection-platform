@@ -1,0 +1,9 @@
+name: Self-enabling content-based application
+payloads:
+- file-upload_payload_1_beyond
+- file-upload_payload_2_information
+- file-upload_payload_3_news
+- file-upload_payload_4_process
+- file-upload_payload_5_civil
+severity: low
+type: file-upload

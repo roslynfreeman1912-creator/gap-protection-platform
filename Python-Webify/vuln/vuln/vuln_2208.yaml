@@ -1,0 +1,9 @@
+name: Grass-roots full-range moratorium
+payloads:
+- command-injection_payload_1_far
+- command-injection_payload_2_care
+- command-injection_payload_3_sometimes
+- command-injection_payload_4_occur
+- command-injection_payload_5_seven
+severity: low
+type: command-injection

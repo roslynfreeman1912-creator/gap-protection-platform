@@ -1,0 +1,9 @@
+name: Managed bottom-line concept
+payloads:
+- nosql-injection_payload_1_human
+- nosql-injection_payload_2_then
+- nosql-injection_payload_3_kind
+- nosql-injection_payload_4_once
+- nosql-injection_payload_5_avoid
+severity: high
+type: nosql-injection

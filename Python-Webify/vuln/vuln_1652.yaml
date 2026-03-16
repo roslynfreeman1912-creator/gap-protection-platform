@@ -1,0 +1,9 @@
+name: Diverse high-level infrastructure
+payloads:
+- xss_payload_1_audience
+- xss_payload_2_offer
+- xss_payload_3_have
+- xss_payload_4_always
+- xss_payload_5_everything
+severity: low
+type: xss

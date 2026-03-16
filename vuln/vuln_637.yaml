@@ -1,0 +1,9 @@
+name: Multi-channeled holistic artificial intelligence
+payloads:
+- ldap-injection_payload_1_instead
+- ldap-injection_payload_2_why
+- ldap-injection_payload_3_organization
+- ldap-injection_payload_4_consider
+- ldap-injection_payload_5_want
+severity: low
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Ergonomic empowering installation
+payloads:
+- subdomain-takeover_payload_1_they
+- subdomain-takeover_payload_2_only
+- subdomain-takeover_payload_3_commercial
+- subdomain-takeover_payload_4_by
+- subdomain-takeover_payload_5_adult
+severity: high
+type: subdomain-takeover

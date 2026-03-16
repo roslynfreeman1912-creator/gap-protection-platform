@@ -1,0 +1,9 @@
+name: Down-sized 3rdgeneration moderator
+payloads:
+- hsts-misconfig_payload_1_blood
+- hsts-misconfig_payload_2_cause
+- hsts-misconfig_payload_3_protect
+- hsts-misconfig_payload_4_reality
+- hsts-misconfig_payload_5_assume
+severity: high
+type: hsts-misconfig

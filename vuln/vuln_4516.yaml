@@ -1,0 +1,9 @@
+name: Visionary optimal contingency
+payloads:
+- crlf-injection_payload_1_side
+- crlf-injection_payload_2_team
+- crlf-injection_payload_3_light
+- crlf-injection_payload_4_ability
+- crlf-injection_payload_5_exactly
+severity: high
+type: crlf-injection

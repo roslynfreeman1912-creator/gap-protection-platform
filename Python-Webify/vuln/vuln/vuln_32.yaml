@@ -1,0 +1,9 @@
+name: Organic exuding encryption
+payloads:
+- ssti_payload_1_left
+- ssti_payload_2_police
+- ssti_payload_3_change
+- ssti_payload_4_direction
+- ssti_payload_5_simply
+severity: critical
+type: ssti

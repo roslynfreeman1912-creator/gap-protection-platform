@@ -1,0 +1,9 @@
+name: Adaptive foreground time-frame
+payloads:
+- csp-bypass_payload_1_determine
+- csp-bypass_payload_2_yet
+- csp-bypass_payload_3_idea
+- csp-bypass_payload_4_occur
+- csp-bypass_payload_5_sell
+severity: high
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Reverse-engineered full-range service-desk
+payloads:
+- nosql-injection_payload_1_he
+- nosql-injection_payload_2_nearly
+- nosql-injection_payload_3_age
+- nosql-injection_payload_4_international
+- nosql-injection_payload_5_area
+severity: high
+type: nosql-injection

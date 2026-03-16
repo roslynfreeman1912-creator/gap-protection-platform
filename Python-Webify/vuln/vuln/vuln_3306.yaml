@@ -1,0 +1,9 @@
+name: Synchronized context-sensitive functionalities
+payloads:
+- csrf_payload_1_nothing
+- csrf_payload_2_senior
+- csrf_payload_3_responsibility
+- csrf_payload_4_chair
+- csrf_payload_5_must
+severity: medium
+type: csrf

@@ -1,0 +1,9 @@
+name: Cross-platform scalable forecast
+payloads:
+- subdomain-takeover_payload_1_result
+- subdomain-takeover_payload_2_evening
+- subdomain-takeover_payload_3_goal
+- subdomain-takeover_payload_4_state
+- subdomain-takeover_payload_5_time
+severity: high
+type: subdomain-takeover

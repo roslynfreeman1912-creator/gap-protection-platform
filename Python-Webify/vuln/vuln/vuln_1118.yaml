@@ -1,0 +1,9 @@
+name: Multi-layered incremental moratorium
+payloads:
+- subdomain-takeover_payload_1_capital
+- subdomain-takeover_payload_2_sense
+- subdomain-takeover_payload_3_treatment
+- subdomain-takeover_payload_4_research
+- subdomain-takeover_payload_5_rule
+severity: high
+type: subdomain-takeover

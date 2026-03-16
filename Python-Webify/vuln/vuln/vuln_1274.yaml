@@ -1,0 +1,9 @@
+name: Horizontal didactic productivity
+payloads:
+- csp-bypass_payload_1_street
+- csp-bypass_payload_2_chair
+- csp-bypass_payload_3_cell
+- csp-bypass_payload_4_despite
+- csp-bypass_payload_5_itself
+severity: critical
+type: csp-bypass

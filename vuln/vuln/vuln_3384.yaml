@@ -1,0 +1,9 @@
+name: Right-sized bottom-line encryption
+payloads:
+- path-traversal_payload_1_employee
+- path-traversal_payload_2_she
+- path-traversal_payload_3_organization
+- path-traversal_payload_4_meet
+- path-traversal_payload_5_anything
+severity: low
+type: path-traversal

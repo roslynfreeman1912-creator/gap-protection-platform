@@ -1,0 +1,9 @@
+name: Versatile well-modulated Local Area Network
+payloads:
+- subdomain-takeover_payload_1_point
+- subdomain-takeover_payload_2_reach
+- subdomain-takeover_payload_3_produce
+- subdomain-takeover_payload_4_answer
+- subdomain-takeover_payload_5_bit
+severity: medium
+type: subdomain-takeover

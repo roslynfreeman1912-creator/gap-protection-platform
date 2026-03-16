@@ -1,0 +1,9 @@
+name: Horizontal dynamic budgetary management
+payloads:
+- nosql-injection_payload_1_you
+- nosql-injection_payload_2_crime
+- nosql-injection_payload_3_let
+- nosql-injection_payload_4_American
+- nosql-injection_payload_5_back
+severity: low
+type: nosql-injection

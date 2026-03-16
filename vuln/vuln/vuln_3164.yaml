@@ -1,0 +1,9 @@
+name: Pre-emptive explicit conglomeration
+payloads:
+- clickjacking_payload_1_walk
+- clickjacking_payload_2_sort
+- clickjacking_payload_3_do
+- clickjacking_payload_4_identify
+- clickjacking_payload_5_almost
+severity: critical
+type: clickjacking

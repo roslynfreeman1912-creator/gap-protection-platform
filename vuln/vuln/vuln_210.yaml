@@ -1,0 +1,9 @@
+name: Fundamental object-oriented open system
+payloads:
+- open-redirect_payload_1_trouble
+- open-redirect_payload_2_enter
+- open-redirect_payload_3_collection
+- open-redirect_payload_4_poor
+- open-redirect_payload_5_degree
+severity: critical
+type: open-redirect

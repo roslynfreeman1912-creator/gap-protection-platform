@@ -1,0 +1,9 @@
+name: Decentralized explicit capacity
+payloads:
+- hsts-misconfig_payload_1_statement
+- hsts-misconfig_payload_2_school
+- hsts-misconfig_payload_3_detail
+- hsts-misconfig_payload_4_central
+- hsts-misconfig_payload_5_condition
+severity: low
+type: hsts-misconfig

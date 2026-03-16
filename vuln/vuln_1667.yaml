@@ -1,0 +1,9 @@
+name: Decentralized user-facing encryption
+payloads:
+- host-header-injection_payload_1_arm
+- host-header-injection_payload_2_everyone
+- host-header-injection_payload_3_deal
+- host-header-injection_payload_4_away
+- host-header-injection_payload_5_until
+severity: high
+type: host-header-injection

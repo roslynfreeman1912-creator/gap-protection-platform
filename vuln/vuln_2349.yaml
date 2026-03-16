@@ -1,0 +1,9 @@
+name: Organized fault-tolerant instruction set
+payloads:
+- csp-bypass_payload_1_anyone
+- csp-bypass_payload_2_new
+- csp-bypass_payload_3_end
+- csp-bypass_payload_4_night
+- csp-bypass_payload_5_grow
+severity: low
+type: csp-bypass

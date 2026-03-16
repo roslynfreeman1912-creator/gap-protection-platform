@@ -1,0 +1,9 @@
+name: Implemented holistic project
+payloads:
+- lfi_payload_1_bank
+- lfi_payload_2_time
+- lfi_payload_3_before
+- lfi_payload_4_very
+- lfi_payload_5_education
+severity: low
+type: lfi

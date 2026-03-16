@@ -1,0 +1,9 @@
+name: Persevering high-level success
+payloads:
+- ssti_payload_1_little
+- ssti_payload_2_face
+- ssti_payload_3_throw
+- ssti_payload_4_major
+- ssti_payload_5_then
+severity: critical
+type: ssti

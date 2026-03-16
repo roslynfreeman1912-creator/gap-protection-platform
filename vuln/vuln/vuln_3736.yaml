@@ -1,0 +1,9 @@
+name: Re-engineered neutral data-warehouse
+payloads:
+- xxe_payload_1_day
+- xxe_payload_2_consider
+- xxe_payload_3_forward
+- xxe_payload_4_bill
+- xxe_payload_5_person
+severity: low
+type: xxe

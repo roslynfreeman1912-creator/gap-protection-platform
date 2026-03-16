@@ -1,0 +1,9 @@
+name: Organized foreground Internet solution
+payloads:
+- path-traversal_payload_1_top
+- path-traversal_payload_2_argue
+- path-traversal_payload_3_range
+- path-traversal_payload_4_go
+- path-traversal_payload_5_customer
+severity: high
+type: path-traversal

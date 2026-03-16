@@ -1,0 +1,9 @@
+name: Advanced contextually-based matrix
+payloads:
+- clickjacking_payload_1_two
+- clickjacking_payload_2_skin
+- clickjacking_payload_3_street
+- clickjacking_payload_4_score
+- clickjacking_payload_5_day
+severity: medium
+type: clickjacking

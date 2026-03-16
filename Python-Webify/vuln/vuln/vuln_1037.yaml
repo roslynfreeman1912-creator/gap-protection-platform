@@ -1,0 +1,9 @@
+name: Progressive foreground analyzer
+payloads:
+- ldap-injection_payload_1_local
+- ldap-injection_payload_2_opportunity
+- ldap-injection_payload_3_true
+- ldap-injection_payload_4_dinner
+- ldap-injection_payload_5_whole
+severity: low
+type: ldap-injection

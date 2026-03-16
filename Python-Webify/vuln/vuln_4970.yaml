@@ -1,0 +1,9 @@
+name: Exclusive explicit paradigm
+payloads:
+- file-upload_payload_1_recognize
+- file-upload_payload_2_also
+- file-upload_payload_3_scientist
+- file-upload_payload_4_low
+- file-upload_payload_5_major
+severity: critical
+type: file-upload

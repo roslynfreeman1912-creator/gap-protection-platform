@@ -1,0 +1,9 @@
+name: Diverse next generation application
+payloads:
+- ldap-injection_payload_1_several
+- ldap-injection_payload_2_else
+- ldap-injection_payload_3_determine
+- ldap-injection_payload_4_phone
+- ldap-injection_payload_5_strong
+severity: low
+type: ldap-injection

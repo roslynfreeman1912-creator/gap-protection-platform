@@ -1,0 +1,9 @@
+name: Optimized interactive functionalities
+payloads:
+- subdomain-takeover_payload_1_natural
+- subdomain-takeover_payload_2_state
+- subdomain-takeover_payload_3_size
+- subdomain-takeover_payload_4_ground
+- subdomain-takeover_payload_5_pretty
+severity: high
+type: subdomain-takeover

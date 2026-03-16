@@ -1,0 +1,9 @@
+name: Quality-focused bottom-line parallelism
+payloads:
+- csp-bypass_payload_1_ground
+- csp-bypass_payload_2_quality
+- csp-bypass_payload_3_force
+- csp-bypass_payload_4_hotel
+- csp-bypass_payload_5_particular
+severity: high
+type: csp-bypass

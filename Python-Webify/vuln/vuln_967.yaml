@@ -1,0 +1,9 @@
+name: Managed discrete synergy
+payloads:
+- host-header-injection_payload_1_such
+- host-header-injection_payload_2_baby
+- host-header-injection_payload_3_coach
+- host-header-injection_payload_4_others
+- host-header-injection_payload_5_story
+severity: critical
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Pre-emptive dedicated software
+payloads:
+- crlf-injection_payload_1_system
+- crlf-injection_payload_2_level
+- crlf-injection_payload_3_like
+- crlf-injection_payload_4_mention
+- crlf-injection_payload_5_outside
+severity: critical
+type: crlf-injection

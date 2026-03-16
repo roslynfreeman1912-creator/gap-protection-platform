@@ -1,0 +1,9 @@
+name: Business-focused actuating methodology
+payloads:
+- frame-injection_payload_1_head
+- frame-injection_payload_2_program
+- frame-injection_payload_3_say
+- frame-injection_payload_4_enjoy
+- frame-injection_payload_5_around
+severity: low
+type: frame-injection

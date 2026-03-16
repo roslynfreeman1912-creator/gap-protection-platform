@@ -1,0 +1,9 @@
+name: De-engineered explicit product
+payloads:
+- crlf-injection_payload_1_be
+- crlf-injection_payload_2_day
+- crlf-injection_payload_3_character
+- crlf-injection_payload_4_state
+- crlf-injection_payload_5_hold
+severity: critical
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Diverse encompassing array
+payloads:
+- file-upload_payload_1_book
+- file-upload_payload_2_focus
+- file-upload_payload_3_news
+- file-upload_payload_4_walk
+- file-upload_payload_5_this
+severity: medium
+type: file-upload

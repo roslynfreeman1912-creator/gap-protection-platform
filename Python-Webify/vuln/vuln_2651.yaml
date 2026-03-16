@@ -1,0 +1,9 @@
+name: Optional bottom-line forecast
+payloads:
+- sql_payload_1_develop
+- sql_payload_2_control
+- sql_payload_3_space
+- sql_payload_4_notice
+- sql_payload_5_student
+severity: high
+type: sql

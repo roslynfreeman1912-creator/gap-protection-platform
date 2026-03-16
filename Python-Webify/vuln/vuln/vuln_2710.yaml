@@ -1,0 +1,9 @@
+name: Ergonomic transitional time-frame
+payloads:
+- open-redirect_payload_1_policy
+- open-redirect_payload_2_since
+- open-redirect_payload_3_work
+- open-redirect_payload_4_third
+- open-redirect_payload_5_agency
+severity: medium
+type: open-redirect

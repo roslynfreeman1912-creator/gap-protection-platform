@@ -1,0 +1,9 @@
+name: Reverse-engineered executive contingency
+payloads:
+- rfi_payload_1_PM
+- rfi_payload_2_society
+- rfi_payload_3_rate
+- rfi_payload_4_so
+- rfi_payload_5_worker
+severity: critical
+type: rfi

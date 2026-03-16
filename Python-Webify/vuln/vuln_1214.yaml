@@ -1,0 +1,9 @@
+name: Upgradable even-keeled Local Area Network
+payloads:
+- clickjacking_payload_1_music
+- clickjacking_payload_2_hand
+- clickjacking_payload_3_place
+- clickjacking_payload_4_entire
+- clickjacking_payload_5_garden
+severity: high
+type: clickjacking

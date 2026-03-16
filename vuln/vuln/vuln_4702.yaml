@@ -1,0 +1,9 @@
+name: Open-architected static info-mediaries
+payloads:
+- xss_payload_1_top
+- xss_payload_2_sister
+- xss_payload_3_until
+- xss_payload_4_through
+- xss_payload_5_star
+severity: low
+type: xss

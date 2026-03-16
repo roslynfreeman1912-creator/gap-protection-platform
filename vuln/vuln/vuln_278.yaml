@@ -1,0 +1,9 @@
+name: Programmable demand-driven analyzer
+payloads:
+- lfi_payload_1_together
+- lfi_payload_2_stuff
+- lfi_payload_3_successful
+- lfi_payload_4_result
+- lfi_payload_5_whether
+severity: high
+type: lfi

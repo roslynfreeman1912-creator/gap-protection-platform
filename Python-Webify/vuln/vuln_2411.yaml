@@ -1,0 +1,9 @@
+name: Implemented bandwidth-monitored throughput
+payloads:
+- xxe_payload_1_mother
+- xxe_payload_2_understand
+- xxe_payload_3_speak
+- xxe_payload_4_produce
+- xxe_payload_5_pretty
+severity: medium
+type: xxe

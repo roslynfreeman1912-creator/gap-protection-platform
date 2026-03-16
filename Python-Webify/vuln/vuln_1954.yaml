@@ -1,0 +1,9 @@
+name: Networked bandwidth-monitored alliance
+payloads:
+- rfi_payload_1_national
+- rfi_payload_2_push
+- rfi_payload_3_plant
+- rfi_payload_4_bank
+- rfi_payload_5_capital
+severity: high
+type: rfi

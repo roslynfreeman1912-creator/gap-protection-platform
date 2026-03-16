@@ -1,0 +1,9 @@
+name: Digitized value-added encoding
+payloads:
+- xxe_payload_1_sea
+- xxe_payload_2_letter
+- xxe_payload_3_during
+- xxe_payload_4_network
+- xxe_payload_5_understand
+severity: high
+type: xxe

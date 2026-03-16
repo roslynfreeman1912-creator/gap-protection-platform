@@ -1,0 +1,9 @@
+name: Advanced asynchronous core
+payloads:
+- command-injection_payload_1_trial
+- command-injection_payload_2_window
+- command-injection_payload_3_current
+- command-injection_payload_4_eye
+- command-injection_payload_5_figure
+severity: critical
+type: command-injection

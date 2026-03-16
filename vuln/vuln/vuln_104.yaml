@@ -1,0 +1,9 @@
+name: Compatible responsive toolset
+payloads:
+- rfi_payload_1_know
+- rfi_payload_2_service
+- rfi_payload_3_traditional
+- rfi_payload_4_change
+- rfi_payload_5_position
+severity: medium
+type: rfi

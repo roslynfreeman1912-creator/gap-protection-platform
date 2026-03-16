@@ -1,0 +1,9 @@
+name: Universal cohesive capability
+payloads:
+- csrf_payload_1_kid
+- csrf_payload_2_that
+- csrf_payload_3_budget
+- csrf_payload_4_sure
+- csrf_payload_5_early
+severity: medium
+type: csrf

@@ -1,0 +1,9 @@
+name: Right-sized demand-driven methodology
+payloads:
+- sql_payload_1_first
+- sql_payload_2_but
+- sql_payload_3_go
+- sql_payload_4_human
+- sql_payload_5_Mrs
+severity: critical
+type: sql

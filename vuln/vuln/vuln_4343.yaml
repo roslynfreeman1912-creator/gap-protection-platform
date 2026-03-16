@@ -1,0 +1,9 @@
+name: Right-sized heuristic encoding
+payloads:
+- subdomain-takeover_payload_1_which
+- subdomain-takeover_payload_2_along
+- subdomain-takeover_payload_3_night
+- subdomain-takeover_payload_4_early
+- subdomain-takeover_payload_5_successful
+severity: high
+type: subdomain-takeover

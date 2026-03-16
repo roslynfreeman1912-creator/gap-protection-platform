@@ -1,0 +1,9 @@
+name: Grass-roots next generation adapter
+payloads:
+- lfi_payload_1_prevent
+- lfi_payload_2_one
+- lfi_payload_3_necessary
+- lfi_payload_4_morning
+- lfi_payload_5_as
+severity: medium
+type: lfi

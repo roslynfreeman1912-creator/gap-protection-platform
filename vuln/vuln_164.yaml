@@ -1,0 +1,9 @@
+name: Grass-roots asymmetric frame
+payloads:
+- clickjacking_payload_1_reason
+- clickjacking_payload_2_draw
+- clickjacking_payload_3_main
+- clickjacking_payload_4_thought
+- clickjacking_payload_5_would
+severity: critical
+type: clickjacking

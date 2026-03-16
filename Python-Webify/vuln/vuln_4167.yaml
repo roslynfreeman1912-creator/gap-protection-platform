@@ -1,0 +1,9 @@
+name: Phased tertiary extranet
+payloads:
+- host-header-injection_payload_1_I
+- host-header-injection_payload_2_difficult
+- host-header-injection_payload_3_front
+- host-header-injection_payload_4_share
+- host-header-injection_payload_5_area
+severity: critical
+type: host-header-injection

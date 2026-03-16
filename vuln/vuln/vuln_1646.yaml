@@ -1,0 +1,9 @@
+name: Open-source system-worthy task-force
+payloads:
+- mime-sniffing_payload_1_leg
+- mime-sniffing_payload_2_task
+- mime-sniffing_payload_3_give
+- mime-sniffing_payload_4_trade
+- mime-sniffing_payload_5_also
+severity: medium
+type: mime-sniffing

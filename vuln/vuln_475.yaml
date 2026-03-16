@@ -1,0 +1,9 @@
+name: Function-based asymmetric capacity
+payloads:
+- frame-injection_payload_1_program
+- frame-injection_payload_2_current
+- frame-injection_payload_3_color
+- frame-injection_payload_4_prove
+- frame-injection_payload_5_expect
+severity: high
+type: frame-injection

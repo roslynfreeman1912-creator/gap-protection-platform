@@ -1,0 +1,9 @@
+name: Monitored web-enabled model
+payloads:
+- nosql-injection_payload_1_specific
+- nosql-injection_payload_2_way
+- nosql-injection_payload_3_father
+- nosql-injection_payload_4_see
+- nosql-injection_payload_5_staff
+severity: critical
+type: nosql-injection

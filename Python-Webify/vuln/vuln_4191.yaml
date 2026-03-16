@@ -1,0 +1,9 @@
+name: Grass-roots real-time system engine
+payloads:
+- crlf-injection_payload_1_guy
+- crlf-injection_payload_2_coach
+- crlf-injection_payload_3_customer
+- crlf-injection_payload_4_plan
+- crlf-injection_payload_5_kid
+severity: high
+type: crlf-injection

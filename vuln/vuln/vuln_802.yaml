@@ -1,0 +1,9 @@
+name: Progressive systematic open architecture
+payloads:
+- xss_payload_1_official
+- xss_payload_2_memory
+- xss_payload_3_lead
+- xss_payload_4_what
+- xss_payload_5_maintain
+severity: medium
+type: xss

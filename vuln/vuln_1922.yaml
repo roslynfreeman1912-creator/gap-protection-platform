@@ -1,0 +1,9 @@
+name: Versatile dedicated paradigm
+payloads:
+- tabnabbing_payload_1_also
+- tabnabbing_payload_2_away
+- tabnabbing_payload_3_play
+- tabnabbing_payload_4_husband
+- tabnabbing_payload_5_poor
+severity: critical
+type: tabnabbing

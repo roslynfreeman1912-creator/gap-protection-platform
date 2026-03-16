@@ -1,0 +1,9 @@
+name: Advanced fault-tolerant circuit
+payloads:
+- command-injection_payload_1_avoid
+- command-injection_payload_2_social
+- command-injection_payload_3_raise
+- command-injection_payload_4_fill
+- command-injection_payload_5_hundred
+severity: critical
+type: command-injection

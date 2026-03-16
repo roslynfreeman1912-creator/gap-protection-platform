@@ -1,0 +1,9 @@
+name: Persevering web-enabled help-desk
+payloads:
+- host-header-injection_payload_1_general
+- host-header-injection_payload_2_increase
+- host-header-injection_payload_3_such
+- host-header-injection_payload_4_occur
+- host-header-injection_payload_5_court
+severity: high
+type: host-header-injection

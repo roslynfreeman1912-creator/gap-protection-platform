@@ -1,0 +1,9 @@
+name: Reduced modular data-warehouse
+payloads:
+- mime-sniffing_payload_1_think
+- mime-sniffing_payload_2_over
+- mime-sniffing_payload_3_smile
+- mime-sniffing_payload_4_peace
+- mime-sniffing_payload_5_usually
+severity: high
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Extended radical capability
+payloads:
+- javascript-injection_payload_1_decade
+- javascript-injection_payload_2_here
+- javascript-injection_payload_3_travel
+- javascript-injection_payload_4_nor
+- javascript-injection_payload_5_task
+severity: high
+type: javascript-injection

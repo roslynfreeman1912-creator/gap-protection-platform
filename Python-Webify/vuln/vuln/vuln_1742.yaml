@@ -1,0 +1,9 @@
+name: Configurable fresh-thinking moderator
+payloads:
+- host-header-injection_payload_1_almost
+- host-header-injection_payload_2_difference
+- host-header-injection_payload_3_career
+- host-header-injection_payload_4_side
+- host-header-injection_payload_5_tonight
+severity: medium
+type: host-header-injection

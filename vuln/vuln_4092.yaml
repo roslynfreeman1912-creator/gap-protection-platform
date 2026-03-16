@@ -1,0 +1,9 @@
+name: Advanced impactful open system
+payloads:
+- host-header-injection_payload_1_Mrs
+- host-header-injection_payload_2_especially
+- host-header-injection_payload_3_for
+- host-header-injection_payload_4_other
+- host-header-injection_payload_5_total
+severity: critical
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Extended background adapter
+payloads:
+- open-redirect_payload_1_food
+- open-redirect_payload_2_by
+- open-redirect_payload_3_compare
+- open-redirect_payload_4_line
+- open-redirect_payload_5_able
+severity: critical
+type: open-redirect

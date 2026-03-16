@@ -1,0 +1,9 @@
+name: Multi-channeled 6thgeneration encryption
+payloads:
+- file-upload_payload_1_cold
+- file-upload_payload_2_letter
+- file-upload_payload_3_respond
+- file-upload_payload_4_at
+- file-upload_payload_5_environment
+severity: critical
+type: file-upload

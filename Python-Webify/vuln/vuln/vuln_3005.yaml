@@ -1,0 +1,9 @@
+name: Cross-group needs-based complexity
+payloads:
+- ssrf_payload_1_like
+- ssrf_payload_2_land
+- ssrf_payload_3_morning
+- ssrf_payload_4_know
+- ssrf_payload_5_subject
+severity: high
+type: ssrf

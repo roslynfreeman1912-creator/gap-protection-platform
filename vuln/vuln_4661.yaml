@@ -1,0 +1,9 @@
+name: Balanced high-level challenge
+payloads:
+- xxe_payload_1_outside
+- xxe_payload_2_half
+- xxe_payload_3_record
+- xxe_payload_4_man
+- xxe_payload_5_once
+severity: critical
+type: xxe

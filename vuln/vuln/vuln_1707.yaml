@@ -1,0 +1,9 @@
+name: Intuitive static success
+payloads:
+- ssti_payload_1_tough
+- ssti_payload_2_fund
+- ssti_payload_3_form
+- ssti_payload_4_head
+- ssti_payload_5_draw
+severity: low
+type: ssti

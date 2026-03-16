@@ -1,0 +1,9 @@
+name: Monitored needs-based access
+payloads:
+- xss_payload_1_stand
+- xss_payload_2_dog
+- xss_payload_3_father
+- xss_payload_4_article
+- xss_payload_5_election
+severity: high
+type: xss

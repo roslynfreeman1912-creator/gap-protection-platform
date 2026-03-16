@@ -1,0 +1,9 @@
+name: Centralized full-range initiative
+payloads:
+- rfi_payload_1_perform
+- rfi_payload_2_sure
+- rfi_payload_3_wrong
+- rfi_payload_4_owner
+- rfi_payload_5_suddenly
+severity: medium
+type: rfi

@@ -1,0 +1,9 @@
+name: Function-based transitional orchestration
+payloads:
+- rfi_payload_1_most
+- rfi_payload_2_near
+- rfi_payload_3_rather
+- rfi_payload_4_memory
+- rfi_payload_5_choice
+severity: medium
+type: rfi

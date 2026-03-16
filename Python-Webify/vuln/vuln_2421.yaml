@@ -1,0 +1,9 @@
+name: Fully-configurable motivating orchestration
+payloads:
+- mime-sniffing_payload_1_because
+- mime-sniffing_payload_2_water
+- mime-sniffing_payload_3_lead
+- mime-sniffing_payload_4_science
+- mime-sniffing_payload_5_beyond
+severity: high
+type: mime-sniffing

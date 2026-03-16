@@ -1,0 +1,9 @@
+name: Persistent high-level ability
+payloads:
+- subdomain-takeover_payload_1_open
+- subdomain-takeover_payload_2_room
+- subdomain-takeover_payload_3_cause
+- subdomain-takeover_payload_4_edge
+- subdomain-takeover_payload_5_single
+severity: critical
+type: subdomain-takeover

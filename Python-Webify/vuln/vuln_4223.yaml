@@ -1,0 +1,9 @@
+name: Adaptive asynchronous capability
+payloads:
+- hsts-misconfig_payload_1_free
+- hsts-misconfig_payload_2_finish
+- hsts-misconfig_payload_3_toward
+- hsts-misconfig_payload_4_surface
+- hsts-misconfig_payload_5_none
+severity: low
+type: hsts-misconfig

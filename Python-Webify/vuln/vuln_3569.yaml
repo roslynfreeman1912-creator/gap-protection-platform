@@ -1,0 +1,9 @@
+name: Secured bifurcated focus group
+payloads:
+- javascript-injection_payload_1_music
+- javascript-injection_payload_2_century
+- javascript-injection_payload_3_wonder
+- javascript-injection_payload_4_point
+- javascript-injection_payload_5_sell
+severity: high
+type: javascript-injection

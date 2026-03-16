@@ -1,0 +1,9 @@
+name: Exclusive national flexibility
+payloads:
+- mime-sniffing_payload_1_drop
+- mime-sniffing_payload_2_build
+- mime-sniffing_payload_3_view
+- mime-sniffing_payload_4_stop
+- mime-sniffing_payload_5_can
+severity: high
+type: mime-sniffing

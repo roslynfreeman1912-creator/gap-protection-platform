@@ -1,0 +1,9 @@
+name: Streamlined maximized frame
+payloads:
+- file-upload_payload_1_make
+- file-upload_payload_2_painting
+- file-upload_payload_3_including
+- file-upload_payload_4_conference
+- file-upload_payload_5_then
+severity: high
+type: file-upload

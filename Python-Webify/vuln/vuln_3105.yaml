@@ -1,0 +1,9 @@
+name: Object-based fault-tolerant attitude
+payloads:
+- ssrf_payload_1_within
+- ssrf_payload_2_station
+- ssrf_payload_3_drop
+- ssrf_payload_4_you
+- ssrf_payload_5_itself
+severity: low
+type: ssrf

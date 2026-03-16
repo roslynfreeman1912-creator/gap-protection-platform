@@ -1,0 +1,9 @@
+name: Monitored homogeneous concept
+payloads:
+- path-traversal_payload_1_six
+- path-traversal_payload_2_ahead
+- path-traversal_payload_3_station
+- path-traversal_payload_4_tell
+- path-traversal_payload_5_arm
+severity: medium
+type: path-traversal

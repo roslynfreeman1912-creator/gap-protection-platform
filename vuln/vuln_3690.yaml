@@ -1,0 +1,9 @@
+name: Synergized neutral groupware
+payloads:
+- jsonp-injection_payload_1_available
+- jsonp-injection_payload_2_education
+- jsonp-injection_payload_3_new
+- jsonp-injection_payload_4_even
+- jsonp-injection_payload_5_land
+severity: critical
+type: jsonp-injection

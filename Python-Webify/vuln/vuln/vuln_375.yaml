@@ -1,0 +1,9 @@
+name: Extended intangible function
+payloads:
+- frame-injection_payload_1_form
+- frame-injection_payload_2_window
+- frame-injection_payload_3_now
+- frame-injection_payload_4_really
+- frame-injection_payload_5_here
+severity: low
+type: frame-injection

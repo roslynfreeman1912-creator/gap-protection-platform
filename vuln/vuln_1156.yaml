@@ -1,0 +1,9 @@
+name: Total optimal access
+payloads:
+- csrf_payload_1_certainly
+- csrf_payload_2_training
+- csrf_payload_3_wait
+- csrf_payload_4_blood
+- csrf_payload_5_source
+severity: low
+type: csrf

@@ -1,0 +1,9 @@
+name: Function-based discrete migration
+payloads:
+- csp-bypass_payload_1_me
+- csp-bypass_payload_2_itself
+- csp-bypass_payload_3_little
+- csp-bypass_payload_4_issue
+- csp-bypass_payload_5_south
+severity: critical
+type: csp-bypass

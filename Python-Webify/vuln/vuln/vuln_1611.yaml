@@ -1,0 +1,9 @@
+name: Focused leadingedge support
+payloads:
+- xxe_payload_1_plant
+- xxe_payload_2_scene
+- xxe_payload_3_foot
+- xxe_payload_4_must
+- xxe_payload_5_suddenly
+severity: low
+type: xxe

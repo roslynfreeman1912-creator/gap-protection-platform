@@ -1,0 +1,9 @@
+name: Triple-buffered 6thgeneration protocol
+payloads:
+- frame-injection_payload_1_laugh
+- frame-injection_payload_2_travel
+- frame-injection_payload_3_time
+- frame-injection_payload_4_administration
+- frame-injection_payload_5_detail
+severity: medium
+type: frame-injection

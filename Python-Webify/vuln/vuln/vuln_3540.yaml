@@ -1,0 +1,9 @@
+name: Robust heuristic challenge
+payloads:
+- jsonp-injection_payload_1_value
+- jsonp-injection_payload_2_future
+- jsonp-injection_payload_3_trouble
+- jsonp-injection_payload_4_apply
+- jsonp-injection_payload_5_high
+severity: medium
+type: jsonp-injection

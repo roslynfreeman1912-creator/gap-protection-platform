@@ -1,0 +1,9 @@
+name: Enhanced multi-state workforce
+payloads:
+- csp-bypass_payload_1_lead
+- csp-bypass_payload_2_meeting
+- csp-bypass_payload_3_establish
+- csp-bypass_payload_4_cause
+- csp-bypass_payload_5_religious
+severity: critical
+type: csp-bypass

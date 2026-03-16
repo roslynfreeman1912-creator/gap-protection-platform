@@ -1,0 +1,9 @@
+name: Vision-oriented zero tolerance archive
+payloads:
+- rfi_payload_1_fine
+- rfi_payload_2_result
+- rfi_payload_3_again
+- rfi_payload_4_peace
+- rfi_payload_5_forward
+severity: high
+type: rfi

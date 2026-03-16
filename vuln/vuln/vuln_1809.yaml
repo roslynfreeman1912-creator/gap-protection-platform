@@ -1,0 +1,9 @@
+name: Reverse-engineered client-server info-mediaries
+payloads:
+- path-traversal_payload_1_drive
+- path-traversal_payload_2_pick
+- path-traversal_payload_3_establish
+- path-traversal_payload_4_entire
+- path-traversal_payload_5_style
+severity: critical
+type: path-traversal

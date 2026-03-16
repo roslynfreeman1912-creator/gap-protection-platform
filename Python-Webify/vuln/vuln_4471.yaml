@@ -1,0 +1,9 @@
+name: Open-architected multi-tasking access
+payloads:
+- mime-sniffing_payload_1_often
+- mime-sniffing_payload_2_would
+- mime-sniffing_payload_3_human
+- mime-sniffing_payload_4_lay
+- mime-sniffing_payload_5_interest
+severity: critical
+type: mime-sniffing

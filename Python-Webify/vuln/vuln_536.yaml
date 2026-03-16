@@ -1,0 +1,9 @@
+name: Focused 24hour hub
+payloads:
+- xxe_payload_1_organization
+- xxe_payload_2_thus
+- xxe_payload_3_what
+- xxe_payload_4_stand
+- xxe_payload_5_but
+severity: critical
+type: xxe

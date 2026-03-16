@@ -1,0 +1,9 @@
+name: Front-line composite encoding
+payloads:
+- crlf-injection_payload_1_kid
+- crlf-injection_payload_2_open
+- crlf-injection_payload_3_enter
+- crlf-injection_payload_4_speech
+- crlf-injection_payload_5_trouble
+severity: high
+type: crlf-injection

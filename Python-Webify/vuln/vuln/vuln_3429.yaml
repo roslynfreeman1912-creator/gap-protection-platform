@@ -1,0 +1,9 @@
+name: Re-contextualized context-sensitive capability
+payloads:
+- rfi_payload_1_consumer
+- rfi_payload_2_behavior
+- rfi_payload_3_guess
+- rfi_payload_4_yard
+- rfi_payload_5_hear
+severity: low
+type: rfi

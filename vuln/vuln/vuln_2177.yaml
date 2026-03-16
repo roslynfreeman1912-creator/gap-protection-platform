@@ -1,0 +1,9 @@
+name: Sharable client-server hardware
+payloads:
+- xss_payload_1_pattern
+- xss_payload_2_catch
+- xss_payload_3_agent
+- xss_payload_4_minute
+- xss_payload_5_sign
+severity: low
+type: xss

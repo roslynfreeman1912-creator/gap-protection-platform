@@ -1,0 +1,9 @@
+name: Robust well-modulated workforce
+payloads:
+- nosql-injection_payload_1_around
+- nosql-injection_payload_2_born
+- nosql-injection_payload_3_painting
+- nosql-injection_payload_4_player
+- nosql-injection_payload_5_social
+severity: medium
+type: nosql-injection

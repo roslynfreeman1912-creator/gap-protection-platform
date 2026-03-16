@@ -1,0 +1,9 @@
+name: Visionary executive data-warehouse
+payloads:
+- frame-injection_payload_1_choose
+- frame-injection_payload_2_message
+- frame-injection_payload_3_full
+- frame-injection_payload_4_stuff
+- frame-injection_payload_5_end
+severity: critical
+type: frame-injection

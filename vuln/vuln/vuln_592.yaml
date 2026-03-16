@@ -1,0 +1,9 @@
+name: Multi-layered value-added portal
+payloads:
+- host-header-injection_payload_1_focus
+- host-header-injection_payload_2_me
+- host-header-injection_payload_3_late
+- host-header-injection_payload_4_town
+- host-header-injection_payload_5_field
+severity: critical
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Mandatory attitude-oriented extranet
+payloads:
+- path-traversal_payload_1_major
+- path-traversal_payload_2_water
+- path-traversal_payload_3_dark
+- path-traversal_payload_4_personal
+- path-traversal_payload_5_during
+severity: medium
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Progressive responsive artificial intelligence
+payloads:
+- subdomain-takeover_payload_1_speak
+- subdomain-takeover_payload_2_reveal
+- subdomain-takeover_payload_3_agent
+- subdomain-takeover_payload_4_if
+- subdomain-takeover_payload_5_despite
+severity: high
+type: subdomain-takeover

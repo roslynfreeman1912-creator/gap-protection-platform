@@ -1,0 +1,9 @@
+name: Optional leadingedge success
+payloads:
+- host-header-injection_payload_1_lead
+- host-header-injection_payload_2_scene
+- host-header-injection_payload_3_environmental
+- host-header-injection_payload_4_story
+- host-header-injection_payload_5_rise
+severity: high
+type: host-header-injection

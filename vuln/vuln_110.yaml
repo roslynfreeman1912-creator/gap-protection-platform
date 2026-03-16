@@ -1,0 +1,9 @@
+name: Re-engineered local orchestration
+payloads:
+- open-redirect_payload_1_box
+- open-redirect_payload_2_benefit
+- open-redirect_payload_3_test
+- open-redirect_payload_4_daughter
+- open-redirect_payload_5_present
+severity: low
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Seamless asynchronous firmware
+payloads:
+- ldap-injection_payload_1_first
+- ldap-injection_payload_2_listen
+- ldap-injection_payload_3_agree
+- ldap-injection_payload_4_break
+- ldap-injection_payload_5_political
+severity: medium
+type: ldap-injection

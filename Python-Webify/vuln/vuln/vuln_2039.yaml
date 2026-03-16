@@ -1,0 +1,9 @@
+name: Multi-layered cohesive synergy
+payloads:
+- clickjacking_payload_1_stop
+- clickjacking_payload_2_fill
+- clickjacking_payload_3_add
+- clickjacking_payload_4_attorney
+- clickjacking_payload_5_effort
+severity: high
+type: clickjacking

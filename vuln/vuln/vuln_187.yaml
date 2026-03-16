@@ -1,0 +1,9 @@
+name: Profit-focused local artificial intelligence
+payloads:
+- ldap-injection_payload_1_kitchen
+- ldap-injection_payload_2_already
+- ldap-injection_payload_3_page
+- ldap-injection_payload_4_law
+- ldap-injection_payload_5_production
+severity: low
+type: ldap-injection

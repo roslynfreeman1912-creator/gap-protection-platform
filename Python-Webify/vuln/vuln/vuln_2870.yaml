@@ -1,0 +1,9 @@
+name: Balanced fresh-thinking software
+payloads:
+- file-upload_payload_1_bill
+- file-upload_payload_2_read
+- file-upload_payload_3_husband
+- file-upload_payload_4_light
+- file-upload_payload_5_lead
+severity: critical
+type: file-upload

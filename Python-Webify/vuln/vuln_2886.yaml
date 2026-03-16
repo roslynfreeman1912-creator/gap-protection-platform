@@ -1,0 +1,9 @@
+name: Customer-focused zero administration hardware
+payloads:
+- xxe_payload_1_ask
+- xxe_payload_2_special
+- xxe_payload_3_ok
+- xxe_payload_4_soon
+- xxe_payload_5_stand
+severity: low
+type: xxe

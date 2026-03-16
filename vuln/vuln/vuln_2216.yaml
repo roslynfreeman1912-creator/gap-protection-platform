@@ -1,0 +1,9 @@
+name: Horizontal bottom-line task-force
+payloads:
+- crlf-injection_payload_1_investment
+- crlf-injection_payload_2_management
+- crlf-injection_payload_3_hundred
+- crlf-injection_payload_4_even
+- crlf-injection_payload_5_own
+severity: high
+type: crlf-injection

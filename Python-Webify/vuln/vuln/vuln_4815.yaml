@@ -1,0 +1,9 @@
+name: Self-enabling bifurcated core
+payloads:
+- jsonp-injection_payload_1_life
+- jsonp-injection_payload_2_rise
+- jsonp-injection_payload_3_bank
+- jsonp-injection_payload_4_window
+- jsonp-injection_payload_5_look
+severity: high
+type: jsonp-injection

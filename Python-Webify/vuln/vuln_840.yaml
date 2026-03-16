@@ -1,0 +1,9 @@
+name: Up-sized impactful focus group
+payloads:
+- jsonp-injection_payload_1_record
+- jsonp-injection_payload_2_summer
+- jsonp-injection_payload_3_near
+- jsonp-injection_payload_4_alone
+- jsonp-injection_payload_5_to
+severity: low
+type: jsonp-injection

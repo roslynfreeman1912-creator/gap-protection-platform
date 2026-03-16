@@ -1,0 +1,9 @@
+name: Reactive optimizing emulation
+payloads:
+- csp-bypass_payload_1_operation
+- csp-bypass_payload_2_detail
+- csp-bypass_payload_3_education
+- csp-bypass_payload_4_traditional
+- csp-bypass_payload_5_wait
+severity: medium
+type: csp-bypass

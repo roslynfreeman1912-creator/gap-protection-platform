@@ -1,0 +1,9 @@
+name: User-friendly optimizing functionalities
+payloads:
+- sql_payload_1_through
+- sql_payload_2_record
+- sql_payload_3_reflect
+- sql_payload_4_PM
+- sql_payload_5_short
+severity: high
+type: sql

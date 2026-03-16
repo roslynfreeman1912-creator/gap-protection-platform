@@ -1,0 +1,9 @@
+name: Distributed composite complexity
+payloads:
+- csp-bypass_payload_1_full
+- csp-bypass_payload_2_common
+- csp-bypass_payload_3_put
+- csp-bypass_payload_4_who
+- csp-bypass_payload_5_toward
+severity: low
+type: csp-bypass

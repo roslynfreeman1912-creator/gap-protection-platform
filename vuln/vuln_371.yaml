@@ -1,0 +1,9 @@
+name: User-centric eco-centric time-frame
+payloads:
+- mime-sniffing_payload_1_how
+- mime-sniffing_payload_2_ability
+- mime-sniffing_payload_3_poor
+- mime-sniffing_payload_4_require
+- mime-sniffing_payload_5_house
+severity: low
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Team-oriented actuating concept
+payloads:
+- frame-injection_payload_1_recent
+- frame-injection_payload_2_a
+- frame-injection_payload_3_member
+- frame-injection_payload_4_cold
+- frame-injection_payload_5_analysis
+severity: critical
+type: frame-injection

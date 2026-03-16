@@ -1,0 +1,9 @@
+name: Exclusive contextually-based access
+payloads:
+- rfi_payload_1_team
+- rfi_payload_2_both
+- rfi_payload_3_Mrs
+- rfi_payload_4_crime
+- rfi_payload_5_fact
+severity: medium
+type: rfi

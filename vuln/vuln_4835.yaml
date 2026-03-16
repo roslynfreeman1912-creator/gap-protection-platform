@@ -1,0 +1,9 @@
+name: Multi-tiered exuding help-desk
+payloads:
+- open-redirect_payload_1_guy
+- open-redirect_payload_2_personal
+- open-redirect_payload_3_treatment
+- open-redirect_payload_4_simply
+- open-redirect_payload_5_western
+severity: critical
+type: open-redirect

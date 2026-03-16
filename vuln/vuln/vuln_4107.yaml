@@ -1,0 +1,9 @@
+name: Total even-keeled algorithm
+payloads:
+- ssti_payload_1_most
+- ssti_payload_2_age
+- ssti_payload_3_investment
+- ssti_payload_4_medical
+- ssti_payload_5_blue
+severity: low
+type: ssti

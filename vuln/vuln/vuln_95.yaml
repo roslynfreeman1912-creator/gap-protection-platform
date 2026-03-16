@@ -1,0 +1,9 @@
+name: Profound clear-thinking hierarchy
+payloads:
+- file-upload_payload_1_discover
+- file-upload_payload_2_operation
+- file-upload_payload_3_enough
+- file-upload_payload_4_environment
+- file-upload_payload_5_good
+severity: high
+type: file-upload

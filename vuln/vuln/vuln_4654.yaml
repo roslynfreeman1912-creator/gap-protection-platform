@@ -1,0 +1,9 @@
+name: User-centric secondary Graphical User Interface
+payloads:
+- rfi_payload_1_authority
+- rfi_payload_2_military
+- rfi_payload_3_whom
+- rfi_payload_4_else
+- rfi_payload_5_thought
+severity: medium
+type: rfi

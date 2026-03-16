@@ -1,0 +1,9 @@
+name: Optional 6thgeneration parallelism
+payloads:
+- hsts-misconfig_payload_1_product
+- hsts-misconfig_payload_2_body
+- hsts-misconfig_payload_3_each
+- hsts-misconfig_payload_4_represent
+- hsts-misconfig_payload_5_worry
+severity: medium
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Reverse-engineered tangible strategy
+payloads:
+- command-injection_payload_1_seem
+- command-injection_payload_2_realize
+- command-injection_payload_3_fast
+- command-injection_payload_4_opportunity
+- command-injection_payload_5_bed
+severity: low
+type: command-injection

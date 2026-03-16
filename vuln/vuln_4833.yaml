@@ -1,0 +1,9 @@
+name: Enhanced 5thgeneration benchmark
+payloads:
+- command-injection_payload_1_just
+- command-injection_payload_2_whether
+- command-injection_payload_3_seven
+- command-injection_payload_4_either
+- command-injection_payload_5_debate
+severity: low
+type: command-injection

@@ -1,0 +1,9 @@
+name: Adaptive maximized function
+payloads:
+- hsts-misconfig_payload_1_imagine
+- hsts-misconfig_payload_2_sit
+- hsts-misconfig_payload_3_employee
+- hsts-misconfig_payload_4_deep
+- hsts-misconfig_payload_5_mouth
+severity: high
+type: hsts-misconfig

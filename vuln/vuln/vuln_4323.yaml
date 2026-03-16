@@ -1,0 +1,9 @@
+name: De-engineered client-driven collaboration
+payloads:
+- hsts-misconfig_payload_1_answer
+- hsts-misconfig_payload_2_which
+- hsts-misconfig_payload_3_old
+- hsts-misconfig_payload_4_interesting
+- hsts-misconfig_payload_5_four
+severity: critical
+type: hsts-misconfig

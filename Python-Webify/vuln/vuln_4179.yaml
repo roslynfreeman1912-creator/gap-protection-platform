@@ -1,0 +1,9 @@
+name: Operative high-level hardware
+payloads:
+- rfi_payload_1_out
+- rfi_payload_2_accept
+- rfi_payload_3_shake
+- rfi_payload_4_in
+- rfi_payload_5_large
+severity: critical
+type: rfi

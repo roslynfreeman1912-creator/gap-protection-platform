@@ -1,0 +1,9 @@
+name: Front-line national functionalities
+payloads:
+- csp-bypass_payload_1_between
+- csp-bypass_payload_2_three
+- csp-bypass_payload_3_product
+- csp-bypass_payload_4_me
+- csp-bypass_payload_5_student
+severity: low
+type: csp-bypass

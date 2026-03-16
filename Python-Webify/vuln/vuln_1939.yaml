@@ -1,0 +1,9 @@
+name: Function-based well-modulated core
+payloads:
+- clickjacking_payload_1_control
+- clickjacking_payload_2_look
+- clickjacking_payload_3_price
+- clickjacking_payload_4_care
+- clickjacking_payload_5_throw
+severity: high
+type: clickjacking

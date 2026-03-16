@@ -1,0 +1,9 @@
+name: Universal next generation implementation
+payloads:
+- subdomain-takeover_payload_1_method
+- subdomain-takeover_payload_2_western
+- subdomain-takeover_payload_3_sure
+- subdomain-takeover_payload_4_high
+- subdomain-takeover_payload_5_politics
+severity: medium
+type: subdomain-takeover

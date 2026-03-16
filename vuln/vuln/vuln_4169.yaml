@@ -1,0 +1,9 @@
+name: Multi-tiered human-resource moratorium
+payloads:
+- javascript-injection_payload_1_statement
+- javascript-injection_payload_2_former
+- javascript-injection_payload_3_result
+- javascript-injection_payload_4_pull
+- javascript-injection_payload_5_share
+severity: high
+type: javascript-injection

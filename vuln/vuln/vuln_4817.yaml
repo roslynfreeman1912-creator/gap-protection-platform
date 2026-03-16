@@ -1,0 +1,9 @@
+name: Intuitive homogeneous paradigm
+payloads:
+- host-header-injection_payload_1_very
+- host-header-injection_payload_2_manage
+- host-header-injection_payload_3_future
+- host-header-injection_payload_4_indicate
+- host-header-injection_payload_5_inside
+severity: high
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Centralized object-oriented architecture
+payloads:
+- csp-bypass_payload_1_move
+- csp-bypass_payload_2_political
+- csp-bypass_payload_3_section
+- csp-bypass_payload_4_recently
+- csp-bypass_payload_5_financial
+severity: low
+type: csp-bypass

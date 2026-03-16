@@ -1,0 +1,9 @@
+name: Persistent clear-thinking migration
+payloads:
+- mime-sniffing_payload_1_this
+- mime-sniffing_payload_2_pull
+- mime-sniffing_payload_3_modern
+- mime-sniffing_payload_4_describe
+- mime-sniffing_payload_5_determine
+severity: high
+type: mime-sniffing

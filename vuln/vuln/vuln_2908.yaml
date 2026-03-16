@@ -1,0 +1,9 @@
+name: Adaptive systemic open architecture
+payloads:
+- command-injection_payload_1_international
+- command-injection_payload_2_would
+- command-injection_payload_3_up
+- command-injection_payload_4_book
+- command-injection_payload_5_customer
+severity: medium
+type: command-injection

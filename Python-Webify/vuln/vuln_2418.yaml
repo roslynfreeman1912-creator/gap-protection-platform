@@ -1,0 +1,9 @@
+name: Automated incremental infrastructure
+payloads:
+- subdomain-takeover_payload_1_actually
+- subdomain-takeover_payload_2_have
+- subdomain-takeover_payload_3_management
+- subdomain-takeover_payload_4_push
+- subdomain-takeover_payload_5_oil
+severity: critical
+type: subdomain-takeover

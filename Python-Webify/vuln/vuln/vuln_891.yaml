@@ -1,0 +1,9 @@
+name: Reverse-engineered dedicated structure
+payloads:
+- crlf-injection_payload_1_response
+- crlf-injection_payload_2_to
+- crlf-injection_payload_3_head
+- crlf-injection_payload_4_power
+- crlf-injection_payload_5_write
+severity: critical
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Adaptive intangible open architecture
+payloads:
+- mime-sniffing_payload_1_lose
+- mime-sniffing_payload_2_material
+- mime-sniffing_payload_3_information
+- mime-sniffing_payload_4_player
+- mime-sniffing_payload_5_toward
+severity: high
+type: mime-sniffing

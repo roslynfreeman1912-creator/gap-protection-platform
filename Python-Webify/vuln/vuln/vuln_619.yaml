@@ -1,0 +1,9 @@
+name: Multi-tiered disintermediate access
+payloads:
+- javascript-injection_payload_1_answer
+- javascript-injection_payload_2_take
+- javascript-injection_payload_3_learn
+- javascript-injection_payload_4_appear
+- javascript-injection_payload_5_lose
+severity: medium
+type: javascript-injection

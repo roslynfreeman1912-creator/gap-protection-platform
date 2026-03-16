@@ -1,0 +1,9 @@
+name: Multi-tiered 24hour middleware
+payloads:
+- csrf_payload_1_sometimes
+- csrf_payload_2_town
+- csrf_payload_3_staff
+- csrf_payload_4_name
+- csrf_payload_5_fight
+severity: low
+type: csrf

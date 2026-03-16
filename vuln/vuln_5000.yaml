@@ -1,0 +1,9 @@
+name: Seamless exuding capacity
+payloads:
+- frame-injection_payload_1_style
+- frame-injection_payload_2_how
+- frame-injection_payload_3_close
+- frame-injection_payload_4_number
+- frame-injection_payload_5_letter
+severity: medium
+type: frame-injection

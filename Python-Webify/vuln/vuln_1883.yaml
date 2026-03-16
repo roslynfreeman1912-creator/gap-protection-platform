@@ -1,0 +1,9 @@
+name: Right-sized value-added projection
+payloads:
+- command-injection_payload_1_fire
+- command-injection_payload_2_decide
+- command-injection_payload_3_or
+- command-injection_payload_4_dinner
+- command-injection_payload_5_health
+severity: medium
+type: command-injection

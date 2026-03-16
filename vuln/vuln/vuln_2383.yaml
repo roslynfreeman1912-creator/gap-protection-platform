@@ -1,0 +1,9 @@
+name: Reduced encompassing solution
+payloads:
+- command-injection_payload_1_generation
+- command-injection_payload_2_simply
+- command-injection_payload_3_part
+- command-injection_payload_4_less
+- command-injection_payload_5_likely
+severity: low
+type: command-injection

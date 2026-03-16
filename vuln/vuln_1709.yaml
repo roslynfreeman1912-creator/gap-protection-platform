@@ -1,0 +1,9 @@
+name: Multi-tiered systematic application
+payloads:
+- path-traversal_payload_1_them
+- path-traversal_payload_2_red
+- path-traversal_payload_3_reality
+- path-traversal_payload_4_beat
+- path-traversal_payload_5_tree
+severity: low
+type: path-traversal

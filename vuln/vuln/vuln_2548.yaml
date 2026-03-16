@@ -1,0 +1,9 @@
+name: Down-sized coherent encryption
+payloads:
+- hsts-misconfig_payload_1_material
+- hsts-misconfig_payload_2_report
+- hsts-misconfig_payload_3_security
+- hsts-misconfig_payload_4_once
+- hsts-misconfig_payload_5_military
+severity: high
+type: hsts-misconfig

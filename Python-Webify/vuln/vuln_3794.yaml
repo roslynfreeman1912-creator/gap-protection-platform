@@ -1,0 +1,9 @@
+name: Reverse-engineered foreground attitude
+payloads:
+- javascript-injection_payload_1_capital
+- javascript-injection_payload_2_carry
+- javascript-injection_payload_3_detail
+- javascript-injection_payload_4_mission
+- javascript-injection_payload_5_surface
+severity: medium
+type: javascript-injection

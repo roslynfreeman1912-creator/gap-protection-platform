@@ -1,0 +1,9 @@
+name: Automated zero-defect model
+payloads:
+- csrf_payload_1_summer
+- csrf_payload_2_send
+- csrf_payload_3_debate
+- csrf_payload_4_much
+- csrf_payload_5_deal
+severity: medium
+type: csrf

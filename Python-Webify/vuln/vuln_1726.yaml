@@ -1,0 +1,9 @@
+name: Right-sized scalable capability
+payloads:
+- sql_payload_1_dream
+- sql_payload_2_thing
+- sql_payload_3_special
+- sql_payload_4_turn
+- sql_payload_5_perhaps
+severity: high
+type: sql

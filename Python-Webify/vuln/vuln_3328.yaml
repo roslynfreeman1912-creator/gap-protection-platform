@@ -1,0 +1,9 @@
+name: Progressive executive product
+payloads:
+- lfi_payload_1_it
+- lfi_payload_2_race
+- lfi_payload_3_know
+- lfi_payload_4_standard
+- lfi_payload_5_reduce
+severity: medium
+type: lfi

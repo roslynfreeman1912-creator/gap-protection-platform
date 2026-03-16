@@ -1,0 +1,9 @@
+name: Customer-focused optimal algorithm
+payloads:
+- tabnabbing_payload_1_mention
+- tabnabbing_payload_2_on
+- tabnabbing_payload_3_executive
+- tabnabbing_payload_4_while
+- tabnabbing_payload_5_early
+severity: low
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Vision-oriented attitude-oriented Graphic Interface
+payloads:
+- open-redirect_payload_1_page
+- open-redirect_payload_2_car
+- open-redirect_payload_3_somebody
+- open-redirect_payload_4_number
+- open-redirect_payload_5_out
+severity: high
+type: open-redirect

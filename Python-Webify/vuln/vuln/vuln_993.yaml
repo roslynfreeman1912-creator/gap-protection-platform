@@ -1,0 +1,9 @@
+name: Profound mission-critical attitude
+payloads:
+- subdomain-takeover_payload_1_cost
+- subdomain-takeover_payload_2_common
+- subdomain-takeover_payload_3_lose
+- subdomain-takeover_payload_4_bag
+- subdomain-takeover_payload_5_never
+severity: critical
+type: subdomain-takeover

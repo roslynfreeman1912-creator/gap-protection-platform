@@ -1,0 +1,9 @@
+name: Expanded asynchronous capacity
+payloads:
+- frame-injection_payload_1_future
+- frame-injection_payload_2_treatment
+- frame-injection_payload_3_another
+- frame-injection_payload_4_professor
+- frame-injection_payload_5_all
+severity: low
+type: frame-injection

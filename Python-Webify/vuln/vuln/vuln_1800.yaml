@@ -1,0 +1,9 @@
+name: Secured zero tolerance info-mediaries
+payloads:
+- frame-injection_payload_1_executive
+- frame-injection_payload_2_cold
+- frame-injection_payload_3_he
+- frame-injection_payload_4_environment
+- frame-injection_payload_5_identify
+severity: medium
+type: frame-injection

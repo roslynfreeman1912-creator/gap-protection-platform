@@ -1,0 +1,9 @@
+name: Function-based multimedia framework
+payloads:
+- lfi_payload_1_across
+- lfi_payload_2_yard
+- lfi_payload_3_American
+- lfi_payload_4_room
+- lfi_payload_5_term
+severity: high
+type: lfi

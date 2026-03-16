@@ -1,0 +1,9 @@
+name: Vision-oriented fresh-thinking superstructure
+payloads:
+- rfi_payload_1_chair
+- rfi_payload_2_center
+- rfi_payload_3_on
+- rfi_payload_4_feel
+- rfi_payload_5_behind
+severity: medium
+type: rfi

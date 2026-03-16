@@ -1,0 +1,9 @@
+name: Reverse-engineered homogeneous methodology
+payloads:
+- xxe_payload_1_prepare
+- xxe_payload_2_event
+- xxe_payload_3_back
+- xxe_payload_4_successful
+- xxe_payload_5_husband
+severity: high
+type: xxe

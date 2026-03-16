@@ -1,0 +1,9 @@
+name: Self-enabling attitude-oriented framework
+payloads:
+- frame-injection_payload_1_success
+- frame-injection_payload_2_box
+- frame-injection_payload_3_message
+- frame-injection_payload_4_term
+- frame-injection_payload_5_recognize
+severity: medium
+type: frame-injection

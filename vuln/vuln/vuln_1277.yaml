@@ -1,0 +1,9 @@
+name: Intuitive clear-thinking utilization
+payloads:
+- xss_payload_1_fire
+- xss_payload_2_nature
+- xss_payload_3_question
+- xss_payload_4_pull
+- xss_payload_5_box
+severity: medium
+type: xss

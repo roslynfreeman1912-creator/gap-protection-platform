@@ -1,0 +1,9 @@
+name: Diverse bi-directional encoding
+payloads:
+- command-injection_payload_1_current
+- command-injection_payload_2_operation
+- command-injection_payload_3_appear
+- command-injection_payload_4_rise
+- command-injection_payload_5_before
+severity: high
+type: command-injection

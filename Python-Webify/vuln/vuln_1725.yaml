@@ -1,0 +1,9 @@
+name: Automated motivating infrastructure
+payloads:
+- frame-injection_payload_1_next
+- frame-injection_payload_2_sign
+- frame-injection_payload_3_own
+- frame-injection_payload_4_weight
+- frame-injection_payload_5_wife
+severity: low
+type: frame-injection

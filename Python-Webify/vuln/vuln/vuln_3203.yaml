@@ -1,0 +1,9 @@
+name: Ergonomic client-server analyzer
+payloads:
+- lfi_payload_1_health
+- lfi_payload_2_condition
+- lfi_payload_3_especially
+- lfi_payload_4_too
+- lfi_payload_5_section
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Business-focused homogeneous interface
+payloads:
+- rfi_payload_1_other
+- rfi_payload_2_tell
+- rfi_payload_3_standard
+- rfi_payload_4_night
+- rfi_payload_5_choice
+severity: critical
+type: rfi

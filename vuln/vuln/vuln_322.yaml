@@ -1,0 +1,9 @@
+name: Operative didactic archive
+payloads:
+- tabnabbing_payload_1_care
+- tabnabbing_payload_2_fight
+- tabnabbing_payload_3_mission
+- tabnabbing_payload_4_agree
+- tabnabbing_payload_5_authority
+severity: low
+type: tabnabbing

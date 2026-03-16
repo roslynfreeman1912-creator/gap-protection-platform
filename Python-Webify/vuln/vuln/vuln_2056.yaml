@@ -1,0 +1,9 @@
+name: Polarized composite core
+payloads:
+- csrf_payload_1_person
+- csrf_payload_2_land
+- csrf_payload_3_food
+- csrf_payload_4_hour
+- csrf_payload_5_deep
+severity: critical
+type: csrf

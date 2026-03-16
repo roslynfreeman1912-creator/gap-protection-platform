@@ -1,0 +1,9 @@
+name: Decentralized cohesive conglomeration
+payloads:
+- crlf-injection_payload_1_design
+- crlf-injection_payload_2_usually
+- crlf-injection_payload_3_story
+- crlf-injection_payload_4_later
+- crlf-injection_payload_5_happen
+severity: medium
+type: crlf-injection

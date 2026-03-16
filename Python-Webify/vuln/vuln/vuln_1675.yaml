@@ -1,0 +1,9 @@
+name: Quality-focused optimal open architecture
+payloads:
+- frame-injection_payload_1_responsibility
+- frame-injection_payload_2_and
+- frame-injection_payload_3_beautiful
+- frame-injection_payload_4_experience
+- frame-injection_payload_5_determine
+severity: high
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Synchronized bi-directional Internet solution
+payloads:
+- file-upload_payload_1_bit
+- file-upload_payload_2_save
+- file-upload_payload_3_by
+- file-upload_payload_4_couple
+- file-upload_payload_5_huge
+severity: critical
+type: file-upload

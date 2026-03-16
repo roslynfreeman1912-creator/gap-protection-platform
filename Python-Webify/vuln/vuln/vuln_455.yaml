@@ -1,0 +1,9 @@
+name: Quality-focused fault-tolerant pricing structure
+payloads:
+- ssrf_payload_1_reality
+- ssrf_payload_2_before
+- ssrf_payload_3_majority
+- ssrf_payload_4_history
+- ssrf_payload_5_brother
+severity: critical
+type: ssrf

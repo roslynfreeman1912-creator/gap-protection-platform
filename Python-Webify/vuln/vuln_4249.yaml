@@ -1,0 +1,9 @@
+name: Face-to-face intermediate support
+payloads:
+- csp-bypass_payload_1_political
+- csp-bypass_payload_2_edge
+- csp-bypass_payload_3_audience
+- csp-bypass_payload_4_approach
+- csp-bypass_payload_5_mind
+severity: critical
+type: csp-bypass

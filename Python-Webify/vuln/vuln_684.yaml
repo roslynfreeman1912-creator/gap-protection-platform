@@ -1,0 +1,9 @@
+name: Automated empowering customer loyalty
+payloads:
+- path-traversal_payload_1_road
+- path-traversal_payload_2_line
+- path-traversal_payload_3_learn
+- path-traversal_payload_4_energy
+- path-traversal_payload_5_smile
+severity: high
+type: path-traversal

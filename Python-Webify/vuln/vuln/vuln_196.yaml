@@ -1,0 +1,9 @@
+name: Re-contextualized asymmetric synergy
+payloads:
+- mime-sniffing_payload_1_wind
+- mime-sniffing_payload_2_focus
+- mime-sniffing_payload_3_early
+- mime-sniffing_payload_4_rich
+- mime-sniffing_payload_5_manager
+severity: critical
+type: mime-sniffing

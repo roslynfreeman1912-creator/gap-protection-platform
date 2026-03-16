@@ -1,0 +1,9 @@
+name: Re-contextualized methodical artificial intelligence
+payloads:
+- jsonp-injection_payload_1_early
+- jsonp-injection_payload_2_language
+- jsonp-injection_payload_3_wish
+- jsonp-injection_payload_4_threat
+- jsonp-injection_payload_5_upon
+severity: medium
+type: jsonp-injection

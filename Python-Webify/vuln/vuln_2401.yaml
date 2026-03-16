@@ -1,0 +1,9 @@
+name: Devolved impactful installation
+payloads:
+- sql_payload_1_other
+- sql_payload_2_author
+- sql_payload_3_hard
+- sql_payload_4_buy
+- sql_payload_5_purpose
+severity: critical
+type: sql

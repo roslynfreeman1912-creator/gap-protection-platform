@@ -1,0 +1,9 @@
+name: Persistent 4thgeneration database
+payloads:
+- hsts-misconfig_payload_1_rather
+- hsts-misconfig_payload_2_some
+- hsts-misconfig_payload_3_visit
+- hsts-misconfig_payload_4_cost
+- hsts-misconfig_payload_5_big
+severity: low
+type: hsts-misconfig

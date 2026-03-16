@@ -1,0 +1,9 @@
+name: Cross-platform logistical task-force
+payloads:
+- ldap-injection_payload_1_affect
+- ldap-injection_payload_2_continue
+- ldap-injection_payload_3_simply
+- ldap-injection_payload_4_determine
+- ldap-injection_payload_5_operation
+severity: critical
+type: ldap-injection

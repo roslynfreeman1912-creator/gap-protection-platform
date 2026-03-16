@@ -1,0 +1,9 @@
+name: Multi-layered clear-thinking toolset
+payloads:
+- sql_payload_1_type
+- sql_payload_2_appear
+- sql_payload_3_world
+- sql_payload_4_participant
+- sql_payload_5_probably
+severity: critical
+type: sql

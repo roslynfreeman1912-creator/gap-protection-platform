@@ -1,0 +1,9 @@
+name: Visionary 5thgeneration parallelism
+payloads:
+- xxe_payload_1_star
+- xxe_payload_2_become
+- xxe_payload_3_my
+- xxe_payload_4_study
+- xxe_payload_5_car
+severity: medium
+type: xxe

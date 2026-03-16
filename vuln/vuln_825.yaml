@@ -1,0 +1,9 @@
+name: Diverse dedicated challenge
+payloads:
+- frame-injection_payload_1_phone
+- frame-injection_payload_2_student
+- frame-injection_payload_3_against
+- frame-injection_payload_4_give
+- frame-injection_payload_5_wall
+severity: medium
+type: frame-injection

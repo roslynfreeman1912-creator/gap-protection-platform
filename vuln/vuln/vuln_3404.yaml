@@ -1,0 +1,9 @@
+name: Visionary reciprocal productivity
+payloads:
+- rfi_payload_1_sure
+- rfi_payload_2_thank
+- rfi_payload_3_there
+- rfi_payload_4_course
+- rfi_payload_5_carry
+severity: medium
+type: rfi

@@ -1,0 +1,9 @@
+name: Operative modular approach
+payloads:
+- nosql-injection_payload_1_worker
+- nosql-injection_payload_2_small
+- nosql-injection_payload_3_table
+- nosql-injection_payload_4_try
+- nosql-injection_payload_5_happen
+severity: high
+type: nosql-injection

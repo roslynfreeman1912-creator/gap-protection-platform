@@ -1,0 +1,9 @@
+name: Enhanced system-worthy support
+payloads:
+- jsonp-injection_payload_1_TV
+- jsonp-injection_payload_2_more
+- jsonp-injection_payload_3_friend
+- jsonp-injection_payload_4_interview
+- jsonp-injection_payload_5_training
+severity: medium
+type: jsonp-injection

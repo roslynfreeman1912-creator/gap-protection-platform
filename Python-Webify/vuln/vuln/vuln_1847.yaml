@@ -1,0 +1,9 @@
+name: De-engineered logistical extranet
+payloads:
+- tabnabbing_payload_1_rule
+- tabnabbing_payload_2_drug
+- tabnabbing_payload_3_green
+- tabnabbing_payload_4_best
+- tabnabbing_payload_5_focus
+severity: low
+type: tabnabbing

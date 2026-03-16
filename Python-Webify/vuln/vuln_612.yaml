@@ -1,0 +1,9 @@
+name: Profound asymmetric superstructure
+payloads:
+- ldap-injection_payload_1_young
+- ldap-injection_payload_2_position
+- ldap-injection_payload_3_mouth
+- ldap-injection_payload_4_heavy
+- ldap-injection_payload_5_new
+severity: critical
+type: ldap-injection

@@ -1,0 +1,9 @@
+name: Sharable leadingedge service-desk
+payloads:
+- jsonp-injection_payload_1_child
+- jsonp-injection_payload_2_about
+- jsonp-injection_payload_3_my
+- jsonp-injection_payload_4_own
+- jsonp-injection_payload_5_size
+severity: low
+type: jsonp-injection

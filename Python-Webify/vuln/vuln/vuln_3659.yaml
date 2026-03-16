@@ -1,0 +1,9 @@
+name: Reverse-engineered incremental ability
+payloads:
+- path-traversal_payload_1_shake
+- path-traversal_payload_2_maybe
+- path-traversal_payload_3_room
+- path-traversal_payload_4_wrong
+- path-traversal_payload_5_court
+severity: critical
+type: path-traversal

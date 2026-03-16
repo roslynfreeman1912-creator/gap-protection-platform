@@ -1,0 +1,9 @@
+name: Profit-focused solution-oriented frame
+payloads:
+- xxe_payload_1_personal
+- xxe_payload_2_third
+- xxe_payload_3_power
+- xxe_payload_4_conference
+- xxe_payload_5_test
+severity: low
+type: xxe

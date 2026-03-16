@@ -1,0 +1,9 @@
+name: Visionary multimedia strategy
+payloads:
+- rfi_payload_1_ever
+- rfi_payload_2_source
+- rfi_payload_3_final
+- rfi_payload_4_hard
+- rfi_payload_5_rich
+severity: critical
+type: rfi

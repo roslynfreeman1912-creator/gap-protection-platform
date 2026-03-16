@@ -1,0 +1,9 @@
+name: Implemented 6thgeneration superstructure
+payloads:
+- xxe_payload_1_onto
+- xxe_payload_2_television
+- xxe_payload_3_identify
+- xxe_payload_4_down
+- xxe_payload_5_sea
+severity: high
+type: xxe

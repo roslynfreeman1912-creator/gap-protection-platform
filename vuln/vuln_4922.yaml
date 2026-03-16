@@ -1,0 +1,9 @@
+name: Monitored encompassing adapter
+payloads:
+- tabnabbing_payload_1_thought
+- tabnabbing_payload_2_help
+- tabnabbing_payload_3_off
+- tabnabbing_payload_4_you
+- tabnabbing_payload_5_wear
+severity: critical
+type: tabnabbing

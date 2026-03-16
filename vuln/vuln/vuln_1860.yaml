@@ -1,0 +1,9 @@
+name: Inverse demand-driven algorithm
+payloads:
+- open-redirect_payload_1_per
+- open-redirect_payload_2_ready
+- open-redirect_payload_3_artist
+- open-redirect_payload_4_seem
+- open-redirect_payload_5_government
+severity: low
+type: open-redirect

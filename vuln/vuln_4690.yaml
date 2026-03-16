@@ -1,0 +1,9 @@
+name: Enterprise-wide real-time ability
+payloads:
+- jsonp-injection_payload_1_have
+- jsonp-injection_payload_2_raise
+- jsonp-injection_payload_3_yeah
+- jsonp-injection_payload_4_fast
+- jsonp-injection_payload_5_herself
+severity: high
+type: jsonp-injection

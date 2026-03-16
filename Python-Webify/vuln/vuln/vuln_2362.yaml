@@ -1,0 +1,9 @@
+name: Exclusive maximized model
+payloads:
+- ldap-injection_payload_1_manager
+- ldap-injection_payload_2_site
+- ldap-injection_payload_3_hope
+- ldap-injection_payload_4_with
+- ldap-injection_payload_5_choose
+severity: critical
+type: ldap-injection

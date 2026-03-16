@@ -1,0 +1,9 @@
+name: Up-sized interactive open architecture
+payloads:
+- jsonp-injection_payload_1_race
+- jsonp-injection_payload_2_despite
+- jsonp-injection_payload_3_fly
+- jsonp-injection_payload_4_current
+- jsonp-injection_payload_5_clear
+severity: critical
+type: jsonp-injection

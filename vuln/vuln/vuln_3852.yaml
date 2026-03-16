@@ -1,0 +1,9 @@
+name: Function-based client-driven frame
+payloads:
+- xss_payload_1_city
+- xss_payload_2_expert
+- xss_payload_3_suddenly
+- xss_payload_4_author
+- xss_payload_5_statement
+severity: high
+type: xss

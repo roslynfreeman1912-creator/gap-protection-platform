@@ -1,0 +1,9 @@
+name: Streamlined secondary projection
+payloads:
+- mime-sniffing_payload_1_wind
+- mime-sniffing_payload_2_special
+- mime-sniffing_payload_3_about
+- mime-sniffing_payload_4_either
+- mime-sniffing_payload_5_she
+severity: medium
+type: mime-sniffing

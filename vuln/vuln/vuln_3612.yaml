@@ -1,0 +1,9 @@
+name: Persistent leadingedge software
+payloads:
+- ldap-injection_payload_1_book
+- ldap-injection_payload_2_increase
+- ldap-injection_payload_3_worker
+- ldap-injection_payload_4_somebody
+- ldap-injection_payload_5_role
+severity: critical
+type: ldap-injection

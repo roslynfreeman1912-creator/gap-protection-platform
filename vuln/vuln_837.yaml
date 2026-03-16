@@ -1,0 +1,9 @@
+name: Integrated bottom-line alliance
+payloads:
+- ldap-injection_payload_1_mouth
+- ldap-injection_payload_2_yourself
+- ldap-injection_payload_3_tough
+- ldap-injection_payload_4_experience
+- ldap-injection_payload_5_energy
+severity: critical
+type: ldap-injection

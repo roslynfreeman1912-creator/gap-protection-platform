@@ -1,0 +1,9 @@
+name: Fully-configurable secondary service-desk
+payloads:
+- open-redirect_payload_1_heart
+- open-redirect_payload_2_hear
+- open-redirect_payload_3_begin
+- open-redirect_payload_4_cup
+- open-redirect_payload_5_near
+severity: critical
+type: open-redirect

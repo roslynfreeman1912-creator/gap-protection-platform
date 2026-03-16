@@ -1,0 +1,9 @@
+name: Proactive methodical collaboration
+payloads:
+- jsonp-injection_payload_1_dream
+- jsonp-injection_payload_2_available
+- jsonp-injection_payload_3_thousand
+- jsonp-injection_payload_4_occur
+- jsonp-injection_payload_5_trouble
+severity: medium
+type: jsonp-injection

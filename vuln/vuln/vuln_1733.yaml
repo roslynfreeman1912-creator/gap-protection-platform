@@ -1,0 +1,9 @@
+name: Customer-focused dynamic implementation
+payloads:
+- command-injection_payload_1_detail
+- command-injection_payload_2_find
+- command-injection_payload_3_Mr
+- command-injection_payload_4_country
+- command-injection_payload_5_all
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Up-sized background hierarchy
+payloads:
+- rfi_payload_1_particular
+- rfi_payload_2_rich
+- rfi_payload_3_western
+- rfi_payload_4_girl
+- rfi_payload_5_sort
+severity: high
+type: rfi

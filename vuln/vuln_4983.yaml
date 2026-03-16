@@ -1,0 +1,9 @@
+name: Synergistic 4thgeneration neural-net
+payloads:
+- command-injection_payload_1_current
+- command-injection_payload_2_perhaps
+- command-injection_payload_3_agreement
+- command-injection_payload_4_explain
+- command-injection_payload_5_left
+severity: medium
+type: command-injection

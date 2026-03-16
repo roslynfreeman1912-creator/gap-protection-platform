@@ -1,0 +1,9 @@
+name: Advanced interactive encryption
+payloads:
+- host-header-injection_payload_1_author
+- host-header-injection_payload_2_should
+- host-header-injection_payload_3_leader
+- host-header-injection_payload_4_read
+- host-header-injection_payload_5_ok
+severity: medium
+type: host-header-injection

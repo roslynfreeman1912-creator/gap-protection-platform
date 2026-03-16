@@ -1,0 +1,9 @@
+name: Right-sized local forecast
+payloads:
+- clickjacking_payload_1_huge
+- clickjacking_payload_2_leader
+- clickjacking_payload_3_west
+- clickjacking_payload_4_strategy
+- clickjacking_payload_5_law
+severity: critical
+type: clickjacking

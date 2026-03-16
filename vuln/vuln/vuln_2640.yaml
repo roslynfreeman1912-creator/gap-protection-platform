@@ -1,0 +1,9 @@
+name: Enterprise-wide intangible instruction set
+payloads:
+- jsonp-injection_payload_1_material
+- jsonp-injection_payload_2_toward
+- jsonp-injection_payload_3_five
+- jsonp-injection_payload_4_little
+- jsonp-injection_payload_5_pick
+severity: low
+type: jsonp-injection

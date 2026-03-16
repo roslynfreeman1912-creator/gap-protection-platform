@@ -1,0 +1,9 @@
+name: Right-sized 5thgeneration capability
+payloads:
+- frame-injection_payload_1_heavy
+- frame-injection_payload_2_travel
+- frame-injection_payload_3_personal
+- frame-injection_payload_4_news
+- frame-injection_payload_5_important
+severity: low
+type: frame-injection

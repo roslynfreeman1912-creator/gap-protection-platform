@@ -1,0 +1,9 @@
+name: Adaptive asymmetric alliance
+payloads:
+- rfi_payload_1_area
+- rfi_payload_2_cup
+- rfi_payload_3_develop
+- rfi_payload_4_option
+- rfi_payload_5_imagine
+severity: medium
+type: rfi

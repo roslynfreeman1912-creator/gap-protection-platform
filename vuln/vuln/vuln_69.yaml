@@ -1,0 +1,9 @@
+name: Front-line clear-thinking capability
+payloads:
+- javascript-injection_payload_1_process
+- javascript-injection_payload_2_option
+- javascript-injection_payload_3_require
+- javascript-injection_payload_4_if
+- javascript-injection_payload_5_war
+severity: high
+type: javascript-injection

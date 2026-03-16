@@ -1,0 +1,9 @@
+name: Virtual uniform service-desk
+payloads:
+- frame-injection_payload_1_yes
+- frame-injection_payload_2_finally
+- frame-injection_payload_3_decision
+- frame-injection_payload_4_hold
+- frame-injection_payload_5_both
+severity: critical
+type: frame-injection

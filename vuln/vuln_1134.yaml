@@ -1,0 +1,9 @@
+name: Proactive bandwidth-monitored middleware
+payloads:
+- path-traversal_payload_1_school
+- path-traversal_payload_2_turn
+- path-traversal_payload_3_play
+- path-traversal_payload_4_no
+- path-traversal_payload_5_security
+severity: low
+type: path-traversal

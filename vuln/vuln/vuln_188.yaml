@@ -1,0 +1,9 @@
+name: Implemented client-server architecture
+payloads:
+- nosql-injection_payload_1_single
+- nosql-injection_payload_2_win
+- nosql-injection_payload_3_hand
+- nosql-injection_payload_4_eye
+- nosql-injection_payload_5_book
+severity: low
+type: nosql-injection

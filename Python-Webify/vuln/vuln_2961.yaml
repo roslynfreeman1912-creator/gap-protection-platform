@@ -1,0 +1,9 @@
+name: Object-based uniform implementation
+payloads:
+- xxe_payload_1_best
+- xxe_payload_2_language
+- xxe_payload_3_hot
+- xxe_payload_4_any
+- xxe_payload_5_key
+severity: low
+type: xxe

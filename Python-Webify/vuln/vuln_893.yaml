@@ -1,0 +1,9 @@
+name: Implemented homogeneous synergy
+payloads:
+- subdomain-takeover_payload_1_cell
+- subdomain-takeover_payload_2_education
+- subdomain-takeover_payload_3_doctor
+- subdomain-takeover_payload_4_trip
+- subdomain-takeover_payload_5_never
+severity: high
+type: subdomain-takeover

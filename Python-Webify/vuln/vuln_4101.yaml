@@ -1,0 +1,9 @@
+name: Fundamental composite moratorium
+payloads:
+- sql_payload_1_body
+- sql_payload_2_environment
+- sql_payload_3_recent
+- sql_payload_4_deep
+- sql_payload_5_baby
+severity: medium
+type: sql

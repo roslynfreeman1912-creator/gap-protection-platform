@@ -1,0 +1,9 @@
+name: Visionary dedicated service-desk
+payloads:
+- jsonp-injection_payload_1_describe
+- jsonp-injection_payload_2_imagine
+- jsonp-injection_payload_3_range
+- jsonp-injection_payload_4_always
+- jsonp-injection_payload_5_appear
+severity: low
+type: jsonp-injection

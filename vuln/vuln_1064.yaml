@@ -1,0 +1,9 @@
+name: Reactive neutral toolset
+payloads:
+- clickjacking_payload_1_great
+- clickjacking_payload_2_drive
+- clickjacking_payload_3_spend
+- clickjacking_payload_4_white
+- clickjacking_payload_5_evening
+severity: low
+type: clickjacking

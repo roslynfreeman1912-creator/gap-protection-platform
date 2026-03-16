@@ -1,0 +1,9 @@
+name: Sharable full-range frame
+payloads:
+- path-traversal_payload_1_remain
+- path-traversal_payload_2_never
+- path-traversal_payload_3_above
+- path-traversal_payload_4_experience
+- path-traversal_payload_5_language
+severity: high
+type: path-traversal

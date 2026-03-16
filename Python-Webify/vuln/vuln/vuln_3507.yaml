@@ -1,0 +1,9 @@
+name: Re-contextualized holistic migration
+payloads:
+- ssti_payload_1_seem
+- ssti_payload_2_fill
+- ssti_payload_3_huge
+- ssti_payload_4_charge
+- ssti_payload_5_raise
+severity: medium
+type: ssti

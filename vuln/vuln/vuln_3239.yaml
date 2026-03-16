@@ -1,0 +1,9 @@
+name: Fundamental fresh-thinking budgetary management
+payloads:
+- clickjacking_payload_1_camera
+- clickjacking_payload_2_recently
+- clickjacking_payload_3_often
+- clickjacking_payload_4_decide
+- clickjacking_payload_5_move
+severity: critical
+type: clickjacking

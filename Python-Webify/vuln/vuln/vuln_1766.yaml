@@ -1,0 +1,9 @@
+name: Optional intermediate Graphic Interface
+payloads:
+- crlf-injection_payload_1_develop
+- crlf-injection_payload_2_head
+- crlf-injection_payload_3_customer
+- crlf-injection_payload_4_until
+- crlf-injection_payload_5_structure
+severity: medium
+type: crlf-injection

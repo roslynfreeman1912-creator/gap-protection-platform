@@ -1,0 +1,9 @@
+name: Re-contextualized grid-enabled model
+payloads:
+- javascript-injection_payload_1_likely
+- javascript-injection_payload_2_whatever
+- javascript-injection_payload_3_activity
+- javascript-injection_payload_4_fear
+- javascript-injection_payload_5_imagine
+severity: low
+type: javascript-injection

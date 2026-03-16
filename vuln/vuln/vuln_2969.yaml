@@ -1,0 +1,9 @@
+name: Cross-group system-worthy Graphic Interface
+payloads:
+- javascript-injection_payload_1_compare
+- javascript-injection_payload_2_report
+- javascript-injection_payload_3_require
+- javascript-injection_payload_4_every
+- javascript-injection_payload_5_old
+severity: medium
+type: javascript-injection

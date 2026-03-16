@@ -1,0 +1,9 @@
+name: Synchronized zero administration framework
+payloads:
+- open-redirect_payload_1_page
+- open-redirect_payload_2_feel
+- open-redirect_payload_3_return
+- open-redirect_payload_4_situation
+- open-redirect_payload_5_cover
+severity: low
+type: open-redirect

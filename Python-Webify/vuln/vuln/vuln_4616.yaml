@@ -1,0 +1,9 @@
+name: Ergonomic stable synergy
+payloads:
+- crlf-injection_payload_1_act
+- crlf-injection_payload_2_realize
+- crlf-injection_payload_3_life
+- crlf-injection_payload_4_edge
+- crlf-injection_payload_5_anyone
+severity: high
+type: crlf-injection

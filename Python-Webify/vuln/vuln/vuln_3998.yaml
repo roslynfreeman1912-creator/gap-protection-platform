@@ -1,0 +1,9 @@
+name: Ameliorated bifurcated alliance
+payloads:
+- hsts-misconfig_payload_1_eight
+- hsts-misconfig_payload_2_girl
+- hsts-misconfig_payload_3_front
+- hsts-misconfig_payload_4_heart
+- hsts-misconfig_payload_5_over
+severity: medium
+type: hsts-misconfig

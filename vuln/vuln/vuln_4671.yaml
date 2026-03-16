@@ -1,0 +1,9 @@
+name: Diverse non-volatile extranet
+payloads:
+- mime-sniffing_payload_1_across
+- mime-sniffing_payload_2_western
+- mime-sniffing_payload_3_authority
+- mime-sniffing_payload_4_record
+- mime-sniffing_payload_5_of
+severity: critical
+type: mime-sniffing

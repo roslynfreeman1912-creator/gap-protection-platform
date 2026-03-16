@@ -1,0 +1,9 @@
+name: Operative systemic architecture
+payloads:
+- hsts-misconfig_payload_1_ground
+- hsts-misconfig_payload_2_look
+- hsts-misconfig_payload_3_safe
+- hsts-misconfig_payload_4_simply
+- hsts-misconfig_payload_5_now
+severity: low
+type: hsts-misconfig

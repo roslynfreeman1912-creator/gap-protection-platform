@@ -1,0 +1,9 @@
+name: Synchronized coherent database
+payloads:
+- xss_payload_1_clear
+- xss_payload_2_political
+- xss_payload_3_arrive
+- xss_payload_4_everything
+- xss_payload_5_become
+severity: critical
+type: xss

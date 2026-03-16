@@ -1,0 +1,9 @@
+name: Synergistic contextually-based collaboration
+payloads:
+- sql_payload_1_effort
+- sql_payload_2_door
+- sql_payload_3_growth
+- sql_payload_4_individual
+- sql_payload_5_eat
+severity: critical
+type: sql

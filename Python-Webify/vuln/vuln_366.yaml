@@ -1,0 +1,9 @@
+name: Persevering mission-critical intranet
+payloads:
+- crlf-injection_payload_1_expect
+- crlf-injection_payload_2_born
+- crlf-injection_payload_3_film
+- crlf-injection_payload_4_those
+- crlf-injection_payload_5_join
+severity: critical
+type: crlf-injection

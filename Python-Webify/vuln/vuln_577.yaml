@@ -1,0 +1,9 @@
+name: Secured local superstructure
+payloads:
+- xss_payload_1_sound
+- xss_payload_2_book
+- xss_payload_3_force
+- xss_payload_4_rise
+- xss_payload_5_action
+severity: critical
+type: xss

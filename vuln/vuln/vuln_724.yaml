@@ -1,0 +1,9 @@
+name: Quality-focused system-worthy initiative
+payloads:
+- csp-bypass_payload_1_field
+- csp-bypass_payload_2_dark
+- csp-bypass_payload_3_thing
+- csp-bypass_payload_4_eye
+- csp-bypass_payload_5_real
+severity: low
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Virtual disintermediate moratorium
+payloads:
+- xxe_payload_1_bank
+- xxe_payload_2_require
+- xxe_payload_3_rock
+- xxe_payload_4_value
+- xxe_payload_5_world
+severity: low
+type: xxe

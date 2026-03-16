@@ -1,0 +1,9 @@
+name: Persistent human-resource intranet
+payloads:
+- mime-sniffing_payload_1_and
+- mime-sniffing_payload_2_cold
+- mime-sniffing_payload_3_wish
+- mime-sniffing_payload_4_national
+- mime-sniffing_payload_5_bed
+severity: low
+type: mime-sniffing

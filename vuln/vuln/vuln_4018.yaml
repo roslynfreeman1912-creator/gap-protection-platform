@@ -1,0 +1,9 @@
+name: Reverse-engineered multimedia matrix
+payloads:
+- subdomain-takeover_payload_1_per
+- subdomain-takeover_payload_2_both
+- subdomain-takeover_payload_3_general
+- subdomain-takeover_payload_4_beautiful
+- subdomain-takeover_payload_5_city
+severity: high
+type: subdomain-takeover

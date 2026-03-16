@@ -1,0 +1,9 @@
+name: Object-based solution-oriented moratorium
+payloads:
+- path-traversal_payload_1_often
+- path-traversal_payload_2_floor
+- path-traversal_payload_3_test
+- path-traversal_payload_4_common
+- path-traversal_payload_5_specific
+severity: low
+type: path-traversal

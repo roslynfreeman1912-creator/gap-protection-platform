@@ -1,0 +1,9 @@
+name: Programmable multi-tasking parallelism
+payloads:
+- csrf_payload_1_shake
+- csrf_payload_2_world
+- csrf_payload_3_occur
+- csrf_payload_4_turn
+- csrf_payload_5_during
+severity: critical
+type: csrf

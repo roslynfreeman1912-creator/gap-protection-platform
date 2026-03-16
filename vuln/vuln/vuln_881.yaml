@@ -1,0 +1,9 @@
+name: Phased multi-state synergy
+payloads:
+- csrf_payload_1_wear
+- csrf_payload_2_response
+- csrf_payload_3_civil
+- csrf_payload_4_good
+- csrf_payload_5_respond
+severity: critical
+type: csrf

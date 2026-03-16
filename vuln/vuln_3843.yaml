@@ -1,0 +1,9 @@
+name: Ergonomic uniform methodology
+payloads:
+- subdomain-takeover_payload_1_nice
+- subdomain-takeover_payload_2_network
+- subdomain-takeover_payload_3_major
+- subdomain-takeover_payload_4_boy
+- subdomain-takeover_payload_5_seat
+severity: medium
+type: subdomain-takeover

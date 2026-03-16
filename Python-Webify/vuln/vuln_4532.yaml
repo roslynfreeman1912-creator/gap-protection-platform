@@ -1,0 +1,9 @@
+name: Monitored mobile open system
+payloads:
+- ssti_payload_1_relate
+- ssti_payload_2_professional
+- ssti_payload_3_condition
+- ssti_payload_4_east
+- ssti_payload_5_shoulder
+severity: medium
+type: ssti

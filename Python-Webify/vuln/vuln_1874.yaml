@@ -1,0 +1,9 @@
+name: User-centric empowering infrastructure
+payloads:
+- csp-bypass_payload_1_building
+- csp-bypass_payload_2_field
+- csp-bypass_payload_3_information
+- csp-bypass_payload_4_southern
+- csp-bypass_payload_5_couple
+severity: low
+type: csp-bypass

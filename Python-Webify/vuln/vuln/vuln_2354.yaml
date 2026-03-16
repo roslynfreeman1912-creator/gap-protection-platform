@@ -1,0 +1,9 @@
+name: Multi-layered radical emulation
+payloads:
+- rfi_payload_1_director
+- rfi_payload_2_position
+- rfi_payload_3_letter
+- rfi_payload_4_since
+- rfi_payload_5_among
+severity: medium
+type: rfi

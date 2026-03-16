@@ -1,0 +1,9 @@
+name: Configurable contextually-based extranet
+payloads:
+- ssti_payload_1_management
+- ssti_payload_2_road
+- ssti_payload_3_job
+- ssti_payload_4_apply
+- ssti_payload_5_nothing
+severity: medium
+type: ssti

@@ -1,0 +1,9 @@
+name: Devolved reciprocal projection
+payloads:
+- rfi_payload_1_student
+- rfi_payload_2_place
+- rfi_payload_3_available
+- rfi_payload_4_garden
+- rfi_payload_5_deal
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Self-enabling leadingedge core
+payloads:
+- xxe_payload_1_wind
+- xxe_payload_2_modern
+- xxe_payload_3_or
+- xxe_payload_4_major
+- xxe_payload_5_though
+severity: high
+type: xxe

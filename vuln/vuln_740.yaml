@@ -1,0 +1,9 @@
+name: Phased methodical moratorium
+payloads:
+- jsonp-injection_payload_1_trial
+- jsonp-injection_payload_2_industry
+- jsonp-injection_payload_3_at
+- jsonp-injection_payload_4_everyone
+- jsonp-injection_payload_5_science
+severity: medium
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: De-engineered leadingedge projection
+payloads:
+- command-injection_payload_1_radio
+- command-injection_payload_2_officer
+- command-injection_payload_3_blue
+- command-injection_payload_4_run
+- command-injection_payload_5_down
+severity: low
+type: command-injection

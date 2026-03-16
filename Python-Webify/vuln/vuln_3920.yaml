@@ -1,0 +1,9 @@
+name: Business-focused content-based focus group
+payloads:
+- file-upload_payload_1_say
+- file-upload_payload_2_life
+- file-upload_payload_3_trouble
+- file-upload_payload_4_he
+- file-upload_payload_5_boy
+severity: high
+type: file-upload

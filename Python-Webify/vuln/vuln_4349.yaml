@@ -1,0 +1,9 @@
+name: Multi-tiered modular customer loyalty
+payloads:
+- csp-bypass_payload_1_article
+- csp-bypass_payload_2_important
+- csp-bypass_payload_3_word
+- csp-bypass_payload_4_capital
+- csp-bypass_payload_5_rather
+severity: critical
+type: csp-bypass

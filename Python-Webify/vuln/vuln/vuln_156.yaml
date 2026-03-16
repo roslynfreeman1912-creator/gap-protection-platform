@@ -1,0 +1,9 @@
+name: Team-oriented intermediate Graphic Interface
+payloads:
+- csrf_payload_1_remain
+- csrf_payload_2_half
+- csrf_payload_3_heavy
+- csrf_payload_4_detail
+- csrf_payload_5_son
+severity: high
+type: csrf

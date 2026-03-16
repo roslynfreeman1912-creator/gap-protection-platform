@@ -1,0 +1,9 @@
+name: Diverse coherent service-desk
+payloads:
+- rfi_payload_1_compare
+- rfi_payload_2_people
+- rfi_payload_3_baby
+- rfi_payload_4_someone
+- rfi_payload_5_allow
+severity: high
+type: rfi

@@ -1,0 +1,9 @@
+name: Exclusive fresh-thinking hub
+payloads:
+- mime-sniffing_payload_1_entire
+- mime-sniffing_payload_2_step
+- mime-sniffing_payload_3_race
+- mime-sniffing_payload_4_system
+- mime-sniffing_payload_5_where
+severity: critical
+type: mime-sniffing

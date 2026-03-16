@@ -1,0 +1,9 @@
+name: Operative fresh-thinking moratorium
+payloads:
+- crlf-injection_payload_1_company
+- crlf-injection_payload_2_little
+- crlf-injection_payload_3_sit
+- crlf-injection_payload_4_identify
+- crlf-injection_payload_5_politics
+severity: critical
+type: crlf-injection

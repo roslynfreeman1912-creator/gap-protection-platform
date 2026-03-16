@@ -1,0 +1,9 @@
+name: Front-line web-enabled implementation
+payloads:
+- open-redirect_payload_1_risk
+- open-redirect_payload_2_thing
+- open-redirect_payload_3_size
+- open-redirect_payload_4_religious
+- open-redirect_payload_5_plan
+severity: low
+type: open-redirect

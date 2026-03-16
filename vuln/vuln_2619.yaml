@@ -1,0 +1,9 @@
+name: Cross-platform responsive concept
+payloads:
+- javascript-injection_payload_1_account
+- javascript-injection_payload_2_staff
+- javascript-injection_payload_3_light
+- javascript-injection_payload_4_dog
+- javascript-injection_payload_5_local
+severity: medium
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Sharable dynamic archive
+payloads:
+- ssrf_payload_1_fire
+- ssrf_payload_2_executive
+- ssrf_payload_3_production
+- ssrf_payload_4_thank
+- ssrf_payload_5_shake
+severity: high
+type: ssrf

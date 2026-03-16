@@ -1,0 +1,9 @@
+name: Extended homogeneous monitoring
+payloads:
+- javascript-injection_payload_1_create
+- javascript-injection_payload_2_not
+- javascript-injection_payload_3_student
+- javascript-injection_payload_4_partner
+- javascript-injection_payload_5_war
+severity: medium
+type: javascript-injection

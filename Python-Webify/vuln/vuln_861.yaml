@@ -1,0 +1,9 @@
+name: Right-sized intangible budgetary management
+payloads:
+- xxe_payload_1_church
+- xxe_payload_2_clear
+- xxe_payload_3_unit
+- xxe_payload_4_town
+- xxe_payload_5_participant
+severity: high
+type: xxe

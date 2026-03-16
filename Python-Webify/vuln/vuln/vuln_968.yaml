@@ -1,0 +1,9 @@
+name: Monitored bottom-line infrastructure
+payloads:
+- subdomain-takeover_payload_1_option
+- subdomain-takeover_payload_2_effect
+- subdomain-takeover_payload_3_commercial
+- subdomain-takeover_payload_4_easy
+- subdomain-takeover_payload_5_recognize
+severity: critical
+type: subdomain-takeover

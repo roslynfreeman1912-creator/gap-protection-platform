@@ -1,0 +1,9 @@
+name: Persevering directional Internet solution
+payloads:
+- csrf_payload_1_base
+- csrf_payload_2_range
+- csrf_payload_3_father
+- csrf_payload_4_election
+- csrf_payload_5_time
+severity: critical
+type: csrf

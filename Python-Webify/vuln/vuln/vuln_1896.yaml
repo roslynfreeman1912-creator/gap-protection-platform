@@ -1,0 +1,9 @@
+name: Grass-roots systemic secured line
+payloads:
+- mime-sniffing_payload_1_Mrs
+- mime-sniffing_payload_2_every
+- mime-sniffing_payload_3_article
+- mime-sniffing_payload_4_especially
+- mime-sniffing_payload_5_strategy
+severity: high
+type: mime-sniffing

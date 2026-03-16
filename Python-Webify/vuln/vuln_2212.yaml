@@ -1,0 +1,9 @@
+name: Proactive regional focus group
+payloads:
+- ldap-injection_payload_1_others
+- ldap-injection_payload_2_knowledge
+- ldap-injection_payload_3_blue
+- ldap-injection_payload_4_term
+- ldap-injection_payload_5_cold
+severity: critical
+type: ldap-injection

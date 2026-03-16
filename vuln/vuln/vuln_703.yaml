@@ -1,0 +1,9 @@
+name: Decentralized impactful time-frame
+payloads:
+- lfi_payload_1_three
+- lfi_payload_2_scientist
+- lfi_payload_3_fear
+- lfi_payload_4_nice
+- lfi_payload_5_material
+severity: high
+type: lfi

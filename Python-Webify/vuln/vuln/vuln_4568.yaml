@@ -1,0 +1,9 @@
+name: Visionary leadingedge monitoring
+payloads:
+- subdomain-takeover_payload_1_billion
+- subdomain-takeover_payload_2_team
+- subdomain-takeover_payload_3_land
+- subdomain-takeover_payload_4_help
+- subdomain-takeover_payload_5_arm
+severity: medium
+type: subdomain-takeover

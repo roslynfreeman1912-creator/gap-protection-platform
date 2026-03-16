@@ -1,0 +1,9 @@
+name: Digitized bi-directional help-desk
+payloads:
+- open-redirect_payload_1_agency
+- open-redirect_payload_2_near
+- open-redirect_payload_3_tend
+- open-redirect_payload_4_away
+- open-redirect_payload_5_action
+severity: critical
+type: open-redirect

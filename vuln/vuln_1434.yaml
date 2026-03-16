@@ -1,0 +1,9 @@
+name: Triple-buffered client-server implementation
+payloads:
+- path-traversal_payload_1_wife
+- path-traversal_payload_2_amount
+- path-traversal_payload_3_source
+- path-traversal_payload_4_nation
+- path-traversal_payload_5_day
+severity: critical
+type: path-traversal

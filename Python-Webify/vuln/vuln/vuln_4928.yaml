@@ -1,0 +1,9 @@
+name: Synergistic zero tolerance support
+payloads:
+- lfi_payload_1_message
+- lfi_payload_2_friend
+- lfi_payload_3_necessary
+- lfi_payload_4_walk
+- lfi_payload_5_somebody
+severity: high
+type: lfi

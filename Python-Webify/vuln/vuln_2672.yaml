@@ -1,0 +1,9 @@
+name: Customizable composite moratorium
+payloads:
+- tabnabbing_payload_1_factor
+- tabnabbing_payload_2_down
+- tabnabbing_payload_3_mother
+- tabnabbing_payload_4_avoid
+- tabnabbing_payload_5_trade
+severity: low
+type: tabnabbing

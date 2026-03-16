@@ -1,0 +1,9 @@
+name: Cross-platform composite architecture
+payloads:
+- jsonp-injection_payload_1_question
+- jsonp-injection_payload_2_fill
+- jsonp-injection_payload_3_huge
+- jsonp-injection_payload_4_none
+- jsonp-injection_payload_5_country
+severity: medium
+type: jsonp-injection

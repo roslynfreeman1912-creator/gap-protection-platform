@@ -1,0 +1,9 @@
+name: Down-sized scalable emulation
+payloads:
+- host-header-injection_payload_1_hot
+- host-header-injection_payload_2_player
+- host-header-injection_payload_3_stay
+- host-header-injection_payload_4_wear
+- host-header-injection_payload_5_understand
+severity: low
+type: host-header-injection

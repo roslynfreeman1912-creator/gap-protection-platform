@@ -1,0 +1,9 @@
+name: Pre-emptive bandwidth-monitored definition
+payloads:
+- mime-sniffing_payload_1_cover
+- mime-sniffing_payload_2_describe
+- mime-sniffing_payload_3_her
+- mime-sniffing_payload_4_effect
+- mime-sniffing_payload_5_discuss
+severity: low
+type: mime-sniffing

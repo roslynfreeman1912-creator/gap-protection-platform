@@ -1,0 +1,9 @@
+name: Networked multimedia help-desk
+payloads:
+- path-traversal_payload_1_what
+- path-traversal_payload_2_body
+- path-traversal_payload_3_enter
+- path-traversal_payload_4_some
+- path-traversal_payload_5_away
+severity: medium
+type: path-traversal

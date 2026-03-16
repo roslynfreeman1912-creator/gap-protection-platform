@@ -1,0 +1,9 @@
+name: Profound web-enabled concept
+payloads:
+- ssrf_payload_1_because
+- ssrf_payload_2_rise
+- ssrf_payload_3_rock
+- ssrf_payload_4_yard
+- ssrf_payload_5_production
+severity: critical
+type: ssrf

@@ -1,0 +1,9 @@
+name: Ergonomic value-added budgetary management
+payloads:
+- frame-injection_payload_1_table
+- frame-injection_payload_2_must
+- frame-injection_payload_3_read
+- frame-injection_payload_4_win
+- frame-injection_payload_5_evidence
+severity: low
+type: frame-injection

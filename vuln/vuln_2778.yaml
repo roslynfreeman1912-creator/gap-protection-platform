@@ -1,0 +1,9 @@
+name: Up-sized maximized migration
+payloads:
+- lfi_payload_1_happy
+- lfi_payload_2_account
+- lfi_payload_3_those
+- lfi_payload_4_travel
+- lfi_payload_5_after
+severity: low
+type: lfi

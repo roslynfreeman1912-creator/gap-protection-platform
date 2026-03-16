@@ -1,0 +1,9 @@
+name: Organic web-enabled groupware
+payloads:
+- frame-injection_payload_1_PM
+- frame-injection_payload_2_forward
+- frame-injection_payload_3_help
+- frame-injection_payload_4_behavior
+- frame-injection_payload_5_decade
+severity: critical
+type: frame-injection

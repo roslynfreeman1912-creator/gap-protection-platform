@@ -1,0 +1,9 @@
+name: Extended tangible encoding
+payloads:
+- xxe_payload_1_case
+- xxe_payload_2_anyone
+- xxe_payload_3_become
+- xxe_payload_4_image
+- xxe_payload_5_safe
+severity: critical
+type: xxe

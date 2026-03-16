@@ -1,0 +1,9 @@
+name: Progressive background policy
+payloads:
+- subdomain-takeover_payload_1_cause
+- subdomain-takeover_payload_2_process
+- subdomain-takeover_payload_3_course
+- subdomain-takeover_payload_4_computer
+- subdomain-takeover_payload_5_whole
+severity: low
+type: subdomain-takeover

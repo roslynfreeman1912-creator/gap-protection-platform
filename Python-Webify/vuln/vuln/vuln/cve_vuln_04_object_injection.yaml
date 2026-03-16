@@ -1,0 +1,7 @@
+cve: CVE-2015-8562-V4
+description: PHP Object Injection in Joomla via User-Agent header.
+name: Joomla Object Injection Variant 4
+payloads:
+- 'User-Agent: phpggc_payload_here'
+severity: critical
+type: object_injection

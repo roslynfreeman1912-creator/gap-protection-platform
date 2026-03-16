@@ -1,0 +1,9 @@
+name: Expanded even-keeled function
+payloads:
+- mime-sniffing_payload_1_wide
+- mime-sniffing_payload_2_or
+- mime-sniffing_payload_3_maintain
+- mime-sniffing_payload_4_two
+- mime-sniffing_payload_5_budget
+severity: critical
+type: mime-sniffing

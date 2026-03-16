@@ -1,0 +1,9 @@
+name: Front-line content-based initiative
+payloads:
+- ldap-injection_payload_1_seek
+- ldap-injection_payload_2_medical
+- ldap-injection_payload_3_during
+- ldap-injection_payload_4_leg
+- ldap-injection_payload_5_author
+severity: low
+type: ldap-injection

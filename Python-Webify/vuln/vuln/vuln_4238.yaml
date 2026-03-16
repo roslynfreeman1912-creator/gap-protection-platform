@@ -1,0 +1,9 @@
+name: Networked discrete hierarchy
+payloads:
+- nosql-injection_payload_1_many
+- nosql-injection_payload_2_down
+- nosql-injection_payload_3_report
+- nosql-injection_payload_4_push
+- nosql-injection_payload_5_major
+severity: medium
+type: nosql-injection

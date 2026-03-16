@@ -1,0 +1,9 @@
+name: Assimilated didactic throughput
+payloads:
+- crlf-injection_payload_1_all
+- crlf-injection_payload_2_agree
+- crlf-injection_payload_3_fly
+- crlf-injection_payload_4_turn
+- crlf-injection_payload_5_city
+severity: critical
+type: crlf-injection

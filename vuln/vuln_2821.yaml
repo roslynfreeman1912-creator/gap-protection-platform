@@ -1,0 +1,9 @@
+name: Vision-oriented stable core
+payloads:
+- mime-sniffing_payload_1_toward
+- mime-sniffing_payload_2_not
+- mime-sniffing_payload_3_these
+- mime-sniffing_payload_4_occur
+- mime-sniffing_payload_5_travel
+severity: critical
+type: mime-sniffing

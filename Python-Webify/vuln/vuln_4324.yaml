@@ -1,0 +1,9 @@
+name: Self-enabling optimal alliance
+payloads:
+- csp-bypass_payload_1_mean
+- csp-bypass_payload_2_goal
+- csp-bypass_payload_3_money
+- csp-bypass_payload_4_sister
+- csp-bypass_payload_5_occur
+severity: medium
+type: csp-bypass

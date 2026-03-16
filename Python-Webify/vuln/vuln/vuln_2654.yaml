@@ -1,0 +1,9 @@
+name: Vision-oriented asymmetric success
+payloads:
+- rfi_payload_1_who
+- rfi_payload_2_lay
+- rfi_payload_3_possible
+- rfi_payload_4_she
+- rfi_payload_5_suddenly
+severity: medium
+type: rfi

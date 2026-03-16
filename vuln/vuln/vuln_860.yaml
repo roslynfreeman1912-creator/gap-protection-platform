@@ -1,0 +1,9 @@
+name: Up-sized 24hour paradigm
+payloads:
+- open-redirect_payload_1_able
+- open-redirect_payload_2_likely
+- open-redirect_payload_3_growth
+- open-redirect_payload_4_many
+- open-redirect_payload_5_have
+severity: critical
+type: open-redirect

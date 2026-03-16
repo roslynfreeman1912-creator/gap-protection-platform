@@ -1,0 +1,9 @@
+name: Front-line bandwidth-monitored knowledge user
+payloads:
+- lfi_payload_1_so
+- lfi_payload_2_national
+- lfi_payload_3_yourself
+- lfi_payload_4_with
+- lfi_payload_5_everybody
+severity: high
+type: lfi

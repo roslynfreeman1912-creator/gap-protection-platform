@@ -1,0 +1,9 @@
+name: Ergonomic heuristic contingency
+payloads:
+- rfi_payload_1_doctor
+- rfi_payload_2_sometimes
+- rfi_payload_3_international
+- rfi_payload_4_may
+- rfi_payload_5_thus
+severity: low
+type: rfi

@@ -1,0 +1,9 @@
+name: Synchronized clear-thinking software
+payloads:
+- file-upload_payload_1_side
+- file-upload_payload_2_tell
+- file-upload_payload_3_year
+- file-upload_payload_4_create
+- file-upload_payload_5_then
+severity: medium
+type: file-upload

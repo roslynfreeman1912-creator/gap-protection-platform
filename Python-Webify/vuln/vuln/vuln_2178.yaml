@@ -1,0 +1,9 @@
+name: Virtual multi-state product
+payloads:
+- lfi_payload_1_provide
+- lfi_payload_2_center
+- lfi_payload_3_manage
+- lfi_payload_4_create
+- lfi_payload_5_building
+severity: medium
+type: lfi

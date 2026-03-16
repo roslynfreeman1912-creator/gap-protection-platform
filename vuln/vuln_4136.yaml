@@ -1,0 +1,9 @@
+name: Diverse methodical function
+payloads:
+- xxe_payload_1_memory
+- xxe_payload_2_threat
+- xxe_payload_3_dark
+- xxe_payload_4_within
+- xxe_payload_5_natural
+severity: critical
+type: xxe

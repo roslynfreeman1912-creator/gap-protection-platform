@@ -1,0 +1,9 @@
+name: Managed stable leverage
+payloads:
+- xxe_payload_1_live
+- xxe_payload_2_eight
+- xxe_payload_3_Congress
+- xxe_payload_4_whose
+- xxe_payload_5_social
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Persevering content-based process improvement
+payloads:
+- subdomain-takeover_payload_1_interview
+- subdomain-takeover_payload_2_few
+- subdomain-takeover_payload_3_act
+- subdomain-takeover_payload_4_create
+- subdomain-takeover_payload_5_agency
+severity: low
+type: subdomain-takeover

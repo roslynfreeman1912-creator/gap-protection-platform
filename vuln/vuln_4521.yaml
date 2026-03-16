@@ -1,0 +1,9 @@
+name: Monitored holistic collaboration
+payloads:
+- mime-sniffing_payload_1_short
+- mime-sniffing_payload_2_use
+- mime-sniffing_payload_3_resource
+- mime-sniffing_payload_4_popular
+- mime-sniffing_payload_5_music
+severity: critical
+type: mime-sniffing

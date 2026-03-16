@@ -1,0 +1,9 @@
+name: Right-sized zero tolerance instruction set
+payloads:
+- ssrf_payload_1_Congress
+- ssrf_payload_2_yeah
+- ssrf_payload_3_up
+- ssrf_payload_4_doctor
+- ssrf_payload_5_fact
+severity: medium
+type: ssrf

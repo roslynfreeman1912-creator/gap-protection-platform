@@ -1,0 +1,9 @@
+name: Cross-group impactful synergy
+payloads:
+- jsonp-injection_payload_1_then
+- jsonp-injection_payload_2_activity
+- jsonp-injection_payload_3_main
+- jsonp-injection_payload_4_garden
+- jsonp-injection_payload_5_actually
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Managed fault-tolerant implementation
+payloads:
+- lfi_payload_1_floor
+- lfi_payload_2_avoid
+- lfi_payload_3_little
+- lfi_payload_4_stand
+- lfi_payload_5_play
+severity: low
+type: lfi

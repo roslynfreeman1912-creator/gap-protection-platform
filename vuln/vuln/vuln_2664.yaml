@@ -1,0 +1,9 @@
+name: Distributed empowering alliance
+payloads:
+- clickjacking_payload_1_whom
+- clickjacking_payload_2_recently
+- clickjacking_payload_3_even
+- clickjacking_payload_4_interview
+- clickjacking_payload_5_according
+severity: critical
+type: clickjacking

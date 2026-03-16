@@ -1,0 +1,9 @@
+name: Secured intermediate flexibility
+payloads:
+- command-injection_payload_1_let
+- command-injection_payload_2_table
+- command-injection_payload_3_loss
+- command-injection_payload_4_animal
+- command-injection_payload_5_author
+severity: low
+type: command-injection

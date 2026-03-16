@@ -1,0 +1,9 @@
+name: Robust intangible pricing structure
+payloads:
+- nosql-injection_payload_1_main
+- nosql-injection_payload_2_page
+- nosql-injection_payload_3_natural
+- nosql-injection_payload_4_clearly
+- nosql-injection_payload_5_space
+severity: high
+type: nosql-injection

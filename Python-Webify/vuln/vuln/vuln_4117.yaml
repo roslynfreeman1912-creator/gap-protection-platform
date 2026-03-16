@@ -1,0 +1,9 @@
+name: Secured incremental hierarchy
+payloads:
+- host-header-injection_payload_1_religious
+- host-header-injection_payload_2_himself
+- host-header-injection_payload_3_civil
+- host-header-injection_payload_4_movie
+- host-header-injection_payload_5_man
+severity: low
+type: host-header-injection

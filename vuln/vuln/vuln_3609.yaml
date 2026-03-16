@@ -1,0 +1,9 @@
+name: Universal user-facing access
+payloads:
+- path-traversal_payload_1_coach
+- path-traversal_payload_2_understand
+- path-traversal_payload_3_another
+- path-traversal_payload_4_not
+- path-traversal_payload_5_range
+severity: low
+type: path-traversal

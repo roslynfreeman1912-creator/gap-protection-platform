@@ -1,0 +1,9 @@
+name: Grass-roots fresh-thinking moderator
+payloads:
+- hsts-misconfig_payload_1_reduce
+- hsts-misconfig_payload_2_fish
+- hsts-misconfig_payload_3_stay
+- hsts-misconfig_payload_4_fly
+- hsts-misconfig_payload_5_guess
+severity: high
+type: hsts-misconfig

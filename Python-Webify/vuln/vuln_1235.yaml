@@ -1,0 +1,9 @@
+name: Compatible incremental Graphical User Interface
+payloads:
+- open-redirect_payload_1_film
+- open-redirect_payload_2_bed
+- open-redirect_payload_3_live
+- open-redirect_payload_4_growth
+- open-redirect_payload_5_wind
+severity: critical
+type: open-redirect

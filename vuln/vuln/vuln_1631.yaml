@@ -1,0 +1,9 @@
+name: Profit-focused global model
+payloads:
+- csrf_payload_1_question
+- csrf_payload_2_drop
+- csrf_payload_3_major
+- csrf_payload_4_spend
+- csrf_payload_5_democratic
+severity: medium
+type: csrf

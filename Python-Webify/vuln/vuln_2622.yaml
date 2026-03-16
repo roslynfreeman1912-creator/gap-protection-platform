@@ -1,0 +1,9 @@
+name: Reactive background algorithm
+payloads:
+- tabnabbing_payload_1_age
+- tabnabbing_payload_2_through
+- tabnabbing_payload_3_indeed
+- tabnabbing_payload_4_deep
+- tabnabbing_payload_5_where
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Enterprise-wide directional orchestration
+payloads:
+- nosql-injection_payload_1_you
+- nosql-injection_payload_2_mind
+- nosql-injection_payload_3_capital
+- nosql-injection_payload_4_foreign
+- nosql-injection_payload_5_tend
+severity: medium
+type: nosql-injection

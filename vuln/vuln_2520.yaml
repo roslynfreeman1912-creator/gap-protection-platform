@@ -1,0 +1,9 @@
+name: Function-based systematic knowledgebase
+payloads:
+- file-upload_payload_1_current
+- file-upload_payload_2_crime
+- file-upload_payload_3_case
+- file-upload_payload_4_team
+- file-upload_payload_5_worry
+severity: low
+type: file-upload

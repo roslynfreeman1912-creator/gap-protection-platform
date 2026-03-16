@@ -1,0 +1,9 @@
+name: Ergonomic system-worthy challenge
+payloads:
+- rfi_payload_1_child
+- rfi_payload_2_suggest
+- rfi_payload_3_town
+- rfi_payload_4_school
+- rfi_payload_5_protect
+severity: medium
+type: rfi

@@ -1,0 +1,9 @@
+name: De-engineered content-based attitude
+payloads:
+- frame-injection_payload_1_pay
+- frame-injection_payload_2_successful
+- frame-injection_payload_3_benefit
+- frame-injection_payload_4_available
+- frame-injection_payload_5_full
+severity: high
+type: frame-injection

@@ -1,0 +1,9 @@
+name: Multi-lateral non-volatile neural-net
+payloads:
+- file-upload_payload_1_music
+- file-upload_payload_2_safe
+- file-upload_payload_3_minute
+- file-upload_payload_4_free
+- file-upload_payload_5_consumer
+severity: high
+type: file-upload

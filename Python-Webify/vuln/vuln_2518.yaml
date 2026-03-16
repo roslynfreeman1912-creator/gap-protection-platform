@@ -1,0 +1,9 @@
+name: Universal even-keeled groupware
+payloads:
+- subdomain-takeover_payload_1_offer
+- subdomain-takeover_payload_2_because
+- subdomain-takeover_payload_3_second
+- subdomain-takeover_payload_4_blue
+- subdomain-takeover_payload_5_why
+severity: low
+type: subdomain-takeover

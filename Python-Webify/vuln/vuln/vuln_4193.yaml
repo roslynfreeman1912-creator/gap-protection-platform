@@ -1,0 +1,9 @@
+name: Exclusive tertiary groupware
+payloads:
+- subdomain-takeover_payload_1_area
+- subdomain-takeover_payload_2_out
+- subdomain-takeover_payload_3_work
+- subdomain-takeover_payload_4_population
+- subdomain-takeover_payload_5_over
+severity: high
+type: subdomain-takeover

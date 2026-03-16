@@ -1,0 +1,9 @@
+name: Synchronized modular product
+payloads:
+- frame-injection_payload_1_science
+- frame-injection_payload_2_left
+- frame-injection_payload_3_care
+- frame-injection_payload_4_condition
+- frame-injection_payload_5_product
+severity: low
+type: frame-injection

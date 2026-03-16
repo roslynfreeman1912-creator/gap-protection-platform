@@ -1,0 +1,9 @@
+name: Decentralized fresh-thinking task-force
+payloads:
+- nosql-injection_payload_1_picture
+- nosql-injection_payload_2_sell
+- nosql-injection_payload_3_financial
+- nosql-injection_payload_4_store
+- nosql-injection_payload_5_ever
+severity: high
+type: nosql-injection

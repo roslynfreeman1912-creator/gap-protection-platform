@@ -1,0 +1,9 @@
+name: Self-enabling heuristic website
+payloads:
+- lfi_payload_1_often
+- lfi_payload_2_policy
+- lfi_payload_3_real
+- lfi_payload_4_collection
+- lfi_payload_5_image
+severity: critical
+type: lfi

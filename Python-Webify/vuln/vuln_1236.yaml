@@ -1,0 +1,9 @@
+name: Total asymmetric workforce
+payloads:
+- xxe_payload_1_hard
+- xxe_payload_2_when
+- xxe_payload_3_set
+- xxe_payload_4_phone
+- xxe_payload_5_analysis
+severity: low
+type: xxe

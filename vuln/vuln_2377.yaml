@@ -1,0 +1,9 @@
+name: Multi-channeled systemic task-force
+payloads:
+- xss_payload_1_side
+- xss_payload_2_personal
+- xss_payload_3_meet
+- xss_payload_4_know
+- xss_payload_5_serve
+severity: medium
+type: xss

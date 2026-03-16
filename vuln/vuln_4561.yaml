@@ -1,0 +1,9 @@
+name: Secured attitude-oriented success
+payloads:
+- xxe_payload_1_talk
+- xxe_payload_2_voice
+- xxe_payload_3_mention
+- xxe_payload_4_push
+- xxe_payload_5_official
+severity: medium
+type: xxe

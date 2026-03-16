@@ -1,0 +1,9 @@
+name: Horizontal asynchronous projection
+payloads:
+- crlf-injection_payload_1_international
+- crlf-injection_payload_2_style
+- crlf-injection_payload_3_low
+- crlf-injection_payload_4_even
+- crlf-injection_payload_5_key
+severity: medium
+type: crlf-injection

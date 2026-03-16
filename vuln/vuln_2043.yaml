@@ -1,0 +1,9 @@
+name: Balanced zero administration Graphical User Interface
+payloads:
+- subdomain-takeover_payload_1_week
+- subdomain-takeover_payload_2_rather
+- subdomain-takeover_payload_3_shake
+- subdomain-takeover_payload_4_officer
+- subdomain-takeover_payload_5_thousand
+severity: critical
+type: subdomain-takeover

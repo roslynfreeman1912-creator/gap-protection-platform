@@ -1,0 +1,9 @@
+name: Implemented solution-oriented matrix
+payloads:
+- hsts-misconfig_payload_1_sister
+- hsts-misconfig_payload_2_continue
+- hsts-misconfig_payload_3_total
+- hsts-misconfig_payload_4_response
+- hsts-misconfig_payload_5_window
+severity: low
+type: hsts-misconfig

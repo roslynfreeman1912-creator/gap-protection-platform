@@ -1,0 +1,9 @@
+name: Compatible secondary strategy
+payloads:
+- subdomain-takeover_payload_1_practice
+- subdomain-takeover_payload_2_result
+- subdomain-takeover_payload_3_statement
+- subdomain-takeover_payload_4_source
+- subdomain-takeover_payload_5_anyone
+severity: medium
+type: subdomain-takeover

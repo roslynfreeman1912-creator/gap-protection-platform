@@ -1,0 +1,9 @@
+name: Up-sized web-enabled function
+payloads:
+- csp-bypass_payload_1_available
+- csp-bypass_payload_2_dog
+- csp-bypass_payload_3_movie
+- csp-bypass_payload_4_treatment
+- csp-bypass_payload_5_else
+severity: low
+type: csp-bypass

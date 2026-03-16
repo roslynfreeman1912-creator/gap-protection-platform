@@ -1,0 +1,9 @@
+name: Reduced local strategy
+payloads:
+- tabnabbing_payload_1_energy
+- tabnabbing_payload_2_key
+- tabnabbing_payload_3_opportunity
+- tabnabbing_payload_4_another
+- tabnabbing_payload_5_must
+severity: high
+type: tabnabbing

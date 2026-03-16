@@ -1,0 +1,9 @@
+name: Down-sized contextually-based encryption
+payloads:
+- jsonp-injection_payload_1_wall
+- jsonp-injection_payload_2_father
+- jsonp-injection_payload_3_study
+- jsonp-injection_payload_4_ready
+- jsonp-injection_payload_5_just
+severity: low
+type: jsonp-injection

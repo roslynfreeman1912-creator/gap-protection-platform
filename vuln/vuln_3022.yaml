@@ -1,0 +1,9 @@
+name: Intuitive dedicated portal
+payloads:
+- tabnabbing_payload_1_well
+- tabnabbing_payload_2_character
+- tabnabbing_payload_3_reveal
+- tabnabbing_payload_4_animal
+- tabnabbing_payload_5_data
+severity: high
+type: tabnabbing

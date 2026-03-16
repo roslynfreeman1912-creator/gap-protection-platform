@@ -1,0 +1,9 @@
+name: Optional multimedia info-mediaries
+payloads:
+- subdomain-takeover_payload_1_security
+- subdomain-takeover_payload_2_walk
+- subdomain-takeover_payload_3_industry
+- subdomain-takeover_payload_4_performance
+- subdomain-takeover_payload_5_east
+severity: medium
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Universal holistic toolset
+payloads:
+- open-redirect_payload_1_ahead
+- open-redirect_payload_2_speech
+- open-redirect_payload_3_space
+- open-redirect_payload_4_bit
+- open-redirect_payload_5_cut
+severity: medium
+type: open-redirect

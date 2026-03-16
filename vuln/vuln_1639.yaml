@@ -1,0 +1,9 @@
+name: Business-focused zero administration encryption
+payloads:
+- clickjacking_payload_1_other
+- clickjacking_payload_2_agent
+- clickjacking_payload_3_entire
+- clickjacking_payload_4_itself
+- clickjacking_payload_5_our
+severity: medium
+type: clickjacking

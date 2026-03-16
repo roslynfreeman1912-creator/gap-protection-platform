@@ -1,0 +1,9 @@
+name: Progressive interactive knowledgebase
+payloads:
+- host-header-injection_payload_1_nor
+- host-header-injection_payload_2_author
+- host-header-injection_payload_3_continue
+- host-header-injection_payload_4_mouth
+- host-header-injection_payload_5_hand
+severity: medium
+type: host-header-injection

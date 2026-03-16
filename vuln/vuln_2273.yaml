@@ -1,0 +1,9 @@
+name: Adaptive real-time conglomeration
+payloads:
+- hsts-misconfig_payload_1_lot
+- hsts-misconfig_payload_2_seem
+- hsts-misconfig_payload_3_manage
+- hsts-misconfig_payload_4_relationship
+- hsts-misconfig_payload_5_yes
+severity: critical
+type: hsts-misconfig

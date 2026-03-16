@@ -1,0 +1,9 @@
+name: Fundamental scalable array
+payloads:
+- csrf_payload_1_once
+- csrf_payload_2_add
+- csrf_payload_3_low
+- csrf_payload_4_knowledge
+- csrf_payload_5_couple
+severity: low
+type: csrf

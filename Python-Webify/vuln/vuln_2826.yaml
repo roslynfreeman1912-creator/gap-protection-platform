@@ -1,0 +1,9 @@
+name: Adaptive uniform data-warehouse
+payloads:
+- sql_payload_1_remember
+- sql_payload_2_morning
+- sql_payload_3_go
+- sql_payload_4_American
+- sql_payload_5_bring
+severity: critical
+type: sql

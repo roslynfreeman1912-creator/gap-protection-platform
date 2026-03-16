@@ -1,0 +1,9 @@
+name: Synergized bottom-line migration
+payloads:
+- ssti_payload_1_us
+- ssti_payload_2_development
+- ssti_payload_3_grow
+- ssti_payload_4_soon
+- ssti_payload_5_standard
+severity: critical
+type: ssti

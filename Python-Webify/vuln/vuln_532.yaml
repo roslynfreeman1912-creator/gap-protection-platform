@@ -1,0 +1,9 @@
+name: Operative user-facing support
+payloads:
+- ssti_payload_1_always
+- ssti_payload_2_out
+- ssti_payload_3_trouble
+- ssti_payload_4_professional
+- ssti_payload_5_side
+severity: low
+type: ssti

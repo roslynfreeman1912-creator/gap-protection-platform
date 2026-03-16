@@ -1,0 +1,9 @@
+name: Operative clear-thinking support
+payloads:
+- nosql-injection_payload_1_against
+- nosql-injection_payload_2_your
+- nosql-injection_payload_3_include
+- nosql-injection_payload_4_rule
+- nosql-injection_payload_5_stop
+severity: critical
+type: nosql-injection

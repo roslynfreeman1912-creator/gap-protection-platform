@@ -1,0 +1,9 @@
+name: Up-sized uniform service-desk
+payloads:
+- hsts-misconfig_payload_1_opportunity
+- hsts-misconfig_payload_2_visit
+- hsts-misconfig_payload_3_president
+- hsts-misconfig_payload_4_law
+- hsts-misconfig_payload_5_herself
+severity: critical
+type: hsts-misconfig

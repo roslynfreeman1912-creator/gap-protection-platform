@@ -1,0 +1,9 @@
+name: Reverse-engineered zero administration function
+payloads:
+- rfi_payload_1_quality
+- rfi_payload_2_human
+- rfi_payload_3_later
+- rfi_payload_4_anything
+- rfi_payload_5_performance
+severity: low
+type: rfi

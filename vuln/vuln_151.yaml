@@ -1,0 +1,9 @@
+name: Re-engineered even-keeled installation
+payloads:
+- sql_payload_1_analysis
+- sql_payload_2_laugh
+- sql_payload_3_election
+- sql_payload_4_place
+- sql_payload_5_such
+severity: high
+type: sql

@@ -1,0 +1,9 @@
+name: Fundamental background data-warehouse
+payloads:
+- open-redirect_payload_1_available
+- open-redirect_payload_2_us
+- open-redirect_payload_3_body
+- open-redirect_payload_4_author
+- open-redirect_payload_5_subject
+severity: critical
+type: open-redirect

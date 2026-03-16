@@ -1,0 +1,9 @@
+name: Synergistic leadingedge budgetary management
+payloads:
+- xxe_payload_1_right
+- xxe_payload_2_father
+- xxe_payload_3_plan
+- xxe_payload_4_choice
+- xxe_payload_5_drive
+severity: high
+type: xxe

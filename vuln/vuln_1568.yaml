@@ -1,0 +1,9 @@
+name: Exclusive static contingency
+payloads:
+- subdomain-takeover_payload_1_century
+- subdomain-takeover_payload_2_whom
+- subdomain-takeover_payload_3_let
+- subdomain-takeover_payload_4_although
+- subdomain-takeover_payload_5_as
+severity: critical
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: User-friendly content-based solution
+payloads:
+- crlf-injection_payload_1_without
+- crlf-injection_payload_2_that
+- crlf-injection_payload_3_hour
+- crlf-injection_payload_4_since
+- crlf-injection_payload_5_official
+severity: high
+type: crlf-injection

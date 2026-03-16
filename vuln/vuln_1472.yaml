@@ -1,0 +1,9 @@
+name: Exclusive context-sensitive application
+payloads:
+- tabnabbing_payload_1_series
+- tabnabbing_payload_2_indeed
+- tabnabbing_payload_3_land
+- tabnabbing_payload_4_huge
+- tabnabbing_payload_5_fly
+severity: high
+type: tabnabbing

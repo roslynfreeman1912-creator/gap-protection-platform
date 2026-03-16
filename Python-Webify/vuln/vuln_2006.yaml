@@ -1,0 +1,9 @@
+name: Distributed heuristic service-desk
+payloads:
+- csrf_payload_1_hotel
+- csrf_payload_2_marriage
+- csrf_payload_3_exist
+- csrf_payload_4_wrong
+- csrf_payload_5_series
+severity: critical
+type: csrf

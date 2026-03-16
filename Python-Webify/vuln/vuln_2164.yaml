@@ -1,0 +1,9 @@
+name: Reduced national methodology
+payloads:
+- clickjacking_payload_1_respond
+- clickjacking_payload_2_often
+- clickjacking_payload_3_contain
+- clickjacking_payload_4_forward
+- clickjacking_payload_5_send
+severity: low
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Fundamental directional analyzer
+payloads:
+- xxe_payload_1_must
+- xxe_payload_2_mother
+- xxe_payload_3_base
+- xxe_payload_4_security
+- xxe_payload_5_food
+severity: high
+type: xxe

@@ -1,0 +1,9 @@
+name: Robust radical array
+payloads:
+- rfi_payload_1_even
+- rfi_payload_2_opportunity
+- rfi_payload_3_total
+- rfi_payload_4_respond
+- rfi_payload_5_any
+severity: critical
+type: rfi

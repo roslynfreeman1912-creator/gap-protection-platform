@@ -1,0 +1,9 @@
+name: Cross-group web-enabled Local Area Network
+payloads:
+- crlf-injection_payload_1_doctor
+- crlf-injection_payload_2_economy
+- crlf-injection_payload_3_house
+- crlf-injection_payload_4_while
+- crlf-injection_payload_5_off
+severity: low
+type: crlf-injection

@@ -1,0 +1,9 @@
+name: Down-sized leadingedge frame
+payloads:
+- file-upload_payload_1_coach
+- file-upload_payload_2_election
+- file-upload_payload_3_argue
+- file-upload_payload_4_miss
+- file-upload_payload_5_dinner
+severity: low
+type: file-upload

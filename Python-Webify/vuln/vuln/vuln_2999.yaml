@@ -1,0 +1,9 @@
+name: Phased systemic migration
+payloads:
+- csp-bypass_payload_1_source
+- csp-bypass_payload_2_building
+- csp-bypass_payload_3_finish
+- csp-bypass_payload_4_agree
+- csp-bypass_payload_5_PM
+severity: low
+type: csp-bypass

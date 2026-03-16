@@ -1,0 +1,9 @@
+name: Multi-channeled attitude-oriented contingency
+payloads:
+- hsts-misconfig_payload_1_dream
+- hsts-misconfig_payload_2_until
+- hsts-misconfig_payload_3_western
+- hsts-misconfig_payload_4_accept
+- hsts-misconfig_payload_5_remember
+severity: medium
+type: hsts-misconfig

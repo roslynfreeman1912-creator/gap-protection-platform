@@ -1,0 +1,9 @@
+name: Progressive composite migration
+payloads:
+- nosql-injection_payload_1_and
+- nosql-injection_payload_2_letter
+- nosql-injection_payload_3_couple
+- nosql-injection_payload_4_if
+- nosql-injection_payload_5_kind
+severity: critical
+type: nosql-injection

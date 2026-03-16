@@ -1,0 +1,9 @@
+name: Fundamental 24/7 Graphic Interface
+payloads:
+- sql_payload_1_box
+- sql_payload_2_season
+- sql_payload_3_write
+- sql_payload_4_theory
+- sql_payload_5_place
+severity: high
+type: sql

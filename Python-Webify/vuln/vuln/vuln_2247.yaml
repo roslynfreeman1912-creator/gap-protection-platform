@@ -1,0 +1,9 @@
+name: Vision-oriented interactive application
+payloads:
+- tabnabbing_payload_1_every
+- tabnabbing_payload_2_research
+- tabnabbing_payload_3_often
+- tabnabbing_payload_4_but
+- tabnabbing_payload_5_section
+severity: critical
+type: tabnabbing

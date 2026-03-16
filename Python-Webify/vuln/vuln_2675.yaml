@@ -1,0 +1,9 @@
+name: Self-enabling optimizing matrix
+payloads:
+- frame-injection_payload_1_arrive
+- frame-injection_payload_2_statement
+- frame-injection_payload_3_hour
+- frame-injection_payload_4_hear
+- frame-injection_payload_5_popular
+severity: low
+type: frame-injection

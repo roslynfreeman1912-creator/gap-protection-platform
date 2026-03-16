@@ -1,0 +1,9 @@
+name: Reduced empowering access
+payloads:
+- xxe_payload_1_thought
+- xxe_payload_2_leg
+- xxe_payload_3_when
+- xxe_payload_4_require
+- xxe_payload_5_everybody
+severity: critical
+type: xxe

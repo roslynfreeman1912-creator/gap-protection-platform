@@ -1,0 +1,9 @@
+name: Ergonomic incremental Graphical User Interface
+payloads:
+- jsonp-injection_payload_1_newspaper
+- jsonp-injection_payload_2_worker
+- jsonp-injection_payload_3_best
+- jsonp-injection_payload_4_factor
+- jsonp-injection_payload_5_less
+severity: low
+type: jsonp-injection

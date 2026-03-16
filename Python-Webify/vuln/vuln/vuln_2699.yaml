@@ -1,0 +1,9 @@
+name: Phased mobile extranet
+payloads:
+- csp-bypass_payload_1_improve
+- csp-bypass_payload_2_talk
+- csp-bypass_payload_3_recently
+- csp-bypass_payload_4_himself
+- csp-bypass_payload_5_TV
+severity: low
+type: csp-bypass

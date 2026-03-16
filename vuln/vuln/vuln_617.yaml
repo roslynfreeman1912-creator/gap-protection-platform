@@ -1,0 +1,9 @@
+name: De-engineered exuding capacity
+payloads:
+- host-header-injection_payload_1_drive
+- host-header-injection_payload_2_billion
+- host-header-injection_payload_3_while
+- host-header-injection_payload_4_long
+- host-header-injection_payload_5_case
+severity: high
+type: host-header-injection

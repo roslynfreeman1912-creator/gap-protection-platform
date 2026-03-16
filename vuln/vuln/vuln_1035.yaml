@@ -1,0 +1,9 @@
+name: Pre-emptive contextually-based functionalities
+payloads:
+- open-redirect_payload_1_pretty
+- open-redirect_payload_2_learn
+- open-redirect_payload_3_discussion
+- open-redirect_payload_4_pass
+- open-redirect_payload_5_mother
+severity: low
+type: open-redirect

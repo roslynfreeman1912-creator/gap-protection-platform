@@ -1,0 +1,9 @@
+name: Pre-emptive upward-trending artificial intelligence
+payloads:
+- javascript-injection_payload_1_eye
+- javascript-injection_payload_2_magazine
+- javascript-injection_payload_3_PM
+- javascript-injection_payload_4_factor
+- javascript-injection_payload_5_country
+severity: low
+type: javascript-injection

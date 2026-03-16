@@ -1,0 +1,9 @@
+name: Customizable national collaboration
+payloads:
+- xxe_payload_1_audience
+- xxe_payload_2_add
+- xxe_payload_3_evening
+- xxe_payload_4_attorney
+- xxe_payload_5_government
+severity: high
+type: xxe

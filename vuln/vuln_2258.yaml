@@ -1,0 +1,9 @@
+name: Adaptive human-resource forecast
+payloads:
+- command-injection_payload_1_cultural
+- command-injection_payload_2_size
+- command-injection_payload_3_billion
+- command-injection_payload_4_may
+- command-injection_payload_5_hospital
+severity: medium
+type: command-injection

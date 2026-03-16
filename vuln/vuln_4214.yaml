@@ -1,0 +1,9 @@
+name: Decentralized multi-tasking success
+payloads:
+- clickjacking_payload_1_wrong
+- clickjacking_payload_2_in
+- clickjacking_payload_3_my
+- clickjacking_payload_4_line
+- clickjacking_payload_5_life
+severity: critical
+type: clickjacking

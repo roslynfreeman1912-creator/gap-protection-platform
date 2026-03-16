@@ -1,0 +1,9 @@
+name: Phased encompassing open architecture
+payloads:
+- mime-sniffing_payload_1_help
+- mime-sniffing_payload_2_guy
+- mime-sniffing_payload_3_threat
+- mime-sniffing_payload_4_government
+- mime-sniffing_payload_5_science
+severity: critical
+type: mime-sniffing

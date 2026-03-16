@@ -1,0 +1,9 @@
+name: Diverse transitional info-mediaries
+payloads:
+- mime-sniffing_payload_1_agree
+- mime-sniffing_payload_2_camera
+- mime-sniffing_payload_3_throw
+- mime-sniffing_payload_4_tell
+- mime-sniffing_payload_5_father
+severity: medium
+type: mime-sniffing

@@ -1,0 +1,9 @@
+name: Robust methodical initiative
+payloads:
+- xss_payload_1_whose
+- xss_payload_2_very
+- xss_payload_3_institution
+- xss_payload_4_although
+- xss_payload_5_as
+severity: high
+type: xss

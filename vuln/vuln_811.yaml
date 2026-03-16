@@ -1,0 +1,9 @@
+name: Versatile multi-state strategy
+payloads:
+- xxe_payload_1_director
+- xxe_payload_2_PM
+- xxe_payload_3_point
+- xxe_payload_4_successful
+- xxe_payload_5_onto
+severity: critical
+type: xxe

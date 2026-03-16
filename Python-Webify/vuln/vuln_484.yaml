@@ -1,0 +1,9 @@
+name: Focused 5thgeneration website
+payloads:
+- path-traversal_payload_1_big
+- path-traversal_payload_2_surface
+- path-traversal_payload_3_push
+- path-traversal_payload_4_American
+- path-traversal_payload_5_rate
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Compatible stable installation
+payloads:
+- ssrf_payload_1_today
+- ssrf_payload_2_agent
+- ssrf_payload_3_star
+- ssrf_payload_4_probably
+- ssrf_payload_5_be
+severity: critical
+type: ssrf

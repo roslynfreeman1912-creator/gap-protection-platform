@@ -1,0 +1,9 @@
+name: Self-enabling radical function
+payloads:
+- rfi_payload_1_face
+- rfi_payload_2_two
+- rfi_payload_3_election
+- rfi_payload_4_require
+- rfi_payload_5_certain
+severity: critical
+type: rfi

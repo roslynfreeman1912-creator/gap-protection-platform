@@ -1,0 +1,9 @@
+name: Phased homogeneous complexity
+payloads:
+- ldap-injection_payload_1_their
+- ldap-injection_payload_2_language
+- ldap-injection_payload_3_newspaper
+- ldap-injection_payload_4_if
+- ldap-injection_payload_5_difference
+severity: low
+type: ldap-injection

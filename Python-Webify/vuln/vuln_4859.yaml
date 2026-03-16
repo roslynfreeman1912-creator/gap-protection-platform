@@ -1,0 +1,9 @@
+name: Switchable real-time hierarchy
+payloads:
+- path-traversal_payload_1_senior
+- path-traversal_payload_2_message
+- path-traversal_payload_3_ability
+- path-traversal_payload_4_party
+- path-traversal_payload_5_show
+severity: medium
+type: path-traversal

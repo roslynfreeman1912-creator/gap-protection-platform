@@ -1,0 +1,9 @@
+name: Multi-channeled human-resource data-warehouse
+payloads:
+- ssti_payload_1_mean
+- ssti_payload_2_draw
+- ssti_payload_3_door
+- ssti_payload_4_girl
+- ssti_payload_5_figure
+severity: critical
+type: ssti

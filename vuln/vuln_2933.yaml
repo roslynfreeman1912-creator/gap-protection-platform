@@ -1,0 +1,9 @@
+name: Assimilated next generation parallelism
+payloads:
+- command-injection_payload_1_guess
+- command-injection_payload_2_each
+- command-injection_payload_3_consider
+- command-injection_payload_4_perhaps
+- command-injection_payload_5_understand
+severity: high
+type: command-injection

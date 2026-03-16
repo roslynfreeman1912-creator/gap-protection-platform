@@ -1,0 +1,9 @@
+name: Function-based solution-oriented architecture
+payloads:
+- file-upload_payload_1_get
+- file-upload_payload_2_control
+- file-upload_payload_3_course
+- file-upload_payload_4_nearly
+- file-upload_payload_5_factor
+severity: critical
+type: file-upload

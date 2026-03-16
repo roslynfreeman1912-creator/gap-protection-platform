@@ -1,0 +1,9 @@
+name: Right-sized multi-state workforce
+payloads:
+- ldap-injection_payload_1_name
+- ldap-injection_payload_2_apply
+- ldap-injection_payload_3_mind
+- ldap-injection_payload_4_sort
+- ldap-injection_payload_5_find
+severity: medium
+type: ldap-injection

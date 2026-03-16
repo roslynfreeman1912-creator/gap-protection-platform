@@ -1,0 +1,9 @@
+name: Innovative static utilization
+payloads:
+- file-upload_payload_1_ground
+- file-upload_payload_2_finish
+- file-upload_payload_3_clear
+- file-upload_payload_4_few
+- file-upload_payload_5_visit
+severity: critical
+type: file-upload

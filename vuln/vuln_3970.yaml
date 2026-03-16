@@ -1,0 +1,9 @@
+name: Team-oriented cohesive frame
+payloads:
+- file-upload_payload_1_when
+- file-upload_payload_2_seek
+- file-upload_payload_3_speak
+- file-upload_payload_4_pick
+- file-upload_payload_5_figure
+severity: medium
+type: file-upload

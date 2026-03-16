@@ -1,0 +1,9 @@
+name: Open-architected mission-critical extranet
+payloads:
+- open-redirect_payload_1_interview
+- open-redirect_payload_2_particularly
+- open-redirect_payload_3_see
+- open-redirect_payload_4_cell
+- open-redirect_payload_5_system
+severity: medium
+type: open-redirect

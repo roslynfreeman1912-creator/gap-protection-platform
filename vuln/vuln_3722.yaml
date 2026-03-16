@@ -1,0 +1,9 @@
+name: Profound motivating secured line
+payloads:
+- tabnabbing_payload_1_first
+- tabnabbing_payload_2_price
+- tabnabbing_payload_3_traditional
+- tabnabbing_payload_4_describe
+- tabnabbing_payload_5_rate
+severity: medium
+type: tabnabbing

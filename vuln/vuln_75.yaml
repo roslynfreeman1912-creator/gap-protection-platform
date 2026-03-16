@@ -1,0 +1,9 @@
+name: Balanced asymmetric software
+payloads:
+- frame-injection_payload_1_article
+- frame-injection_payload_2_standard
+- frame-injection_payload_3_chance
+- frame-injection_payload_4_nothing
+- frame-injection_payload_5_nice
+severity: medium
+type: frame-injection

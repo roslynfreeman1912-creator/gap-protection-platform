@@ -1,0 +1,9 @@
+name: Reverse-engineered 6thgeneration parallelism
+payloads:
+- mime-sniffing_payload_1_million
+- mime-sniffing_payload_2_group
+- mime-sniffing_payload_3_miss
+- mime-sniffing_payload_4_finish
+- mime-sniffing_payload_5_test
+severity: medium
+type: mime-sniffing

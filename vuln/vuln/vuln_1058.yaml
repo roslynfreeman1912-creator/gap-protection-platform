@@ -1,0 +1,9 @@
+name: Multi-channeled global Graphical User Interface
+payloads:
+- command-injection_payload_1_this
+- command-injection_payload_2_south
+- command-injection_payload_3_how
+- command-injection_payload_4_career
+- command-injection_payload_5_visit
+severity: high
+type: command-injection

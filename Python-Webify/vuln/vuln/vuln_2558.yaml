@@ -1,0 +1,9 @@
+name: Ergonomic fresh-thinking analyzer
+payloads:
+- command-injection_payload_1_money
+- command-injection_payload_2_individual
+- command-injection_payload_3_product
+- command-injection_payload_4_be
+- command-injection_payload_5_listen
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Versatile multi-tasking migration
+payloads:
+- host-header-injection_payload_1_total
+- host-header-injection_payload_2_option
+- host-header-injection_payload_3_democratic
+- host-header-injection_payload_4_one
+- host-header-injection_payload_5_key
+severity: low
+type: host-header-injection

@@ -1,0 +1,9 @@
+name: Business-focused real-time initiative
+payloads:
+- csp-bypass_payload_1_only
+- csp-bypass_payload_2_color
+- csp-bypass_payload_3_every
+- csp-bypass_payload_4_be
+- csp-bypass_payload_5_industry
+severity: medium
+type: csp-bypass

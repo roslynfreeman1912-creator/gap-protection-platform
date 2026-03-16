@@ -1,0 +1,9 @@
+name: Quality-focused hybrid archive
+payloads:
+- javascript-injection_payload_1_significant
+- javascript-injection_payload_2_again
+- javascript-injection_payload_3_check
+- javascript-injection_payload_4_lay
+- javascript-injection_payload_5_question
+severity: high
+type: javascript-injection

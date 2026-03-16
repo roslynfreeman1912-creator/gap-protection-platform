@@ -1,0 +1,9 @@
+name: Programmable zero administration migration
+payloads:
+- hsts-misconfig_payload_1_quickly
+- hsts-misconfig_payload_2_interview
+- hsts-misconfig_payload_3_house
+- hsts-misconfig_payload_4_difference
+- hsts-misconfig_payload_5_market
+severity: medium
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Progressive non-volatile capability
+payloads:
+- ssrf_payload_1_court
+- ssrf_payload_2_also
+- ssrf_payload_3_also
+- ssrf_payload_4_term
+- ssrf_payload_5_poor
+severity: low
+type: ssrf

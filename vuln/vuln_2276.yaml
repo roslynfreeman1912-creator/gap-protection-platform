@@ -1,0 +1,9 @@
+name: Cross-group neutral conglomeration
+payloads:
+- sql_payload_1_once
+- sql_payload_2_another
+- sql_payload_3_prepare
+- sql_payload_4_why
+- sql_payload_5_mention
+severity: low
+type: sql

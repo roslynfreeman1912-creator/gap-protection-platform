@@ -1,0 +1,9 @@
+name: Front-line zero administration contingency
+payloads:
+- ssti_payload_1_near
+- ssti_payload_2_enter
+- ssti_payload_3_school
+- ssti_payload_4_there
+- ssti_payload_5_wonder
+severity: low
+type: ssti

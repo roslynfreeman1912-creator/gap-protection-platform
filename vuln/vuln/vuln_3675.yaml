@@ -1,0 +1,9 @@
+name: Digitized clear-thinking alliance
+payloads:
+- frame-injection_payload_1_team
+- frame-injection_payload_2_page
+- frame-injection_payload_3_TV
+- frame-injection_payload_4_cup
+- frame-injection_payload_5_power
+severity: medium
+type: frame-injection

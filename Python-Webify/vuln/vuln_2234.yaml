@@ -1,0 +1,9 @@
+name: Cross-platform systematic frame
+payloads:
+- path-traversal_payload_1_attention
+- path-traversal_payload_2_question
+- path-traversal_payload_3_treat
+- path-traversal_payload_4_Democrat
+- path-traversal_payload_5_state
+severity: critical
+type: path-traversal

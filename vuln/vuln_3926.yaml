@@ -1,0 +1,9 @@
+name: Open-source full-range encoding
+payloads:
+- sql_payload_1_ready
+- sql_payload_2_feel
+- sql_payload_3_car
+- sql_payload_4_blood
+- sql_payload_5_whether
+severity: medium
+type: sql

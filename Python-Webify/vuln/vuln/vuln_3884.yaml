@@ -1,0 +1,9 @@
+name: Open-architected real-time knowledge user
+payloads:
+- path-traversal_payload_1_network
+- path-traversal_payload_2_gas
+- path-traversal_payload_3_war
+- path-traversal_payload_4_event
+- path-traversal_payload_5_remain
+severity: low
+type: path-traversal

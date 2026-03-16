@@ -1,0 +1,9 @@
+name: Cross-group tertiary utilization
+payloads:
+- rfi_payload_1_bank
+- rfi_payload_2_enter
+- rfi_payload_3_attention
+- rfi_payload_4_contain
+- rfi_payload_5_interesting
+severity: critical
+type: rfi

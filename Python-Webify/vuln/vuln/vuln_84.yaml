@@ -1,0 +1,9 @@
+name: Function-based context-sensitive frame
+payloads:
+- path-traversal_payload_1_maybe
+- path-traversal_payload_2_both
+- path-traversal_payload_3_bank
+- path-traversal_payload_4_sort
+- path-traversal_payload_5_probably
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Object-based high-level concept
+payloads:
+- hsts-misconfig_payload_1_fire
+- hsts-misconfig_payload_2_remain
+- hsts-misconfig_payload_3_lot
+- hsts-misconfig_payload_4_city
+- hsts-misconfig_payload_5_he
+severity: high
+type: hsts-misconfig

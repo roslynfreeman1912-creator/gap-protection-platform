@@ -1,0 +1,9 @@
+name: Streamlined analyzing help-desk
+payloads:
+- command-injection_payload_1_threat
+- command-injection_payload_2_nearly
+- command-injection_payload_3_power
+- command-injection_payload_4_describe
+- command-injection_payload_5_together
+severity: low
+type: command-injection

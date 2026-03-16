@@ -1,0 +1,9 @@
+name: Inverse next generation concept
+payloads:
+- rfi_payload_1_social
+- rfi_payload_2_on
+- rfi_payload_3_professional
+- rfi_payload_4_beautiful
+- rfi_payload_5_identify
+severity: medium
+type: rfi

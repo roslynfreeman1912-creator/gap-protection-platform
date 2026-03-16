@@ -1,0 +1,9 @@
+name: Advanced fault-tolerant attitude
+payloads:
+- ssti_payload_1_challenge
+- ssti_payload_2_daughter
+- ssti_payload_3_institution
+- ssti_payload_4_prevent
+- ssti_payload_5_speech
+severity: high
+type: ssti

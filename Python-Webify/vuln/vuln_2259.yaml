@@ -1,0 +1,9 @@
+name: Up-sized optimizing hierarchy
+payloads:
+- path-traversal_payload_1_fall
+- path-traversal_payload_2_top
+- path-traversal_payload_3_always
+- path-traversal_payload_4_animal
+- path-traversal_payload_5_pass
+severity: high
+type: path-traversal

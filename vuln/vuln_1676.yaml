@@ -1,0 +1,9 @@
+name: Switchable secondary extranet
+payloads:
+- sql_payload_1_soldier
+- sql_payload_2_soon
+- sql_payload_3_soldier
+- sql_payload_4_perform
+- sql_payload_5_rest
+severity: high
+type: sql

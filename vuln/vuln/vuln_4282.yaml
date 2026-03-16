@@ -1,0 +1,9 @@
+name: Compatible disintermediate concept
+payloads:
+- ssti_payload_1_ready
+- ssti_payload_2_teacher
+- ssti_payload_3_area
+- ssti_payload_4_body
+- ssti_payload_5_message
+severity: medium
+type: ssti

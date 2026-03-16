@@ -1,0 +1,9 @@
+name: Enterprise-wide dynamic hub
+payloads:
+- csrf_payload_1_issue
+- csrf_payload_2_management
+- csrf_payload_3_result
+- csrf_payload_4_true
+- csrf_payload_5_force
+severity: low
+type: csrf

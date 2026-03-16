@@ -1,0 +1,9 @@
+name: Programmable responsive application
+payloads:
+- hsts-misconfig_payload_1_enter
+- hsts-misconfig_payload_2_wife
+- hsts-misconfig_payload_3_five
+- hsts-misconfig_payload_4_degree
+- hsts-misconfig_payload_5_there
+severity: medium
+type: hsts-misconfig

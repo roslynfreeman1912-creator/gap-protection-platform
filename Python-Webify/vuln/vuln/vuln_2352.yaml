@@ -1,0 +1,9 @@
+name: Multi-lateral contextually-based moderator
+payloads:
+- xss_payload_1_dog
+- xss_payload_2_reveal
+- xss_payload_3_recently
+- xss_payload_4_season
+- xss_payload_5_series
+severity: low
+type: xss

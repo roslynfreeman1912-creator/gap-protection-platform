@@ -1,0 +1,9 @@
+name: Extended transitional data-warehouse
+payloads:
+- mime-sniffing_payload_1_body
+- mime-sniffing_payload_2_church
+- mime-sniffing_payload_3_serious
+- mime-sniffing_payload_4_avoid
+- mime-sniffing_payload_5_leader
+severity: low
+type: mime-sniffing

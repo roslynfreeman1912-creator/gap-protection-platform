@@ -1,0 +1,9 @@
+name: Phased neutral hardware
+payloads:
+- file-upload_payload_1_could
+- file-upload_payload_2_live
+- file-upload_payload_3_line
+- file-upload_payload_4_nothing
+- file-upload_payload_5_for
+severity: critical
+type: file-upload

@@ -1,0 +1,9 @@
+name: Streamlined coherent architecture
+payloads:
+- jsonp-injection_payload_1_participant
+- jsonp-injection_payload_2_trade
+- jsonp-injection_payload_3_suggest
+- jsonp-injection_payload_4_across
+- jsonp-injection_payload_5_image
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Enterprise-wide bottom-line hardware
+payloads:
+- javascript-injection_payload_1_least
+- javascript-injection_payload_2_already
+- javascript-injection_payload_3_war
+- javascript-injection_payload_4_strategy
+- javascript-injection_payload_5_pull
+severity: high
+type: javascript-injection

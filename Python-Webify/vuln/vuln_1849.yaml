@@ -1,0 +1,9 @@
+name: Business-focused neutral migration
+payloads:
+- csp-bypass_payload_1_rate
+- csp-bypass_payload_2_rate
+- csp-bypass_payload_3_according
+- csp-bypass_payload_4_against
+- csp-bypass_payload_5_lawyer
+severity: medium
+type: csp-bypass

@@ -1,0 +1,9 @@
+name: Open-architected upward-trending instruction set
+payloads:
+- jsonp-injection_payload_1_live
+- jsonp-injection_payload_2_walk
+- jsonp-injection_payload_3_stop
+- jsonp-injection_payload_4_performance
+- jsonp-injection_payload_5_care
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Adaptive contextually-based process improvement
+payloads:
+- tabnabbing_payload_1_security
+- tabnabbing_payload_2_style
+- tabnabbing_payload_3_himself
+- tabnabbing_payload_4_current
+- tabnabbing_payload_5_leave
+severity: critical
+type: tabnabbing

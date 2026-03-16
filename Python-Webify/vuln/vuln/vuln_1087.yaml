@@ -1,0 +1,9 @@
+name: Multi-layered directional groupware
+payloads:
+- ldap-injection_payload_1_reveal
+- ldap-injection_payload_2_least
+- ldap-injection_payload_3_day
+- ldap-injection_payload_4_statement
+- ldap-injection_payload_5_task
+severity: medium
+type: ldap-injection

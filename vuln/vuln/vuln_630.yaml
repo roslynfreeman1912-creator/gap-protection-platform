@@ -1,0 +1,9 @@
+name: Cloned solution-oriented synergy
+payloads:
+- ssrf_payload_1_necessary
+- ssrf_payload_2_understand
+- ssrf_payload_3_task
+- ssrf_payload_4_everybody
+- ssrf_payload_5_example
+severity: low
+type: ssrf

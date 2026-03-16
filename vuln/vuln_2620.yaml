@@ -1,0 +1,9 @@
+name: Automated upward-trending hierarchy
+payloads:
+- file-upload_payload_1_institution
+- file-upload_payload_2_quite
+- file-upload_payload_3_guy
+- file-upload_payload_4_finally
+- file-upload_payload_5_great
+severity: medium
+type: file-upload

@@ -1,0 +1,9 @@
+name: Extended empowering process improvement
+payloads:
+- lfi_payload_1_future
+- lfi_payload_2_memory
+- lfi_payload_3_look
+- lfi_payload_4_message
+- lfi_payload_5_several
+severity: critical
+type: lfi

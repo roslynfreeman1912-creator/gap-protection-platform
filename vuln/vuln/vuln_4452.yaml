@@ -1,0 +1,9 @@
+name: Function-based neutral pricing structure
+payloads:
+- xss_payload_1_question
+- xss_payload_2_affect
+- xss_payload_3_tree
+- xss_payload_4_body
+- xss_payload_5_work
+severity: critical
+type: xss

@@ -1,0 +1,9 @@
+name: Face-to-face exuding hub
+payloads:
+- path-traversal_payload_1_seven
+- path-traversal_payload_2_pattern
+- path-traversal_payload_3_pull
+- path-traversal_payload_4_close
+- path-traversal_payload_5_southern
+severity: low
+type: path-traversal

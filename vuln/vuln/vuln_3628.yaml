@@ -1,0 +1,9 @@
+name: Configurable logistical website
+payloads:
+- lfi_payload_1_local
+- lfi_payload_2_bill
+- lfi_payload_3_chance
+- lfi_payload_4_interest
+- lfi_payload_5_agency
+severity: low
+type: lfi

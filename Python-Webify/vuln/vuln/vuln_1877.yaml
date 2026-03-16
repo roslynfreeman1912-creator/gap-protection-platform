@@ -1,0 +1,9 @@
+name: Polarized cohesive interface
+payloads:
+- xss_payload_1_drug
+- xss_payload_2_story
+- xss_payload_3_couple
+- xss_payload_4_guy
+- xss_payload_5_dark
+severity: medium
+type: xss

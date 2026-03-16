@@ -1,0 +1,9 @@
+name: Reduced fresh-thinking functionalities
+payloads:
+- jsonp-injection_payload_1_hour
+- jsonp-injection_payload_2_card
+- jsonp-injection_payload_3_phone
+- jsonp-injection_payload_4_agreement
+- jsonp-injection_payload_5_project
+severity: critical
+type: jsonp-injection

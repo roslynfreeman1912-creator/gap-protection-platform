@@ -1,0 +1,9 @@
+name: Fundamental attitude-oriented system engine
+payloads:
+- xss_payload_1_nothing
+- xss_payload_2_section
+- xss_payload_3_source
+- xss_payload_4_moment
+- xss_payload_5_let
+severity: high
+type: xss

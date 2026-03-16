@@ -1,0 +1,9 @@
+name: Implemented contextually-based algorithm
+payloads:
+- command-injection_payload_1_always
+- command-injection_payload_2_land
+- command-injection_payload_3_company
+- command-injection_payload_4_common
+- command-injection_payload_5_information
+severity: medium
+type: command-injection

@@ -1,0 +1,9 @@
+name: Face-to-face interactive parallelism
+payloads:
+- open-redirect_payload_1_commercial
+- open-redirect_payload_2_talk
+- open-redirect_payload_3_opportunity
+- open-redirect_payload_4_join
+- open-redirect_payload_5_hold
+severity: critical
+type: open-redirect

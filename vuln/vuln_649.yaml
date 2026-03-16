@@ -1,0 +1,9 @@
+name: Upgradable bi-directional service-desk
+payloads:
+- csp-bypass_payload_1_friend
+- csp-bypass_payload_2_area
+- csp-bypass_payload_3_final
+- csp-bypass_payload_4_skill
+- csp-bypass_payload_5_start
+severity: critical
+type: csp-bypass

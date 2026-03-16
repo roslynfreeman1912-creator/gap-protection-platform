@@ -1,0 +1,9 @@
+name: Synergistic object-oriented Graphical User Interface
+payloads:
+- xss_payload_1_current
+- xss_payload_2_despite
+- xss_payload_3_onto
+- xss_payload_4_street
+- xss_payload_5_may
+severity: high
+type: xss

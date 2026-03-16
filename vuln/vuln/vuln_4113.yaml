@@ -1,0 +1,9 @@
+name: Automated interactive data-warehouse
+payloads:
+- nosql-injection_payload_1_challenge
+- nosql-injection_payload_2_change
+- nosql-injection_payload_3_expect
+- nosql-injection_payload_4_traditional
+- nosql-injection_payload_5_challenge
+severity: critical
+type: nosql-injection

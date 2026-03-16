@@ -1,0 +1,9 @@
+name: Front-line asynchronous function
+payloads:
+- xxe_payload_1_gas
+- xxe_payload_2_choice
+- xxe_payload_3_thank
+- xxe_payload_4_matter
+- xxe_payload_5_decade
+severity: high
+type: xxe

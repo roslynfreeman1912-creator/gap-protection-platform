@@ -1,0 +1,9 @@
+name: Enhanced incremental secured line
+payloads:
+- rfi_payload_1_mouth
+- rfi_payload_2_chair
+- rfi_payload_3_compare
+- rfi_payload_4_task
+- rfi_payload_5_everyone
+severity: medium
+type: rfi

@@ -1,0 +1,9 @@
+name: Extended intangible service-desk
+payloads:
+- path-traversal_payload_1_career
+- path-traversal_payload_2_or
+- path-traversal_payload_3_end
+- path-traversal_payload_4_mouth
+- path-traversal_payload_5_how
+severity: medium
+type: path-traversal

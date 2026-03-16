@@ -1,0 +1,9 @@
+name: Open-source full-range data-warehouse
+payloads:
+- xss_payload_1_say
+- xss_payload_2_brother
+- xss_payload_3_smile
+- xss_payload_4_stop
+- xss_payload_5_air
+severity: high
+type: xss

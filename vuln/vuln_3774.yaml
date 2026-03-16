@@ -1,0 +1,9 @@
+name: Persevering 24hour productivity
+payloads:
+- csp-bypass_payload_1_suddenly
+- csp-bypass_payload_2_according
+- csp-bypass_payload_3_work
+- csp-bypass_payload_4_magazine
+- csp-bypass_payload_5_main
+severity: medium
+type: csp-bypass

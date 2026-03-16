@@ -1,0 +1,9 @@
+name: Vision-oriented client-server initiative
+payloads:
+- ldap-injection_payload_1_main
+- ldap-injection_payload_2_really
+- ldap-injection_payload_3_sing
+- ldap-injection_payload_4_wish
+- ldap-injection_payload_5_similar
+severity: high
+type: ldap-injection

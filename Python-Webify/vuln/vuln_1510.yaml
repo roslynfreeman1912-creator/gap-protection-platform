@@ -1,0 +1,9 @@
+name: Multi-channeled asymmetric leverage
+payloads:
+- open-redirect_payload_1_require
+- open-redirect_payload_2_cut
+- open-redirect_payload_3_big
+- open-redirect_payload_4_stage
+- open-redirect_payload_5_where
+severity: medium
+type: open-redirect

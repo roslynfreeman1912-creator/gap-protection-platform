@@ -1,0 +1,9 @@
+name: Upgradable bifurcated product
+payloads:
+- path-traversal_payload_1_or
+- path-traversal_payload_2_food
+- path-traversal_payload_3_radio
+- path-traversal_payload_4_lose
+- path-traversal_payload_5_social
+severity: high
+type: path-traversal

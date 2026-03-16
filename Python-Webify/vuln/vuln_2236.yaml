@@ -1,0 +1,9 @@
+name: Reverse-engineered upward-trending Local Area Network
+payloads:
+- xxe_payload_1_provide
+- xxe_payload_2_hit
+- xxe_payload_3_piece
+- xxe_payload_4_detail
+- xxe_payload_5_question
+severity: high
+type: xxe

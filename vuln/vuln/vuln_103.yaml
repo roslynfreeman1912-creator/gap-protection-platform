@@ -1,0 +1,9 @@
+name: Implemented disintermediate monitoring
+payloads:
+- lfi_payload_1_fish
+- lfi_payload_2_society
+- lfi_payload_3_what
+- lfi_payload_4_use
+- lfi_payload_5_increase
+severity: high
+type: lfi

@@ -1,0 +1,9 @@
+name: Progressive 6thgeneration matrix
+payloads:
+- hsts-misconfig_payload_1_brother
+- hsts-misconfig_payload_2_arm
+- hsts-misconfig_payload_3_war
+- hsts-misconfig_payload_4_capital
+- hsts-misconfig_payload_5_security
+severity: critical
+type: hsts-misconfig

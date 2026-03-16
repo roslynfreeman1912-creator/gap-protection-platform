@@ -1,0 +1,9 @@
+name: Integrated background portal
+payloads:
+- nosql-injection_payload_1_Mrs
+- nosql-injection_payload_2_guess
+- nosql-injection_payload_3_girl
+- nosql-injection_payload_4_body
+- nosql-injection_payload_5_research
+severity: low
+type: nosql-injection

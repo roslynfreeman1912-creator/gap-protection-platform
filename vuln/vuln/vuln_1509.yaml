@@ -1,0 +1,9 @@
+name: Decentralized multi-state emulation
+payloads:
+- path-traversal_payload_1_free
+- path-traversal_payload_2_camera
+- path-traversal_payload_3_say
+- path-traversal_payload_4_fill
+- path-traversal_payload_5_issue
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Realigned secondary architecture
+payloads:
+- sql_payload_1_mission
+- sql_payload_2_three
+- sql_payload_3_power
+- sql_payload_4_feel
+- sql_payload_5_dream
+severity: critical
+type: sql

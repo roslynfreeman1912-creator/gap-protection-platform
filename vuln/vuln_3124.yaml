@@ -1,0 +1,9 @@
+name: Advanced uniform infrastructure
+payloads:
+- csp-bypass_payload_1_eight
+- csp-bypass_payload_2_small
+- csp-bypass_payload_3_region
+- csp-bypass_payload_4_suggest
+- csp-bypass_payload_5_whether
+severity: low
+type: csp-bypass

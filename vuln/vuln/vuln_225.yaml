@@ -1,0 +1,9 @@
+name: Organic explicit strategy
+payloads:
+- frame-injection_payload_1_themselves
+- frame-injection_payload_2_west
+- frame-injection_payload_3_discussion
+- frame-injection_payload_4_level
+- frame-injection_payload_5_practice
+severity: medium
+type: frame-injection

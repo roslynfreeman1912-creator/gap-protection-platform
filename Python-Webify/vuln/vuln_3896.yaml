@@ -1,0 +1,9 @@
+name: Customer-focused responsive policy
+payloads:
+- mime-sniffing_payload_1_close
+- mime-sniffing_payload_2_author
+- mime-sniffing_payload_3_drug
+- mime-sniffing_payload_4_religious
+- mime-sniffing_payload_5_full
+severity: low
+type: mime-sniffing

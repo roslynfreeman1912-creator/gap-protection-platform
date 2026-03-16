@@ -1,0 +1,9 @@
+name: Intuitive methodical contingency
+payloads:
+- xss_payload_1_note
+- xss_payload_2_style
+- xss_payload_3_end
+- xss_payload_4_building
+- xss_payload_5_security
+severity: low
+type: xss

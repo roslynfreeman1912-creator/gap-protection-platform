@@ -1,0 +1,9 @@
+name: Balanced mobile database
+payloads:
+- mime-sniffing_payload_1_later
+- mime-sniffing_payload_2_magazine
+- mime-sniffing_payload_3_ball
+- mime-sniffing_payload_4_director
+- mime-sniffing_payload_5_artist
+severity: critical
+type: mime-sniffing

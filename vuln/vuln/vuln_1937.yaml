@@ -1,0 +1,9 @@
+name: Adaptive 24hour help-desk
+payloads:
+- ldap-injection_payload_1_any
+- ldap-injection_payload_2_here
+- ldap-injection_payload_3_professor
+- ldap-injection_payload_4_upon
+- ldap-injection_payload_5_late
+severity: low
+type: ldap-injection

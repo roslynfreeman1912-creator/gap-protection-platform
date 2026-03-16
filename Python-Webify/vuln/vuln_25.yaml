@@ -1,0 +1,9 @@
+name: Enhanced interactive database
+payloads:
+- frame-injection_payload_1_skill
+- frame-injection_payload_2_anyone
+- frame-injection_payload_3_reflect
+- frame-injection_payload_4_themselves
+- frame-injection_payload_5_choose
+severity: high
+type: frame-injection

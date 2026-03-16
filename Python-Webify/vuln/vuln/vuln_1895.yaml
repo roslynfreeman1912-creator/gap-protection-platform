@@ -1,0 +1,9 @@
+name: Customer-focused national software
+payloads:
+- file-upload_payload_1_campaign
+- file-upload_payload_2_shake
+- file-upload_payload_3_these
+- file-upload_payload_4_middle
+- file-upload_payload_5_across
+severity: critical
+type: file-upload

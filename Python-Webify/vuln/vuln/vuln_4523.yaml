@@ -1,0 +1,9 @@
+name: Focused secondary Graphical User Interface
+payloads:
+- hsts-misconfig_payload_1_several
+- hsts-misconfig_payload_2_spend
+- hsts-misconfig_payload_3_student
+- hsts-misconfig_payload_4_laugh
+- hsts-misconfig_payload_5_situation
+severity: high
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: Streamlined national concept
+payloads:
+- tabnabbing_payload_1_low
+- tabnabbing_payload_2_pay
+- tabnabbing_payload_3_worker
+- tabnabbing_payload_4_alone
+- tabnabbing_payload_5_every
+severity: medium
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Team-oriented upward-trending function
+payloads:
+- hsts-misconfig_payload_1_I
+- hsts-misconfig_payload_2_feel
+- hsts-misconfig_payload_3_risk
+- hsts-misconfig_payload_4_start
+- hsts-misconfig_payload_5_man
+severity: critical
+type: hsts-misconfig

@@ -1,0 +1,9 @@
+name: User-centric disintermediate framework
+payloads:
+- lfi_payload_1_everybody
+- lfi_payload_2_miss
+- lfi_payload_3_human
+- lfi_payload_4_market
+- lfi_payload_5_management
+severity: critical
+type: lfi

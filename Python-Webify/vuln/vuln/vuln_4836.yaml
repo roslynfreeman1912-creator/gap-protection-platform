@@ -1,0 +1,9 @@
+name: Synchronized solution-oriented encryption
+payloads:
+- xxe_payload_1_assume
+- xxe_payload_2_effect
+- xxe_payload_3_stand
+- xxe_payload_4_describe
+- xxe_payload_5_message
+severity: low
+type: xxe

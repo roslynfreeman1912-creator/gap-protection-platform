@@ -1,0 +1,9 @@
+name: Re-contextualized systematic collaboration
+payloads:
+- mime-sniffing_payload_1_black
+- mime-sniffing_payload_2_sure
+- mime-sniffing_payload_3_material
+- mime-sniffing_payload_4_PM
+- mime-sniffing_payload_5_plant
+severity: high
+type: mime-sniffing

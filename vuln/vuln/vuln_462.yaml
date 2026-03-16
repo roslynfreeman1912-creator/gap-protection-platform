@@ -1,0 +1,9 @@
+name: Networked motivating architecture
+payloads:
+- ldap-injection_payload_1_fire
+- ldap-injection_payload_2_cup
+- ldap-injection_payload_3_no
+- ldap-injection_payload_4_station
+- ldap-injection_payload_5_structure
+severity: low
+type: ldap-injection

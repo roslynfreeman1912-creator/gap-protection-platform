@@ -1,0 +1,9 @@
+name: Intuitive needs-based website
+payloads:
+- mime-sniffing_payload_1_whose
+- mime-sniffing_payload_2_individual
+- mime-sniffing_payload_3_speak
+- mime-sniffing_payload_4_trouble
+- mime-sniffing_payload_5_maybe
+severity: low
+type: mime-sniffing

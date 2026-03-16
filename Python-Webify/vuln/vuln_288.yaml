@@ -1,0 +1,9 @@
+name: Proactive 6thgeneration extranet
+payloads:
+- nosql-injection_payload_1_involve
+- nosql-injection_payload_2_wife
+- nosql-injection_payload_3_leave
+- nosql-injection_payload_4_hotel
+- nosql-injection_payload_5_wrong
+severity: high
+type: nosql-injection

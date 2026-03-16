@@ -1,0 +1,9 @@
+name: Networked leadingedge product
+payloads:
+- javascript-injection_payload_1_data
+- javascript-injection_payload_2_break
+- javascript-injection_payload_3_coach
+- javascript-injection_payload_4_including
+- javascript-injection_payload_5_wonder
+severity: medium
+type: javascript-injection

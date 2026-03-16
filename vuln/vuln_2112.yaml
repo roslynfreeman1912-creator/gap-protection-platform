@@ -1,0 +1,9 @@
+name: Progressive dedicated frame
+payloads:
+- ldap-injection_payload_1_indicate
+- ldap-injection_payload_2_defense
+- ldap-injection_payload_3_state
+- ldap-injection_payload_4_soldier
+- ldap-injection_payload_5_sister
+severity: medium
+type: ldap-injection

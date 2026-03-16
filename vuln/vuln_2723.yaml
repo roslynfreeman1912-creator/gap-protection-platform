@@ -1,0 +1,9 @@
+name: Multi-channeled secondary Local Area Network
+payloads:
+- hsts-misconfig_payload_1_reveal
+- hsts-misconfig_payload_2_project
+- hsts-misconfig_payload_3_commercial
+- hsts-misconfig_payload_4_class
+- hsts-misconfig_payload_5_training
+severity: medium
+type: hsts-misconfig

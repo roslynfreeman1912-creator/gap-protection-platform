@@ -1,0 +1,9 @@
+name: Upgradable mission-critical implementation
+payloads:
+- hsts-misconfig_payload_1_TV
+- hsts-misconfig_payload_2_marriage
+- hsts-misconfig_payload_3_light
+- hsts-misconfig_payload_4_she
+- hsts-misconfig_payload_5_long
+severity: critical
+type: hsts-misconfig

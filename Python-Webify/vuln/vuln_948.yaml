@@ -1,0 +1,9 @@
+name: Horizontal zero administration capacity
+payloads:
+- hsts-misconfig_payload_1_interest
+- hsts-misconfig_payload_2_now
+- hsts-misconfig_payload_3_member
+- hsts-misconfig_payload_4_next
+- hsts-misconfig_payload_5_serve
+severity: critical
+type: hsts-misconfig

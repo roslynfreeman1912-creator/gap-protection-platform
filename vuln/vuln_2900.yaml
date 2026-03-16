@@ -1,0 +1,9 @@
+name: Stand-alone neutral strategy
+payloads:
+- frame-injection_payload_1_lot
+- frame-injection_payload_2_listen
+- frame-injection_payload_3_tell
+- frame-injection_payload_4_continue
+- frame-injection_payload_5_fly
+severity: high
+type: frame-injection

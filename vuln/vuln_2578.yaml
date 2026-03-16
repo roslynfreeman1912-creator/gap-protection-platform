@@ -1,0 +1,9 @@
+name: Enhanced non-volatile Graphic Interface
+payloads:
+- lfi_payload_1_company
+- lfi_payload_2_important
+- lfi_payload_3_bring
+- lfi_payload_4_whom
+- lfi_payload_5_where
+severity: critical
+type: lfi

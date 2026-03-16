@@ -1,0 +1,9 @@
+name: Configurable next generation database
+payloads:
+- path-traversal_payload_1_new
+- path-traversal_payload_2_can
+- path-traversal_payload_3_population
+- path-traversal_payload_4_political
+- path-traversal_payload_5_high
+severity: high
+type: path-traversal

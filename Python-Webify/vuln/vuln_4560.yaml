@@ -1,0 +1,9 @@
+name: Intuitive client-driven moratorium
+payloads:
+- open-redirect_payload_1_education
+- open-redirect_payload_2_somebody
+- open-redirect_payload_3_senior
+- open-redirect_payload_4_rather
+- open-redirect_payload_5_suggest
+severity: critical
+type: open-redirect

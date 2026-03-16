@@ -1,0 +1,9 @@
+name: Exclusive local focus group
+payloads:
+- clickjacking_payload_1_daughter
+- clickjacking_payload_2_other
+- clickjacking_payload_3_modern
+- clickjacking_payload_4_lay
+- clickjacking_payload_5_example
+severity: low
+type: clickjacking

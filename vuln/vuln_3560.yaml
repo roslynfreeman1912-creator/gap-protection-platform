@@ -1,0 +1,9 @@
+name: Up-sized asynchronous time-frame
+payloads:
+- open-redirect_payload_1_space
+- open-redirect_payload_2_accept
+- open-redirect_payload_3_owner
+- open-redirect_payload_4_whatever
+- open-redirect_payload_5_history
+severity: critical
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Devolved object-oriented structure
+payloads:
+- csp-bypass_payload_1_little
+- csp-bypass_payload_2_hand
+- csp-bypass_payload_3_star
+- csp-bypass_payload_4_then
+- csp-bypass_payload_5_present
+severity: high
+type: csp-bypass

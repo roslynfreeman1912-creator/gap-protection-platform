@@ -1,0 +1,9 @@
+name: Synchronized non-volatile productivity
+payloads:
+- tabnabbing_payload_1_join
+- tabnabbing_payload_2_place
+- tabnabbing_payload_3_past
+- tabnabbing_payload_4_war
+- tabnabbing_payload_5_why
+severity: medium
+type: tabnabbing

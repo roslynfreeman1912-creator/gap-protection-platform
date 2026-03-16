@@ -1,0 +1,9 @@
+name: De-engineered impactful customer loyalty
+payloads:
+- subdomain-takeover_payload_1_reflect
+- subdomain-takeover_payload_2_mean
+- subdomain-takeover_payload_3_station
+- subdomain-takeover_payload_4_environmental
+- subdomain-takeover_payload_5_impact
+severity: low
+type: subdomain-takeover

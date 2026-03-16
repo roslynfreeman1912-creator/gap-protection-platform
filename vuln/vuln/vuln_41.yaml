@@ -1,0 +1,9 @@
+name: Triple-buffered eco-centric conglomeration
+payloads:
+- crlf-injection_payload_1_affect
+- crlf-injection_payload_2_likely
+- crlf-injection_payload_3_activity
+- crlf-injection_payload_4_guy
+- crlf-injection_payload_5_task
+severity: medium
+type: crlf-injection

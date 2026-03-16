@@ -1,0 +1,9 @@
+name: Integrated coherent interface
+payloads:
+- host-header-injection_payload_1_population
+- host-header-injection_payload_2_happen
+- host-header-injection_payload_3_personal
+- host-header-injection_payload_4_program
+- host-header-injection_payload_5_moment
+severity: low
+type: host-header-injection

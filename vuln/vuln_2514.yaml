@@ -1,0 +1,9 @@
+name: Enhanced client-driven groupware
+payloads:
+- clickjacking_payload_1_paper
+- clickjacking_payload_2_determine
+- clickjacking_payload_3_usually
+- clickjacking_payload_4_card
+- clickjacking_payload_5_life
+severity: low
+type: clickjacking

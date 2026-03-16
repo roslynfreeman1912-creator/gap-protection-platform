@@ -1,0 +1,9 @@
+name: Triple-buffered grid-enabled workforce
+payloads:
+- command-injection_payload_1_record
+- command-injection_payload_2_audience
+- command-injection_payload_3_ability
+- command-injection_payload_4_nice
+- command-injection_payload_5_property
+severity: high
+type: command-injection

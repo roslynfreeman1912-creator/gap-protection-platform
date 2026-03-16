@@ -1,0 +1,9 @@
+name: Synergistic next generation open architecture
+payloads:
+- open-redirect_payload_1_president
+- open-redirect_payload_2_water
+- open-redirect_payload_3_check
+- open-redirect_payload_4_name
+- open-redirect_payload_5_peace
+severity: medium
+type: open-redirect

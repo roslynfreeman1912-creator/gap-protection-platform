@@ -1,0 +1,9 @@
+name: Cross-group optimal challenge
+payloads:
+- open-redirect_payload_1_white
+- open-redirect_payload_2_expect
+- open-redirect_payload_3_entire
+- open-redirect_payload_4_Republican
+- open-redirect_payload_5_small
+severity: high
+type: open-redirect

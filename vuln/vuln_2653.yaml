@@ -1,0 +1,9 @@
+name: Adaptive stable circuit
+payloads:
+- lfi_payload_1_through
+- lfi_payload_2_administration
+- lfi_payload_3_wish
+- lfi_payload_4_carry
+- lfi_payload_5_move
+severity: low
+type: lfi

@@ -1,0 +1,9 @@
+name: Operative exuding help-desk
+payloads:
+- javascript-injection_payload_1_project
+- javascript-injection_payload_2_affect
+- javascript-injection_payload_3_determine
+- javascript-injection_payload_4_mind
+- javascript-injection_payload_5_employee
+severity: medium
+type: javascript-injection

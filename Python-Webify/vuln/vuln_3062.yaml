@@ -1,0 +1,9 @@
+name: Enhanced scalable moratorium
+payloads:
+- ldap-injection_payload_1_exactly
+- ldap-injection_payload_2_check
+- ldap-injection_payload_3_maintain
+- ldap-injection_payload_4_live
+- ldap-injection_payload_5_she
+severity: high
+type: ldap-injection

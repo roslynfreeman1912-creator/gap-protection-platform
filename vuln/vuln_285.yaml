@@ -1,0 +1,9 @@
+name: Multi-layered analyzing benchmark
+payloads:
+- open-redirect_payload_1_build
+- open-redirect_payload_2_eight
+- open-redirect_payload_3_contain
+- open-redirect_payload_4_consumer
+- open-redirect_payload_5_idea
+severity: high
+type: open-redirect

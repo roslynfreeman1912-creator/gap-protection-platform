@@ -1,0 +1,9 @@
+name: Versatile optimizing methodology
+payloads:
+- open-redirect_payload_1_tell
+- open-redirect_payload_2_right
+- open-redirect_payload_3_become
+- open-redirect_payload_4_reality
+- open-redirect_payload_5_police
+severity: critical
+type: open-redirect

@@ -1,0 +1,9 @@
+name: Ergonomic 3rdgeneration matrix
+payloads:
+- xxe_payload_1_should
+- xxe_payload_2_than
+- xxe_payload_3_goal
+- xxe_payload_4_sense
+- xxe_payload_5_election
+severity: medium
+type: xxe

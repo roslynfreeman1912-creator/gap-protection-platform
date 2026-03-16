@@ -1,0 +1,9 @@
+name: Multi-channeled global encryption
+payloads:
+- ldap-injection_payload_1_structure
+- ldap-injection_payload_2_floor
+- ldap-injection_payload_3_son
+- ldap-injection_payload_4_often
+- ldap-injection_payload_5_kind
+severity: medium
+type: ldap-injection

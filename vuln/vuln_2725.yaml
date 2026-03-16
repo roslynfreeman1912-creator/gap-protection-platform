@@ -1,0 +1,9 @@
+name: Networked optimizing encoding
+payloads:
+- frame-injection_payload_1_century
+- frame-injection_payload_2_increase
+- frame-injection_payload_3_seat
+- frame-injection_payload_4_security
+- frame-injection_payload_5_happy
+severity: medium
+type: frame-injection

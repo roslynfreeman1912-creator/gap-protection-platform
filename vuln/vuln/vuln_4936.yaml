@@ -1,0 +1,9 @@
+name: Distributed 4thgeneration solution
+payloads:
+- xxe_payload_1_ago
+- xxe_payload_2_policy
+- xxe_payload_3_economy
+- xxe_payload_4_voice
+- xxe_payload_5_environmental
+severity: low
+type: xxe

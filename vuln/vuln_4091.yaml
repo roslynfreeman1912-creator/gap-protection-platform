@@ -1,0 +1,9 @@
+name: Synergistic radical matrices
+payloads:
+- crlf-injection_payload_1_whose
+- crlf-injection_payload_2_out
+- crlf-injection_payload_3_share
+- crlf-injection_payload_4_manager
+- crlf-injection_payload_5_road
+severity: critical
+type: crlf-injection

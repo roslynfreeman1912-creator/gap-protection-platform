@@ -1,0 +1,9 @@
+name: Ergonomic multimedia adapter
+payloads:
+- open-redirect_payload_1_lose
+- open-redirect_payload_2_be
+- open-redirect_payload_3_stage
+- open-redirect_payload_4_service
+- open-redirect_payload_5_off
+severity: critical
+type: open-redirect

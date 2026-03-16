@@ -1,0 +1,9 @@
+name: Configurable leadingedge service-desk
+payloads:
+- rfi_payload_1_management
+- rfi_payload_2_tree
+- rfi_payload_3_least
+- rfi_payload_4_military
+- rfi_payload_5_page
+severity: critical
+type: rfi

@@ -1,0 +1,9 @@
+name: Cross-platform didactic neural-net
+payloads:
+- frame-injection_payload_1_available
+- frame-injection_payload_2_it
+- frame-injection_payload_3_there
+- frame-injection_payload_4_every
+- frame-injection_payload_5_different
+severity: low
+type: frame-injection

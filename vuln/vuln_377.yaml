@@ -1,0 +1,9 @@
+name: Enterprise-wide stable instruction set
+payloads:
+- xss_payload_1_spring
+- xss_payload_2_key
+- xss_payload_3_industry
+- xss_payload_4_seem
+- xss_payload_5_little
+severity: low
+type: xss

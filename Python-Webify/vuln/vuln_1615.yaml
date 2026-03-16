@@ -1,0 +1,9 @@
+name: Exclusive mobile Graphical User Interface
+payloads:
+- jsonp-injection_payload_1_third
+- jsonp-injection_payload_2_plan
+- jsonp-injection_payload_3_very
+- jsonp-injection_payload_4_not
+- jsonp-injection_payload_5_Mr
+severity: medium
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Horizontal disintermediate open architecture
+payloads:
+- crlf-injection_payload_1_way
+- crlf-injection_payload_2_couple
+- crlf-injection_payload_3_black
+- crlf-injection_payload_4_song
+- crlf-injection_payload_5_owner
+severity: low
+type: crlf-injection

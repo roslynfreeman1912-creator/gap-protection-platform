@@ -1,0 +1,9 @@
+name: Multi-tiered neutral knowledgebase
+payloads:
+- frame-injection_payload_1_short
+- frame-injection_payload_2_land
+- frame-injection_payload_3_ok
+- frame-injection_payload_4_turn
+- frame-injection_payload_5_than
+severity: low
+type: frame-injection

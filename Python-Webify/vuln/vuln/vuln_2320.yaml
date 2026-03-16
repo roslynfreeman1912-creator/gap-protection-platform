@@ -1,0 +1,9 @@
+name: Organic multimedia initiative
+payloads:
+- file-upload_payload_1_mission
+- file-upload_payload_2_wall
+- file-upload_payload_3_rate
+- file-upload_payload_4_kid
+- file-upload_payload_5_especially
+severity: medium
+type: file-upload

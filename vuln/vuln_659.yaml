@@ -1,0 +1,9 @@
+name: Total transitional hierarchy
+payloads:
+- path-traversal_payload_1_quickly
+- path-traversal_payload_2_none
+- path-traversal_payload_3_high
+- path-traversal_payload_4_born
+- path-traversal_payload_5_simple
+severity: high
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Secured real-time workforce
+payloads:
+- open-redirect_payload_1_future
+- open-redirect_payload_2_else
+- open-redirect_payload_3_hard
+- open-redirect_payload_4_nor
+- open-redirect_payload_5_role
+severity: low
+type: open-redirect

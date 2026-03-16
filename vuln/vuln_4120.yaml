@@ -1,0 +1,9 @@
+name: Synchronized fault-tolerant hub
+payloads:
+- file-upload_payload_1_scientist
+- file-upload_payload_2_garden
+- file-upload_payload_3_community
+- file-upload_payload_4_boy
+- file-upload_payload_5_fear
+severity: critical
+type: file-upload

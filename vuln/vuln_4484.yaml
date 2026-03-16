@@ -1,0 +1,9 @@
+name: Synergistic scalable ability
+payloads:
+- path-traversal_payload_1_job
+- path-traversal_payload_2_down
+- path-traversal_payload_3_gas
+- path-traversal_payload_4_wait
+- path-traversal_payload_5_hair
+severity: medium
+type: path-traversal

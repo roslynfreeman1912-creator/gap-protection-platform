@@ -1,0 +1,9 @@
+name: Compatible heuristic Graphic Interface
+payloads:
+- xxe_payload_1_young
+- xxe_payload_2_couple
+- xxe_payload_3_others
+- xxe_payload_4_left
+- xxe_payload_5_usually
+severity: medium
+type: xxe

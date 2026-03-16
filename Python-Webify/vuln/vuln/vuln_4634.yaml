@@ -1,0 +1,9 @@
+name: Re-contextualized next generation Local Area Network
+payloads:
+- path-traversal_payload_1_fire
+- path-traversal_payload_2_try
+- path-traversal_payload_3_door
+- path-traversal_payload_4_deal
+- path-traversal_payload_5_research
+severity: low
+type: path-traversal

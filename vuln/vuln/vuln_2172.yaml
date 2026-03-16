@@ -1,0 +1,9 @@
+name: Polarized stable capacity
+payloads:
+- tabnabbing_payload_1_office
+- tabnabbing_payload_2_need
+- tabnabbing_payload_3_small
+- tabnabbing_payload_4_policy
+- tabnabbing_payload_5_pressure
+severity: medium
+type: tabnabbing

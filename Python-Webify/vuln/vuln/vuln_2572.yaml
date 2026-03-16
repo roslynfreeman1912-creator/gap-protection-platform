@@ -1,0 +1,9 @@
+name: Synchronized empowering Internet solution
+payloads:
+- tabnabbing_payload_1_president
+- tabnabbing_payload_2_less
+- tabnabbing_payload_3_model
+- tabnabbing_payload_4_yard
+- tabnabbing_payload_5_prove
+severity: critical
+type: tabnabbing

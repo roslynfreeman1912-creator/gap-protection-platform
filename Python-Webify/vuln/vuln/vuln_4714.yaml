@@ -1,0 +1,9 @@
+name: Robust 3rdgeneration middleware
+payloads:
+- clickjacking_payload_1_policy
+- clickjacking_payload_2_energy
+- clickjacking_payload_3_our
+- clickjacking_payload_4_cover
+- clickjacking_payload_5_thousand
+severity: high
+type: clickjacking

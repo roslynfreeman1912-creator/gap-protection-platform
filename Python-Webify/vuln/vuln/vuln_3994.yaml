@@ -1,0 +1,9 @@
+name: Managed radical open system
+payloads:
+- javascript-injection_payload_1_black
+- javascript-injection_payload_2_physical
+- javascript-injection_payload_3_family
+- javascript-injection_payload_4_pattern
+- javascript-injection_payload_5_seven
+severity: critical
+type: javascript-injection

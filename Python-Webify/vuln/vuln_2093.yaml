@@ -1,0 +1,9 @@
+name: Versatile encompassing Graphic Interface
+payloads:
+- subdomain-takeover_payload_1_bill
+- subdomain-takeover_payload_2_not
+- subdomain-takeover_payload_3_for
+- subdomain-takeover_payload_4_simply
+- subdomain-takeover_payload_5_Democrat
+severity: low
+type: subdomain-takeover

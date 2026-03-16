@@ -1,0 +1,9 @@
+name: Down-sized actuating workforce
+payloads:
+- csrf_payload_1_really
+- csrf_payload_2_forward
+- csrf_payload_3_method
+- csrf_payload_4_show
+- csrf_payload_5_decision
+severity: medium
+type: csrf

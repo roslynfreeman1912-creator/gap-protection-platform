@@ -1,0 +1,9 @@
+name: Grass-roots background monitoring
+payloads:
+- frame-injection_payload_1_early
+- frame-injection_payload_2_matter
+- frame-injection_payload_3_mention
+- frame-injection_payload_4_fill
+- frame-injection_payload_5_pass
+severity: critical
+type: frame-injection

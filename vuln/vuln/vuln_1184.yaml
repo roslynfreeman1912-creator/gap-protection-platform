@@ -1,0 +1,9 @@
+name: Pre-emptive grid-enabled function
+payloads:
+- path-traversal_payload_1_board
+- path-traversal_payload_2_occur
+- path-traversal_payload_3_instead
+- path-traversal_payload_4_list
+- path-traversal_payload_5_we
+severity: critical
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Down-sized multimedia core
+payloads:
+- tabnabbing_payload_1_prepare
+- tabnabbing_payload_2_reduce
+- tabnabbing_payload_3_old
+- tabnabbing_payload_4_purpose
+- tabnabbing_payload_5_able
+severity: high
+type: tabnabbing

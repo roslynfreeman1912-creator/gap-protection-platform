@@ -1,0 +1,9 @@
+name: Cross-group context-sensitive Graphical User Interface
+payloads:
+- open-redirect_payload_1_with
+- open-redirect_payload_2_friend
+- open-redirect_payload_3_right
+- open-redirect_payload_4_tell
+- open-redirect_payload_5_each
+severity: medium
+type: open-redirect

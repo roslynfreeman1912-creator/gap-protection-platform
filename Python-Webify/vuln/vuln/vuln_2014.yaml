@@ -1,0 +1,9 @@
+name: Monitored value-added matrices
+payloads:
+- clickjacking_payload_1_beyond
+- clickjacking_payload_2_including
+- clickjacking_payload_3_rule
+- clickjacking_payload_4_hair
+- clickjacking_payload_5_lawyer
+severity: critical
+type: clickjacking

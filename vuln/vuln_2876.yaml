@@ -1,0 +1,9 @@
+name: Pre-emptive user-facing emulation
+payloads:
+- sql_payload_1_medical
+- sql_payload_2_public
+- sql_payload_3_ball
+- sql_payload_4_imagine
+- sql_payload_5_century
+severity: low
+type: sql

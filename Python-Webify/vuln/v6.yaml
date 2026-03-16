@@ -1,0 +1,8 @@
+name: "Open Redirect"
+type: "open_redirect1"
+severity: "medium"
+payloads:
+  - "http://evil.com"
+  - "//attacker.com"
+  - "https://google.com@evil.com"
+  - "javascript:alert(1)"

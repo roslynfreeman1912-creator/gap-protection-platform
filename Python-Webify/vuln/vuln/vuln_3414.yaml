@@ -1,0 +1,9 @@
+name: Integrated analyzing framework
+payloads:
+- clickjacking_payload_1_red
+- clickjacking_payload_2_maintain
+- clickjacking_payload_3_government
+- clickjacking_payload_4_project
+- clickjacking_payload_5_get
+severity: high
+type: clickjacking

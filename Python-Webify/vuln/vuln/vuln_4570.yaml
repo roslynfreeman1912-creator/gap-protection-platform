@@ -1,0 +1,9 @@
+name: Synchronized system-worthy superstructure
+payloads:
+- file-upload_payload_1_because
+- file-upload_payload_2_as
+- file-upload_payload_3_must
+- file-upload_payload_4_understand
+- file-upload_payload_5_adult
+severity: low
+type: file-upload

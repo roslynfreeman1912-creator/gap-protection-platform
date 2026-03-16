@@ -1,0 +1,9 @@
+name: Integrated web-enabled software
+payloads:
+- file-upload_payload_1_owner
+- file-upload_payload_2_mention
+- file-upload_payload_3_or
+- file-upload_payload_4_foreign
+- file-upload_payload_5_build
+severity: high
+type: file-upload

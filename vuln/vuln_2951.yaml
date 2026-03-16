@@ -1,0 +1,9 @@
+name: Focused multimedia website
+payloads:
+- sql_payload_1_fight
+- sql_payload_2_heavy
+- sql_payload_3_do
+- sql_payload_4_blood
+- sql_payload_5_interview
+severity: high
+type: sql

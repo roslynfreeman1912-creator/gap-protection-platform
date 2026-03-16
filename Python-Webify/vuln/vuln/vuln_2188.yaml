@@ -1,0 +1,9 @@
+name: Virtual background flexibility
+payloads:
+- nosql-injection_payload_1_individual
+- nosql-injection_payload_2_onto
+- nosql-injection_payload_3_season
+- nosql-injection_payload_4_land
+- nosql-injection_payload_5_third
+severity: medium
+type: nosql-injection

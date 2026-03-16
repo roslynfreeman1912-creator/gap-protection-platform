@@ -1,0 +1,9 @@
+name: Front-line bifurcated parallelism
+payloads:
+- clickjacking_payload_1_important
+- clickjacking_payload_2_cold
+- clickjacking_payload_3_have
+- clickjacking_payload_4_reflect
+- clickjacking_payload_5_accept
+severity: medium
+type: clickjacking

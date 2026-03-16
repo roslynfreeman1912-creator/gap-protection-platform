@@ -1,0 +1,9 @@
+name: Universal discrete flexibility
+payloads:
+- path-traversal_payload_1_pull
+- path-traversal_payload_2_mouth
+- path-traversal_payload_3_daughter
+- path-traversal_payload_4_think
+- path-traversal_payload_5_state
+severity: medium
+type: path-traversal

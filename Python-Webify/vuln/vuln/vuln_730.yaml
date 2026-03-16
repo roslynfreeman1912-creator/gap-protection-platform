@@ -1,0 +1,9 @@
+name: Versatile global website
+payloads:
+- ssrf_payload_1_forget
+- ssrf_payload_2_fly
+- ssrf_payload_3_measure
+- ssrf_payload_4_avoid
+- ssrf_payload_5_arm
+severity: high
+type: ssrf

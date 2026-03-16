@@ -1,0 +1,9 @@
+name: Grass-roots 5thgeneration challenge
+payloads:
+- subdomain-takeover_payload_1_account
+- subdomain-takeover_payload_2_help
+- subdomain-takeover_payload_3_summer
+- subdomain-takeover_payload_4_attorney
+- subdomain-takeover_payload_5_have
+severity: high
+type: subdomain-takeover

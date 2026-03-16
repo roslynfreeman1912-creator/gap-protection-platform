@@ -1,0 +1,9 @@
+name: Ergonomic methodical artificial intelligence
+payloads:
+- command-injection_payload_1_full
+- command-injection_payload_2_trip
+- command-injection_payload_3_process
+- command-injection_payload_4_follow
+- command-injection_payload_5_power
+severity: high
+type: command-injection

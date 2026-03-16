@@ -1,0 +1,9 @@
+name: Enterprise-wide leadingedge budgetary management
+payloads:
+- subdomain-takeover_payload_1_sort
+- subdomain-takeover_payload_2_drug
+- subdomain-takeover_payload_3_chair
+- subdomain-takeover_payload_4_sign
+- subdomain-takeover_payload_5_power
+severity: medium
+type: subdomain-takeover

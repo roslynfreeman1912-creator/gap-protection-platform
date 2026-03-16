@@ -1,0 +1,9 @@
+name: User-friendly local approach
+payloads:
+- tabnabbing_payload_1_help
+- tabnabbing_payload_2_third
+- tabnabbing_payload_3_interesting
+- tabnabbing_payload_4_player
+- tabnabbing_payload_5_hand
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Profound bifurcated standardization
+payloads:
+- jsonp-injection_payload_1_it
+- jsonp-injection_payload_2_although
+- jsonp-injection_payload_3_become
+- jsonp-injection_payload_4_term
+- jsonp-injection_payload_5_often
+severity: low
+type: jsonp-injection

@@ -1,0 +1,9 @@
+name: Reverse-engineered fault-tolerant adapter
+payloads:
+- crlf-injection_payload_1_nice
+- crlf-injection_payload_2_need
+- crlf-injection_payload_3_machine
+- crlf-injection_payload_4_positive
+- crlf-injection_payload_5_raise
+severity: critical
+type: crlf-injection

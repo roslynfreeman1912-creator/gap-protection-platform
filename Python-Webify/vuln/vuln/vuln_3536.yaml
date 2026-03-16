@@ -1,0 +1,9 @@
+name: Versatile 6thgeneration portal
+payloads:
+- xxe_payload_1_military
+- xxe_payload_2_training
+- xxe_payload_3_team
+- xxe_payload_4_professor
+- xxe_payload_5_apply
+severity: critical
+type: xxe

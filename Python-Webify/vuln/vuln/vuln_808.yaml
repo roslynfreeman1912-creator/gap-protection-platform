@@ -1,0 +1,9 @@
+name: Multi-lateral incremental framework
+payloads:
+- command-injection_payload_1_bring
+- command-injection_payload_2_role
+- command-injection_payload_3_action
+- command-injection_payload_4_Congress
+- command-injection_payload_5_soldier
+severity: high
+type: command-injection

@@ -1,0 +1,9 @@
+name: Cross-platform holistic knowledgebase
+payloads:
+- javascript-injection_payload_1_now
+- javascript-injection_payload_2_according
+- javascript-injection_payload_3_computer
+- javascript-injection_payload_4_question
+- javascript-injection_payload_5_thousand
+severity: medium
+type: javascript-injection

@@ -1,0 +1,9 @@
+name: Face-to-face impactful Local Area Network
+payloads:
+- sql_payload_1_free
+- sql_payload_2_whole
+- sql_payload_3_step
+- sql_payload_4_teach
+- sql_payload_5_tax
+severity: low
+type: sql

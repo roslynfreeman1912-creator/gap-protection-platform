@@ -1,0 +1,9 @@
+name: Reverse-engineered tangible open architecture
+payloads:
+- path-traversal_payload_1_determine
+- path-traversal_payload_2_fine
+- path-traversal_payload_3_manage
+- path-traversal_payload_4_condition
+- path-traversal_payload_5_moment
+severity: high
+type: path-traversal

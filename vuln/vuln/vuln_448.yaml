@@ -1,0 +1,9 @@
+name: Fundamental maximized analyzer
+payloads:
+- hsts-misconfig_payload_1_office
+- hsts-misconfig_payload_2_gun
+- hsts-misconfig_payload_3_so
+- hsts-misconfig_payload_4_laugh
+- hsts-misconfig_payload_5_specific
+severity: low
+type: hsts-misconfig

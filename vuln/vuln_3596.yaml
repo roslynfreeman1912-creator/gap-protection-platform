@@ -1,0 +1,9 @@
+name: Organic dynamic toolset
+payloads:
+- mime-sniffing_payload_1_bar
+- mime-sniffing_payload_2_industry
+- mime-sniffing_payload_3_decision
+- mime-sniffing_payload_4_eat
+- mime-sniffing_payload_5_serious
+severity: critical
+type: mime-sniffing

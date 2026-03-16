@@ -1,0 +1,9 @@
+name: Networked system-worthy artificial intelligence
+payloads:
+- subdomain-takeover_payload_1_partner
+- subdomain-takeover_payload_2_course
+- subdomain-takeover_payload_3_along
+- subdomain-takeover_payload_4_staff
+- subdomain-takeover_payload_5_garden
+severity: medium
+type: subdomain-takeover

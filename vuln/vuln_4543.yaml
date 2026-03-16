@@ -1,0 +1,9 @@
+name: Quality-focused static artificial intelligence
+payloads:
+- subdomain-takeover_payload_1_stock
+- subdomain-takeover_payload_2_value
+- subdomain-takeover_payload_3_let
+- subdomain-takeover_payload_4_eat
+- subdomain-takeover_payload_5_people
+severity: low
+type: subdomain-takeover

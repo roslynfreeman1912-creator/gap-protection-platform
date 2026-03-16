@@ -1,0 +1,9 @@
+name: Configurable mobile challenge
+payloads:
+- xss_payload_1_although
+- xss_payload_2_site
+- xss_payload_3_plan
+- xss_payload_4_budget
+- xss_payload_5_morning
+severity: critical
+type: xss

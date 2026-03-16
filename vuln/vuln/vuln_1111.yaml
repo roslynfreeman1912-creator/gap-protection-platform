@@ -1,0 +1,9 @@
+name: Managed discrete infrastructure
+payloads:
+- xxe_payload_1_maybe
+- xxe_payload_2_participant
+- xxe_payload_3_particular
+- xxe_payload_4_practice
+- xxe_payload_5_matter
+severity: low
+type: xxe

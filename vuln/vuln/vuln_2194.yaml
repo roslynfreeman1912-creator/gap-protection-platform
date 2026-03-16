@@ -1,0 +1,9 @@
+name: Devolved modular alliance
+payloads:
+- javascript-injection_payload_1_like
+- javascript-injection_payload_2_serve
+- javascript-injection_payload_3_Republican
+- javascript-injection_payload_4_assume
+- javascript-injection_payload_5_pass
+severity: medium
+type: javascript-injection

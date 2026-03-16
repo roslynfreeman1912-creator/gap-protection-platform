@@ -1,0 +1,9 @@
+name: Cross-group multimedia complexity
+payloads:
+- ldap-injection_payload_1_risk
+- ldap-injection_payload_2_rule
+- ldap-injection_payload_3_send
+- ldap-injection_payload_4_program
+- ldap-injection_payload_5_whether
+severity: medium
+type: ldap-injection

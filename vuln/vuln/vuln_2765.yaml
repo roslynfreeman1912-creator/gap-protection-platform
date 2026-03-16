@@ -1,0 +1,9 @@
+name: Vision-oriented systemic migration
+payloads:
+- jsonp-injection_payload_1_doctor
+- jsonp-injection_payload_2_small
+- jsonp-injection_payload_3_candidate
+- jsonp-injection_payload_4_check
+- jsonp-injection_payload_5_thought
+severity: critical
+type: jsonp-injection

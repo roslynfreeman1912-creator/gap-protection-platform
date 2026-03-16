@@ -1,0 +1,9 @@
+name: Customizable multimedia product
+payloads:
+- ssrf_payload_1_perform
+- ssrf_payload_2_finally
+- ssrf_payload_3_choose
+- ssrf_payload_4_machine
+- ssrf_payload_5_radio
+severity: medium
+type: ssrf

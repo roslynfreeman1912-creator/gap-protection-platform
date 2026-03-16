@@ -1,0 +1,9 @@
+name: Implemented heuristic instruction set
+payloads:
+- xxe_payload_1_painting
+- xxe_payload_2_happy
+- xxe_payload_3_administration
+- xxe_payload_4_full
+- xxe_payload_5_lot
+severity: critical
+type: xxe

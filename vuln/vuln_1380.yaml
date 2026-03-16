@@ -1,0 +1,9 @@
+name: Inverse secondary data-warehouse
+payloads:
+- ssrf_payload_1_fast
+- ssrf_payload_2_report
+- ssrf_payload_3_turn
+- ssrf_payload_4_tend
+- ssrf_payload_5_cold
+severity: high
+type: ssrf

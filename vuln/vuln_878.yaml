@@ -1,0 +1,9 @@
+name: Inverse systemic projection
+payloads:
+- lfi_payload_1_wear
+- lfi_payload_2_TV
+- lfi_payload_3_after
+- lfi_payload_4_something
+- lfi_payload_5_enough
+severity: high
+type: lfi

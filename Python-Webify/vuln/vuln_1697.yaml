@@ -1,0 +1,9 @@
+name: Open-architected foreground architecture
+payloads:
+- tabnabbing_payload_1_present
+- tabnabbing_payload_2_understand
+- tabnabbing_payload_3_everyone
+- tabnabbing_payload_4_with
+- tabnabbing_payload_5_there
+severity: high
+type: tabnabbing

@@ -1,0 +1,9 @@
+name: Fundamental methodical algorithm
+payloads:
+- path-traversal_payload_1_send
+- path-traversal_payload_2_agreement
+- path-traversal_payload_3_will
+- path-traversal_payload_4_send
+- path-traversal_payload_5_gun
+severity: high
+type: path-traversal

@@ -1,0 +1,9 @@
+name: Re-engineered discrete database
+payloads:
+- csp-bypass_payload_1_seek
+- csp-bypass_payload_2_discuss
+- csp-bypass_payload_3_also
+- csp-bypass_payload_4_coach
+- csp-bypass_payload_5_fly
+severity: low
+type: csp-bypass

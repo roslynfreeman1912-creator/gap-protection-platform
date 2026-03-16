@@ -1,0 +1,9 @@
+name: Optional national ability
+payloads:
+- csp-bypass_payload_1_woman
+- csp-bypass_payload_2_high
+- csp-bypass_payload_3_talk
+- csp-bypass_payload_4_send
+- csp-bypass_payload_5_couple
+severity: low
+type: csp-bypass

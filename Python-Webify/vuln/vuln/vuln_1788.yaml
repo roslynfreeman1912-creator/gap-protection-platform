@@ -1,0 +1,9 @@
+name: De-engineered transitional product
+payloads:
+- nosql-injection_payload_1_guy
+- nosql-injection_payload_2_audience
+- nosql-injection_payload_3_total
+- nosql-injection_payload_4_add
+- nosql-injection_payload_5_time
+severity: low
+type: nosql-injection

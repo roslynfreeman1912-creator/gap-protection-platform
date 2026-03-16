@@ -1,0 +1,9 @@
+name: Cross-group multi-tasking synergy
+payloads:
+- sql_payload_1_produce
+- sql_payload_2_important
+- sql_payload_3_practice
+- sql_payload_4_more
+- sql_payload_5_million
+severity: medium
+type: sql

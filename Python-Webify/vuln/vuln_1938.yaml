@@ -1,0 +1,9 @@
+name: Synchronized holistic paradigm
+payloads:
+- nosql-injection_payload_1_behind
+- nosql-injection_payload_2_away
+- nosql-injection_payload_3_Democrat
+- nosql-injection_payload_4_it
+- nosql-injection_payload_5_present
+severity: critical
+type: nosql-injection

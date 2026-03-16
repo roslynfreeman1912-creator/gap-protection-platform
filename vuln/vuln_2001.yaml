@@ -1,0 +1,9 @@
+name: Optional encompassing concept
+payloads:
+- sql_payload_1_pass
+- sql_payload_2_laugh
+- sql_payload_3_center
+- sql_payload_4_goal
+- sql_payload_5_return
+severity: low
+type: sql

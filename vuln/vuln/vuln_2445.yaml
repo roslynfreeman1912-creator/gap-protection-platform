@@ -1,0 +1,9 @@
+name: Polarized interactive interface
+payloads:
+- file-upload_payload_1_or
+- file-upload_payload_2_decision
+- file-upload_payload_3_inside
+- file-upload_payload_4_best
+- file-upload_payload_5_economic
+severity: medium
+type: file-upload

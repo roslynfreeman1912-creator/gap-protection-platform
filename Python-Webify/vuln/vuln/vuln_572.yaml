@@ -1,0 +1,9 @@
+name: Multi-tiered reciprocal superstructure
+payloads:
+- tabnabbing_payload_1_record
+- tabnabbing_payload_2_red
+- tabnabbing_payload_3_news
+- tabnabbing_payload_4_however
+- tabnabbing_payload_5_son
+severity: high
+type: tabnabbing

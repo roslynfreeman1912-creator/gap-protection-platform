@@ -1,0 +1,9 @@
+name: Reduced asynchronous portal
+payloads:
+- xxe_payload_1_price
+- xxe_payload_2_despite
+- xxe_payload_3_southern
+- xxe_payload_4_argue
+- xxe_payload_5_few
+severity: high
+type: xxe

@@ -1,0 +1,9 @@
+name: De-engineered incremental support
+payloads:
+- hsts-misconfig_payload_1_collection
+- hsts-misconfig_payload_2_include
+- hsts-misconfig_payload_3_yet
+- hsts-misconfig_payload_4_enough
+- hsts-misconfig_payload_5_event
+severity: low
+type: hsts-misconfig

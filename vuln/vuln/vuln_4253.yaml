@@ -1,0 +1,9 @@
+name: Intuitive clear-thinking projection
+payloads:
+- lfi_payload_1_little
+- lfi_payload_2_through
+- lfi_payload_3_range
+- lfi_payload_4_thousand
+- lfi_payload_5_wind
+severity: critical
+type: lfi

@@ -1,0 +1,9 @@
+name: Operative responsive benchmark
+payloads:
+- xxe_payload_1_protect
+- xxe_payload_2_authority
+- xxe_payload_3_yes
+- xxe_payload_4_break
+- xxe_payload_5_foreign
+severity: high
+type: xxe

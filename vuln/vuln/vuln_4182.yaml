@@ -1,0 +1,9 @@
+name: Intuitive explicit paradigm
+payloads:
+- ssti_payload_1_admit
+- ssti_payload_2_his
+- ssti_payload_3_high
+- ssti_payload_4_north
+- ssti_payload_5_speak
+severity: low
+type: ssti

@@ -1,0 +1,9 @@
+name: Extended full-range algorithm
+payloads:
+- open-redirect_payload_1_role
+- open-redirect_payload_2_reduce
+- open-redirect_payload_3_by
+- open-redirect_payload_4_admit
+- open-redirect_payload_5_truth
+severity: high
+type: open-redirect

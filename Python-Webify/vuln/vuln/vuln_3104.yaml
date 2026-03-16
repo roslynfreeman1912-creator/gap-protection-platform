@@ -1,0 +1,9 @@
+name: Operative static Graphical User Interface
+payloads:
+- rfi_payload_1_they
+- rfi_payload_2_affect
+- rfi_payload_3_ten
+- rfi_payload_4_health
+- rfi_payload_5_in
+severity: medium
+type: rfi

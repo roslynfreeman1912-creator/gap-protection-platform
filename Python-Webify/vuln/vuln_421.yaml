@@ -1,0 +1,9 @@
+name: Grass-roots heuristic initiative
+payloads:
+- mime-sniffing_payload_1_interesting
+- mime-sniffing_payload_2_condition
+- mime-sniffing_payload_3_contain
+- mime-sniffing_payload_4_program
+- mime-sniffing_payload_5_country
+severity: critical
+type: mime-sniffing

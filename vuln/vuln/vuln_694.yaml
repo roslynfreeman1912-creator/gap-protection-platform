@@ -1,0 +1,9 @@
+name: Re-engineered real-time installation
+payloads:
+- javascript-injection_payload_1_pay
+- javascript-injection_payload_2_truth
+- javascript-injection_payload_3_speak
+- javascript-injection_payload_4_use
+- javascript-injection_payload_5_true
+severity: medium
+type: javascript-injection

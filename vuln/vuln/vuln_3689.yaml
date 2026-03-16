@@ -1,0 +1,9 @@
+name: Focused 3rdgeneration analyzer
+payloads:
+- clickjacking_payload_1_know
+- clickjacking_payload_2_guy
+- clickjacking_payload_3_leader
+- clickjacking_payload_4_family
+- clickjacking_payload_5_writer
+severity: low
+type: clickjacking

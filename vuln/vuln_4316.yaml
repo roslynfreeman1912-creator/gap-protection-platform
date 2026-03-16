@@ -1,0 +1,9 @@
+name: Configurable 4thgeneration alliance
+payloads:
+- crlf-injection_payload_1_late
+- crlf-injection_payload_2_office
+- crlf-injection_payload_3_someone
+- crlf-injection_payload_4_attention
+- crlf-injection_payload_5_early
+severity: high
+type: crlf-injection

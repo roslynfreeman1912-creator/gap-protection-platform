@@ -1,0 +1,9 @@
+name: Function-based maximized customer loyalty
+payloads:
+- mime-sniffing_payload_1_call
+- mime-sniffing_payload_2_social
+- mime-sniffing_payload_3_market
+- mime-sniffing_payload_4_newspaper
+- mime-sniffing_payload_5_treat
+severity: critical
+type: mime-sniffing

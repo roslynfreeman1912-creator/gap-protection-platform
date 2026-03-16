@@ -1,0 +1,9 @@
+name: Grass-roots explicit encoding
+payloads:
+- frame-injection_payload_1_her
+- frame-injection_payload_2_available
+- frame-injection_payload_3_coach
+- frame-injection_payload_4_low
+- frame-injection_payload_5_model
+severity: high
+type: frame-injection

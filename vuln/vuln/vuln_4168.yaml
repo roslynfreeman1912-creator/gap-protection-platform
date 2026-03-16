@@ -1,0 +1,9 @@
+name: Assimilated fault-tolerant knowledgebase
+payloads:
+- subdomain-takeover_payload_1_main
+- subdomain-takeover_payload_2_dark
+- subdomain-takeover_payload_3_explain
+- subdomain-takeover_payload_4_fast
+- subdomain-takeover_payload_5_computer
+severity: low
+type: subdomain-takeover

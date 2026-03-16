@@ -1,0 +1,9 @@
+name: Face-to-face high-level time-frame
+payloads:
+- ssrf_payload_1_politics
+- ssrf_payload_2_past
+- ssrf_payload_3_vote
+- ssrf_payload_4_collection
+- ssrf_payload_5_instead
+severity: medium
+type: ssrf

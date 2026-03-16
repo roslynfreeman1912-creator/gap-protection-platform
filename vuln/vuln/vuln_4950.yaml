@@ -1,0 +1,9 @@
+name: Synergized composite throughput
+payloads:
+- frame-injection_payload_1_school
+- frame-injection_payload_2_physical
+- frame-injection_payload_3_step
+- frame-injection_payload_4_physical
+- frame-injection_payload_5_bank
+severity: medium
+type: frame-injection

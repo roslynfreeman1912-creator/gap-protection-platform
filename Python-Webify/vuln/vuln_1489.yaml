@@ -1,0 +1,9 @@
+name: Organized interactive hardware
+payloads:
+- clickjacking_payload_1_thing
+- clickjacking_payload_2_position
+- clickjacking_payload_3_major
+- clickjacking_payload_4_physical
+- clickjacking_payload_5_picture
+severity: low
+type: clickjacking

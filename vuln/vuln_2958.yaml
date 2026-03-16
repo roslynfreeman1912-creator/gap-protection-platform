@@ -1,0 +1,9 @@
+name: Stand-alone regional approach
+payloads:
+- command-injection_payload_1_child
+- command-injection_payload_2_sell
+- command-injection_payload_3_set
+- command-injection_payload_4_fund
+- command-injection_payload_5_set
+severity: critical
+type: command-injection

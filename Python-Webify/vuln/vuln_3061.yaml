@@ -1,0 +1,9 @@
+name: Monitored value-added encryption
+payloads:
+- xxe_payload_1_top
+- xxe_payload_2_view
+- xxe_payload_3_when
+- xxe_payload_4_use
+- xxe_payload_5_even
+severity: medium
+type: xxe

@@ -1,0 +1,9 @@
+name: Optional fresh-thinking groupware
+payloads:
+- ssrf_payload_1_sort
+- ssrf_payload_2_new
+- ssrf_payload_3_number
+- ssrf_payload_4_take
+- ssrf_payload_5_full
+severity: medium
+type: ssrf

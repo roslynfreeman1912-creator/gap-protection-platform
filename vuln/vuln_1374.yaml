@@ -1,0 +1,9 @@
+name: Vision-oriented client-driven approach
+payloads:
+- csp-bypass_payload_1_blood
+- csp-bypass_payload_2_our
+- csp-bypass_payload_3_game
+- csp-bypass_payload_4_decade
+- csp-bypass_payload_5_work
+severity: critical
+type: csp-bypass

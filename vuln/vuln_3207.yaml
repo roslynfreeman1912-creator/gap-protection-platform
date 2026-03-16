@@ -1,0 +1,9 @@
+name: Down-sized fresh-thinking Local Area Network
+payloads:
+- ssti_payload_1_recognize
+- ssti_payload_2_cost
+- ssti_payload_3_record
+- ssti_payload_4_especially
+- ssti_payload_5_station
+severity: critical
+type: ssti

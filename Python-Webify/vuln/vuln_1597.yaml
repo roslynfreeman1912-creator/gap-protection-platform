@@ -1,0 +1,9 @@
+name: Up-sized global circuit
+payloads:
+- tabnabbing_payload_1_reach
+- tabnabbing_payload_2_know
+- tabnabbing_payload_3_stuff
+- tabnabbing_payload_4_cause
+- tabnabbing_payload_5_note
+severity: critical
+type: tabnabbing

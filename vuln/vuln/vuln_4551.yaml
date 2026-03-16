@@ -1,0 +1,9 @@
+name: Enhanced eco-centric intranet
+payloads:
+- sql_payload_1_require
+- sql_payload_2_common
+- sql_payload_3_perhaps
+- sql_payload_4_truth
+- sql_payload_5_arrive
+severity: low
+type: sql

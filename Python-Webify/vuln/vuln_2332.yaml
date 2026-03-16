@@ -1,0 +1,9 @@
+name: Automated cohesive website
+payloads:
+- ssti_payload_1_else
+- ssti_payload_2_man
+- ssti_payload_3_shoulder
+- ssti_payload_4_try
+- ssti_payload_5_oil
+severity: high
+type: ssti

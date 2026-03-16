@@ -1,0 +1,9 @@
+name: Vision-oriented multi-state array
+payloads:
+- tabnabbing_payload_1_final
+- tabnabbing_payload_2_explain
+- tabnabbing_payload_3_house
+- tabnabbing_payload_4_clearly
+- tabnabbing_payload_5_who
+severity: low
+type: tabnabbing

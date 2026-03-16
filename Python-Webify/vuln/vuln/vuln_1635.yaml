@@ -1,0 +1,9 @@
+name: Centralized methodical moratorium
+payloads:
+- open-redirect_payload_1_allow
+- open-redirect_payload_2_group
+- open-redirect_payload_3_check
+- open-redirect_payload_4_job
+- open-redirect_payload_5_opportunity
+severity: critical
+type: open-redirect

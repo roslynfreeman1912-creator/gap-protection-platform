@@ -1,0 +1,9 @@
+name: Open-source client-driven intranet
+payloads:
+- rfi_payload_1_whatever
+- rfi_payload_2_rather
+- rfi_payload_3_move
+- rfi_payload_4_within
+- rfi_payload_5_indeed
+severity: high
+type: rfi

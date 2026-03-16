@@ -1,0 +1,9 @@
+name: Cross-group motivating emulation
+payloads:
+- command-injection_payload_1_truth
+- command-injection_payload_2_probably
+- command-injection_payload_3_best
+- command-injection_payload_4_notice
+- command-injection_payload_5_garden
+severity: low
+type: command-injection

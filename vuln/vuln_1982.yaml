@@ -1,0 +1,9 @@
+name: De-engineered methodical hub
+payloads:
+- ssti_payload_1_everyone
+- ssti_payload_2_organization
+- ssti_payload_3_risk
+- ssti_payload_4_determine
+- ssti_payload_5_institution
+severity: low
+type: ssti

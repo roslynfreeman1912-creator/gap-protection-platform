@@ -1,0 +1,9 @@
+name: Diverse value-added array
+payloads:
+- ssrf_payload_1_draw
+- ssrf_payload_2_meet
+- ssrf_payload_3_produce
+- ssrf_payload_4_middle
+- ssrf_payload_5_really
+severity: high
+type: ssrf

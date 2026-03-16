@@ -1,0 +1,9 @@
+name: Organic uniform intranet
+payloads:
+- tabnabbing_payload_1_our
+- tabnabbing_payload_2_probably
+- tabnabbing_payload_3_artist
+- tabnabbing_payload_4_owner
+- tabnabbing_payload_5_according
+severity: medium
+type: tabnabbing

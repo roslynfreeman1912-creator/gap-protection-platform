@@ -1,0 +1,9 @@
+name: Synergistic actuating core
+payloads:
+- subdomain-takeover_payload_1_perhaps
+- subdomain-takeover_payload_2_seem
+- subdomain-takeover_payload_3_almost
+- subdomain-takeover_payload_4_husband
+- subdomain-takeover_payload_5_section
+severity: high
+type: subdomain-takeover

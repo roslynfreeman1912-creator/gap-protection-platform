@@ -1,0 +1,9 @@
+name: Vision-oriented intangible policy
+payloads:
+- jsonp-injection_payload_1_region
+- jsonp-injection_payload_2_experience
+- jsonp-injection_payload_3_respond
+- jsonp-injection_payload_4_make
+- jsonp-injection_payload_5_black
+severity: medium
+type: jsonp-injection

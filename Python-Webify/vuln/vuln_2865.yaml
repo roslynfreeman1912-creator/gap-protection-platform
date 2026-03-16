@@ -1,0 +1,9 @@
+name: Reduced analyzing intranet
+payloads:
+- jsonp-injection_payload_1_particular
+- jsonp-injection_payload_2_cold
+- jsonp-injection_payload_3_buy
+- jsonp-injection_payload_4_along
+- jsonp-injection_payload_5_red
+severity: low
+type: jsonp-injection

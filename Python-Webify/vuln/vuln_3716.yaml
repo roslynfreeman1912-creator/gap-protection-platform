@@ -1,0 +1,9 @@
+name: Team-oriented attitude-oriented archive
+payloads:
+- crlf-injection_payload_1_pass
+- crlf-injection_payload_2_statement
+- crlf-injection_payload_3_issue
+- crlf-injection_payload_4_bed
+- crlf-injection_payload_5_mother
+severity: medium
+type: crlf-injection

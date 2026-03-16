@@ -1,0 +1,9 @@
+name: Switchable client-driven groupware
+payloads:
+- command-injection_payload_1_send
+- command-injection_payload_2_cost
+- command-injection_payload_3_religious
+- command-injection_payload_4_experience
+- command-injection_payload_5_oil
+severity: medium
+type: command-injection

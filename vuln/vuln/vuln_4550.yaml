@@ -1,0 +1,9 @@
+name: Enhanced 6thgeneration collaboration
+payloads:
+- frame-injection_payload_1_agree
+- frame-injection_payload_2_official
+- frame-injection_payload_3_whose
+- frame-injection_payload_4_major
+- frame-injection_payload_5_letter
+severity: medium
+type: frame-injection

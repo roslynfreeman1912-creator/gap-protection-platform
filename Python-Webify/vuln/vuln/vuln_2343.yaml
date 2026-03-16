@@ -1,0 +1,9 @@
+name: Multi-tiered didactic info-mediaries
+payloads:
+- subdomain-takeover_payload_1_since
+- subdomain-takeover_payload_2_same
+- subdomain-takeover_payload_3_identify
+- subdomain-takeover_payload_4_physical
+- subdomain-takeover_payload_5_wish
+severity: critical
+type: subdomain-takeover

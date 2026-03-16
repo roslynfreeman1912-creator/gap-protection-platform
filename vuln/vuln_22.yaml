@@ -1,0 +1,9 @@
+name: Secured radical middleware
+payloads:
+- tabnabbing_payload_1_goal
+- tabnabbing_payload_2_maintain
+- tabnabbing_payload_3_camera
+- tabnabbing_payload_4_few
+- tabnabbing_payload_5_authority
+severity: critical
+type: tabnabbing

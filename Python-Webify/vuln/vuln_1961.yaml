@@ -1,0 +1,9 @@
+name: Upgradable context-sensitive circuit
+payloads:
+- xxe_payload_1_voice
+- xxe_payload_2_analysis
+- xxe_payload_3_easy
+- xxe_payload_4_Republican
+- xxe_payload_5_look
+severity: high
+type: xxe

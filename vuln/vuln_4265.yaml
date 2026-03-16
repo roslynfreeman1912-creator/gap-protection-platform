@@ -1,0 +1,9 @@
+name: Quality-focused optimizing infrastructure
+payloads:
+- jsonp-injection_payload_1_whom
+- jsonp-injection_payload_2_step
+- jsonp-injection_payload_3_traditional
+- jsonp-injection_payload_4_describe
+- jsonp-injection_payload_5_already
+severity: low
+type: jsonp-injection

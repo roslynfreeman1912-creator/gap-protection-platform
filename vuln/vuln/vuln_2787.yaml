@@ -1,0 +1,9 @@
+name: User-friendly asynchronous extranet
+payloads:
+- ldap-injection_payload_1_wind
+- ldap-injection_payload_2_resource
+- ldap-injection_payload_3_exactly
+- ldap-injection_payload_4_clearly
+- ldap-injection_payload_5_another
+severity: critical
+type: ldap-injection

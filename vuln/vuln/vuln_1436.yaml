@@ -1,0 +1,9 @@
+name: Multi-lateral 24/7 analyzer
+payloads:
+- xxe_payload_1_red
+- xxe_payload_2_during
+- xxe_payload_3_hard
+- xxe_payload_4_majority
+- xxe_payload_5_customer
+severity: critical
+type: xxe

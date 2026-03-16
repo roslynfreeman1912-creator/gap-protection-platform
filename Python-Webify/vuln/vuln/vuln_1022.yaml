@@ -1,0 +1,9 @@
+name: Operative web-enabled analyzer
+payloads:
+- tabnabbing_payload_1_could
+- tabnabbing_payload_2_maybe
+- tabnabbing_payload_3_order
+- tabnabbing_payload_4_save
+- tabnabbing_payload_5_board
+severity: low
+type: tabnabbing

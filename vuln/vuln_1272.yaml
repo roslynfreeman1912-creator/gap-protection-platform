@@ -1,0 +1,9 @@
+name: Progressive grid-enabled standardization
+payloads:
+- tabnabbing_payload_1_increase
+- tabnabbing_payload_2_take
+- tabnabbing_payload_3_sense
+- tabnabbing_payload_4_we
+- tabnabbing_payload_5_set
+severity: high
+type: tabnabbing

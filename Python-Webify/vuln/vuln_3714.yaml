@@ -1,0 +1,9 @@
+name: Digitized 6thgeneration leverage
+payloads:
+- clickjacking_payload_1_democratic
+- clickjacking_payload_2_thus
+- clickjacking_payload_3_focus
+- clickjacking_payload_4_concern
+- clickjacking_payload_5_should
+severity: medium
+type: clickjacking

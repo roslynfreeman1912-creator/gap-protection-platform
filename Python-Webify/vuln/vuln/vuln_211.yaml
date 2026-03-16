@@ -1,0 +1,9 @@
+name: Diverse bi-directional groupware
+payloads:
+- xxe_payload_1_boy
+- xxe_payload_2_fund
+- xxe_payload_3_name
+- xxe_payload_4_especially
+- xxe_payload_5_sometimes
+severity: low
+type: xxe

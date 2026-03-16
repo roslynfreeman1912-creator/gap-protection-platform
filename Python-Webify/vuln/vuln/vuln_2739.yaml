@@ -1,0 +1,9 @@
+name: Ameliorated grid-enabled open system
+payloads:
+- clickjacking_payload_1_if
+- clickjacking_payload_2_be
+- clickjacking_payload_3_western
+- clickjacking_payload_4_language
+- clickjacking_payload_5_bar
+severity: critical
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Virtual composite parallelism
+payloads:
+- open-redirect_payload_1_network
+- open-redirect_payload_2_field
+- open-redirect_payload_3_each
+- open-redirect_payload_4_your
+- open-redirect_payload_5_picture
+severity: critical
+type: open-redirect

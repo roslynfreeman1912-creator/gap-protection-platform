@@ -1,0 +1,9 @@
+name: Secured client-driven projection
+payloads:
+- ssti_payload_1_series
+- ssti_payload_2_event
+- ssti_payload_3_page
+- ssti_payload_4_couple
+- ssti_payload_5_democratic
+severity: low
+type: ssti

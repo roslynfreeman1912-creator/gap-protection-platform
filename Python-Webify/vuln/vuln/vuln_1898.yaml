@@ -1,0 +1,9 @@
+name: De-engineered 3rdgeneration functionalities
+payloads:
+- hsts-misconfig_payload_1_center
+- hsts-misconfig_payload_2_country
+- hsts-misconfig_payload_3_page
+- hsts-misconfig_payload_4_speech
+- hsts-misconfig_payload_5_me
+severity: low
+type: hsts-misconfig

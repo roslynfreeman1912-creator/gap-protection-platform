@@ -1,0 +1,9 @@
+name: Face-to-face systematic throughput
+payloads:
+- open-redirect_payload_1_company
+- open-redirect_payload_2_eat
+- open-redirect_payload_3_between
+- open-redirect_payload_4_job
+- open-redirect_payload_5_issue
+severity: high
+type: open-redirect

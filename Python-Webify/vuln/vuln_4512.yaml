@@ -1,0 +1,9 @@
+name: Switchable hybrid solution
+payloads:
+- ldap-injection_payload_1_many
+- ldap-injection_payload_2_soldier
+- ldap-injection_payload_3_news
+- ldap-injection_payload_4_old
+- ldap-injection_payload_5_after
+severity: low
+type: ldap-injection

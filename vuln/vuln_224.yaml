@@ -1,0 +1,9 @@
+name: Self-enabling scalable time-frame
+payloads:
+- csp-bypass_payload_1_special
+- csp-bypass_payload_2_east
+- csp-bypass_payload_3_town
+- csp-bypass_payload_4_hand
+- csp-bypass_payload_5_point
+severity: medium
+type: csp-bypass

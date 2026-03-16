@@ -1,0 +1,9 @@
+name: Customer-focused logistical knowledgebase
+payloads:
+- hsts-misconfig_payload_1_official
+- hsts-misconfig_payload_2_government
+- hsts-misconfig_payload_3_cut
+- hsts-misconfig_payload_4_because
+- hsts-misconfig_payload_5_office
+severity: low
+type: hsts-misconfig

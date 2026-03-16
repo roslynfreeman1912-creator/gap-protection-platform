@@ -1,0 +1,9 @@
+name: Grass-roots web-enabled core
+payloads:
+- clickjacking_payload_1_marriage
+- clickjacking_payload_2_police
+- clickjacking_payload_3_own
+- clickjacking_payload_4_around
+- clickjacking_payload_5_cold
+severity: medium
+type: clickjacking

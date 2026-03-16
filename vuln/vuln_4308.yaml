@@ -1,0 +1,9 @@
+name: Open-source upward-trending hardware
+payloads:
+- command-injection_payload_1_pay
+- command-injection_payload_2_wind
+- command-injection_payload_3_find
+- command-injection_payload_4_five
+- command-injection_payload_5_happy
+severity: low
+type: command-injection

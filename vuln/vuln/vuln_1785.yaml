@@ -1,0 +1,9 @@
+name: Quality-focused multimedia solution
+payloads:
+- open-redirect_payload_1_suffer
+- open-redirect_payload_2_moment
+- open-redirect_payload_3_war
+- open-redirect_payload_4_large
+- open-redirect_payload_5_suffer
+severity: high
+type: open-redirect

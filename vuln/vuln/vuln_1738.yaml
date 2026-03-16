@@ -1,0 +1,9 @@
+name: Ergonomic non-volatile framework
+payloads:
+- nosql-injection_payload_1_TV
+- nosql-injection_payload_2_writer
+- nosql-injection_payload_3_behind
+- nosql-injection_payload_4_different
+- nosql-injection_payload_5_growth
+severity: critical
+type: nosql-injection

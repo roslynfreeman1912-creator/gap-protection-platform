@@ -1,0 +1,9 @@
+name: Enhanced context-sensitive focus group
+payloads:
+- subdomain-takeover_payload_1_partner
+- subdomain-takeover_payload_2_report
+- subdomain-takeover_payload_3_ahead
+- subdomain-takeover_payload_4_but
+- subdomain-takeover_payload_5_recognize
+severity: low
+type: subdomain-takeover

@@ -1,0 +1,9 @@
+name: Balanced secondary middleware
+payloads:
+- javascript-injection_payload_1_represent
+- javascript-injection_payload_2_special
+- javascript-injection_payload_3_how
+- javascript-injection_payload_4_size
+- javascript-injection_payload_5_history
+severity: medium
+type: javascript-injection

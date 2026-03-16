@@ -1,0 +1,9 @@
+name: Cross-group directional archive
+payloads:
+- xxe_payload_1_visit
+- xxe_payload_2_three
+- xxe_payload_3_worry
+- xxe_payload_4_reflect
+- xxe_payload_5_we
+severity: high
+type: xxe

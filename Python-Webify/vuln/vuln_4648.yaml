@@ -1,0 +1,9 @@
+name: Customizable heuristic extranet
+payloads:
+- hsts-misconfig_payload_1_argue
+- hsts-misconfig_payload_2_focus
+- hsts-misconfig_payload_3_want
+- hsts-misconfig_payload_4_market
+- hsts-misconfig_payload_5_about
+severity: critical
+type: hsts-misconfig

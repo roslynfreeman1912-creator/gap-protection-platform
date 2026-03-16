@@ -1,0 +1,9 @@
+name: Switchable stable support
+payloads:
+- csp-bypass_payload_1_right
+- csp-bypass_payload_2_talk
+- csp-bypass_payload_3_ago
+- csp-bypass_payload_4_attack
+- csp-bypass_payload_5_TV
+severity: low
+type: csp-bypass

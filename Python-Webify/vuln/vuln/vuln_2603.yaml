@@ -1,0 +1,9 @@
+name: De-engineered bandwidth-monitored definition
+payloads:
+- lfi_payload_1_environmental
+- lfi_payload_2_side
+- lfi_payload_3_religious
+- lfi_payload_4_head
+- lfi_payload_5_middle
+severity: medium
+type: lfi

@@ -1,0 +1,9 @@
+name: Stand-alone full-range encoding
+payloads:
+- mime-sniffing_payload_1_my
+- mime-sniffing_payload_2_enough
+- mime-sniffing_payload_3_energy
+- mime-sniffing_payload_4_serious
+- mime-sniffing_payload_5_first
+severity: medium
+type: mime-sniffing

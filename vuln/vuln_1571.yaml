@@ -1,0 +1,9 @@
+name: Horizontal fault-tolerant methodology
+payloads:
+- mime-sniffing_payload_1_kid
+- mime-sniffing_payload_2_who
+- mime-sniffing_payload_3_foot
+- mime-sniffing_payload_4_tree
+- mime-sniffing_payload_5_I
+severity: low
+type: mime-sniffing

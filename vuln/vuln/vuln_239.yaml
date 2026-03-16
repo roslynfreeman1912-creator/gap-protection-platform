@@ -1,0 +1,9 @@
+name: Cross-group heuristic interface
+payloads:
+- clickjacking_payload_1_operation
+- clickjacking_payload_2_material
+- clickjacking_payload_3_medical
+- clickjacking_payload_4_miss
+- clickjacking_payload_5_federal
+severity: critical
+type: clickjacking

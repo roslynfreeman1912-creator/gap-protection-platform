@@ -1,0 +1,9 @@
+name: Customizable analyzing info-mediaries
+payloads:
+- host-header-injection_payload_1_central
+- host-header-injection_payload_2_until
+- host-header-injection_payload_3_determine
+- host-header-injection_payload_4_former
+- host-header-injection_payload_5_page
+severity: high
+type: host-header-injection

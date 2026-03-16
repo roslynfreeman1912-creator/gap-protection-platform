@@ -1,0 +1,9 @@
+name: Compatible incremental complexity
+payloads:
+- clickjacking_payload_1_third
+- clickjacking_payload_2_hand
+- clickjacking_payload_3_television
+- clickjacking_payload_4_trouble
+- clickjacking_payload_5_thousand
+severity: low
+type: clickjacking

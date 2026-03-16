@@ -1,0 +1,9 @@
+name: Team-oriented clear-thinking Graphical User Interface
+payloads:
+- lfi_payload_1_while
+- lfi_payload_2_manager
+- lfi_payload_3_daughter
+- lfi_payload_4_someone
+- lfi_payload_5_deal
+severity: low
+type: lfi

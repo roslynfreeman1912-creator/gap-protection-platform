@@ -1,0 +1,9 @@
+name: Vision-oriented zero tolerance algorithm
+payloads:
+- rfi_payload_1_ready
+- rfi_payload_2_nor
+- rfi_payload_3_note
+- rfi_payload_4_before
+- rfi_payload_5_show
+severity: low
+type: rfi

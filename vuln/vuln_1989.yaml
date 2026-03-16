@@ -1,0 +1,9 @@
+name: Grass-roots transitional matrix
+payloads:
+- clickjacking_payload_1_knowledge
+- clickjacking_payload_2_wrong
+- clickjacking_payload_3_brother
+- clickjacking_payload_4_hour
+- clickjacking_payload_5_line
+severity: high
+type: clickjacking

@@ -1,0 +1,9 @@
+name: Advanced dedicated project
+payloads:
+- xxe_payload_1_finally
+- xxe_payload_2_their
+- xxe_payload_3_standard
+- xxe_payload_4_give
+- xxe_payload_5_bank
+severity: low
+type: xxe

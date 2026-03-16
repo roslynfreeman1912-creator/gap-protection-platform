@@ -1,0 +1,9 @@
+name: Synergized systematic budgetary management
+payloads:
+- xxe_payload_1_item
+- xxe_payload_2_cell
+- xxe_payload_3_moment
+- xxe_payload_4_authority
+- xxe_payload_5_today
+severity: low
+type: xxe

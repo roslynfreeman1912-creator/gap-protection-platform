@@ -1,0 +1,9 @@
+name: Expanded clear-thinking Graphical User Interface
+payloads:
+- path-traversal_payload_1_born
+- path-traversal_payload_2_room
+- path-traversal_payload_3_general
+- path-traversal_payload_4_executive
+- path-traversal_payload_5_his
+severity: high
+type: path-traversal

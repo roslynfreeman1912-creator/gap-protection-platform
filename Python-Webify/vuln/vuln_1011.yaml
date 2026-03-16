@@ -1,0 +1,9 @@
+name: Stand-alone demand-driven forecast
+payloads:
+- xxe_payload_1_ground
+- xxe_payload_2_show
+- xxe_payload_3_out
+- xxe_payload_4_western
+- xxe_payload_5_truth
+severity: high
+type: xxe

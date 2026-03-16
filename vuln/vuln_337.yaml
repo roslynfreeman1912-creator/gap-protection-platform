@@ -1,0 +1,9 @@
+name: Optional regional function
+payloads:
+- ldap-injection_payload_1_far
+- ldap-injection_payload_2_majority
+- ldap-injection_payload_3_crime
+- ldap-injection_payload_4_learn
+- ldap-injection_payload_5_doctor
+severity: low
+type: ldap-injection

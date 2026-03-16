@@ -1,0 +1,9 @@
+name: Stand-alone dynamic Graphic Interface
+payloads:
+- ldap-injection_payload_1_always
+- ldap-injection_payload_2_positive
+- ldap-injection_payload_3_wrong
+- ldap-injection_payload_4_young
+- ldap-injection_payload_5_life
+severity: critical
+type: ldap-injection
