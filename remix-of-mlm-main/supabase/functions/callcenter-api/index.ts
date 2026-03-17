@@ -66,9 +66,17 @@ serve(async (req) => {
       case 'upsert_lead': {
         const { id, data } = params
         const safe = {
-          call_center_id: data?.call_center_id, first_name: data?.first_name,
-          last_name: data?.last_name, email: data?.email, phone: data?.phone,
-          status: data?.status, notes: data?.notes, assigned_to: data?.assigned_to,
+          call_center_id: data?.call_center_id,
+          assigned_employee_id: data?.assigned_employee_id || null,
+          company_name: data?.company_name,
+          contact_person: data?.contact_person,
+          email: data?.email,
+          phone: data?.phone,
+          domain: data?.domain,
+          status: data?.status || 'new',
+          notes: data?.notes,
+          priority: data?.priority || 0,
+          updated_at: new Date().toISOString(),
         }
         if (id) {
           const { data: result, error } = await supabase.from('leads').update(safe).eq('id', id).select().single()

@@ -58,6 +58,7 @@ export default function CallCenterDashboard() {
   const [createEmpOpen, setCreateEmpOpen] = useState(false);
   const [empForm, setEmpForm] = useState({ first_name: '', last_name: '', email: '', role: 'agent', commission_rate: '0' });
   const [creatingEmp, setCreatingEmp] = useState(false);
+  const [updatingLead, setUpdatingLead] = useState<string | null>(null);
 
   useEffect(() => {
     if (!authLoading && !user) {
@@ -75,7 +76,7 @@ export default function CallCenterDashboard() {
     try {
       const { data: { session } } = await supabase.auth.getSession();
       const params = new URLSearchParams();
-      if (selectedCenterId) params.set('call_center_id', selectedCenterId);
+      if (selectedCenterId && selectedCenterId !== 'all') params.set('call_center_id', selectedCenterId);
       const url = `${import.meta.env.VITE_SUPABASE_URL}/functions/v1/callcenter-dashboard?${params.toString()}`;
       const res = await fetch(url, {
         headers: {
@@ -108,6 +109,30 @@ export default function CallCenterDashboard() {
   const copyCode = (code: string) => {
     navigator.clipboard.writeText(code);
     toast({ title: 'Code kopiert', description: code });
+  };
+
+  const updateLeadStatus = async (leadId: string, newStatus: string) => {
+    setUpdatingLead(leadId);
+    try {
+      const { data: { session } } = await supabase.auth.getSession();
+      const res = await fetch(`${import.meta.env.VITE_SUPABASE_URL}/functions/v1/callcenter-dashboard`, {
+        method: 'POST',
+        headers: {
+          'Authorization': `Bearer ${session?.access_token}`,
+          'apikey': import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY,
+          'Content-Type': 'application/json',
+        },
+        body: JSON.stringify({ action: 'update_lead_status', lead_id: leadId, status: newStatus }),
+      });
+      if (res.ok) {
+        toast({ title: 'Status aktualisiert' });
+        loadDashboard();
+      }
+    } catch (e: any) {
+      toast({ variant: 'destructive', title: 'Fehler', description: e.message });
+    } finally {
+      setUpdatingLead(null);
+    }
   };
 
   const createEmployee = async () => {
@@ -392,6 +417,7 @@ export default function CallCenterDashboard() {
                       <TableHead>Domain</TableHead>
                       <TableHead>Status</TableHead>
                       <TableHead>Priorität</TableHead>
+                      <TableHead>Aktion</TableHead>
                     </TableRow>
                   </TableHeader>
                   <TableBody>
@@ -421,6 +447,22 @@ export default function CallCenterDashboard() {
                           </TableCell>
                           <TableCell>
                             <Badge variant="outline">{lead.priority || 0}</Badge>
+                          </TableCell>
+                          <TableCell>
+                            <Select
+                              value={lead.status}
+                              onValueChange={(v) => updateLeadStatus(lead.id, v)}
+                              disabled={updatingLead === lead.id}
+                            >
+                              <SelectTrigger className="h-7 w-32 text-xs">
+                                <SelectValue />
+                              </SelectTrigger>
+                              <SelectContent>
+                                {Object.entries(LEAD_STATUSES).map(([key, val]) => (
+                                  <SelectItem key={key} value={key} className="text-xs">{val.label}</SelectItem>
+                                ))}
+                              </SelectContent>
+                            </Select>
                           </TableCell>
                         </TableRow>
                       );
