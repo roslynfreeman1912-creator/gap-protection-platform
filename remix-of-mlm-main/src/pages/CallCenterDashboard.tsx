@@ -56,7 +56,11 @@ export default function CallCenterDashboard() {
   const [isLoading, setIsLoading] = useState(true);
   const [selectedCenterId, setSelectedCenterId] = useState<string>('');
   const [createEmpOpen, setCreateEmpOpen] = useState(false);
+  const [empMode, setEmpMode] = useState<'new' | 'existing'>('existing');
   const [empForm, setEmpForm] = useState({ first_name: '', last_name: '', email: '', role: 'agent', commission_rate: '0' });
+  const [existingProfiles, setExistingProfiles] = useState<any[]>([]);
+  const [selectedProfileId, setSelectedProfileId] = useState('');
+  const [profileSearch, setProfileSearch] = useState('');
   const [creatingEmp, setCreatingEmp] = useState(false);
   const [updatingLead, setUpdatingLead] = useState<string | null>(null);
 
@@ -135,20 +139,52 @@ export default function CallCenterDashboard() {
     }
   };
 
+  const loadExistingProfiles = useCallback(async (search: string) => {
+    if (search.length < 2) { setExistingProfiles([]); return; }
+    const { data } = await supabase
+      .from('profiles')
+      .select('id, first_name, last_name, email, partner_number')
+      .or(`first_name.ilike.%${search}%,last_name.ilike.%${search}%,email.ilike.%${search}%,partner_number.ilike.%${search}%`)
+      .limit(20);
+    setExistingProfiles(data || []);
+  }, []);
+
   const createEmployee = async () => {
-    if (!empForm.first_name || !empForm.last_name || !empForm.email) {
-      toast({ variant: 'destructive', title: 'Fehler', description: 'Bitte alle Pflichtfelder ausfüllen' });
-      return;
-    }
     const centerId = selectedCenterId && selectedCenterId !== 'all' ? selectedCenterId : data?.centerInfo?.id;
     if (!centerId) {
       toast({ variant: 'destructive', title: 'Fehler', description: 'Bitte zuerst ein Call Center auswählen' });
       return;
     }
+
+    // Validate based on mode
+    if (empMode === 'existing' && !selectedProfileId) {
+      toast({ variant: 'destructive', title: 'Fehler', description: 'Bitte eine Person auswählen' });
+      return;
+    }
+    if (empMode === 'new' && (!empForm.first_name || !empForm.last_name || !empForm.email)) {
+      toast({ variant: 'destructive', title: 'Fehler', description: 'Bitte alle Pflichtfelder ausfüllen' });
+      return;
+    }
+
     setCreatingEmp(true);
     try {
       const { data: { session } } = await supabase.auth.getSession();
       const url = `${import.meta.env.VITE_SUPABASE_URL}/functions/v1/callcenter-dashboard`;
+      const body: any = {
+        action: 'create_employee',
+        call_center_id: centerId,
+        role: empForm.role,
+        commission_rate: parseFloat(empForm.commission_rate) || 0,
+      };
+
+      if (empMode === 'existing') {
+        body.existing_profile_id = selectedProfileId;
+      } else {
+        body.first_name = empForm.first_name;
+        body.last_name = empForm.last_name;
+        body.email = empForm.email;
+      }
+
       const res = await fetch(url, {
         method: 'POST',
         headers: {
@@ -156,18 +192,22 @@ export default function CallCenterDashboard() {
           'apikey': import.meta.env.VITE_SUPABASE_PUBLISHABLE_KEY,
           'Content-Type': 'application/json',
         },
-        body: JSON.stringify({
-          action: 'create_employee',
-          call_center_id: centerId,
-          ...empForm,
-          commission_rate: parseFloat(empForm.commission_rate) || 0,
-        }),
+        body: JSON.stringify(body),
       });
       const result = await res.json();
       if (!res.ok) throw new Error(result.error || 'Fehler');
-      toast({ title: 'Mitarbeiter angelegt', description: `Temp-Passwort: ${result.tempPassword}` });
+
+      const msg = result.reactivated
+        ? 'Mitarbeiter reaktiviert'
+        : result.tempPassword
+          ? `Neu angelegt — Temp-Passwort: ${result.tempPassword}`
+          : 'Mitarbeiter hinzugefügt';
+      toast({ title: 'Erfolg', description: msg });
       setCreateEmpOpen(false);
       setEmpForm({ first_name: '', last_name: '', email: '', role: 'agent', commission_rate: '0' });
+      setSelectedProfileId('');
+      setProfileSearch('');
+      setExistingProfiles([]);
       loadDashboard();
     } catch (e: any) {
       toast({ variant: 'destructive', title: 'Fehler', description: e.message });
@@ -489,7 +529,10 @@ export default function CallCenterDashboard() {
                     <CardTitle>Mitarbeiter</CardTitle>
                     <CardDescription>Call Center Mitarbeiter und deren Rollen</CardDescription>
                   </div>
-                  <Dialog open={createEmpOpen} onOpenChange={setCreateEmpOpen}>
+                  <Dialog open={createEmpOpen} onOpenChange={(open) => {
+                    setCreateEmpOpen(open);
+                    if (!open) { setSelectedProfileId(''); setProfileSearch(''); setExistingProfiles([]); }
+                  }}>
                     <DialogTrigger asChild>
                       <Button size="sm" className="flex items-center gap-2">
                         <UserPlus className="h-4 w-4" />
@@ -498,23 +541,83 @@ export default function CallCenterDashboard() {
                     </DialogTrigger>
                     <DialogContent>
                       <DialogHeader>
-                        <DialogTitle>Neuen Mitarbeiter anlegen</DialogTitle>
+                        <DialogTitle>Mitarbeiter hinzufügen</DialogTitle>
                       </DialogHeader>
                       <div className="space-y-4 pt-2">
-                        <div className="grid grid-cols-2 gap-3">
-                          <div>
-                            <Label>Vorname *</Label>
-                            <Input value={empForm.first_name} onChange={e => setEmpForm(f => ({ ...f, first_name: e.target.value }))} />
-                          </div>
-                          <div>
-                            <Label>Nachname *</Label>
-                            <Input value={empForm.last_name} onChange={e => setEmpForm(f => ({ ...f, last_name: e.target.value }))} />
-                          </div>
+
+                        {/* Mode Toggle */}
+                        <div className="flex rounded-lg border overflow-hidden">
+                          <button
+                            className={`flex-1 py-2 text-sm font-medium transition-colors ${empMode === 'existing' ? 'bg-primary text-primary-foreground' : 'bg-background hover:bg-muted'}`}
+                            onClick={() => setEmpMode('existing')}
+                          >
+                            Bestehenden User hinzufügen
+                          </button>
+                          <button
+                            className={`flex-1 py-2 text-sm font-medium transition-colors ${empMode === 'new' ? 'bg-primary text-primary-foreground' : 'bg-background hover:bg-muted'}`}
+                            onClick={() => setEmpMode('new')}
+                          >
+                            Neuen User anlegen
+                          </button>
                         </div>
-                        <div>
-                          <Label>E-Mail *</Label>
-                          <Input type="email" value={empForm.email} onChange={e => setEmpForm(f => ({ ...f, email: e.target.value }))} />
-                        </div>
+
+                        {/* Existing user search */}
+                        {empMode === 'existing' && (
+                          <div className="space-y-2">
+                            <Label>Person suchen (Name, E-Mail, Partner-Nr.)</Label>
+                            <Input
+                              placeholder="Mindestens 2 Zeichen eingeben..."
+                              value={profileSearch}
+                              onChange={e => {
+                                setProfileSearch(e.target.value);
+                                loadExistingProfiles(e.target.value);
+                              }}
+                            />
+                            {existingProfiles.length > 0 && (
+                              <div className="border rounded-lg max-h-40 overflow-y-auto">
+                                {existingProfiles.map(p => (
+                                  <button
+                                    key={p.id}
+                                    className={`w-full text-left px-3 py-2 text-sm hover:bg-muted transition-colors ${selectedProfileId === p.id ? 'bg-primary/10 font-medium' : ''}`}
+                                    onClick={() => { setSelectedProfileId(p.id); setProfileSearch(`${p.first_name} ${p.last_name} (${p.email})`); setExistingProfiles([]); }}
+                                  >
+                                    <span className="font-medium">{p.first_name} {p.last_name}</span>
+                                    <span className="text-muted-foreground ml-2">{p.email}</span>
+                                    {p.partner_number && <span className="text-xs text-blue-500 ml-2">#{p.partner_number}</span>}
+                                  </button>
+                                ))}
+                              </div>
+                            )}
+                            {selectedProfileId && (
+                              <p className="text-xs text-green-600">✓ Person ausgewählt</p>
+                            )}
+                          </div>
+                        )}
+
+                        {/* New user form */}
+                        {empMode === 'new' && (
+                          <>
+                            <div className="p-2 bg-yellow-50 border border-yellow-200 rounded text-xs text-yellow-700">
+                              Hinweis: Neue User-Erstellung ist auf 4/Stunde begrenzt (Supabase Free Plan). Nutzen Sie "Bestehenden User hinzufügen" für mehr Mitarbeiter.
+                            </div>
+                            <div className="grid grid-cols-2 gap-3">
+                              <div>
+                                <Label>Vorname *</Label>
+                                <Input value={empForm.first_name} onChange={e => setEmpForm(f => ({ ...f, first_name: e.target.value }))} />
+                              </div>
+                              <div>
+                                <Label>Nachname *</Label>
+                                <Input value={empForm.last_name} onChange={e => setEmpForm(f => ({ ...f, last_name: e.target.value }))} />
+                              </div>
+                            </div>
+                            <div>
+                              <Label>E-Mail *</Label>
+                              <Input type="email" value={empForm.email} onChange={e => setEmpForm(f => ({ ...f, email: e.target.value }))} />
+                            </div>
+                          </>
+                        )}
+
+                        {/* Common fields */}
                         <div className="grid grid-cols-2 gap-3">
                           <div>
                             <Label>Rolle</Label>
@@ -522,8 +625,10 @@ export default function CallCenterDashboard() {
                               <SelectTrigger><SelectValue /></SelectTrigger>
                               <SelectContent>
                                 <SelectItem value="agent">Agent</SelectItem>
-                                <SelectItem value="team_lead">Team Lead</SelectItem>
-                                <SelectItem value="manager">Manager</SelectItem>
+                                <SelectItem value="team_leader">Team Leader</SelectItem>
+                                <SelectItem value="area_manager">Bereichsleiter</SelectItem>
+                                <SelectItem value="regional_director">Regionalleiter</SelectItem>
+                                <SelectItem value="director">Direktor</SelectItem>
                               </SelectContent>
                             </Select>
                           </div>
@@ -532,9 +637,10 @@ export default function CallCenterDashboard() {
                             <Input type="number" min="0" max="100" value={empForm.commission_rate} onChange={e => setEmpForm(f => ({ ...f, commission_rate: e.target.value }))} />
                           </div>
                         </div>
+
                         <Button className="w-full" onClick={createEmployee} disabled={creatingEmp}>
                           {creatingEmp ? <Loader2 className="h-4 w-4 animate-spin mr-2" /> : null}
-                          Mitarbeiter anlegen
+                          Hinzufügen
                         </Button>
                       </div>
                     </DialogContent>

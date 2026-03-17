@@ -28,9 +28,9 @@ serve(async (req) => {
       const action = body.action
 
       if (action === 'create_employee') {
-        const { call_center_id, email, first_name, last_name, role, commission_rate } = body
-        if (!call_center_id || !email || !first_name || !last_name) {
-          return jsonResponse({ error: 'Pflichtfelder fehlen' }, 400, corsHeaders)
+        const { call_center_id, email, first_name, last_name, role, commission_rate, existing_profile_id } = body
+        if (!call_center_id) {
+          return jsonResponse({ error: 'call_center_id erforderlich' }, 400, corsHeaders)
         }
 
         // Verify caller has rights to this CC
@@ -44,26 +44,67 @@ serve(async (req) => {
           if (!ownCenter) return jsonResponse({ error: 'Kein Zugriff auf dieses Call Center' }, 403, corsHeaders)
         }
 
-        const tempPassword = Math.random().toString(36).slice(-8) + 'A1!'
-        const { data: newUser, error: userErr } = await supabase.auth.admin.createUser({
-          email,
-          password: tempPassword,
-          email_confirm: true,
-        })
-        if (userErr) return jsonResponse({ error: userErr.message }, 400, corsHeaders)
+        let targetProfileId: string | null = existing_profile_id || null
+        let tempPassword: string | null = null
 
-        const { data: newProfile, error: profErr } = await supabase
-          .from('profiles')
-          .insert({ user_id: newUser.user.id, first_name, last_name, email, role: 'customer' })
-          .select()
-          .single()
-        if (profErr) return jsonResponse({ error: profErr.message }, 400, corsHeaders)
+        // MODE A: Existing user by profile_id or email
+        if (!targetProfileId && email) {
+          const { data: existingProfile } = await supabase
+            .from('profiles')
+            .select('id')
+            .eq('email', email)
+            .maybeSingle()
+          if (existingProfile) {
+            targetProfileId = existingProfile.id
+          }
+        }
+
+        // MODE B: Create new auth user (only if not found)
+        if (!targetProfileId) {
+          if (!email || !first_name || !last_name) {
+            return jsonResponse({ error: 'Für neue Mitarbeiter: email, first_name, last_name erforderlich' }, 400, corsHeaders)
+          }
+          tempPassword = Math.random().toString(36).slice(-8) + 'A1!'
+          const { data: newUser, error: userErr } = await supabase.auth.admin.createUser({
+            email,
+            password: tempPassword,
+            email_confirm: true,
+          })
+          if (userErr) return jsonResponse({ error: userErr.message }, 400, corsHeaders)
+
+          const { data: newProfile, error: profErr } = await supabase
+            .from('profiles')
+            .insert({ user_id: newUser.user.id, first_name, last_name, email, role: 'customer' })
+            .select()
+            .single()
+          if (profErr) return jsonResponse({ error: profErr.message }, 400, corsHeaders)
+          targetProfileId = newProfile.id
+        }
+
+        // Check if already employee in this CC
+        const { data: existing } = await supabase
+          .from('call_center_employees')
+          .select('id')
+          .eq('call_center_id', call_center_id)
+          .eq('profile_id', targetProfileId)
+          .maybeSingle()
+
+        if (existing) {
+          // Reactivate if inactive
+          const { data: emp } = await supabase
+            .from('call_center_employees')
+            .update({ is_active: true, role: role || 'agent', commission_rate: commission_rate || 0 })
+            .eq('id', existing.id)
+            .select()
+            .single()
+          return jsonResponse({ success: true, employee: emp, reactivated: true }, 200, corsHeaders)
+        }
 
         const { data: emp, error: empErr } = await supabase
           .from('call_center_employees')
           .insert({
             call_center_id,
-            profile_id: newProfile.id,
+            profile_id: targetProfileId,
             role: role || 'agent',
             commission_rate: commission_rate || 0,
             is_active: true,
