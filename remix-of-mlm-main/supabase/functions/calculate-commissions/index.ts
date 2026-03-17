@@ -5,26 +5,21 @@ interface TransactionData {
   transactionId: string
 }
 
-// Rolling 5-Level Sliding Window — commission rates per level (relative to seller)
-// Level 1 = direct sponsor, Level 5 = 5th ancestor (top of window)
-// These are PERCENTAGES of the sale amount (e.g. 10 = 10%)
+// Rolling 5-Level Sliding Window — FIXED EURO AMOUNTS per level
+// Basis: 299 € Vertrag → 100 € Strukturprovision verteilt auf 5 Ebenen
+// Level 1 = 45 €, Level 2 = 20 €, Level 3 = 15 €, Level 4 = 10 €, Level 5 = 10 €
+// Gesamt: 100 € pro Vertrag/Monat
 // Loaded from mlm_settings at runtime; these are fallback defaults
-const DEFAULT_RATES: Record<number, number> = {
-  1: 10, // direct sponsor
-  2: 8,
-  3: 6,
-  4: 4,
-  5: 2,  // top of sliding window
+const DEFAULT_FIXED_AMOUNTS: Record<number, number> = {
+  1: 45, // direkter Sponsor
+  2: 20,
+  3: 15,
+  4: 10,
+  5: 10, // oberstes Fenster
 }
 
-function getPayouts(depth: number, rates: Record<number, number>): number[] {
-  // Return rates for levels 1..min(depth,5)
-  const result: number[] = []
-  for (let i = 1; i <= Math.min(depth, 5); i++) {
-    result.push(rates[i] ?? DEFAULT_RATES[i] ?? 0)
-  }
-  return result
-}
+// One-time bonus for first sale
+const DEFAULT_ONE_TIME_BONUS = 50 // €
 
 serve(async (req) => {
   const corsHeaders = getCorsHeaders(req)
@@ -41,7 +36,7 @@ serve(async (req) => {
     // AUTH: Only admins or service-to-service calls
     const serviceAuth = authenticateServiceCall(req, corsHeaders)
     if (!serviceAuth.ok) {
-      const authResult = await authenticateRequest(req, corsHeaders, { allowedRoles: ['admin', 'super_admin'] })
+      const authResult = await authenticateRequest(req, corsHeaders, { allowedRoles: ['admin', 'super_admin', 'mlm_manager'] })
       if (authResult.response) return authResult.response
     }
 
@@ -51,8 +46,7 @@ serve(async (req) => {
       return jsonResponse({ error: 'Transaction ID erforderlich' }, 400, corsHeaders)
     }
 
-    // H-01 FIX: Atomic lock — mark_commission_processed uses SELECT...FOR UPDATE
-    // Returns true if we got the lock (not yet processed), false if already processed or not found
+    // Atomic lock — prevent double processing
     const { data: lockResult, error: lockError } = await supabase.rpc('mark_commission_processed', {
       p_transaction_id: transactionId,
     })
@@ -66,7 +60,7 @@ serve(async (req) => {
       return jsonResponse({ message: 'Provisionen bereits berechnet', alreadyProcessed: true }, 200, corsHeaders)
     }
 
-    // Get transaction (already locked by the RPC above within its own tx, but we need the data)
+    // Get transaction
     const { data: transaction, error: txError } = await supabase
       .from('transactions')
       .select('*, customer:profiles!customer_id(*)')
@@ -77,19 +71,42 @@ serve(async (req) => {
       return jsonResponse({ error: 'Transaktion nicht gefunden' }, 404, corsHeaders)
     }
 
-    // H-03 FIX: Only calculate commissions for completed transactions
+    // Only calculate commissions for completed transactions
     if (transaction.status !== 'completed') {
       return jsonResponse({
         success: true,
         message: 'Provisionen nur für abgeschlossene Transaktionen',
         commissionsCreated: 0,
         commissions: [],
-        poolContribution: 0,
+        bonusPaid: false,
         skippedReason: 'transaction_not_completed'
       }, 200, corsHeaders)
     }
 
-    // Get customer's ancestors
+    // Load commission settings from mlm_settings
+    const { data: settings } = await supabase
+      .from('mlm_settings')
+      .select('key, value')
+      .in('key', [
+        'commission_rate_level_1', 'commission_rate_level_2', 'commission_rate_level_3',
+        'commission_rate_level_4', 'commission_rate_level_5',
+        'commission_mode', 'one_time_bonus'
+      ])
+
+    const runtimeAmounts: Record<number, number> = { ...DEFAULT_FIXED_AMOUNTS }
+    let commissionMode = 0 // 0 = fixed amount, 1 = percentage
+    let oneTimeBonus = DEFAULT_ONE_TIME_BONUS
+
+    if (settings) {
+      for (const s of settings) {
+        if (s.key === 'commission_mode') { commissionMode = Number(s.value); continue }
+        if (s.key === 'one_time_bonus') { oneTimeBonus = Number(s.value); continue }
+        const level = parseInt(s.key.replace('commission_rate_level_', ''))
+        if (level >= 1 && level <= 5) runtimeAmounts[level] = Number(s.value)
+      }
+    }
+
+    // Get customer's ancestors (sliding window: only is_active_for_commission = true)
     const { data: ancestors, error: hierarchyError } = await supabase
       .from('user_hierarchy')
       .select(`
@@ -109,32 +126,7 @@ serve(async (req) => {
 
     const d = ancestors?.length || 0
 
-    if (d === 0) {
-      return jsonResponse({
-        success: true,
-        commissionsCreated: 0,
-        commissions: [],
-        poolContribution: 0
-      }, 200, corsHeaders)
-    }
-
-    // Load commission rates from mlm_settings (Sliding Window rates)
-    const { data: rateSettings } = await supabase
-      .from('mlm_settings')
-      .select('key, value')
-      .like('key', 'commission_rate_level_%')
-
-    const runtimeRates: Record<number, number> = { ...DEFAULT_RATES }
-    if (rateSettings && rateSettings.length > 0) {
-      for (const s of rateSettings) {
-        const level = parseInt(s.key.replace('commission_rate_level_', ''))
-        if (level >= 1 && level <= 5) {
-          runtimeRates[level] = Number(s.value)
-        }
-      }
-    }
-
-    // Get active commission model (optional, for audit)
+    // Get active commission model
     const { data: model } = await supabase
       .from('commission_models')
       .select('id, name')
@@ -142,54 +134,104 @@ serve(async (req) => {
       .limit(1)
       .maybeSingle()
 
-    // Sliding Window: rates for levels 1..min(d,5) as percentages
-    const payoutRates = getPayouts(d, runtimeRates)
-    // Convert percentages to actual amounts
-    const payouts = payoutRates.map(rate => Math.round((transaction.amount * rate / 100) * 100) / 100)
     const commissionsCreated: any[] = []
-    const maxPayoutPositions = Math.min(payouts.length, d)
 
-    for (let i = 0; i < maxPayoutPositions; i++) {
-      const ancestor = ancestors![i]
-      const commissionAmount = payouts[i]  // actual EUR amount
-      const commissionRate   = payoutRates[i]  // percentage
+    if (d > 0) {
+      const maxLevels = Math.min(d, 5)
 
-      if (!commissionAmount || commissionAmount <= 0) continue
+      for (let i = 0; i < maxLevels; i++) {
+        const ancestor = ancestors![i]
+        const levelNum = ancestor.level_number
 
-      const { data: hasPartnerRole } = await supabase
-        .rpc('has_role', { _user_id: ancestor.ancestor_id, _role: 'partner' })
-      const { data: hasAdminRole } = await supabase
-        .rpc('has_role', { _user_id: ancestor.ancestor_id, _role: 'admin' })
+        // Calculate commission amount
+        let commissionAmount: number
+        if (commissionMode === 1) {
+          // Percentage mode: amount = transaction.amount * rate / 100
+          commissionAmount = Math.round((transaction.amount * runtimeAmounts[levelNum] / 100) * 100) / 100
+        } else {
+          // Fixed amount mode: use fixed euro amounts (45/20/15/10/10)
+          commissionAmount = runtimeAmounts[levelNum] ?? 0
+        }
 
-      if (!hasPartnerRole && !hasAdminRole) continue
+        if (!commissionAmount || commissionAmount <= 0) continue
 
-      const { data: commission, error: commError } = await supabase
-        .from('commissions')
-        .insert({
-          transaction_id: transactionId,
-          partner_id: ancestor.ancestor_id,
-          model_id: model?.id || null,
-          level_number: ancestor.level_number,
-          commission_type: 'percentage',
-          base_amount: transaction.amount,
-          commission_amount: commissionAmount,  // EUR amount
-          status: 'pending',
-        })
-        .select()
-        .single()
+        // Check role eligibility (partner, admin, mlm_manager, verkaufsleiter, agent)
+        const eligibleRoles = ['partner', 'admin', 'super_admin', 'mlm_manager', 'verkaufsleiter', 'agent']
+        let hasEligibleRole = false
+        for (const role of eligibleRoles) {
+          const { data } = await supabase.rpc('has_role', { _user_id: ancestor.ancestor_id, _role: role })
+          if (data) { hasEligibleRole = true; break }
+        }
 
-      if (!commError && commission) {
-        commissionsCreated.push({
-          partnerId: ancestor.ancestor_id,
-          level: ancestor.level_number,
-          rate: commissionRate,
-          amount: commissionAmount,
-        })
+        if (!hasEligibleRole) continue
+
+        const { data: commission, error: commError } = await supabase
+          .from('commissions')
+          .insert({
+            transaction_id: transactionId,
+            partner_id: ancestor.ancestor_id,
+            model_id: model?.id || null,
+            level_number: levelNum,
+            commission_type: commissionMode === 1 ? 'percentage' : 'fixed',
+            base_amount: transaction.amount,
+            commission_amount: commissionAmount,
+            status: 'pending',
+          })
+          .select()
+          .single()
+
+        if (!commError && commission) {
+          commissionsCreated.push({
+            partnerId: ancestor.ancestor_id,
+            level: levelNum,
+            amount: commissionAmount,
+            type: commissionMode === 1 ? 'percentage' : 'fixed',
+          })
+        }
       }
     }
 
-    const totalPaid = payouts.slice(0, maxPayoutPositions).reduce((s, v) => s + (v || 0), 0)
-    const poolContribution = 0  // Sliding Window: no pool, all goes to upline
+    // ONE-TIME BONUS: 50 € für den direkten Sponsor beim ersten Verkauf
+    let bonusPaid = false
+    let bonusRecipientId: string | null = null
+
+    if (d > 0 && oneTimeBonus > 0) {
+      const directSponsor = ancestors![0] // Level 1 = direkter Sponsor
+
+      // Prüfen ob erster Verkauf des Sponsors
+      const { data: isFirst } = await supabase.rpc('is_first_sale', {
+        p_partner_id: directSponsor.ancestor_id
+      })
+
+      if (isFirst) {
+        // Bonus eintragen
+        const { error: bonusError } = await supabase
+          .from('first_sale_bonuses')
+          .insert({
+            partner_id: directSponsor.ancestor_id,
+            transaction_id: transactionId,
+            bonus_amount: oneTimeBonus,
+            status: 'pending',
+          })
+
+        if (!bonusError) {
+          bonusPaid = true
+          bonusRecipientId = directSponsor.ancestor_id
+
+          // Auch als Commission eintragen (Typ: one_time_bonus)
+          await supabase.from('commissions').insert({
+            transaction_id: transactionId,
+            partner_id: directSponsor.ancestor_id,
+            model_id: model?.id || null,
+            level_number: 0, // 0 = Bonus (kein Level)
+            commission_type: 'one_time_bonus',
+            base_amount: transaction.amount,
+            commission_amount: oneTimeBonus,
+            status: 'pending',
+          })
+        }
+      }
+    }
 
     // Audit log
     await supabase.from('audit_log').insert({
@@ -200,8 +242,9 @@ serve(async (req) => {
         depth: d,
         commissionsCount: commissionsCreated.length,
         totalAmount: commissionsCreated.reduce((sum: number, c: any) => sum + c.amount, 0),
-        poolContribution,
-        matrix: 'sliding-window'
+        bonusPaid,
+        bonusAmount: bonusPaid ? oneTimeBonus : 0,
+        matrix: 'sliding-window-fixed-45-20-15-10-10',
       },
     })
 
@@ -210,7 +253,9 @@ serve(async (req) => {
       depth: d,
       commissionsCreated: commissionsCreated.length,
       commissions: commissionsCreated,
-      poolContribution
+      bonusPaid,
+      bonusRecipientId,
+      bonusAmount: bonusPaid ? oneTimeBonus : 0,
     }, 200, corsHeaders)
 
   } catch (error) {

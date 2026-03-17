@@ -27,6 +27,7 @@ const MLMDashboard = lazy(() => import("./pages/MLMDashboard"));
 const Portal = lazy(() => import("./pages/Portal"));
 const CRMDashboard = lazy(() => import("./pages/CRMDashboard"));
 const BrokerDashboard = lazy(() => import("./pages/BrokerDashboard"));
+const MLMManagerDashboard = lazy(() => import("./pages/MLMManagerDashboard"));
 const AIChatWidget = lazy(() => import("@/components/chat/AIChatWidget").then(m => ({ default: m.AIChatButton })));
 
 const queryClient = new QueryClient();
@@ -87,6 +88,11 @@ const App = () => (
               <Route path="/broker" element={
                 <ProtectedRoute requiredRoles={['cc_broker', 'admin', 'super_admin']}>
                   <BrokerDashboard />
+                </ProtectedRoute>
+              } />
+              <Route path="/mlm-manager" element={
+                <ProtectedRoute requiredRoles={['mlm_manager', 'admin', 'super_admin']}>
+                  <MLMManagerDashboard />
                 </ProtectedRoute>
               } />
               {/* MLM has its own login gate (MLMLoginScreen) — ProtectedRoute would redirect to /auth and break its custom flow */}
